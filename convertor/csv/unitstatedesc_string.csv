@@ -1,0 +1,47 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+10,坚守,堅守,Defense,防衛,수비
+11,仅会对自身射程内的目标发动攻击，不会移动。,僅會對自身射程內的目標發動攻擊，不會移動。,Remains stationary and only attacks targets within range.,移動せずに、自身の射程内にいるターゲットだけを攻撃する。,이동하지 않고 사정 거리 속의 목표에게만 공격을 진행합니다.
+20,指定进攻,指定進攻,Designated Attack,指定進撃,지정 공격
+21,会优先向指定目标单位移动并发动进攻。,會優先向指定目標單位移動併發動進攻。,Prioritizes movement towards the designated target unit and initiates an attack.,指定した目標ユニットに優先的に向かい、進撃を行います。,지정한 표적 유닛으로 우선적으로 이동하고 공격을 개시합니다.
+30,指定移动,指定移動,Designated Movement,指定移動,지정 이동
+31,会优先向指定目标地点移动。,會優先向指定目標地點移動。,Prioritizes movement to the designated target location.,指定した目標地点に優先的に向かいます。,지정 목표 지점으로 우선 이동합니다.
+40,进攻,進攻,Attack,進撃,공격
+41,会主动向敌方单位移动并发动攻击。,會主動向敵方單位移動並發動攻擊。,Actively moves towards enemy units and initiates an attack.,味方ユニットに向かって移動し、攻撃を行う。,적극적으로 아군 유닛을 향해 이동하며 공격합니다.
+50,搜寻,搜尋,Search,捜索,수색
+51,会前往最后发现敌方单位或异常情况的区域搜索目标。,會前往最後發現敵方單位或異常情況的區域搜索目標。,Moves toward and searches for targets in the last detected area where an enemy unit or anomaly was located.,最後に敵ユニットを見かけた、もしくは異常情況の見られるエリアでターゲットを捜索する。,마지막으로 적 유닛을 발견했거나 이상 상황 구역으로 이동하여 목표를 수색합니다.
+60,警戒,警戒,Alert,警戒,경계
+61,已完成搜寻，原地警戒。,已完成搜尋，原地警戒。,Stands guard in position after completing their search.,捜索を終えて、その場で警戒している。,"수색을 완료했습니다, 원위치에서 경계합니다."
+70,巡逻,巡邏,Patrol,巡察,순찰
+71,按照固定路线进行移动巡视。,按照固定路線進行移動巡視。,Patrols along a fixed route.,固定のルートにもとづき、巡回を行う。,고정된 노선을 따라 이동하며 주위를 살핍니다.
+80,待命,待命,Standby,待機,대기
+81,无敌方单位进入自身移动射程内时，不会主动出击。,無敵方單位進入自身移動射程內時，不會主動出擊。,Does not initiate an attack when no enemy units enter its movement range.,敵対ユニットが自身の移動射程内にいない場合は、攻撃を行わない。,적 유닛이 이동 공격 범위 속에 들어오지 않으면 적극적으로 진격하지 않습니다.
+100,坚守攻击,堅守攻擊,Active Defense,防衛攻撃,방어 공격
+101,已发现自身射程内的敌方单位，会原地对目标发动攻击。,已發現自身射程內的敵方單位，會原地對目標發動攻擊。,Attacks from their current position after spotting enemy units within range.,自身の射程内に敵ユニットを発見し、その場から動かずに攻撃を行う。,"자신의 사정거리 내의 적을 발견했습니다, 원위치에서 목표를 향해 공격을 진행합니다."
+110,吸引,吸引,Lured,引き寄せ,유인
+111,已被声波吸引到，会持续靠近声源。,已被聲波吸引到，會持續靠近聲源。,Will continuously approach the sound source after being lured by sound waves.,低周波音に引き寄せられ、音源に接近し続ける。,이미 음파에 유인되어 지속해서 소리의 근원에 접근합니다.
+120,阅读,閱讀,Reading,閲読,읽기
+121,已被书籍内容迷惑住，认真地阅读中。,已被書籍內容迷惑住，認真地閱讀中。,Fascinated by the contents of the book and is eagerly pursuing it.,本の内容に夢中になり、食い入るように読んでいる。,이미 서적 안 내용에 빠져 열심히 읽고 있습니다.
+130,指定搜寻,指定搜尋,Designated Search,指定捜索,지정 수색
+131,会前往最后发现指定目标的区域搜索。,會前往最後發現指定目標的區域搜索。,Moves toward and searches for targets in the last detected area.,最後に指定ターゲットを発見した区域で捜索する。,마지막에 발견한 지정 목표 구역으로 수색합니다.
+140,指定警戒,指定警戒,Designated Search,指定警戒,지정 경계
+141,已完成搜寻，原地警戒。,已完成搜尋，原地警戒。,Stands guard in position after completing their search.,捜索を終え、警戒を続ける。,"수색을 완료했습니다, 원위치에서 경계합니다."
+8010,休息,休息,Rest,休憩,휴식
+8011,稍事休息，不参与战斗，也不能被攻击。,稍事休息，不參與戰鬥，也不能被攻擊。,Taking a short rest. Does not engage in combat and cannot be attacked.,ひと休み。戦闘に加わらず、攻撃も受けない。,"휴식을 취하고, 전투에 참여하지 않으며, 공격을 받을 수 없습니다."
+8020,休息,休息,Rest,休憩,휴식
+8021,稍事休息，不参与战斗，也不能被攻击。,稍事休息，不參與戰鬥，也不能被攻擊。,Taking a short rest. Does not engage in combat and cannot be attacked.,ひと休み。戦闘に加わらず、攻撃も受けない。,"휴식을 취하고, 전투에 참여하지 않으며, 공격을 받을 수 없습니다."
+8030,休息,休息,Rest,休憩,휴식
+8031,稍事休息，不参与战斗，也不能被攻击。,稍事休息，不參與戰鬥，也不能被攻擊。,Taking a short rest. Does not engage in combat and cannot be attacked.,ひと休み。戦闘に加わらず、攻撃も受けない。,"휴식을 취하고, 전투에 참여하지 않으며, 공격을 받을 수 없습니다."
+8040,休息,休息,Rest,休憩,휴식
+8041,稍事休息，不参与战斗，也不能被攻击。,稍事休息，不參與戰鬥，也不能被攻擊。,Taking a short rest. Does not engage in combat and cannot be attacked.,ひと休み。戦闘に加わらず、攻撃も受けない。,"휴식을 취하고, 전투에 참여하지 않으며, 공격을 받을 수 없습니다."
+8050,休息,休息,Rest,休憩,휴식
+8051,稍事休息，不参与战斗，也不能被攻击。,稍事休息，不參與戰鬥，也不能被攻擊。,Taking a short rest. Does not engage in combat and cannot be attacked.,ひと休み。戦闘に加わらず、攻撃も受けない。,"휴식을 취하고, 전투에 참여하지 않으며, 공격을 받을 수 없습니다."
+8060,休息,休息,Rest,休憩,휴식
+8061,稍事休息，不参与战斗，也不能被攻击。,稍事休息，不參與戰鬥，也不能被攻擊。,Taking a short rest. Does not engage in combat and cannot be attacked.,ひと休み。戦闘に加わらず、攻撃も受けない。,"휴식을 취하고, 전투에 참여하지 않으며, 공격을 받을 수 없습니다."
+8070,休息,休息,Rest,休憩,휴식
+8071,稍事休息，不参与战斗，也不能被攻击。,稍事休息，不參與戰鬥，也不能被攻擊。,Taking a short rest. Does not engage in combat and cannot be attacked.,ひと休み。戦闘に加わらず、攻撃も受けない。,"휴식을 취하고, 전투에 참여하지 않으며, 공격을 받을 수 없습니다."
+8080,休息,休息,Rest,休憩,휴식
+8081,稍事休息，不参与战斗，也不能被攻击。,稍事休息，不參與戰鬥，也不能被攻擊。,Taking a short rest. Does not engage in combat and cannot be attacked.,ひと休み。戦闘に加わらず、攻撃も受けない。,"휴식을 취하고, 전투에 참여하지 않으며, 공격을 받을 수 없습니다."
+8090,休息,休息,Rest,休憩,휴식
+8091,稍事休息，不参与战斗，也不能被攻击。,稍事休息，不參與戰鬥，也不能被攻擊。,Taking a short rest. Does not engage in combat and cannot be attacked.,ひと休み。戦闘に加わらず、攻撃も受けない。,"휴식을 취하고, 전투에 참여하지 않으며, 공격을 받을 수 없습니다."
+10000,爆炸物,爆炸物,Explosive,爆発物,폭발물
+10001,不会移动和攻击，被击破时会发生爆炸。,不會移動和攻擊，被擊破時會發生爆炸。,Does not move or attack. It will explode when destroyed.,移動も攻撃も行わず、撃破されると爆発する。,이동하거나 공격하지 않고 격파될 때 폭발이 일어납니다.

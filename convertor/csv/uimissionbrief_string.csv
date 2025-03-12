@@ -1,0 +1,6 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_or,或,或,or,又,혹은
+text_extramission,额外目标,額外目標,Bonus Objectives,サブターゲット,추가 목표
+text_failmission,失败条件,失敗條件,Failure Conditions,失敗条件,실패 조건
+text_or_fail,或,或,or,又,선택
+text_confirm,确定,確定,Confirm,決定,확인

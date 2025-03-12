@@ -1,0 +1,11 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_win_title,任务完成,任務完成,Missions Completed,任務完了,미션 완성
+text_desc_1,击败普通单位,擊敗普通單位,Normal Units Defeated,倒した通常ユニット,일반 유닛 격패
+text_desc_2,击败精英单位,擊敗精英單位,Elite Units Defeated,倒した精鋭ユニット,정예 유닛 격패
+text_desc_3,击败头目,擊敗頭目,Bosses Defeated,倒したボス,보스 격패
+text_desc_4,剩余道具,剩餘道具,Items Left,残りのアイテム,잔여 아이템
+text_desc_5,生存回合,生存回合,Turns Survived,生き残ったターン,생존 라운드
+text_static_totalscore,积分,積分,Points,ポイント,포인트
+text_win_chapter,第五章终幕,第五章終幕,Chapter 5 - Final Stage,第5章 終幕,제 5장 마지막
+text_desc_6,完成额外任务,完成額外任務,Complete Side Mission,追加作戦完了,추가 임무 완성
+text_leave,返回整备,返回整備,Back to Preparation,準備画面へ戻る,정비하기

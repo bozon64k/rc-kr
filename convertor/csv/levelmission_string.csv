@@ -1,0 +1,630 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+10000010,蒙德到达指定地点,蒙德到達指定地點,Mendo reaches the specified position,モンドが指定地点に到達,멘도가 지정 지점에 도착
+10000020,击败指定敌方单位,擊敗指定敵方單位,Defeat the specified enemy units,指定された敵ユニットを倒す,지정된 적 유닛 처치
+10000030,击败指定敌方单位,擊敗指定敵方單位,Defeat the specified enemy units,指定された敵ユニットを倒す,지정된 적 유닛 처치
+10000040,蒙德或卡尔进入垂危状态,蒙德或卡爾進入垂危狀態,Mendo or Carl enters Critical Condition,モンドまたはカールが瀕死状態になる,멘도 혹은 칼이 빈사 상태에 진입
+1010010010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+1010010020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+1010011010,12回合内达成胜利目标,12回合內達成勝利目標,Achieve the Victory Objective within 12 turns,12ターン以内にメイン目標を達成,12턴 내에 승리 목표 달성
+1010011020,我方无人进入垂危状态,我方無人進入垂危狀態,All allied units enter Critical Condition at most once,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+1010011030,击败8个敌方单位,擊敗8個敵方單位,Defeat 8 enemy units,敵ユニットを8体撃破,적군 유닛 8명 격패
+10010010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+10010020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터가 빈사 상태에 돌입
+10011010,10回合内达成胜利目标,10回合內達成勝利目標,Achieve the Victory Objective within 10 turns,10ターン以内にメイン目標を達成,10턴 내로 승리 목표 달성
+10011020,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+10011030,击败9个敌方单位,擊敗9個敵方單位,Defeat 9 enemy units,敵ユニットを9体撃破,9명의 적군 유닛 처치
+1010020010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+1010020020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+1010122010,12回合内达成胜利目标,12回合內達成勝利目標,Achieve the Victory Objective within 12 turns,12ターン以内にメイン目標を達成,12턴 내에 승리 목표 달성
+1010122020,我方单位未暴露,我方單位未暴露,Allied units are not Exposed,味方ユニットが発見されない,아군 유닛 노출되지 않음
+1010122030,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+10020010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+10020020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+10122010,10回合内达成胜利目标,10回合內達成勝利目標,Achieve the Victory Objective within 10 turns,10ターン以内にメイン目標を達成,10턴 내로 승리 목표 달성
+10122020,我方单位未暴露,我方單位未暴露,Allied units are not Exposed,味方ユニットが発見されない,아군 유닛 노출되지 않음
+10122030,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+1010030010,获取过桥密码,獲取過橋密碼,Obtain the passcode for crossing the bridge,橋のパスワードを入手,다리 통과 암호 획득
+1010030020,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+1010030030,击败大桥右方的全部敌方单位,擊敗大橋右方的全部敵方單位,Defeat all enemy units to the right of the bridge,橋右側にいる全ての敵ユニットを撃破,다리 우측의 모든 적군 유닛 격패
+1010030040,我方任意单位暴露,我方任意單位暴露,Any allied unit is Exposed,味方ユニットが発見される,랜덤 아군 유닛 노출
+1010030050,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+1010133010,神秘少女受到的伤害累计不超过30,神秘少女受到的傷害累計不超過30,The Mysterious Girl takes no more than 30 damage,謎の少女の累計被ダメージが30を超えない,수수께끼의 소녀 누적 데미지가 30을 넘지 않음
+1010133020,我方全体角色在4回合内到达指定地点,我方全體角色在4回合內到達指定地點,All allied units reach the specified position within 4 turns,味方全員が4ターン以内に指定地点に到達,아군 전체 캐릭터 4턴 내에 지정된 장소 도착
+1010133030,使用武器站击败2个敌方单位,使用武器站擊敗2個敵方單位,Defeat 2 enemy units using a turret,タレットで敵ユニットを2体撃破,RCWS으로 적군 유닛 2명 격패
+10030010,获取过桥密码,取得過橋密碼,Obtain the passcode for crossing the bridge,橋のパスワードを入手,다리 통과 암호 획득
+10030020,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터가 지정 지점에 도착
+10030030,击败大桥右方的全部敌方单位,擊敗大橋右方的全部敵方單位,Defeat all enemy units to the right of the bridge,橋の右側にいる敵ユニットを殲滅,대교 우측의 모든 적 유닛 처치
+10030040,我方任意单位暴露,我方任意單位暴露,Any allied unit is Exposed,味方ユニットが発見される,아군 임의 유닛 노출
+10030050,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터가 빈사 상태에 돌입
+10133010,神秘少女受到的伤害累计不超过25,神秘少女受到的傷害累計不超過25,The Mysterious Girl takes no more than 25 damage,謎の少女の累計被ダメージが25を超えない,수수께끼의 소녀가 입은 누적 피해량 25 이하
+10133020,我方全体角色在3回合内到达指定地点,我方全體角色在3回合內到達指定地點,All allied units reach the specified position within 3 turns,味方全員が3ターン以内に指定地点に到達,아군 전체 캐릭터가 3턴 내로 지정 지점에 도착
+10133030,使用武器站击败2个敌方单位,使用武器站擊敗2個敵方單位,Defeat 2 enemy units using a turret,タレットで敵ユニットを2体撃破,RCWS로 적 유닛 2명 처치
+3010030010,获取过桥密码,取得過橋密碼,Obtain the passcode for crossing the bridge,橋のパスワードを入手,다리 통과 암호 획득
+3010030020,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터가 지정 지점에 도착
+3010030030,击败大桥右方的全部敌方单位,擊敗大橋右方的全部敵方單位,Defeat all enemy units to the right of the bridge,橋の右側にいる敵ユニットを殲滅,대교 우측의 모든 적 유닛 처치
+3010030040,我方任意单位暴露（包括器械）,我方任意單位暴露（包括器械）,Any allied unit is Exposed (including Equipment),味方ユニットが発見される（機械を含む）,아군 유닛 노출(기계형 유닛 포함)
+3010030050,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터가 빈사 상태에 돌입
+3010133010,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+3010133020,我方全体角色在3回合内到达指定地点,我方全體角色在3回合內到達指定地點,All allied units reach the specified position within 3 turns,味方全員が3ターン以内に指定地点に到達,아군 전체 캐릭터가 3턴 내로 지정 지점에 도착
+3010133030,使用武器站击败2个敌方单位,使用武器站擊敗2個敵方單位,Defeat 2 enemy units using a turret,タレットで敵ユニットを2体撃破,RCWS로 적 유닛 2명 처치
+1010040010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,全ての敵ユニットを殲滅,모든 적군 유닛 격패
+1010040020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+1011044010,15回合内达成胜利目标,15回合內達成勝利目標,Achieve the Victory Objective within 15 turns,15ターン以内にメイン目標を達成,15턴 내에 승리 목표 달성
+1011044020,我方角色最多2次进入垂危状态,我方角色最多2次進入垂危狀態,All allied units enter Critical Condition at most 2 times,味方が瀕死状態になる回数が2回を超えない,아군 캐릭터 최대 2회 빈사 상태 진입
+1011044030,利用爆炸物的爆炸击败至少4个敌方单位,利用爆炸物的爆炸擊敗至少4個敵方單位,Use Explosives to blow up at least 4 enemy units,爆発物を使用して敵ユニットを4体以上撃破,폭발물 폭발로 적군 유닛 최소 4명 격패
+10040010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,全ての敵ユニットを殲滅,모든 적 유닛 처치
+10040020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터가 빈사 상태에 돌입
+11044010,12回合内达成胜利目标,12回合內達成勝利目標,Achieve the Victory Objective within 12 turns,12ターン以内にメイン目標を達成,12턴 내로 승리 목표 달성
+11044020,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+11044030,利用爆炸物的爆炸击败至少5个敌方单位,利用爆炸物的爆炸擊敗至少5個敵方單位,Use Explosives to blow up at least 5 enemy units,爆発物を使用して敵ユニットを5体以上撃破,폭발물의 폭발을 이용하여 최소 5명의 적 유닛을 처치
+1010060010,蒙德到达指定地点,蒙德到達指定地點,Mendo reaches the specified position,モンドが指定地点に到達,멘도 지정 지점 도착
+1010060020,蒙德进入垂危状态,蒙德進入垂危狀態,Mendo enters Critical Condition,モンドが瀕死状態になる,멘도 빈사 상태 진입
+1010166010,我方放置的侦察道具未暴露,我方放置的偵察道具未暴露,Scanning devices deployed by allied units are not Exposed,味方の設置した偵察アイテムが発見されない,아군이 배치한 정찰 도구가 노출되지 않음
+1010166020,12回合内达成胜利目标,12回合內達成勝利目標,Achieve the Victory Objective within 12 turns,12ターン以内にメイン目標を達成,12턴 내에 승리 목표 달성
+1010166030,蒙德未暴露,蒙德未暴露,Mendo is not Exposed,モンドが発見されない,멘도가 노출되지 않음
+10060010,蒙德到达指定地点,蒙德到達指定地點,Mendo reaches the specified position,モンドが指定地点に到達,멘도가 지정 지점에 도착
+10060020,蒙德进入垂危状态,蒙德進入垂危狀態,Mendo enters Critical Condition,モンドが瀕死状態になる,멘도가 빈사 상태에 돌입
+10166010,我方放置的侦察道具未暴露,我方放置的偵察道具未暴露,Scanning devices deployed by allied units are not Exposed,味方の設置した偵察アイテムが発見されない,아군이 설치한 탐지 장치가 노출되지 않음
+10166020,10回合内达成胜利目标,10回合內達成勝利目標,Achieve the Victory Objective within 10 turns,10ターン以内にメイン目標を達成,10턴 내로 승리 목표 달성
+10166030,蒙德未暴露,蒙德未暴露,Mendo is not Exposed,モンドが発見されない,멘도가 노출되지 않음
+1010080010,生存至第7回合开始,生存至第7回合開始,Survive until the beginning of Turn 7,7ターン目開始時まで生き残る,7번째 턴이 시작될 때까지 생존
+1010080020,击败山崖下的指定敌方单位,擊敗山崖下的指定敵方單位,Defeat all enemy units below the cliff,崖下の指定された敵ユニットを撃破,절벽 아래 지정된 적 유닛 처지
+1010080030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+1011088010,我方角色最多2次进入垂危状态,我方角色最多2次進入垂危狀態,All allied units enter Critical Condition at most 2 times,味方が瀕死状態になる回数が2回を超えない,아군 캐릭터 최대 2회 빈사 상태 진입
+1011088020,击败16个敌方单位,擊敗16個敵方單位,Defeat 16 enemies,敵ユニットを16体撃破,적군 유닛 16명 격패
+1011088030,4回合内击败山崖下的指定敌方单位,4回合內擊敗山崖下的指定敵方單位,Defeat the specified enemy units below the cliff within 4 turns,4ターン以内に、崖下の指定された敵ユニットを撃破,4턴 내로 절벽 아래 지정된 적 유닛 격패
+1020160320,4回合内击败山崖下的指定敌方单位,4回合內擊敗山崖下的指定敵方單位,Defeat the specified enemy units below the cliff within 4 turns,4ターン以内に、崖下の指定された敵ユニットを撃破,4턴 내로 절벽 아래 지정된 적 유닛 격패
+10080010,生存至第7回合开始,生存至第7回合開始,Survive until the beginning of Turn 7,7ターン目開始時まで生き残る,7번째 턴이 시작할 때까지 생존
+10080020,击败山崖下的指定敌方单位,擊敗山崖下的指定敵方單位,Defeat specified enemy units below the cliff,崖下の指定された敵ユニットを撃破,절벽 아래 지정된 적군 유닛 처치
+10080030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터가 빈사 상태에 돌입
+11088010,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+11088020,击败20个敌方单位,擊敗20個敵方單位,Defeat 20 enemy units,敵ユニットを20体撃破,20명의 적군 유닛 처치
+11088030,3回合内击败山崖下的指定敌方单位,3回合內擊敗山崖下的指定敵方單位,Defeat the specified enemy units below the cliff within 3 turns,3ターン以内に、崖下の指定された敵ユニットを撃破,3턴 내로 절벽 아래 지정된 적 유닛 격패
+20160320,3回合内击败山崖下的指定敌方单位,3回合內擊敗山崖下的指定敵方單位,Defeat the specified enemy units below the cliff within 3 turns,3ターン以内に、崖下の指定された敵ユニットを撃破,3턴 내로 절벽 아래 지정된 적 유닛 격패
+1020030010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+1020030020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+1022033010,18回合内达成胜利目标,18回合內達成勝利目標,Achieve the Victory Objective within 18 turns,18ターン以内にメイン目標を達成,18턴 내에 승리 목표 달성
+1022033020,我方角色被狙击兵命中不超过2次,我方角色被狙擊兵命中不超過2次,Snipers hit allied units no more than 2 times,味方ユニットが狙撃兵に撃たれる回数が2回を超えない,저격병 아군 캐릭터 최대 2회 명중 가능
+1022033030,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+20030010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터가 지정 지점에 도착
+20030020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 돌입
+22033010,15回合内达成胜利目标,15回合內達成勝利目標,Achieve the Victory Objective within 15 turns,15ターン以内にメイン目標を達成,15턴 내로 승리 목표 달성
+22033020,我方角色未被狙击兵命中,我方角色未被狙擊兵命中,Snipers did not hit allied units,味方ユニットが狙撃兵に撃たれない,저격병은 아군에게 명중하지 않음
+22033030,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+1020040010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+1020040020,难民车被摧毁,難民車被摧毀,Refugee Transport is destroyed,難民車が破壊される,난민차가 파괴되었다
+1020044010,难民车受到的伤害累计不超过60,難民車受到的傷害累計不超過60,Refugee Transport takes less than 60 damage,難民車の累計被ダメージが60を超えない,난민 수송차의 누적 데미지는 60을 넘지 않음
+1020044020,贝蒂和阿比盖尔累计击败12个敌方单位,貝蒂和阿比蓋爾累計擊敗12個敵方單位,Betty and Abigail defeat a total of 12 enemy units,ベティとアビゲイルが敵ユニットを累計12体撃破,베티와 아비가일이 누적 12명의 적군 유닛을 해치웠다.
+1020044030,5回合内击败艾弗,5回合內擊敗艾弗,Defeat Ivor within 5 turns,5ターン以内にアイフを撃破,5턴 내로 아이브 격패
+20040010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 처치
+20040020,难民车被摧毁,難民車被摧毀,Refugee Transport is destroyed,難民車が破壊される,난민차량이 파괴되었다
+20044010,难民车受到的伤害累计不超过50,難民車受到的傷害累計不超過50,Refugee Transport takes less than 50 damage,難民車の累計被ダメージが50を超えない,난민차량이 입은 데미지는 50 이내이다
+20044020,贝蒂和阿比盖尔累计击败15个敌方单位,貝蒂和阿比蓋爾累計擊敗15個敵方單位,Betty and Abigail defeat a total of 15 enemy units,ベティとアビゲイルが敵ユニットを累計15体撃破,베티와 아비가일이 누적 15명의 적군 유닛을 해치웠다.
+20044030,4回合内击败艾弗,4回合內擊敗艾弗,Defeat Ivor within 4 turns,4ターン以内にアイフを撃破,4턴 내로 아이브 격패
+1020050010,我方任意角色到达指定地点,我方任意角色到達指定地點,Any allied unit reaches the specified position,任意の味方ユニットが指定地点に到達,아군 임의 캐릭터 지정 지점 도착
+1020050020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+1020255010,13回合内达成胜利目标,13回合內達成勝利目標,Achieve the Victory Objective within 13 turns,13ターン以内にメイン目標を達成,13턴 내에 승리 목표 달성
+1020255020,我方角色最多2次进入垂危状态,我方角色最多2次進入垂危狀態,All allied units enter Critical Condition at most 2 times,味方が瀕死状態になる回数が2回を超えない,아군 캐릭터 최대 2회 빈사 상태 진입
+1020255030,最多触发7次敌方绊雷,最多觸發7次敵方絆雷,Trigger enemy trip mines at most 7 times,敵のトラップの発動回数が7回を超えない,적군 부비트랩 최대 7회 발동
+20050010,我方任意角色到达指定地点,我方任意角色到達指定地點,Any allied unit reaches the specified position,任意の味方ユニットが指定地点に到達,아군 임의 캐릭터 지정 지점 도착
+20050020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 돌입
+20255010,11回合内达成胜利目标,11回合內達成勝利目標,Achieve the Victory Objective within 11 turns,11ターン以内にメイン目標を達成,11턴 내로 승리 목표 달성
+20255020,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+20255030,最多触发6次敌方绊雷,最多觸發6次敵方絆雷,Trigger enemy trip mines at most 6 times,敵のトラップの発動回数が6回を超えない,적군 부비트랩 최대 6회 발동
+1020060010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+1020060020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+1020066010,22回合内达成胜利目标,22回合內達成勝利目標,Achieve the Victory Objective within 22 turns,22ターン以内にメイン目標を達成,22턴 내에 승리 목표 달성
+1020066020,我方角色被狙击兵命中不超过2次,我方角色被狙擊兵命中不超過2次,Snipers hit allied units no more than 2 times,味方ユニットが狙撃兵に撃たれる回数が2回を超えない,저격병 아군 캐릭터 최대 2회 명중 가능
+1020066030,最多放置15次侦察道具,最多放置15次偵察道具,Place scanning devices at most 15 times,偵察アイテムの設置回数が15回を超えない,정찰 아이템 최대 15회 배치
+20060010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적 유닛 처치
+20060020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 돌입
+20066010,18回合内达成胜利目标,18回合內達成勝利目標,Achieve the Victory Objective within 18 turns,18ターン以内にメイン目標を達成,18턴 내로 승리 목표 달성
+20066020,我方角色未被狙击兵命中,我方角色未被狙擊兵命中,Snipers did not hit allied units,味方ユニットが狙撃兵に撃たれない,저격병은 아군에게 명중하지 않음
+20066030,最多放置10次侦察道具,最多放置10次偵察道具,Place scanning devices at most 10 times,偵察アイテムの設置回数が10回を超えない,정찰 아이템 최대 10회 배치
+20070010,生存至第14回合开始,生存至第14回合開始,Survive until the beginning of Turn 14,14ターン目開始時まで生き残る,14번째 턴이 시작될 때까지 생존
+20070020,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+20070030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+20077010,洁芙缇未进入垂危状态,潔芙緹未進入垂危狀態,Jefuty does not enter Critical Condition,ジェフティが瀕死状態にならない,제퓨티가 빈사 상태에 진입하지 않음
+20077020,击败75个敌方单位,擊敗75個敵方單位,Defeat 75 enemy units,敵ユニットを75体撃破,적군 유닛 75명 격패
+20077030,使用遥控炸弹同时炸到3个敌方单位,使用遙控炸彈同時炸到3個敵方單位,Use RC Bomb to blow up at least 3 enemy units at the same time,リモート爆弾で敵ユニット3体を同時に爆破,원격 제어 폭탄으로 동시에 3명의 적군 유닛 폭파
+1020070010,生存至第14回合开始,生存至第14回合開始,Survive until the beginning of Turn 14,14ターン目開始時まで生き残る,14번째 턴이 시작될 때까지 생존
+1020070020,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+1020070030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+1020077010,洁芙缇未进入垂危状态,潔芙緹未進入垂危狀態,Jefuty does not enter Critical Condition,ジェフティが瀕死状態にならない,제퓨티가 빈사 상태에 진입하지 않음
+1020077020,击败65个敌方单位,擊敗65個敵方單位,Defeat 65 enemy units,敵ユニットを65体撃破,적군 유닛 65명 격패
+1020077030,使用遥控炸弹同时炸到3个敌方单位,使用遙控炸彈同時炸到3個敵方單位,Use RC Bomb to blow up at least 3 enemy units at the same time,リモート爆弾で敵ユニット3体を同時に爆破,원격 제어 폭탄으로 동시에 3명의 적군 유닛 폭파
+20080010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+20080050,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+20088010,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+20088020,最多使用15次催眠针,最多使用15次催眠針,Use Hypnotic Syringe at most 15 times,麻酔針の使用回数が15回を超えない,최면침 최대 15번 사용 가능
+20088030,最多放置15次侦察道具,最多放置15次偵察道具,Place scanning devices at most 15 times,偵察アイテムの設置回数が15回を超えない,정찰 아이템 최대 15회 배치
+3020080010,我方全体角色到达指定地点,我方全體角色到達指定地點,All friendly units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+3020080050,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All friendly units are in critical condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+3020088010,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+3020088020,最多使用25次催眠针,最多使用25次催眠針,Use Hypnotic Syringe at most 25 times,麻酔針の使用回数が25回を超えない,최면침 최대 25번 사용 가능
+3020088030,最多放置15次侦察道具,最多放置15次偵察道具,Place at most 15 Scanning Devices,偵察アイテムの設置回数が15回を超えない,정찰 아이템 최대 15회 배치
+20100010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+20100020,击败黎格？,擊敗黎格？,Defeat Lige?,リゲル？を撃破,리겔？ 격패
+20100030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+22110010,我方角色最多2次进入垂危状态,我方角色最多2次進入垂危狀態,All allied units enter Critical Condition at most 2 times,味方が瀕死状態になる回数が2回を超えない,아군 캐릭터 최대 2회 빈사 상태 진입
+22110020,利用昙花地形对敌方单位累计造成1000点伤害,利用曇花地形對敵方單位累計造成1000點傷害,Deal a total of 1000 damage to enemy units using the Epiphyllum terrain,エピフィラム地形を利用して合計1000ダメージを与える,우담화 지형으로 적군 유닛에게 1000포인트 데미지 누적
+22110030,3回合内将黎格？的血量压制到200以下,3回合內將黎格？的血量壓制到200以下,Reduce Lige?'s HP to below 200 within 3 turns,3ターン以内にリゲル？のHPを200以下に減らす,3턴 내에 리겔?의 HP를 200 이하로 떨어뜨리기
+22110040,将黎格？的血量压制到200以下,將黎格？的血量壓制到200以下,Reduce Lige?'s HP to below 200,リゲル？のHPを200以下に減らす,리겔? 의 HP를 200 이하로 떨어뜨리기
+20120010,蒙德背洁芙缇到达指定地点,蒙德背潔芙緹到達指定地點,Mendo carries Jefuty to the specified position,モンドがジェフティを背負って指定地点に到達,멘도가 제퓨티를 업고 지정 위치 도착
+20120020,背着洁芙缇的蒙德暴露,背著潔芙緹的蒙德暴露,Mendo is Exposed while carrying Jefuty,ジェフティを背負ったモンドが発見される,제퓨티를 업은 멘도 발각
+22132010,50回合内达成胜利目标,50回合內達成勝利目標,Achieve the Victory Objective within 50 turns,50ターン以内にメイン目標を達成,50턴 내에 승리 목표 달성
+22132020,踩坏8块脆弱冰面,踩壞8塊脆弱冰面,Break 8 Thin Ice spaces by stepping on them,もろい氷を8つ踏み割る,8개의 부서지기 쉬운 얼음 깨부수기
+22132030,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+20140010,我方全体角色分别到达各自的指定地点,我方全體角色分別到達各自的指定地點,All allied units reach their respective specified positions,味方全員がそれぞれの指定地点に到達,아군 전체 캐릭터는 각각 지정된 지점에 도착
+20140020,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+20140030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方の全ユニットを瀕死状態にする。,아군 전체 캐릭터 빈사 상태 진입
+22154010,30回合内达成胜利目标,30回合內達成勝利目標,Achieve the Victory Objective within 30 turns,30ターン以内にメイン目標を達成,30턴 내에 승리 목표 달성
+22154020,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+22154030,最多使用15次催眠针,最多使用15次催眠針,Use Soporific Dart at most 15 times,麻酔針の使用回数が15回を超えない,최면침 최대 15번 사용 가능
+30000110,安德森进入垂危状态,安德森進入垂危狀態,Anderson enters Critical Condition,アンダーソンが瀕死状態になる,앤더슨 빈사 상태 진입
+30000120,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+30000130,洁芙缇进入垂危状态,潔芙緹進入垂危狀態,Jefuty enters Critical Condition,ジェフティが瀕死状態になる,제퓨티 빈사 상태 진입
+30000010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+30000020,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+30000030,击破“斯瓦罗格”重型坦克,擊破“斯瓦羅格”重型坦克,"Defeat ""Svarog"" Heavy Tank",重戦車「スヴァローグ」を破壊,‘스와로그’헤비형 탱크 격패
+30300010,利用遥控炸弹同时击败至少3个敌方单位,利用遙控炸彈同時擊敗至少3個敵方單位,Use RC Bomb to blow up at least 3 enemy units at the same time,リモート爆弾で敵ユニット3体を同時に撃破,원격 제어 폭탄으로 적어도 3명의 적군 유닛 동시에 격패
+30300020,洁芙缇受到的伤害累计不超过80,潔芙緹受到的傷害累計不超過80,Jefuty takes less than 80 damage,ジェフティの累計被ダメージが80を超えない,제퓨티가 입은 데미지 누적 80 이내
+30300030,洁芙缇、安德森和黎格未进入垂危状态,潔芙緹、安德森和黎格未進入垂危狀態,"Jefuty, Anderson and Lige do not enter Critical Condition",ジェフティ、アンダーソン、リゲルが瀕死状態にならない,"제퓨티, 앤더슨과 리겔은 빈사 상태 미진입"
+30090010,我方任意角色到达指定地点,我方任意角色到達指定地點,Any allied unit reaches the specified position,いずれかの味方ユニットが指定地点に到達,아군 임의 캐릭터 지정 지점 도착
+30090020,启动所有管理室开关,啟動所有管理室開關,Activate all control room switches,全ての管理室のスイッチを起動する,모든 관리실 스위치 켜기
+30090030,我方任意角色进入垂危状态,我方任意角色進入垂危狀態,Any allied unit enters Critical Condition,味方ユニットが瀕死状態になる,아군 임의의 캐릭터 빈사 상태 진입
+30090040,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+30399010,30回合内达成胜利目标,30回合內達成勝利目標,Achieve the Victory Objective within 30 turns,30ターン以内にメイン目標を達成,30턴 내에 승리 목표 달성
+30399020,使用燃烧弹点燃变异菌菇击败3个感染者,使用燃燒彈點燃變異菌菇擊敗3個感染者,Use Incendiary Grenades to ignite Mutated Mushrooms and defeat 3 infected individuals,焼夷弾で変異キノコに火を付け、感染者を3体撃破,연소탄으로 돌연변이 버섯에 불을 붙이고 감염자 3명 격패
+30399030,最多使用20次低频驱动仪,最多使用20次低頻驅動儀,Use Low-Frequency Acoustic Generator at most 20 times,低周波駆動装置の使用回数が20回を超えない,저주파 드라이버 최대 20회 사용
+30100010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+30100020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+33110010,我方角色未被感染者命中,我方角色未被感染者命中,Infected Individuals did not hit allied units,味方ユニットが感染者に攻撃されない,감염자는 아군에게 명중하지 않음
+33110020,击败2个伯劳分裂素体,擊敗2個伯勞分裂素體,Defeat 2 Shrike Mitotic Specimens,シュライク分裂素体を2体撃破,2개의 슈라이크 분열 소체 격패
+33110030,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+30110010,击败50个罗联单位,擊敗50個羅聯單位,Defeat 50 URNC units,ロ連ユニットを50体撃破,50개 루련 유닛 격패
+30110020,破坏隔离大门,破壞隔離大門,Destroy Quarantine Zone's Gate,隔離エリアのメインゲートを破壊,격리 대문 파괴
+30110030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+33121010,我方角色未使用普通攻击,我方角色未使用普通攻擊,Allied units don't use Normal Attack,通常攻撃を使用しない,아군 캐릭터 일반 공격 사용하지 않음
+33121020,击败悬崖上增援的精英狙击兵,擊敗懸崖上增援的精英狙擊兵,Defeat the Elite Sniper reinforcement on the cliff,崖の上にいる増援の精鋭狙撃兵を撃破,절벽 위로 지원 온 정예 저격병 격패
+33121040,超级异变者兰布达未被击败,超級異變者蘭布達未被擊敗,Super Mutant Lambda is not defeated,スーパーミュータント・ラムダが最後まで生存,슈퍼변이자 라부다가 격패되지 않음
+30160010,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+30160020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+33176010,22回合内达成胜利目标,22回合內達成勝利目標,Achieve the Victory Objective within 22 turns,22ターン以内にメイン目標を達成,22턴 내에 승리 목표 달성
+33176020,敌方单位剩余数量不超过6个（原桥梁左侧除外）,敵方單位剩餘數量不超過6個（原橋樑左側除外）,Less than 6 enemies remain (enemies on the left side of the bridge do not count),敵ユニット残り6体以下（元橋左側のを除く）,적군 유닛 잔여 수량은 6개 초과하지 않음(기존 다리 좌측 제외)
+33176030,击破1辆“斯瓦罗格”重型坦克,擊破1輛“斯瓦羅格”重型坦克,"Defeat one ""Svarog"" Heavy Tank",重戦車「スヴァローグ」を1台破壊,‘스와로그’헤비형 탱크 1대 격파
+30120010,设置6颗C-4炸弹,設置6顆C-4炸彈,Set up 6 C-4 Bombs,C-4爆弾を6つ設置,C-4폭탄 6개 설치 
+30120020,找到实验室IC卡,找到實驗室IC卡,Find the Laboratory IC Card,実験室のICカードを見つける,실험실 IC카드 찾기
+30120030,我方任意角色到达指定地点,我方任意角色到達指定地點,Any allied unit reaches the specified position,いずれかの味方ユニットが指定地点に到達,아군 임의 캐릭터 지정 지점 도착
+30120040,卡尔暴露,卡爾暴露,Carl is Exposed,カールが発見される,칼 노출
+30120050,蒙德和洁芙缇处于垂危状态,蒙德和潔芙緹處於垂危狀態,Mendo and Jefuty are in Critical Condition,ジェフティとモンドが瀕死状態になる,멘도와 제퓨티 빈사 상태 진입
+33132010,设置所有C-4炸弹,設置所有C-4炸彈,Set up all C-4 Bombs,全てのC-4爆弾を設置,모든 C-4폭탄 설치
+33132020,25回合内达成胜利目标,25回合內達成勝利目標,Achieve the Victory Objective within 25 turns,25ターン以内にメイン目標を達成,25턴 내에 승리 목표 달성
+33132030,最多使用10次催眠针,最多使用10次催眠針,Use Soporific Dart at most 10 times,麻酔針の使用回数が10回を超えない,최면침 최대 10번 사용 가능
+30150010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+30150020,将奥列格的血量压制到4800以下,將奧列格的血量壓制到4800以下,"Bring Oleg's HP down to below 3,000",オレグのHPを4800以下に減らす,올레그의 HP를 4800이하로 낮추기
+30150030,阿特娜进入垂危状态,阿特娜進入垂危狀態,Atena enters Critical Condition,アテナが瀕死状態になる,아테나 빈사 상태 진입
+33165010,我方全体角色在20回合内到达指定地点,我方全體角色在20回合內到達指定地點,All allied units reach the specified position within 20 turns,味方全員が20ターン以内に指定地点に到達,아군 전체 캐릭터 20턴 내에 지정된 장소 도착
+33165020,洁芙缇和阿特娜受到的伤害合计不超过500,潔芙緹和阿特娜受到的傷害合計不超過500,Jefuty and Atena take no more than 500 damage,ジェフティとアテナの累計被ダメージが500を超えない,제퓨티와 아테나가 입은 데미지 합계가 500을 초과하지 않음
+33165030,击败所有特种兵-鬼骷,擊敗所有特種兵-鬼骷,Defeat all Special Forces – Skull,全ての特殊兵-ドクロを撃破,모든 특수 병사-유령 해골을 격패
+30170010,击败基里尔,擊敗基裏爾,Defeat Kirill,キリルを倒す,키릴 격패
+30170020,击破“戴伯格”战争要塞,擊破“戴伯格”戰爭要塞,"Defeat ""Diberg"" Battle Fortress",ウォーフォート「ダジボーグ」を破壊,‘디버그’ 전쟁 요새 격패
+30170030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+33187010,最多触发5次敌方绊雷,最多觸發5次敵方絆雷,Trigger enemy trip mines at most 5 times,敵のトラップの発動回数が5回を超えない,적군 부비트랩 최대 5회 발동
+33187020,7回合内将基里尔的血量压制到500以下,7回合內將基裏爾的血量壓制到500以下,Bring Kirill's HP down to below 500 within 7 turns,7ターン以内にキリルのHPを500以下に減らす,7턴 내에 키릴의 HP를 500 이하로 낮추기
+60340210,将基里尔血量压制到500以下,將基裏爾血量壓制到500以下,Bring Kirill's HP down to below 500,キリルのHPを500以下に減らす,키릴의 HP를 500 이하로 낮추기
+33187030,击败所有“亚利洛”战斗列车,擊敗所有“亞利洛”戰鬥列車,"Defeat all ""Jarilo"" Combat Trains",武装列車「ヤリーロ」を全て破壊,모든 ‘야릴로’ 전투 열차 격패
+30180010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+30180020,击败伯劳β,擊敗伯勞β,Defeat β Shrike,シュライクβを倒す,슈라이크β 격패
+30180030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+33198010,20回合内达成胜利目标,20回合內達成勝利目標,Achieve the Victory Objective within 20 turns,20ターン以内にメイン目標を達成,20턴 내에 승리 목표 달성
+33198020,洁芙缇和蒙德未被特质“血液爆裂”击中,潔芙緹和蒙德未被特質“血液爆裂”擊中,"Jefuty and Mendo are not hit by ""Blood Burst"" Trait",ジェフティとモンドが特質「血液爆発」を受けない,제퓨티와 멘도가 특성 ‘혈액 폭발’에 명중
+33198030,使用普通攻击单次对伯劳β造成的伤害超过3000,使用普通攻擊單次對伯勞β造成的傷害超過3000,"Normal Attack deals more than 3,000 damage to β Shrike in a single hit",1回の通常攻撃でシュライクβに3000以上のダメージを与える,일반 공격 유닛으로 슈라이크β에 입히는 데미지 3000 초과
+40000010,洁芙缇到达地图左侧指定地点,潔芙緹到達地圖左側指定地點,Jefuty reaches the specified position on the left side of the map,ジェフティがマップ左側の指定地点に到達,제퓨티 지도 좌측 지정 지점에 도착
+40000020,洁芙缇到达地图右侧指定地点,潔芙緹到達地圖右側指定地點,Jefuty reaches the specified position on the right side of the map,ジェフティがマップ右側の指定地点に到達,제퓨티 지도 우측 지정 지점에 도착
+40000030,洁芙缇进入垂危状态,潔芙緹進入垂危狀態,Jefuty enters Critical Condition,ジェフティが瀕死状態になる,제퓨티 빈사 상태 진입
+44000010,8回合内达成胜利目标,8回合內達成勝利目標,Achieve the Victory Objective within 8 turns,8ターン以内にメイン目標を達成,8턴 내에 승리 목표 달성
+44000020,洁芙缇受到的伤害累计不超过70,潔芙緹受到的傷害累計不超過70,Jefuty takes less than 70 damage,ジェフティの累計被ダメージが70を超えない,제퓨티가 입은 데미지 누적 70 이내
+44000030,击败6个敌方单位,擊敗6個敵方單位,Defeat 6 enemy units,敵ユニットを6体撃破,적군 유닛 6명 격패
+1040000010,洁芙缇到达地图左侧指定地点,潔芙緹到達地圖左側指定地點,Jefuty reaches the specified position on the left side of the map,ジェフティがマップ左側の指定地点に到達,제퓨티 지도 좌측 지정 지점에 도착
+1040000020,洁芙缇到达地图右侧指定地点,潔芙緹到達地圖右側指定地點,Jefuty reaches the specified position on the right side of the map,ジェフティがマップ右側の指定地点に到達,제퓨티 지도 우측 지정 지점에 도착
+1040000030,洁芙缇进入垂危状态,潔芙緹進入垂危狀態,Jefuty enters Critical Condition,ジェフティが瀕死状態になる,제퓨티 빈사 상태 진입
+1044000010,8回合内达成胜利目标,8回合內達成勝利目標,Achieve the Victory Objective within 8 turns,8ターン以内にメイン目標を達成,8턴 내에 승리 목표 달성
+1044000020,洁芙缇受到的伤害累计不超过80,潔芙緹受到的傷害累計不超過80,Jefuty takes less than 80 damage,ジェフティの累計被ダメージが80を超えない,제퓨티가 입은 데미지 누적 80 이내
+1044000030,击败5个敌方单位,擊敗5個敵方單位,Defeat 5 enemy units,敵ユニットを5体撃破,적군 유닛 5명 격패
+40010010,我方全体角色到达地图左侧指定地点,我方全體角色到達地圖左側指定地點,All allied units reach the specified position on the left side of the map,味方全員がマップ左側の指定地点に到達,아군 전체 캐릭터 지도 좌측 지정 지점 도착
+40010020,我方全体角色到达地图右侧指定地点,我方全體角色到達地圖右側指定地點,All allied units reach the specified position on the right side of the map,味方全員がマップ右側の指定地点に到達,아군 전체 캐릭터 지도 우측 지정 지점 도착
+40010030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44011010,7回合内达成胜利目标,7回合內達成勝利目標,Achieve the Victory Objective within 7 turns,7ターン以内にメイン目標を達成,7턴 내에 승리 목표 달성
+44011020,洁芙缇未受到伤害,潔芙緹未受到傷害,Jefuty does not take any damage,ジェフティがダメージを受けない,제퓨티 데미지 입지 않음
+44011030,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+40020010,洁芙缇接近蒙德,潔芙緹接近蒙德,Jefuty reaches Mendo,ジェフティがモンドに接近する,제퓨티가 멘도에게 접근
+40020020,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+40020030,蒙德或洁芙缇进入垂危状态,蒙德或潔芙緹進入垂危狀態,Mendo or Jefuty enters Critical Condition,モンドまたはジェフティが瀕死状態になる,멘도 또는 제퓨티가 빈사 상태 진입
+40020040,蒙德或洁芙缇进入垂危状态,蒙德或潔芙緹進入垂危狀態,Mendo or Jefuty enters Critical Condition,モンドまたはジェフティが瀕死状態になる,멘도 또는 제퓨티가 빈사 상태 진입
+44022010,蒙德受到的伤害累计不超过200,蒙德受到的傷害累計不超過200,Mendo takes less than 200 damage,モンドの累計被ダメージが200を超えない,멘도가 입은 데미지 200 이내
+44022020,洁芙缇在接近蒙德前未暴露,潔芙緹在接近蒙德前未暴露,Jefuty is not Exposed before reaching Mendo,ジェフティがモンドに接近するまで発見されない,제퓨티가 멘도에게 접근하기 전에 노출되지 않음
+44022030,蒙德击败9个敌方单位,蒙德擊敗9個敵方單位,Mendo defeats 9 enemy units,モンドが敵ユニットを9体撃破,멘도가 9개의 적군 유닛 격패
+40030010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+40030020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44033010,3回合内击败10个敌方单位,3回合內擊敗10個敵方單位,Defeat 10 enemy units within 3 turns,3ターン以内に敵ユニットを10体撃破,3턴 내에 10개의 적군 유닛 격패
+80060100,击败10个敌方单位（400301附属）,擊敗10個敵方單位（400301附屬）,Defeat 10 enemy units (400301),敵ユニットを10体撃破（400301付属）,10개 적군 유닛 격패(400301부속)
+44033020,洁芙缇受到的伤害累计不超过90,潔芙緹受到的傷害累計不超過90,Jefuty takes less than 90 damage,ジェフティの累計被ダメージが90を超えない,제퓨티가 입은 데미지 누적 90 이내
+44033030,2回合内击破“斯瓦罗格”重型坦克,2回合內擊破“斯瓦羅格”重型坦克,"Defeat ""Svarog"" Heavy Tank within 2 turns",2ターン以内に重戦車「スヴァローグ」を破壊,2턴 내에 ‘스와로그’헤비형 탱크 격패
+80060300,击破“斯瓦罗格”重型坦克（400303附属）,擊破“斯瓦羅格”重型坦克（400303附屬）,"Defeat ""Svarog"" Heavy Tank (400303)",重戦車「スヴァローグ」を破壊（400303付属）,‘스와로그’헤비형 탱크 격패 (400303부속)
+40040010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+40040020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44044010,10回合内达成胜利目标,10回合內達成勝利目標,Achieve the Victory Objective within 10 turns,10ターン以内にメイン目標を達成,10턴 내에 승리 목표 달성
+44044020,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+44044030,利用催泪弹对敌方单位造成至少400点伤害,利用催淚彈對敵方單位造成至少400點傷害,Use Tear Gas Grenade to deal at least 400 damage to enemy units,催涙弾で400以上のダメージを与える,최루탄으로 적군 유닛에 최소 400 데미지를 입힘
+40050010,我方全体角色未暴露且到达指定地点,我方全體角色未暴露且到達指定地點,All allied units reach the designated location unexposed,味方全員が発見されないまま指定された場所に到着する,아군 전체 캐릭터 노출되지 않는 상태에 지정 지점에 도착
+40050020,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+40050030,击败20个敌方单位,擊敗20個敵方單位,Defeat 20 enemy units,敵ユニットを20体撃破,적군 유닛 20명 격패
+40050040,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破する。,모든 적군 유닛 격패
+40050050,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+40050060,我方任意单位暴露（包括器械）,我方任意單位暴露（包括器械）,Any allied unit is Exposed (including Equipment),味方ユニットが発見される（機械を含む）,아군 유닛 노출(기계형 유닛 포함)
+44055010,10回合内达成第一阶段目标,10回合內達成第一階段目標,Achieve the first phase's objective within 10 turns,10ターン以内に第1段階目標を達成,10턴 내에 첫 번째 목표 달성
+80100110,10回合内达成第一阶段目标（子任务）,,,,
+44055020,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+44055030,最多使用8次催眠针,最多使用8次催眠針,Use Soporific Dart at most 8 times,麻酔針の使用回数が8回を超えない,최면침 최대 8번 사용 가능
+40060010,击败黎格,擊敗黎格,Defeat Lige,リゲルを倒す,리겔 격패
+40060020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44066010,12回合内达成胜利目标,12回合內達成勝利目標,Achieve the Victory Objective within 12 turns,12ターン以内にメイン目標を達成,12턴 내에 승리 목표 달성
+44066020,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+44066030,利用昙花地形对敌方单位累计造成300点伤害,利用曇花地形對敵方單位累計造成300點傷害,Deal a total of 300 damage to enemy units using the Epiphyllum terrain,エピフィラム地形を利用して合計300ダメージを与える,우담화 지형으로 적군 유닛에게 300포인트 데미지 누적
+40070010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+40070020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44077010,30回合内达成胜利目标,30回合內達成勝利目標,Achieve the Victory Objective within 30 turns,30ターン以内にメイン目標を達成,30턴 내에 승리 목표 달성
+44077020,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+44077030,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+40080010,洁芙缇到达指定地点,潔芙緹到達指定地點,Jefuty reaches the specified position,ジェフティが指定地点に到達,제퓨티 지정 지점 도착
+40080020,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+40080030,洁芙缇进入垂危状态,潔芙緹進入垂危狀態,Jefuty enters Critical Condition,ジェフティが瀕死状態になる,제퓨티 빈사 상태 진입
+44088010,9回合内达成胜利目标,9回合內達成勝利目標,Achieve the Victory Objective within 9 turns,9ターン以内にメイン目標を達成,9턴 내에 승리 목표 달성
+44088020,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+44088030,我方角色未被狙击兵命中,我方角色未被狙擊兵命中,Snipers did not hit allied units,味方ユニットが狙撃兵に撃たれない,저격병은 아군에게 명중하지 않음
+40090010,洁芙缇到达指定地点,潔芙緹到達指定地點,Jefuty reaches the specified position,ジェフティが指定地点に到達,제퓨티 지정 지점 도착
+40090020,在蒙德未垂危的情况下击败所有敌人,在蒙德未垂危的情況下擊敗所有敵人,Defeat all enemy units while Mendo is not in Critical Condition,モンドが瀕死状態にならずに全ての敵を倒す,멘도가 빈사 상태에 빠지지 않은 상황에서 모든 적군 격패
+40090030,在蒙德未垂危的情况下击败所有敌人,在蒙德未垂危的情況下擊敗所有敵人,Defeat all enemy units while Mendo is not in Critical Condition,モンドが瀕死状態にならずに全ての敵を倒す,멘도가 빈사 상태에 빠지지 않은 상황에서 모든 적군 격패
+40090040,洁芙缇进入垂危状态,潔芙緹進入垂危狀態,Jefuty enters Critical Condition,ジェフティが瀕死状態になる,제퓨티 빈사 상태 진입
+44099010,洁芙缇受到的伤害累计不超过100,潔芙緹受到的傷害累計不超過100,Jefuty takes less than 100 damage,ジェフティの累計被ダメージが100を超えない,제퓨티가 입은 데미지 누적 100 이내
+44099020,击败20个敌方单位,擊敗20個敵方單位,Defeat 20 enemy units,敵ユニットを20体撃破,적군 유닛 20명 격패
+44099030,蒙德受到的伤害累计不超过200,蒙德受到的傷害累計不超過200,Mendo takes less than 200 points of damage,ジェフティの累計被ダメージが200を超えない,멘도가 입은 데미지 200 이내
+40100010,击败伯劳分裂素体,擊敗伯勞分裂素體,Defeat the Shrike Mitotic Specimen,シュライク分裂素体を撃破,슈라이크 분열 소체 격패
+40100020,洁芙缇进入垂危状态,潔芙緹進入垂危狀態,Jefuty enters Critical Condition,ジェフティが瀕死状態になる,제퓨티 빈사 상태 진입
+44110010,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+44110020,4回合内达成胜利目标,4回合內達成勝利目標,Achieve the Victory Objective within 4 turns,4ターン以内にメイン目標を達成,4턴 내에 승리 목표 달성
+44110030,击败4个敌方单位,擊敗4個敵方單位,Defeat 4 enemy units,敵ユニットを4体撃破,적군 유닛 4명 격패
+40110010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+40110020,我方任意角色进入垂危状态,我方任意角色進入垂危狀態,Any allied unit enters Critical Condition,味方ユニットが瀕死状態になる,아군 임의의 캐릭터 빈사 상태 진입
+40110030,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+44121010,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+44121020,18回合内达成胜利目标,18回合內達成勝利目標,Achieve the Victory Objective within 18 turns,18ターン以内にメイン目標を達成,18턴 내에 승리 목표 달성
+44121030,最多使用9次低频驱动仪,最多使用9次低頻驅動儀,Use Low-Frequency Acoustic Generator at most 9 times,低周波駆動装置の使用回数が9回を超えない,저주파 드라이버 최대 9회 사용
+40120010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+40120020,击败黎格,擊敗黎格,Defeat Lige,リゲルを倒す,리겔 격패
+40120030,破坏隔离大门,破壞隔離大門,Destroy Quarantine Zone's Gate,隔離エリアのメインゲートを破壊,격리 대문 파괴
+40120040,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44132010,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+44132020,击败50个罗联单位,擊敗50個羅聯單位,Defeat 50 URNC units,ロ連ユニットを50体撃破,50개 루련 유닛 격패
+44132030,击败2个伯劳分裂素体,擊敗2個伯勞分裂素體,Defeat 2 Shrike Mitotic Specimens,シュライク分裂素体を2体撃破,2개의 슈라이크 분열 소체 격패
+40130010,设置5颗C-4炸弹,設置5顆C-4炸彈,Set up 5 C-4 Bombs,C-4爆弾を5つ設置,C-4폭탄 5개 설치
+40130020,我方任意角色到达地图右上方的指定地点,我方任意角色到達地圖右上方的指定地點,Any allied unit reaches the designated location in the upper right corner of the map.,いずれかの味方ユニットがマップ右上の指定地点に到達,아군 임의 캐릭터가 맵 우측 상단의 지정 지점에 도착
+40130030,我方全体角色到达地图上方的指定地点,我方全體角色到達地圖上方的指定地點,All allied units reach the designated location at the top of the map.,味方全員がマップ上方の指定地点に到達,아군 전체 캐릭터가 맵 상단의 지정 지점에 도착
+40130040,卡尔暴露,卡爾暴露,Carl is Exposed,カールが発見される,칼 노출
+40130050,蒙德和洁芙缇处于垂危状态,蒙德和潔芙緹處於垂危狀態,Mendo and Jefuty are in Critical Condition,ジェフティとモンドが瀕死状態になる,멘도와 제퓨티 빈사 상태 진입
+44143010,设置所有C-4炸弹,設置所有C-4炸彈,Set up all C-4 Bombs,全てのC-4爆弾を設置,모든 C-4폭탄 설치
+44143020,15回合内达成胜利目标,15回合內達成勝利目標,Achieve the Victory Objective within 15 turns,15ターン以内にメイン目標を達成,15턴 내에 승리 목표 달성
+44143030,最多使用20次催眠针,最多使用20次催眠針,Use Soporific Dart at most 20 times,麻酔針の使用回数が20回を超えない,최면침 최대 20번 사용 가능
+40140010,洁芙缇在100回合内到达1楼的电梯井,潔芙緹在100回合內到達1樓的電梯井,Jefuty reaches the Elevator Shaft within 100 turns,ジェフティが100ターン以内に1階のシャフトに到達,제퓨티가 100턴 내에 1층 엘리베이터 샤프트 도착
+40140020,复合任务，不显示（到达电梯井）,複合任務，不顯示（到達電梯井）,"Combined mission, do not display (reach Elevator Shaft)",複合任務、非表示（シャフトに到達）,"복합 임무, 나타내지 않음(엘리베이터 샤프트에 도착)"
+40140030,洁芙缇暴露,潔芙緹暴露,Jefuty is Exposed,ジェフティが発見される,제퓨티 노출
+40140040,洁芙缇在100回合内没有到达1楼的电梯井,潔芙緹在100回合內沒有到達1樓的電梯井,Jefuty does not reach the Elevator Shaft within 100 turns,ジェフティが100ターン以内に1階のシャフトに到達しない,제퓨티가 100턴 내에 1층의 엘리베이터 샤프트에 도착하지 못함
+44154010,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+44154020,95回合内达成胜利目标,95回合內達成勝利目標,Achieve the victory objective(s) within 95 turns,95ターン以内にメイン目標を達成,95턴 내에 승리 목표 달성
+44154030,最多扔出3次漫画书,最多扔出3次漫畫書,Show comic books at most 3 times,漫画本を投げる回数が3回を超えない,만화책 최대 3번 던지기
+40150010,击败伯劳β和白糖,擊敗伯勞β和白糖,Defeat β Shrike and Sugar,シュライクβとシュガーを倒す,슈라이크β와 설탕 격패
+40150020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44165010,12回合内达成胜利目标,12回合內達成勝利目標,Achieve the Victory Objective within 12 turns,12ターン以内にメイン目標を達成,12턴 내에 승리 목표 달성
+44165020,我方角色未被红全息的技能“FF00自爆”击中,我方角色未被紅全息的技能“FF00自爆”擊中,"No allied units are hit by Sugar (Red Hologram)'s ""FF00 Self-Destruct"" skill",味方ユニットが赤ホログラムのスキル「FF00自爆」を受けない,아군 캐릭터는 레드 홀로그램 스킬 'FF00 자폭'에 맞지 않음
+44165030,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+40160010,？？？,？？？,???,？？？,？？？
+40160020,击败伯劳意识体,擊敗伯勞意識體,Defeat the Shrike Consciousness,シュライク意識体を撃破,슈라이크 의식체 격패
+40160030,击败伯劳意识体,擊敗伯勞意識體,Defeat the Shrike Consciousness,シュライク意識体を撃破,슈라이크 의식체 격패
+40160040,洁芙缇到达指定地点,潔芙緹到達指定地點,Jefuty reaches the specified position,ジェフティが指定地点に到達,제퓨티 지정 지점 도착
+40160050,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+40160060,我方任意角色处于垂危状态,我方任意角色處於垂危狀態,Any allied unit is in Critical Condition,味方ユニットのいずれかが瀕死状態になる,아군 임의 캐릭터 빈사 상태
+44176010,我方角色未被侦察兵命中,我方角色未被偵察兵命中,Scouts did not hit allied units,味方ユニットが偵察兵に撃たれない,정찰병은 아군에게 명중하지 않음
+44176020,7回合内达成胜利目标,7回合內達成勝利目標,Achieve the Victory Objective within 7 turns,7ターン以内にメイン目標を達成,7턴 내에 승리 목표 달성
+44176030,黎格受到的伤害累计不超过250,黎格受到的傷害累計不超過250,Lige takes less than 250 damage,リゲルの累計被ダメージが250を超えない,리겔이 입은 데미지 250 이내
+40170010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+40170020,击败奥列格,擊敗奧列格,Defeat Oleg,オレグを倒す,올레그 격패
+40170030,阿特娜进入垂危状态,阿特娜進入垂危狀態,Atena enters Critical Condition,アテナが瀕死状態になる,아테나 빈사 상태 진입
+40170040,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44187010,洁芙缇未进入垂危状态,潔芙緹未進入垂危狀態,Jefuty doesn't enter Critical Condition,ジェフティが瀕死状態にならない,제퓨티가 빈사 상태에 진입하지 않음
+44187020,黎格累计造成500点伤害,黎格累計造成500點傷害,Lige deals a total of 500 damage,リゲルが累計500ダメージ以上与える,리겔 500데미지 누적
+44187030,7回合内击败奥列格,7回合內擊敗奧列格,Defeat Oleg within 7 turns,7ターン以内にオレグを倒す,7턴 내에 올레그 격패
+40180010,击败除基里尔外的单位,擊敗除基裏爾外的單位,Defeat all enemy units except for Kirill,キリル以外のユニットを撃破,키릴 외의 유닛 격패
+40180020,击破“戴伯格”战争要塞,擊破“戴伯格”戰爭要塞,"Defeat ""Diberg"" Battle Fortress",ウォーフォート「ダジボーグ」を破壊,‘디버그’ 전쟁 요새 격패
+40180030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+40180040,基里尔被击败,基裏爾被擊敗,Kirill is defeated,キリルが倒される,키릴이 격패됨
+44198010,4回合内将基里尔的血量压制到600以下,4回合內將基裏爾的血量壓制到600以下,Bring Kirill's HP down to below 600 within 4 turns,4ターン以内にキリルのHPを600以下に減らす,4턴 내에 키릴의 HP를 600 이하로 낮추기
+80360110,将基里尔血量压制到600以下,將基裏爾血量壓制到600以下,Bring Kirill's HP down to below 600,キリルのHPを600以下に減らす,키릴의 HP를 600 이하로 낮추기
+44198020,我方角色未被“亚利洛”战斗列车命中,我方角色未被“亞利洛”戰鬥列車命中,"""Jarlio"" Combat Train did not hit allied units",味方ユニットが武装列車「ヤリーロ」に撃たれない,‘야릴로’전투 열차가 아군에게 명중하지 않음
+44198030,黎格（暴走）未被击败,黎格（暴走）未被擊敗,Lige (Berserk) is not defeated,リゲル（暴走）が倒されていない,리겔(폭주)이 격패되지 않음
+40190010,击败伯劳β,擊敗伯勞β,Defeat β Shrike,シュライクβを撃破,슈라이크β 격패
+40190020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44209010,我方角色未被特质“血液爆裂”击中,我方角色未被特質“血液爆裂”擊中,"Allied units are not hit by ""Blood Burst"" Trait",味方ユニットが特質「血液爆発」を受けない,아군 캐릭터가 특성 ‘혈액 폭발’에 명중
+44209020,塔萨队员全员成功撤离,塔薩隊員全員成功撤離,All TASA members escape sucessfully,TASA隊員が全員撤退に成功する,TASA대원 전원이 성공적으로 철수
+44209030,8回合内达成胜利目标,8回合內達成勝利目標,Achieve the Victory Objective within 8 turns,8ターン以内にメイン目標を達成,8턴 내에 승리 목표 달성
+40200010,我方全体角色在5回合内到达地图右上方的指定地点,我方全體角色在5回合內到達地圖右上方的指定地點,All allied units reach the specified position on the top-right side of the map within 5 turns,味方全員が5ターン以内にマップ右上の指定地点に到達,아군 전체 캐릭터가 5턴 내에 지도 우측 상단의 지정 지점 도착
+40200020,复合任务，不显示,複合任務，不顯示,"Combined mission, do not display",複合任務、非表示,"복합 임무, 나타내지 않음"
+40200030,我方全体角色到达地图右下方的指定地点,我方全體角色到達地圖右下方的指定地點,All allied units reach the specified position on the bottom-right side of the map,味方全員がマップ右下の指定地点に到達,아군 전체 캐릭터가 지도 우측 하단 지정 지점 도착
+40200040,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44220010,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+44220020,击败12个敌方单位,擊敗12個敵方單位,Defeat 12 enemy units,敵ユニットを12体撃破,적군 유닛 12명 격패
+44220030,洁芙缇受到的伤害累计不超过150,潔芙緹受到的傷害累計不超過150,Jefuty takes less than 150 damage,ジェフティの累計被ダメージが150を超えない,제퓨티가 입은 데미지 누적 150 이내
+40210010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+40210020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方の全ユニットを瀕死状態にする。,아군 전체 캐릭터 빈사 상태 진입
+44231010,16回合内达成胜利目标,16回合內達成勝利目標,Achieve the Victory Objective within 16 turns,16ターン以内にメイン目標を達成,16턴 내에 승리 목표 달성
+44231020,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+44231030,最多使用9次催眠针,最多使用9次催眠針,Use Soporific Dart at most 9 times,麻酔針の使用回数が9回を超えない,최면침 최대 9번 사용 가능
+40220010,救出卡尔,救出卡爾,Rescue Carl,カールを救出する,칼을 구출한다
+40220020,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+40220030,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+40220040,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+40220050,我方任意单位暴露（包括器械）,我方任意單位暴露（包括器械）,Any allied unit is Exposed (including Equipment),味方ユニットが発見される（機械を含む）,아군 유닛 노출(기계형 유닛 포함)
+44242010,13回合内救出卡尔,13回合內救出卡爾,Rescue Carl within 13 turns,13ターン以内にカールを救出する,13턴 내에 칼을 구출한다
+44242020,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+44242030,救出卡尔后不使用催眠针,救出卡爾後不使用催眠針,Do not use Soporific Dart after rescuing Carl,カール救出後、麻酔針を使用しない,칼 구출 이후 최면침을 사용하지 않음
+40230010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+40230020,击败拦路的丹吉尔及其带领的精英部队,擊敗攔路的丹吉爾及其帶領的精英部隊,Defeat Tangieu and his elite squad,行く手を阻むタンジェと配下の精鋭部隊を撃破,길을 가로막는 데니르와 그가 이끄는 엘리트 부대 격패
+40230050,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44253010,蒙德、洁芙缇和卡尔受到的伤害合计不超过300,蒙德、潔芙緹和卡爾受到的傷害合計不超過300,"Mendo, Jefuty and Carl take no more than 300 damage",モンド、ジェフティ、カールの累計被ダメージが300を超えない,"멘도, 제퓨티와 칼이 입은 데미지 합계 300 이내"
+44253020,6回合内击败丹吉尔,6回合內擊敗丹吉爾,Defeat Tangieu within 6 turns,6ターン以内にタンジェを倒す,6턴 내에 데니르 격패
+44253030,打开6个牢房门,打開6個牢房門,Open 6 cell doors,牢獄のゲートを6つ開ける,6개의 감옥 문 열기
+40240010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+40240020,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+40240030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44264010,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+44264020,我方角色未被特种兵-鬼骷命中,我方角色未被特種兵-鬼骷命中,Special Forces — Skull did not hit allied units,味方ユニットが特殊兵-ドクロに撃たれない,특수 병사-유령 해골은 아군에게 명중하지 않음
+44264030,8回合内达成胜利目标,8回合內達成勝利目標,Achieve the Victory Objective within 8 turns,8ターン以内にメイン目標を達成,8턴 내에 승리 목표 달성
+40250010,击败伯劳分裂素体,擊敗伯勞分裂素體,Defeat the Shrike Mitotic Specimen,シュライク分裂素体を撃破,슈라이크 분열 소체 격패
+40250020,击败所有伯劳分裂素体,擊敗所有伯勞分裂素體,Defeat all Shrike Mitotic Specimens,シュライク分裂素体を全て撃破,모든 슈라이크 분열 소체 격패
+40250030,击败黎格,擊敗黎格,Defeat Lige,リゲルを倒す,리겔 격패
+40250040,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+40250050,等待黎格出现,等待黎格出現,Wait for Lige to appear,リゲルの出現を待つ,리겔이 나타나길 기다린다
+44275010,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+44275020,4回合内击败3个伯劳分裂素体,4回合內擊敗3個伯勞分裂素體,Defeat 3 Shrike Mitotic Specimens within 4 turns,4ターン以内にシュライク分裂素体を3体撃破,4턴 내에 3개의 슈라이크 분열 소체 격패
+44275030,我方角色无人进入失温状态,我方角色無人進入失溫狀態,Allied units do not enter Hypothermia status,味方ユニットが誰も低体温状態にならない,아군 캐릭터는 저체온증 상태에 진입한 유닛 없음
+40260010,击败伯劳意识体,擊敗伯勞意識體,Defeat the Shrike Consciousness,シュライク意識体を撃破,슈라이크 의식체 격패
+40260020,恢复下方花园并击败伯劳意识体,恢復下方花園並擊敗伯勞意識體,Restore the Garden below and defeat the Shrike Consciousness,下の庭を修復し、シュライク意識体を撃破,아래 화원을 회복시키고 슈라이크 의식체 격패
+40260030,击败伯劳意识体,擊敗伯勞意識體,Defeat the Shrike Consciousness,シュライク意識体を撃破,슈라이크 의식체 격패
+40260040,击败伯劳烈性意识体,擊敗伯勞烈性意識體,Defeat the Shrike Strong Consciousness,シュライク強力意識体を撃破,슈라이크 열성 의식체 격패
+40260050,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+40260060,我方任意角色处于垂危状态,我方任意角色處於垂危狀態,Any allied unit is in Critical Condition,味方が瀕死状態にならない,아군 임의 캐릭터 빈사 상태
+40260070,黎格进入垂危状态,黎格進入垂危狀態,Lige enters Critical Condition,リゲルが瀕死状態になる,리겔이 빈사 상태 진입
+44286010,9回合内达成胜利目标,9回合內達成勝利目標,Achieve the Victory Objective within 9 turns,9ターン以内にメイン目標を達成,9턴 내에 승리 목표 달성
+44286020,最多使用6次道具,最多使用6次道具,Use items at most 6 times,アイテム使用回数が6回を超えない,최대 아이템 6회 사용
+44286030,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+40270010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+40270020,蒙德和洁芙缇到达指定地点,蒙德和潔芙緹到達指定地點,Mendo and Jefuty reaches the specified position,モンドとジェフティが指定地点に到達,멘도와 제퓨티 지정 지점 도착
+40270030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44297010,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+44297020,我方角色未被机枪兵和精英机枪兵命中,我方角色未被機槍兵和精英機槍兵命中,Machine Gunners and Elite Machine Gunners did not hit allied units,味方ユニットが機銃兵と精鋭機銃兵に撃たれない,기관총병사와 엘리트 기관총병사가 아군에게 명중하지 않음
+44297030,7回合内达成胜利目标,7回合內達成勝利目標,Achieve the Victory Objective within 7 turns,7ターン以内にメイン目標を達成,7턴 내에 승리 목표 달성
+40280010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+40280020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44308010,4回合内击败蒂安,4回合內擊敗蒂安,Defeat Thian within 4 turns,4ターン以内にティアンを倒す,4턴 내에 티안 격패
+44308020,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+44308030,10回合内达成胜利目标,10回合內達成勝利目標,Achieve the Victory Objective within 10 turns,10ターン以内にメイン目標を達成,10턴 내에 승리 목표 달성
+40290010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+40290020,击败奥列格,擊敗奧列格,Defeat Oleg,オレグを倒す,올레그 격패
+40290030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44319010,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+44319020,医疗兵和精英医疗兵未对敌方单位进行治疗,醫療兵和精英醫療兵未對敵方單位進行治療,Medic and Elite Medic did not heal any enemy units,衛生兵と精鋭衛生兵が敵ユニットを治療していない,의료병와 엘리트 의료병이 적군 유닛을 치료하지 않음
+44319030,7回合内达成胜利目标,7回合內達成勝利目標,Achieve the Victory Objective within 7 turns,7ターン以内にメイン目標を達成,7턴 내에 승리 목표 달성
+40300010,击败白糖,擊敗白糖,Defeat Sugar,シュガーを倒す,설탕 격패
+40300020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+40300030,山体崩塌,山體崩塌,Mountain collapses,山崩れが発生する,산 붕괴
+44330010,击破所有“狄瓦娜”镭聚能器,擊破所有“狄瓦娜”鐳聚能器,"Destroy all ""Devana"" Lightning Cannons",全てのレーザーエネルギー収集器「デワナ」を破壊する,모든 ‘데바나’라듐 농축기 격패
+44330020,我方角色未被技能“FF00自爆”击中,我方角色未被技能“FF00自爆”擊中,"Allied units are not hit by ""FF00 Self-Destruct"" skill",味方ユニットがスキル「FF00自爆」を受けていない,아군 캐릭터가 스킬 ‘FF00자폭’에 명중하지 않음
+44330030,山体生命值保持多于5000,山體生命值保持多於5000,"Mountain's HP stay above 5,000",山のHPが5000以上を維持する,산체 HP 5000이상 유지 중
+40310010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+40310020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44341010,利用轨道运输车累计击败15个敌方单位,利用軌道運輸車累計擊敗15個敵方單位,Use the Rail Transporter to defeat a total of 15 enemy units,軌道トラックを利用して敵ユニットを合計15体撃破,철도 수송차를 이용해 누적 15개 적군 유닛 격패
+44341020,至少保留3辆轨道运输车,至少保留3輛軌道運輸車,Preserve at least 3 Rail Transporters,軌道トラックが3台以上生存,적어도 3대의 철도 수송차 남기기
+44341030,18回合内达成胜利目标,18回合內達成勝利目標,Achieve the Victory Objective within 18 turns,18ターン以内にメイン目標を達成,18턴 내에 승리 목표 달성
+40320010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+40320020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44352010,18回合内达成胜利目标,18回合內達成勝利目標,Achieve the Victory Objective within 18 turns,18ターン以内にメイン目標を達成,18턴 내에 승리 목표 달성
+44352020,我方角色被雪卷击中的次数不超过6次,我方角色被雪卷擊中的次數不超過6次,Allied units are hit by Snow Rolls no more than 6 times,味方ユニットが雪まくりにぶつかる回数が6回を超えない,아군 캐릭터가 스노우롤에 명중하는 횟수는 6회 이내
+44352030,击破AA-03-B4W自律机甲,擊破AA-03-B4W自律機甲,Destroy AA-03-B4W Autonomous Mech,AA-03-B4Wを破壊,AA-03-B4W자율 메카 격패
+40330010,生存至第16回合开始,生存至第16回合開始,Survive until the beginning of Turn 16,16ターン目開始時まで生き残る,16번째 턴이 시작될 때까지 생존
+40330020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+40330030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44363010,9回合内击破AAX-05特装型,9回合內擊破AAX-05特裝型,Destroy the AAX-05S Special Model within 9 turns,9ターン以内にAAX-05特装型を破壊,9턴 내에 AAX-05특수형 격패
+44363020,“戴伯格”战争要塞累计击败20个罗联单位,“戴伯格”戰爭要塞累計擊敗20個羅聯單位,"The ""Diberg"" Battle Fortress defeats a total of 20 URNC units",ウォーフォート「ダジボーグ」がロ連のユニットを合計20体撃破,‘디버그’전쟁 요새가 누적 20개 루련 유닛 격패
+44363030,“戴伯格”战争要塞未被击破,“戴伯格”戰爭要塞未被擊破,"The ""Diberg"" Battle Fortress survives",ウォーフォート「ダジボーグ」が生存,‘디버그’ 전쟁 요새 격패 당함
+80660310,第10回合开始时“戴伯格”战争要塞存活,第10回合開始時“戴伯格”戰爭要塞存活,"The ""Diberg"" Battle Fortress survives until the start of Turn 10",10ターン目開始時にウォーフォート「ダジボーグ」が生存,10턴 시작 시 ‘디버그’전쟁 요새 생존
+40340010,生存至第6回合开始,生存至第6回合開始,Survive until the beginning of Turn 6,6ターン目開始時まで生き残る,6번째 턴이 시작될 때까지 생존
+40340020,洁芙缇和黎格到达指定地点,潔芙緹和黎格到達指定地點,Jefuty and Lige reach the specified position,ジェフティとリゲルが指定地点に到達,제퓨티와 리겔이 지정 지점 도착
+40340030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+44374010,杰文、卡尔和阿特娜未全部变成伯劳单位,傑文、卡爾和阿特娜未全部變成伯勞單位,"Jevon, Carl and Atena are not transformed into Shrike units",ジェヴァン、カール、アテナがいずれもシュライク化していない,"제본, 칼, 그리고 아테나가 모두 슈라이크 유닛으로 변함"
+44374020,将白糖∑血量压制到15000以下,將白糖∑血量壓制到15000以下,"Bring Sugar's HP down to below 15,000",シュガー∑のHPを15000以下に減らす,설탕∑의 HP를 15000이하로 낮춤
+44374030,洁芙缇和黎格未进入垂危状态,潔芙緹和黎格未進入垂危狀態,Jefuty and Lige do not enter Critical Condition,ジェフティとリゲルが瀕死状態にならない,제퓨티와 리겔이 빈사 상태에 진입하지 않음
+40350010,伯劳分裂素体被强效催眠陷阱催眠或被击败,伯勞分裂素體被強效催眠陷阱催眠或被擊敗,Shrike Mitotic Specimen is either defeated or hypnotized by the Hypnotic Trap,シュライク分裂素体が強力催眠トラップにより催眠或いは倒れた状態に陥る,슈라이크 분열 소체가 강력한 최면 함정에 빠져 최면되거나 격파됨
+40350020,所有伯劳分裂素体都被强效催眠陷阱催眠或被击败,所有伯勞分裂素體都被強效催眠陷阱催眠或被擊敗,All Shrike Mitotic Specimens are either defeated or hypnotized by the Hypnotic Trap,全てのシュライク分裂素体が強力催眠トラップにより催眠或いは倒れた状態に陥る,모든 슈라이크 분열 소체가 강력한 최면 함정에 빠져 최면되거나 격파됨
+40350030,所有伯劳分裂素体和黎格都被强效催眠陷阱催眠或被击败,所有伯勞分裂素體和黎格都被強效催眠陷阱催眠或被擊敗,All Shrike Mitotic Specimens and Lige are either defeated or hypnotized by the Hypnotic Trap,全てのシュライク分裂素体とリゲルが強力催眠トラップにより催眠或いは倒れた状態に陥る,모든 슈라이크 분열 소체 및 리겔이 강력한 최면 함정에 빠져 최면되거나 격파됨
+40350040,坚持到黎格恢复,堅持到黎格恢復,Survive until Lige recovers,リゲルが回復するまで持ちこたえる,리겔이 회복될 때까지 버티기
+40350050,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+40350060,黎格进入垂危状态,黎格進入垂危狀態,Lige enters Critical Condition,リゲルが瀕死状態になる,리겔이 빈사 상태 진입
+40350070,除黎格和伯劳分裂素体的任意单位触发强效催眠陷阱,除黎格和伯勞分裂素體的任意單位觸發強效催眠陷阱,Any unit aside from Lige or Shrike Mitotic Specimen triggers the hypnotic trap,リゲルとシュライク分裂素体以外のいずれかのユニットが強力催眠トラップにかかる,리겔과 슈라이크 분열 소체 임의 유닛을 제외하고 강력한 최면 함정 발동
+40350080,黎格或任意伯劳分裂素体被叫醒,黎格或任意伯勞分裂素體被叫醒,Lige or any Shrike mitotic specimen is awakened.,リゲルまたはいずれかのシュライク分裂素体が目覚める,리겔 또는 임의의 슈라이크 분열 소체가 깨어남
+44385010,最多使用22次催眠针,最多使用22次催眠針,Use Soporific Dart at most 22 times,麻酔針の使用回数が22回を超えない,최면침 최대 22번 사용 가능
+44385020,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 회수
+44385030,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+50010010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+50010020,击败白糖和奥列格,擊敗白糖和奧列格,Defeat Sugar and Oleg,シュガーとオレグを倒す,설탕과 올레그 격패
+50010030,贝利亚和基里尔处于垂危状态,貝利亞和基裏爾處於垂危狀態,Beria and Kirill are in Critical Condition,ベリヤとキリルが瀕死状態になる,베리아와 키릴은 빈사 상태
+55011010,贝利亚受到的伤害累计不超过400,貝利亞受到的傷害累計不超過400,Beria takes less than 400 damage,ベリヤの累計被ダメージが400を超えない,베리아가 입은 데미지 누적 400 이내
+55011020,15回合内达成胜利目标,15回合內達成勝利目標,Achieve the Victory Objective within 15 turns,15ターン以内にメイン目標を達成,15턴 내에 승리 목표 달성
+55011030,奥列格未受到医疗兵或精英医疗兵的治疗,奧列格未受到醫療兵或精英醫療兵的治療,Oleg is not healed by Medic or Elite Medic,オレグが衛生兵または精鋭衛生兵の治療を受けていない,올레그는 의료병 또는 엘리트 의료병의 치료를 받지 못함
+50020010,击败奥列格,擊敗奧列格,Defeat Oleg,オレグを倒す,올레그 격패
+50020020,击败白糖∑,擊敗白糖∑,Defeat Sugar Σ,シュガー∑を倒す,설탕∑ 격패
+50020030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+50020040,敌方任意单位到达指定地点,敵方任意單位到達指定地點,Any enemy unit reaches the specified position,敵ユニットが指定地点に到達,적군의 임의 유닛 지정 지점 도착
+50020050,等待白糖∑出现,等待白糖∑出現,Wait for Sugar Σ to appear,シュガー∑の出現を待つ,설탕∑가 나타나길 기다린다
+55022010,14回合内达成胜利目标,14回合內達成勝利目標,Achieve the Victory Objective within 14 turns,14ターン以内にメイン目標を達成,14턴 내에 승리 목표 달성
+55022020,杰文、卡尔和阿特娜未变成傀儡,傑文、卡爾和阿特娜未變成傀儡,"Jevon, Carl and Atena are not transformed into Puppet",ジェヴァン、カール、アテナがダミー化していない,"제본, 칼, 그리고 아테나는 꼭두각시가 되지 않음"
+55022030,单次行动对白糖∑造成的伤害超过3000点,單次行動對白糖∑造成的傷害超過3000點,"Deal over 3,000 damage to Sugar Σ in a single action",1回の行動でシュガー∑に3000以上のダメージを与える,단독 작전이 설탕∑에서 입힌 데미지 3000 이상
+50030010,阿特娜到达指定地点,阿特娜到達指定地點,Atena reaches the specified position,アテナが指定地点に到達,아테나 지정 지점 도착
+50030020,击败大型运输机上的血藤蔓、卡尔到达指定地点,擊敗大型運輸機上的血藤蔓、卡爾到達指定地點,"Defeat Blood Vine on the transport aircraft, Carl reaches the specified position",大型輸送機に絡む血の藤つるを倒し、カールが指定地点に到達,"대형 수송기의 피의 덩굴 격패, 칼은 지정 지점 도착"
+50030040,洁芙缇到达指定地点,潔芙緹到達指定地點,Jefuty reaches the specified position,ジェフティが指定地点に到達,제퓨티 지정 지점 도착
+50030050,黎格1回合内到达指定地点,黎格1回合內到達指定地點,Lige reaches the specified position within 1 turn,リゲルが1ターン以内に指定地点に到達,리겔아 1턴 내에 지정 지점 도착
+50030060,击败完全态伯劳映溯母体,擊敗完全態伯勞映溯母體,Defeat the final form of the Reflection of the Progenitor,完全態のシュライク映溯母体を倒す,완전태 슈라이크 영삭의 모체 격패
+50030070,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+50030080,阿特娜进入垂危状态,阿特娜進入垂危狀態,Atena enters Critical Condition,アテナが瀕死状態になる,아테나 빈사 상태 진입
+50030090,我方任意单位暴露（包括器械）,我方任意單位暴露（包括器械）,Any allied unit is Exposed,味方ユニットが発見される（機械を含む）,아군 유닛 노출(기계형 유닛 포함)
+50030100,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+50030110,我方任意角色从藤蔓坠落,我方任意角色從藤蔓墜落,Any allied unit falls down from the vine,味方ユニットが藤つるから落ちる,아군 임의 캐릭터가 덩굴에서 추락
+50030120,击败完全态伯劳虚谬之心,擊敗完全態伯勞虛謬之心,Defeat the final form of the False Heart,完全態のシュライク・偽りの心を倒す,완전태인 슈라이크 거짓되고 황당한 마음 격패
+50030130,黎格进入垂危状态,黎格進入垂危狀態,Lige enters Critical Condition,リゲルが瀕死状態になる,리겔이 빈사 상태 진입
+50030140,黎格1回合内未到达指定地点,黎格1回合內未到達指定地點,Lige fails to reach the specified position within 1 turn,リゲルが1ターン以内に指定地点に到達していない,1턴 안에 리겔이 지정 지점에 도착하지 않음
+55033010,利用油罐车的爆炸同时击败至少4名敌方单位,利用油罐車的爆炸同時擊敗至少4名敵方單位,Defeat at least 4 enemies at the same time using Oil Tanker explosions,タンクローリーの爆発で同時に敵ユニットを4体以上倒す,기름 탱크차의 폭발을 이용해 적어도 4명의 적군 유닛 동시에 격패
+55033020,最多使用8次伯劳抑制剂,最多使用8次伯勞抑制劑,Use Shrike inhibitor 7 times,シュライク抑制剤の使用回数が8回を超えない,슈라이크 억제제 최대 8번 사용
+55033030,我方角色最多1次进入垂危状态,我方角色最多1次進入垂危狀態,All allied units enter Critical Condition at most once,味方が瀕死状態になる回数が1回を超えない,아군 캐릭터 최대 1회 빈사 상태 진입
+55033040,卡尔到达并启动大型客机_到达,卡爾到達並啟動大型客機_到達,Carl arrives and starts up the aircraft_ Arrive,カールが大型旅客機を発進させる_到着,칼이 도착하여 대형 여객기 가동_도착
+55033050,卡尔到达并启动大型客机_击败藤蔓运输机,卡爾到達並啟動大型客機_擊敗藤蔓運輸機,Carl arrives and starts up the aircraft_ Defeat aircraft vine,カールが大型旅客機を発進させる_藤つる輸送機撃破,칼이 도착하여 대형 여객기 가동_덩굴 수송기 격패
+55033060,黎格1回合内到达指定地点_目的地,黎格1回合內到達指定地點_目的地,Lige reaches the specified position_ destination within 1 turn,リゲルが1ターン以内に指定地点に到達_目的地,리겔이 1턴 내에 지정 지점 도착_목적지
+55033070,黎格1回合内到达指定地点_时间,黎格1回合內到達指定地點_時間,Lige reaches the specified position_ time within 1 turn,リゲルが1ターン以内に指定地点に到達_時間,리겔이 1턴 내에 지정 지점 도착_시간
+50100010,尽可能的生存更长时间,盡可能的生存更長時間,Survive as long as possible,できるだけ長く生き残る,되도록이면 더 긴 시간 생존한다
+50100020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+55110010,生存至第10回合开始,生存至第10回合開始,Survive until the beginning of Turn 10,10ターン目開始時まで生き残る,10번째 턴이 시작될 때까지 생존
+55110020,生存至第20回合开始,生存至第20回合開始,Survive until the beginning of Turn 20,20ターン目開始時まで生き残る,20번째 턴이 시작될 때까지 생존
+55110030,生存至第30回合开始,生存至第30回合開始,Survive until the beginning of Turn 30,30ターン目開始時まで生き残る,30번째 턴이 시작될 때까지 생존
+1010100010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+1010100020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+300010010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+300010020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+100010010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적 유닛 처치
+100010020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 돌입
+200010010,击败指定敌方单位,擊敗指定敵方單位,Defeat the specified enemy units,指定された敵ユニットを撃破,지정된 적 유닛 처치
+200010020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 돌입
+200020010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+200020020,生存至第8回合开始,生存至第8回合開始,Survive until the beginning of Turn 8,8ターン目開始時まで生き残る,8번째 턴이 시작될 때까지 생존
+200020030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+300020010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+300020020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+400010010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+400010020,我方任意单位暴露（包括器械）,我方任意單位暴露（包括器械）,Any allied unit is Exposed (including Equipment),味方ユニットが発見される（機械を含む）,아군 유닛 노출(기계형 유닛 포함)
+400020010,击破“斯瓦罗格”重型坦克,擊破“斯瓦羅格”重型坦克,"Defeat ""Svarog"" Heavy Tank",重戦車「スヴァローグ」を破壊,‘스와로그’헤비형 탱크 격패
+400020020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+400030010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+400030020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+400040010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+400040020,我方任意单位暴露（包括器械）,我方任意單位暴露（包括器械）,Any allied unit is Exposed (including Equipment),味方ユニットが発見される（機械を含む）,아군 유닛 노출(기계형 유닛 포함)
+400050010,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+400050020,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+400060010,生存至第8回合开始,生存至第8回合開始,Survive until the beginning of Turn 8,8ターン目開始時まで生き残る,8번째 턴이 시작될 때까지 생존
+400060020,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+400060030,难民车被摧毁,難民車被摧毀,Refugee Transport is destroyed,難民車が破壊される,난민차가 파괴되었다
+400060040,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+9000000010,移动蒙德到达森林,移動蒙德到達森林,Mendo moves to the Forest,モンドが森に到達,멘도를 이동시켜 숲에 도착
+9000000020,击毙右翼的两名敌军,擊斃右翼的兩名敵軍,Defeat the 2 enemy units on the right side,右翼の敵軍を2人撃破,우측의 적군 2명 격패
+9000000030,蒙德处于垂危状态,蒙德處於垂危狀態,Mendo is in Critical Condition,モンドが瀕死状態になる,멘도가 빈사 상태에 빠짐
+9000010010,进入森林,進入森林,Enter the Forest,森に入る,숲으로 진입
+9000010020,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+9000010030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+9009011010,洁芙缇和蒙德未暴露,潔芙緹和蒙德未暴露,Jefuty and Mendo are not Exposed,ジェフティとモンドが発見されない,제퓨티와 멘도가 노출되지 않음
+9009011020,拾取所有资源,拾取所有資源,Gather all resources,全ての物資を拾う,모든 자원 획득
+9009011030,10回合内达成胜利目标,10回合內達成勝利目標,Achieve the Victory Objective within 10 turns,10ターン以内にメイン目標を達成,10턴 내에 승리 목표 달성
+9000020010,合成4个破片绊雷,合成4個破片絆雷,Synthesize 4 Trip Mines,破片爆弾トラップを4つ合成,4개의 부비트랩 합성
+9000020020,放置4个破片绊雷,放置4個破片絆雷,Set up 4 Trip Mines,破片爆弾トラップを4つ設置,4개의 부비트랩 배치
+9000020030,合成2个步哨塔,合成2個步哨塔,Synthesize 2 Sentry Towers,タレットを2つ合成,2개의 보초탑 합성
+9000020040,放置2个机枪塔,放置2個機槍塔,Set up 2 Machine Gun Towers,タレットを2つ設置,2개의 기관총탑 배치
+9000020050,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+9000020060,我方全体角色到达指定地点,我方全體角色到達指定地點,All allied units reach the specified position,味方全員が指定地点に到達,아군 전체 캐릭터 지정 지점에 도착
+9000020070,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+9009022010,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+9009022020,敌方单位触发破片绊雷至少3次,敵方單位觸發破片絆雷至少3次,Enemy units trigger Trip Mine at least 3 times,敵が3回以上破片爆弾トラップを踏む,적군 유닛이 적어도 3번 부비트랩를 촉발
+9009022030,使用机枪塔击败至少1名敌人,使用機槍塔擊敗至少1名敵人,Use Machine Gun Tower to defeat at least 1 enemy unit,タレットで敵を1人以上倒す,기관총탑을 사용해 적어도 1명의 적군 격패
+9000030010,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+9000030020,洁芙缇或蒙德到达指定地点,潔芙緹或蒙德到達指定地點,Jefuty or Mendo reaches the specified position,ジェフティまたはモンドが指定地点に到達,제퓨티 또는 멘도 지정 지점 도착
+9000030030,击败所有敌方单位,擊敗所有敵方單位,Defeat all enemy units,敵全員を撃破,모든 적군 유닛 격패
+9000030040,洁芙缇和蒙德处于垂危状态,潔芙緹和蒙德處於垂危狀態,Jefuty and Mendo are in Critical Condition,ジェフティとモンドが瀕死状態になる,제퓨티와 멘도 빈사 상태에 빠짐
+9000030050,敌方1回合后出现,敵方1回合後出現,Enemy will appear in 1 turn,1ターン後に敵が出現,적군이 1턴 후 출현
+9000030060,敌方增援4回合后出现,敵方增援4回合後出現,Enemy reinforcements will appear in 4 turns,4ターン後に敵の増援が出現,적군 지원군 4턴 후 출혐
+9009033010,任意平民未进入垂危状态,任意平民未進入垂危狀態,Any civilian enters Critical Condition,一般人が瀕死状態にならない,임의의 평민이 빈사 상태에 진입하지 않음
+9009033020,拾取所有物资,拾取所有物資,Jefuty does not enter Critical Condition,全ての物資を拾う,모든 물자 회수
+9009033030,5回合内击败所有敌方单位,5回合內擊敗所有敵方單位,Defeat all enemy units within 5 turns,5ターン以内に敵全員を撃破,5턴 내에 모든 적군 유닛 격패
+9000040010,移动到东边目标点,移動到東邊目標點,Move to the target position in the east,東の目標地点に移動,동쪽 목표지점까지 이동
+9000040020,移动到北面目标点,移動到北面目標點,Move to the target position in the north,北の目標地点に移動,북쪽 목표지점까지 이동
+9000040030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+9009044010,洁芙缇和蒙德未被狙击兵命中,潔芙緹和蒙德未被狙擊兵命中,Snipers did not hit Jefuty and Mendo,ジェフティとモンドが狙撃兵に撃たれない,저격병이 제퓨티와 멘도에게 명중하지 않음
+9009044020,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+9009044030,16回合内移动到北面目标点,16回合內移動到北面目標點,Move to the target position in the north within 16 turns,16ターン以内に北の目標地点に移動,16턴 내에 북쪽 목표지점까지 이동
+9000050010,移动到达联络点,移動到達聯絡點,Move to the rendezvous point,連絡地点に移動,연락 지점까지 이동
+9000050020,存活十个回合,存活十個回合,Survive for 10 turns,10ターン生き残る,10턴 생존
+9000050030,从西边出口逃出,從西邊出口逃出,Escape from the west exit,西の出口から脱出する,서쪽 출구에서 탈출
+9000050040,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+9000050050,存活十五个回合,存活十五個回合,Survive for 15 turns,15ターン生き残る,15턴 생존
+9009055010,洁芙缇和蒙德到达联络点前未暴露,潔芙緹和蒙德到達聯絡點前未暴露,Jefuty and Mendo are not Exposed before reaching the rendezvous point,ジェフティとモンドが発見されずに連絡地点に到達,제퓨티와 멘도가 연락 지점에 도착하기 전에 노출되지 않음
+9009055020,洁芙缇、蒙德累计受到的伤害合计不超过200,潔芙緹、蒙德累計受到的傷害合計不超過200,Jefuty and Mendo take no more than 200 damage,ジェフティとモンドの累計被ダメージが200を超えない,"제퓨티, 멘도가 누적으로 받은 데미지 200 이내"
+9009055030,击败10个敌方单位,擊敗10個敵方單位,Defeat 10 enemy units,敵ユニットを10体撃破,적군 유닛 10명 격패
+9000060010,从东南方离开,從東南方離開,Leave from the south-east,南東から脱出する,동남쪽으로 벗어나기
+9000060020,蒙德或洁芙缇进入垂危状态,蒙德或潔芙緹進入垂危狀態,Mendo or Jefuty is in Critical Condition,モンドまたはジェフティが瀕死状態になる,멘도 또는 제퓨티가 빈사 상태 진입
+9009066010,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 획득
+9009066020,25回合内达成胜利目标,25回合內達成勝利目標,Achieve the Victory Objective within 25 turns,25ターン以内にメイン目標を達成,25턴 내에 승리 목표 달성
+9009066030,我方放置的侦察道具未暴露,我方放置的偵察道具未暴露,Scanning devices deployed by allied units are not Exposed,味方が設置した偵察アイテムが発見されない,아군이 배치한 정찰 도구가 노출되지 않음
+9000070010,移动到四个指定地点,移動到四個指定地點,Move to the 4 specified positions,4か所の指定地点に到達,4개의 지정 지점으로 이동
+9000070020,移动到贝利亚的指挥所,移動到貝利亞的指揮所,Move to Beria's Command Center,ベリヤの司令所に移動,베리아의 지휘부로 이동
+9000070030,洁芙缇和蒙德处于垂危状态,潔芙緹和蒙德處於垂危狀態,All allied units are in Critical Condition,ジェフティとモンドが瀕死状態になる,제퓨티와 멘도 빈사 상태에 빠짐
+9000070040,左上埋雷点特效,左上埋雷點特效,Upper-left mine point special effects,左上の地雷設置ポイントの特殊効果,좌측 상단 지뢰점 효과
+9000070050,右上埋雷点特效,右上埋雷點特效,Upper-right mine point special effects,右上の地雷設置ポイントの特殊効果,우측 상단 지뢰점 효과
+9000070060,左下埋雷点特效,左下埋雷點特效,Bottom-left mine point special effects,左下の地雷設置ポイントの特殊効果,좌측 하단 지뢰점 효과
+9000070070,右下埋雷点特效,右下埋雷點特效,Bottom-right mine point special effects,右下の地雷設置ポイントの特殊効果,우측 하단 지뢰점 효과
+9009077010,击败10个敌方单位,擊敗10個敵方單位,Defeat 10 enemy units,敵ユニットを10体撃破,적군 유닛 10명 격패
+9009077020,我方无人进入垂危状态,我方無人進入垂危狀態,No allied units enter Critical Condition,味方が瀕死状態にならない,아군 빈사 상태 인원 없음
+9009077030,拾取所有物资,拾取所有物資,Pick up all supplies,全ての物資を拾う,모든 물자 획득
+9000080010,到前面去看看,到前面去看看,Move ahead to have a look,前へ進む,앞으로 가서 본다
+9000080020,全歼敌方,全殲敵方,Defeat all enemy units,敵を殲滅する,적군 섬멸
+9000080030,全歼敌方,全殲敵方,Defeat all enemy units,敵を殲滅する,적군 섬멸
+9000080040,全歼敌方,全殲敵方,Defeat all enemy units,敵を殲滅する,적군 섬멸
+9000080050,移动到目标点,移動到目標點,Move to the target position,目標地点に移動,목표 지점으로 이동
+9000080060,为黎格报仇,為黎格報仇,Take revenge for Lige,リゲルの仇を討つ,리겔의 복수를 한다
+9000080070,移动到西南角目标点,移動到西南角目標點,Move to the south-west target position,南西隅の目標地点に移動,서남쪽 목표 지점으로 이동
+9000080080,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+9009088010,洁芙缇累计受到的伤害不超过80,潔芙緹累計受到的傷害不超過80,Jefuty takes less than 80 damage,ジェフティの累計被ダメージが80を超えない,제퓨티가 받은 누적 데미지 80 이내
+9009088020,通过遥控炸弹同时击败至少3个敌方单位,通過遙控炸彈同時擊敗至少3個敵方單位,Use RC Bomb to blow up at least 3 enemy units at the same time,リモート爆弾で敵ユニットを3体以上同時に撃破,원격 제어 폭탄으로 적어도 3명의 적군 유닛 동시에 격패
+9009088030,7回合内击破装甲车,7回合內擊破裝甲車,Destroy the Armored Vehicle within 7 turns,7ターン以内に装甲車を破壊,7턴 내에 장갑차 격패
+9020080010,到前面去看看,到前面去看看,Go ahead to take a look,前へ進む,앞으로 가서 본다
+9020080020,全歼敌方,全殲敵方,Defeat all enemy units,敵を殲滅する,적군 섬멸
+9020080030,全歼敌方,全殲敵方,Defeat all enemy units,敵を殲滅する,적군 섬멸
+9020080040,全歼敌方,全殲敵方,Defeat all enemy units,敵を殲滅する,적군 섬멸
+9020080050,移动到目标点,移動到目標點,Move to target position,目標地点に移動,목표 지점으로 이동
+9020080060,为黎格报仇,為黎格報仇,Take revenge for Lige,リゲルの仇を討つ,리겔의 복수를 한다
+9020080070,移动到西南角目标点,移動到西南角目標點,Move to the Southwest target position,南西隅の目標地点に移動,서남쪽 목표 지점으로 이동
+9020080080,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All friendly units are in critical condition.,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+9029088010,洁芙缇累计受到的伤害不超过200,潔芙緹累計受到的傷害不超過200,Jefuty takes less than 200 points of damage in total,ジェフティの累計被ダメージが200を超えない,제퓨티가 받은 누적 데미지 200 이내
+9029088020,通过遥控炸弹同时击败至少3个敌方单位,通過遙控炸彈同時擊敗至少3個敵方單位,Use RC Bomb to blow up at least 3 enemy units at the same time,リモート爆弾で敵ユニットを3体以上同時に倒す,원격 제어 폭탄으로 적어도 3명의 적군 유닛 동시에 격패
+9029088030,7回合内击破装甲车,7回合內擊破裝甲車,Destroy Armored Vehicle within 7 turns,7ターン以内に装甲車を破壊,7턴 내에 장갑차 격패
+9000090010,向西南方撤退,向西南方撤退,Escape from the south-west exit,南西方向へ撤退する,서남쪽 방향으로 철수
+9000090020,打倒诺耶露,打倒諾耶露,Defeat Noylu,ノエルを倒す,노엘르 해치우기
+9000090030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+9009099010,洁芙缇、蒙德、卡尔累计受到的伤害合计不超过500,潔芙緹、蒙德、卡爾累計受到的傷害合計不超過500,"Jefuty, Mendo and Carl take no more than 500 damage",ジェフティ、モンド、カールの累計被ダメージが500を超えない,"제퓨티, 멘도, 칼이 입은 누적 데미지 500 이내"
+9009099020,最多使用15次闪光手雷,最多使用15次閃光手雷,Use Flashbang at most 10 times,閃光手榴弾の使用回数が15回を超えない,플래시 수류탄 최대 15번 사용
+9009099030,击破两辆装甲车,擊破兩輛裝甲車,Destroy 2 Armored Vehicles,装甲車を2台破壊,두 대의 장갑차 격패
+9000100010,完成设防后洁芙缇到达城镇中心,完成設防後潔芙緹到達城鎮中心,Jefuty reaches the town center after setting up the defense,防御を固め、ジェフティが街の中心に到達,방어 시설 배치 후 제퓨티가 도시 중심 도착
+9000100020,消灭进攻的敌人,消滅進攻的敵人,Defeat the attacking enemies,進攻する敵を殲滅,공격하는 적군 섬멸
+9000100030,俘虏贝利亚（消灭其他敌人）,俘虜貝利亞（消滅其他敵人）,Capture Beria (Defeat all other enemy units),ベリヤを生け捕り（残りの敵を殲滅）,베리아 포획(다른 적군은 처지)
+9000100040,消灭贝利亚,消滅貝利亞,Defeat Beria,ベリヤを倒す,베리아 섬멸
+9000100050,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+9009110010,杰文、阿特娜共同击败30名敌方单位,傑文、阿特娜共同擊敗30名敵方單位,Jevon and Atena defeat a total of 30 enemy units,ジェヴァンとアテナが敵ユニットを30体撃破,"제본, 아테나가 함께 30명의 적군 유닛 격패"
+9009110020,洁芙缇、蒙德累计受到的伤害合计不超过1000,潔芙緹、蒙德累計受到的傷害合計不超過1000,Jefuty and Mendo take no more than 1000 points of damage in total,ジェフティ、モンドの累計被ダメージが1000を超えない,"제퓨티, 멘도가 누적으로 받은 데미지 1000 이내"
+9009110030,最多使用20次急救包/医疗箱,最多使用20次急救包/醫療箱,Use First Aid Kits/Medkits up to 20 times,救急セット/医療キットの使用回数が20回を超えない,의료 키트/구급 상자 최대 20회 사용 가능
+9000110010,抓住贝利亚,抓住貝利亞,Capture Beria,ベリヤを捕まえる,베리아를 잡는다
+9000110020,消灭贝利亚,消滅貝利亞,Defeat Beria,ベリヤを倒す,베리아 섬멸
+9000110030,我方全体角色处于垂危状态,我方全體角色處於垂危狀態,All allied units are in Critical Condition,味方全員が瀕死状態になる,아군 전체 캐릭터 빈사 상태 진입
+9090010010,阻挡所有敌人,阻擋所有敵人,Stop all enemy units,全ての敵を食い止める,모든 적을 막는다
+9090010020,蒙德进入垂危状态,蒙德進入垂危狀態,Mendo enters Critical Condition,モンドが瀕死状態になる,멘도 빈사 상태 진입

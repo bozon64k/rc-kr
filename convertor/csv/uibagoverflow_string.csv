@@ -1,0 +1,9 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_bag_title,背包,背包,Backpack,バックパック,배낭
+text_depot_title,仓库,倉庫,Depot,倉庫,창고
+text_iteminfo,道具信息  <size=12>INFO</size>,道具資訊  <size=12>INFO</size>,Item  Info,アイテム詳細  <size=12>INFO</size>,아이템 정보  <size=12>INFO</size>
+text_item_carry_word,堆叠量,堆疊量,Stack(s),保管数,누적량
+text_item_part_name,拆解获得：,拆解獲得：,Disassemble to obtain:,分解獲得：,분해 보상: 
+text_item_part_p,P.,P.,P.,P.,P.
+text_move,转移,轉移,Move,移動,이동
+text_overflow_waring,*放入仓库的道具，本场战斗不能使用,*放入倉庫的道具，本場戰鬥不能使用,*Items placed in the Depot will not be usable in this battle.,倉庫に収納したアイテムは戦闘時使用できません,*창고에 넣은 아이템은 이번 전투에서 사용하실 수 없습니다

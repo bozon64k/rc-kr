@@ -1,0 +1,9 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_focus_des,记忆点,記憶點,Memory Points,記憶ポイント,메모리 포인트
+text_fupan,复盘,複盤,Replay,再現,리플레이
+text_ci,次,次,Time(s),回,회
+text_timeback,视界跃迁,視界躍遷,Visual Leap,視野遷移,시야 점프
+text_scale,缩放,縮放,Zoom,ズーム,줌
+text_move,平移,平移,Pan,平行移動,드래그
+text_menu,离开,離開,Exit,終了,나가기
+text_back,返回,返回,Back,戻る,돌아가기

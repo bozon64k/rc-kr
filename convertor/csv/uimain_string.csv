@@ -1,0 +1,19 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+button_continue_text,继续,繼續,RESUME,続ける,계속하기
+button_load_text,读取游戏,讀取遊戲,LOAD,ロードゲーム,불러오기
+button_newgame_text,新游戏,新遊戲,NEW GAME,ニューゲーム,새로운 게임
+button_collect_text,收集鉴赏,蒐集鑑賞,COLLECTION,ギャラリー,컬렉션
+button_setting_text,设置,設定,SETTINGS,設定,설정
+button_hlep_text,游戏帮助,遊戲幫助,GAME HELP,ヘルプ,도움
+button_quit_text,离开游戏,離開遊戲,QUIT,終了,나가기
+text_switchversion,进入2092R,進入2092R,Enter 2092R,2092Rを開く,2092R 들어가기
+text_static_gameactive,游戏激活,遊戲啟動,Game Activation,アクティベート,게임 활성화
+text_static_gameactive_en,<b>ACTIVATION</b>,<b>ACTIVATION</b>,<b>ACTIVATION</b>,<b>ACTIVATION</b>,<b>ACTIVATION</b>
+text_static_curstate,当前状态:,目前狀態：,Current Status:,現在の状態：,현재 상태:
+text_static_deactive,尚未激活,尚未啟動,Not Activated,未アクティベート,비활성화 상태
+text_static_curversion,当前版本:,目前版本：,Current Version:,現在のバージョン：,현재 버전:
+text_static_curversion_code,v2092R,v2093R,v2092R,v2092R,v2092R
+text_static_activecode,输入激活码:,輸入啟動碼：,Enter Activation Code:,アクティベートコードを入力：,활성화 코드 입력:
+text_confirm,确认激活,確認啟動,Confirm Activation,アクティベートする,활성화 확인
+text_dlclevel,联动关卡,聯動關卡,Crossover Stage,コラボステージ,연동된 관문
+text_store,额外内容,額外內容,Additional Content,追加コンテンツ,추가 내용

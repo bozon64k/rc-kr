@@ -1,0 +1,8 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_rotation,旋转,旋轉,Rotate,回転する,회전
+text_mine,引爆,引爆,Detonate,爆破する,폭파하기
+text_joystick_mine,引爆,引爆,Detonate,爆破する,폭파하기
+text_mine_hover,引爆,引爆,Detonate,爆破する,폭파하기
+text_joystick_mine_hover,引爆,引爆,Detonate,爆破する,폭파하기
+text_railtransportcontrol_hover,回合结束后启动,回合結束后啟動,Starts at the end of the turn,ターン終了後に起動,턴 종료 후 시작
+text_move_info,AP不足,AP 不足,Not enough AP,AP不足,AP 부족
