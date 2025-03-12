@@ -1,0 +1,17 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_back_battle,返回战场,返回戰場,Return to Battlefield,作戦へ戻る,돌아가기
+text_back_prepare,返回整备,返回整備,Return to Preparation,準備画面へ戻る,정비하기
+text_back_replay,返回复盘,返回檢討,Return to Replay,リプレイモードへ戻る,리플레이
+text_info,战场资讯,戰場資訊,Battlefield Information,戦域情報,전장 정보
+text_save,保         存,保         存,Save,セーブ,저장하기
+text_break,中         断,中         斷,Quit,中断,중단
+text_load,读         取,讀         取,Load,ロード,불러오기
+text_laststate,重开阶段,重開階段,Restart Phase,段階再開,단계 재시작
+text_restart,重开战役,重開戰役,Restart Battle,戦役再開,전투 재시작
+text_collection,收集鉴赏,蒐集鑑賞,Collection,ギャラリー,컬렉션
+text_setting,设         置,設         定,Settings,設定,설정
+text_help,帮         助,幫         助,Help,ヘルプ,도움
+text_changemode,切换难度,切換難度,Select Difficulty,難易度変更,난이도 변경
+text_confirm,确定,確定,Confirm,決定,확인
+text_close,离开,離         開,Exit,戻る,나가기
+text_restartround,重开回合,重開回合,Restart Turn,ターンを最初から開始,턴 재시작

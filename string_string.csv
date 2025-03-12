@@ -1,0 +1,960 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+attr_ap0,行动力,行動力,Action Points,行動力,AP
+attr_ap_desc0,用于执行各种行动指令,用於執行各種行動指令,Used for carrying out various operational commands,ターン毎に使用可能な行動ポイント,각종 행동 지령의 수행에 사용
+attr_sp0,技力,技力,Skill Points,スキルポイント,SP
+attr_sp_desc0,用于施放技能,用於施放技能,Used for casting Skills,スキル使用時に必要なポイント,스킬 시전에 사용
+attr_armor0,护甲,護甲,Armor,装甲,장갑
+attr_armor_desc0,可减少受击伤害,可減少受擊傷害,Can reduce damage taken,破壊不可な装甲,받는 피해 감소
+attr_armorpenetration0,破甲,破甲,ArP,徹甲,관통
+attr_armorpenetration_desc0,可增加对有甲目标的伤害,可增加對有甲目標的傷害,Can increase damage to armored targets,強力な鎧を破壊する,장갑 유닛에 입히는 피해량 증가
+attr_attack0,攻击,攻擊,ATK,ATK,ATK
+attr_attack_desc0,对目标造成的基础伤害,對目標造成的基礎傷害,Base damage dealt to a target,与えられるダメージ,적에게 입히는 기본 피해량
+attr_attackrange0,射程,射程,RGE,ST,ST
+attr_attackrange_desc0,武器的最大攻击范围,武器的最大攻擊範圍,The maximum attack range of the weapon,武器の射程距離,무기의 최대 공격 범위
+attr_critical0,暴击概率,暴擊機率,CRTR,CHR,CHR
+attr_critical_desc0,造成致命打击的概率,造成致命打擊的機率,The probability of a critical hit,会心ダメージを与える確率,치명타가 나타날 확률
+attr_critical_dmg0,暴击伤害,暴擊傷害,CRTD,CHD,CHD
+attr_critical_dmg_desc0,致命打击的伤害倍率,致命打擊的傷害倍率,The damage multiplier of a critical hit,会心攻撃の際与えるダメージ倍率,치명타의 피해 증가 배율
+attr_dodge0,闪避,閃避,EVA,EVA,EVA
+attr_dodge_desc0,可增加回避敌方攻击的概率,可增加迴避敵方攻擊的機率,Can increase the probability of evading enemy attacks,回避に関わる数値,적의 공격을 회피할 확률 증가
+attr_hit0,命中,命中,ACC,ACC,ACC
+attr_hit_desc0,可增加攻击击中目标的概率,可增加攻擊擊中目標的機率,Can increase the probability of hitting the target with attacks,攻撃の命中率に関わる数値,공격이 적을 명중할 확률 증가
+attr_sightrange0,普通视野,普通視野,NVR,NVR,NVR
+attr_sightrange_desc0,迷雾环境中可侦察到非潜行敌人的范围,迷霧環境中可偵察到非潛行敵人的範圍,The range at which enemies not in stealth can be detected,通常状態の敵の可視範囲,안개 환경 중 일반 상태의 적을 관찰할 수 있는 범위
+attr_stealthrange0,反潜视野,反潛視野,ASVR,ASVR,ASVR
+attr_stealthrange_desc0,可侦察到潜行敌人的范围,可偵察到潛行敵人的範圍,The range at which enemies in stealth can be detected,潜行状態の敵の可視範囲,스텔스 상태의 적을 관찰할 수 있는 범위
+attr_hp0,生命值,生命值,HP,体力,HP
+attr_hp_desc0,可承受的伤害量,可承受的傷害量,Amount of damage that a unit can sustain,０になると操作不能になる,받을 수 있는 피해량
+attr_total_format0,总{0} ,總 {0} ,Total{0},合計{0} ,총{0} 
+attr_atkrange_adv0,优势射程 ,優勢射程 ,Optimal Range,有効射程,우세 사거리
+attr_atkrange_disadv0,劣势射程 ,劣勢射程 ,Suboptimal Range,最大射程,열세 사거리
+attr_def0,防御,防禦,DEF,防御,DEF
+attr_def_desc0,可抵挡的伤害量,可抵擋的傷害量,The amount of damage that can be resisted,防げるダメージ量,막을 수 있는 피해량
+attr_hit_advantage0,优势命中,優勢命中,OP-ACC,A-HIT,A-HIT
+attr_hit_advantage_desc0,可增加攻击击中优势射程内目标的概率,可增加攻擊擊中優勢射程內目標的機率,Increases the probability of hitting targets within Optimal Range,最適射程内にいるターゲットへの命中率増加,우세 사거리 내의 목표를 명중할 확률 증가
+attr_hit_disadvantage0,劣势命中,劣勢命中,SUB-ACC,DA-HIT,DA-HIT
+attr_hit_disadvantage_desc0,可增加攻击击中劣势射程内目标的概率,可增加攻擊擊中劣勢射程內目標的機率,Increases the probability of hitting targets within Suboptimal Range,劣勢射程内にいるターゲットへの命中率増加,열세 사거리 내의 목표를 명중할 확률 증가
+attr_attack_apcost0,AP消耗,AP 消耗,AP Cost,AP消費,AP 소비
+attr_attack_apcost_desc0,每次攻击消耗的AP量,每次攻擊消耗的 AP 量,The amount of Action Points consumed per attack,一回の攻撃で消費するAP,매 회 공격마다 필요한 AP
+attr_bullet_cost0,子弹消耗,子彈消耗,Ammo Cost,弾薬消費量,탄약 소비
+attr_bullet_cost_des0,每次攻击消耗的子弹,每次攻擊消耗的子彈,The amount of ammunition consumed per attack,一回の攻撃で消費する弾薬,매 회 공격마다 필요한 탄약
+attr_itemdist0,道具置距,道具距離,Item Range,アイテム使用範囲,아이템 사용 거리
+attr_itemdist_desc0,attr_itemdist_desc,attr_itemdist_desc,The range in which an item is usable,アイテムを使用できる範囲,attr_itemdist_desc
+attr_suppress0,压制,压制,Suppression,,
+attr_suppress_desc0,应对可压制敌方,应对可压制敌方,,,
+text_round0,第{0}回合,第 {0} 回合,Turn {0},{0}ターン目,{0}번째 턴
+text_state_prepare0,整备阶段,整備階段,Preparation Phase,準備フェイズ,정비 단계
+text_zhoumu0,第{0}轮,第 {0}輪,Round {0},第{0}ラウンド,제{0}라운드
+text_battleprepare_round0,第{0}回合\t整备阶段,第 {0} 回合\t整備階段,Turn {0}\tPreparation Phase,第{0}ターン\t準備フェイズ,{0}번째 턴\t정비 단계
+uimessagebox_no_quick_save0,读档失败！,读档失败！,Load Failed!,,
+uimessagebox_prepare_compose_material0,所需材料不足！,所需材料不足！,Insufficient Materials!,材料が足りません,필요한 재료가 부족합니다!
+uimessagebox_prepare_compose_ap0,剩余AP不足！,剩餘AP不足！,Insufficient AP!,APが足りません,남은 AP가 부족합니다!
+uimessagebox_prepare_compose_part0,所需零件不足！,所需零件不足！,Insufficient Parts!,パーツが足りません,필요한 부품이 부족합니다!
+uimessagebox_prepare_compose_success0,<color=#a4cbff>{0}</color>*{1}个合成完毕！\n道具已置入您的背包仓库,<color=#a4cbff>{0}</color>*{2}个合成完毕！\n道具已置入您的背包仓库,,,
+uimessagebox_prepare_product0,所需零件不足！,所需零件不足！,Insufficient Parts!,パーツが足りません,필요한 부품이 부족합니다!
+uimessagebox_prepare_sell_confirm0,道具拆解,道具拆解,Item Disassemble,アイテム分解,도구 분해
+uimessagebox_prepare_sell0,是否将<color=#ff8d48>{0}个{1}</color>拆解为<color=#fffd90>{2}零件</color>？,是否將<color=#ff8d48> {0} 個{1}</color>拆解為<color=#fffd90>{2}零件</color>？,Disassemble <color=#ff8d48>{0}*{1}</color> into <color=#fffd90>{2} Parts</color>?,<color=#ff8d48>{1}×{0}</color>を<color=#fffd90>{2}パーツ</color>に分解しますか？,<color=#ff8d48>{0}개의{1}</color>을(를) <color=#fffd90>부품 {2}</color>개로 분해하시겠습니까?
+uimessagebox_save_cover_confirm0,覆盖确认,覆蓋確認,Overwrite Confirmation,セーブデータ上書き,덮어씌우기 확인
+uimessagebox_save_copy_cover0,复制将会覆盖当前存档，是否继续？,複製將會覆蓋目前存檔，是否繼續？,The duplicate will overwrite the current saved game. Continue?,現在のセーブを上書きします、よろしいですか？,"복제하시면 현재의 세이브 파일에 덮어씌워집니다, 계속하시겠습니까?"
+uimessagebox_save_cover0,保存将会覆盖当前存档，是否继续？,保存将会覆盖当前存档，是否继续？,Saving will overwrite the current saved game. Continue?,現在のセーブデータを上書きします、よろしいですか？,"저장하면 현재의 세이브 파일에 덮어씌워집니다, 계속하시겠습니까?"
+uimessagebox_save_delete_confirm0,删除确认,確認刪除,Delete Confirmation,セーブデータ削除,삭제 확인
+uimessagebox_save_delete0,删除将会导致当前存档彻底消失，是否继续？,刪除將會導致目前存檔徹底消失，是否繼續？,Deleting the saved game will cause it to disappear completely. Continue?,セーブデータを削除すると完全に消失します、よろしいですか？,"삭제하시면 현재의 세이브 파일이 완전히 지워집니다, 계속하시겠습니까?"
+uimessagebox_tip0,<color=#a4b1ff>提示</color>,提示,<color=#a4b1ff>Tip</color>,<color=#a4b1ff>ヒント</color>,<color=#a4b1ff>알림</color>
+uimessagebox_save_success0,存档成功！,存檔成功！,Saved!,セーブ成功！,저장 성공!
+uiweaponprepare_noacc0,当前没有合适的配件！,目前沒有合適的配件！,No suitable accessories!,条件を満たすアタッチメントはありません,현재 적합한 부품이 없습니다!
+unitcontrol_level0,Lv{0},Lv {0},Lv.{0},Lv.{0},Lv.{0}
+weapontype_barrel0,枪管,槍管,Barrel,バレル,총열
+weapontype_pulser0,枪托,槍托,Stock,ストック,개머리판
+weapontype_scope0,瞄具,瞄具,Scope,照準器,스코프
+weapontype_weapon0,武器,武器,Weapon,武器,무기
+text_not_enough_bag_space0,无法携带更多的道具！,無法攜帶更多的道具！,Unable to carry more items!,これ以上アイテムを携帯できません,아이템을 더 이상 소지할 수 없습니다!
+text_not_work_function0,敬请期待,敬请期待,Coming Soon,ご期待ください,개발중
+text_profile_exp0,{0}/{1},{0}/{1},{0}/{1},{0}/{1},{0}/{1}
+text_max_exp0,满级,滿級,Max Level,最大レベル,최대 레벨
+text_mission_updated0,<color=#a4b1ff>阶段目标已更新</color>,<color=#a4b1ff>階段目標已更新</color>,<color=#a4b1ff>Phase Objectives updated</color>,<color=#a4b1ff>段階任務が更新されました</color>,<color=#a4b1ff>단계 목표 업데이트 완료</color>
+text_mission_failupdated0,<color=#a4b1ff>失败条件已更新</color>,<color=#a4b1ff>失敗條件已更新</color>,<color=#a4b1ff>Failure Conditions updated</color>,<color=#a4b1ff>失敗条件が更新されました</color>,<color=#a4b1ff>실패 조건 업데이트 완료</color>
+text_mission_extraupdated0,<color=#a4b1ff>额外条件已更新</color>,<color=#a4b1ff>額外條件已更新</color>,<color=#a4b1ff>Bonus Ovjectives updated</color>,<color=#a4b1ff>サブ条件が更新されました</color>,<color=#a4b1ff>추가 조건이 갱신되었습니다</color>
+text_award_format0,{0}x<color=#ff8d48>{1:0.0}</color>=<color=#ff8d48>{2}</color>,{0}x<color=#ff8d48>{1:0.0}</color>=<color=#ff8d48>{2}</color>,{0}x<color=#ff9600>{1:0.0}</color>=<color=#ff9600>{2}</color>,{0}x<color=#ff8d48>{1:0.0}</color>=<color=#ff8d48>{2}</color>,{0}x<color=#ff8d48>{1:0.0}</color>=<color=#ff8d48>{2}</color>
+text_game_finish_title0,恭喜通关第{0}轮游戏,恭喜通關第{0}輪遊戲,Congratulations on completing Playthrough {0},ゲーム第{0}ラウンドクリアおめでとうございます,제{0}라운드 게임을 통과했습니다.축하합니다.
+text_game_finish_content0,你将进行存档功能来存储{0}周目的结局档案，并可【读取】该档案来开启{1}周目的新游戏,你將進行存檔功能來存儲{0}周目的結局檔案，並可【讀取】該檔案來開啟{1}周目的新遊戲,The save function can be used to store the ending file of Playthrough {0}. This file can also be used to [Load] and start a new game for Playthrough {1}.,セーブ機能を使用して{0}週目のクリアデータをセーブし、【ロード】でそのデータを読み込むと{1}週目のニューゲームを開始することができます。,{0}주간 엔딩 파일을 저장하기 위한 파일 저장 기능을 진행합니다. 이 파일을 【읽어】{1} 주간 새 게임을 시작할 수 있습니다.
+text_autosave0,游戏已保存,遊戲已保存,The game has been saved,ゲームを保存しました,게임 저장 완료
+text_terrain_forbid0,无法通行,無法通行,Impassable,通行不可,통행불가
+terrain_move0,行动,行動,AP,行動,행동
+terrain_sight0,视野,視野,VIS,視野,시야
+terrain_hit0,命中,命中,ACC,命中,명중
+terrain_dodge0,闪避,閃避,EVA,回避,회피
+mission_primary0,行动目标,行動目標,Mission Objective,行動目標,작전 목표
+mission_extra0,额外目标,額外目標,Bonus Objective,サブターゲット,추가 목표
+mission_fail0,失败条件,失敗條件,Failure Condition,失敗条件,실패 조건
+shortcut_0_10,返回,返回,Back,戻る,돌아가기
+shortcut_00,返回/菜单,返回/選單,Back/Menu,戻る/メニュー,돌아가기/메뉴
+shortcut_10,切换角色,切換角色,Switch Character,キャラクター切替,캐릭터 스위치
+shortcut_20,战场资讯,戰場資訊,Battlefield Information,戦域情報,전장 정보
+shortcut_30,危险范围,危險範圍,Danger Range,危険範囲,위험 범위
+shortcut_40,敌人视野,敵人視野,Enemy Visual Range,敵視野,적 시야
+shortcut_50,结束回合,結束回合,End Turn,ターン終了,턴 종료
+shortcut_60,战斗背包,戰鬥背包,Battle Backpack,戦闘バック,전투 배낭
+shortcut_70,跳过剧情,跳過劇情,Skip Story,シナリオスキップ,스토리 건너뛰기
+shortcut_80,切换任务,切換任務,Switch Mission,任務切り替え,미션 전환
+shortcut_90,攻击,攻擊,Attack,攻撃,공격
+shortcut_100,潜行/现形,潛行/現形,Stealth/Exposed,潜行/通常,스텔스/일반
+shortcut_stealth0,潜行,潛行,Stealth,潜行,스텔스
+shortcut_expose0,现形,現形,Exposed,通常,일반
+shortcut_110,合成/维修,合成/維修,Synthesize/Repair,合成・修理,합성/수리
+shortcut_compose0,道具合成,道具合成,Item Synthesis,アイテム合成,아이템 합성
+shortcut_repair0,维修,維修,Repair,修理,수리
+shortcut_120,翻页/回收,翻頁/回收,Next Page/Recover,ページを進める／リサイクル,넘기기/회수
+shortcut_changeitem0,翻页,翻頁,Next Page,次項へ進む,넘기기
+shortcut_recycle0,回收,回收,Recover,分解,회수
+shortcut_130,更换武器,更換武器,Switch Weapon,武器変更,무기 교체
+shortcut_140,物品栏1,物品欄 1,Item Slot 1,アイテムスロット１,아이템 바 1
+shortcut_150,物品栏2,物品欄 2,Item Slot 2,アイテムスロット２,아이템 바 2
+shortcut_160,物品栏3,物品欄 3,Item Slot 3,アイテムスロット３,아이템 바 3
+shortcut_170,物品栏4,物品欄 4,Item Slot 4,アイテムスロット４,아이템 바 4
+shortcut_180,物品栏5,物品欄 5,Item Slot 5,アイテムスロット５,아이템 바 5
+shortcut_190,物品栏6,物品欄 6,Item Slot 6,アイテムスロット６,아이템 바 6
+shortcut_200,技能1,技能 1,Skill 1,スキル１,스킬 1
+shortcut_210,技能2,技能 2,Skill 2,スキル２,스킬 2
+shortcut_220,技能3,技能 3,Skill 3,スキル３,스킬 3
+shortcut_230,技能4,技能 4,Skill 4,スキル４,스킬 4
+shortcut_240,技能5,技能 5,Skill 5,スキル５,스킬 5
+shortcut_250,镜头上移,鏡頭上移,Pan Up,カメラ移動-上,앵글 위로
+shortcut_260,镜头下移,鏡頭下移,Pan Down,カメラ移動-下,앵글 아래로
+shortcut_270,镜头左移,鏡頭左移,Pan Left,カメラ移動-左,앵글 좌로
+shortcut_280,镜头右移,鏡頭右移,Pan Right,カメラ移動-右,앵글 우로
+shortcut_290,角色详情,角色詳情,Character Details,キャラクター詳細,캐릭터 정보
+shortcut_300,切换移动,切換移動,Switch Movement,移動切替,이동 전환
+shortcut_310,快捷保存,快捷保存,Quick Save,クイックセーブ,바로 저장
+shortcut_320,快捷读取,快捷讀取,Quick Load,クイックロード,바로 읽기
+shortcut_manualtype0,移动模式:  {0},移動模式：  {0},Movement Mode: {0},操作モード:  {0},이동 모드:  {0}
+shortcut_brainwash0,沟通,溝通,Communicate,交流,대화
+shortcut_statueturret0,旋转,旋轉,Rotate,回転,회전
+text_page_num0,{0}/{1},{0}/{1},{0}/{1},{0}/{1},{0}/{1}
+text_save_slot0,SLOT {0},SLOT {0},SLOT {0},SLOT {0},SLOT {0}
+text_save_auto0,AUTO SAVE,AUTO SAVE,AUTO SAVE,AUTO SAVE,AUTO SAVE
+ap_left_tip0,仍有剩余的<color=#ff8d48>行动力</color>，是否直接结束当前回合？,仍有剩餘的<color=#ff8d48>行動力</color>，是否直接結束當前回合？,Unit still has <color=#ff8d48>Action Points</color> remaining. End the current turn?,使われていない<color=#ff8d48>AP</color>がありますが、このままターンを終了しますか？,잔여 <color=#ff8d48>AP</color>가 있습니다. 현재 턴을 종료할까요?
+ap_left_tip_20,仍有满<color=#ff8d48>行动力</color>的角色，是否直接结束当前回合？,仍有滿<color=#ff8d48>行動力</color>的角色，是否直接結束當前回合？,Unit still has <color=#ff8d48>Action Points</color> remaining. End the current turn?,<color=#ff8d48>AP</color>が使われていないユニットがいます。このまま現在のターンを終了しますか？,"아직 <color=#ff8d48>AP가</color>가 가득 찬 캐릭터가 있습니다, 현재 턴을 종료하시겠습니까?"
+turn_end_confirm0,<color=#a4b1ff>结束回合确认</color>,結束回合確認,<color=#a4b1ff>End Turn Confirmation</color>,<color=#a4b1ff>ターン終了の確認</color>,<color=#a4b1ff>턴 종료 확인</color>
+language_option_00,简体中文,简体中文,简体中文,简体中文,简体中文
+language_option_10,繁體中文,繁體中文,繁體中文,繁體中文,繁體中文
+language_option_20,English,English,English,English,English
+language_option_30,日本語,日本語,日本語,日本語,日本語
+language_option_40,한국어,한국어,한국어,한국어,한국어
+text_ui_keycantchange0,<color=#ff8d48>{0}</color>键无法作为设置键,<color=#ff8d48>{1}</color>键无法作为设置键,,,
+option_on0,开启,開啟,On,開く,켜기
+option_off0,关闭,關閉,Off,閉じる,끄기
+text_ui_keynone0,当前有部分按键没有配置快捷键，请进行配置，否则将可能影响游戏体验,当前有部分按键没有配置快捷键，请进行配置，否则将可能影响游戏体验,,,
+item_category_10,<color=#fe7978>伤害类</color>,<color=#fe7978>傷害類</color>,<color=#fe7978>Damage</color>,<color=#fe7978>ダメージ系</color>,<color=#fe7978>데미지</color>
+item_category_20,<color=#5ebe6f>恢复类</color>,<color=#5ebe6f>恢復類</color>,<color=#5ebe6f>Recovery</color>,<color=#5ebe6f>回復系</color>,<color=#5ebe6f>회복</color>
+item_category_30,<color=#00caff>功能类</color>,<color=#00caff>功能類</color>,<color=#00caff>Function</color>,<color=#00caff>戦略系</color>,<color=#00caff>기능</color>
+item_category_40,<color=#ffd37a>弹药</color>,<color=#ffd37a>彈藥</color>,<color=#ffd37a>Ammo</color>,<color=#ffd37a>弾薬</color>,<color=#ffd37a>탄약</color>
+item_category_50,<color=#b5b6bb>材料</color>,<color=#b5b6bb>材料</color>,<color=#b5b6bb>Materials</color>,<color=#b5b6bb>素材</color>,<color=#b5b6bb>재료</color>
+item_category_60,<color=#ce77da>器械类</color>,<color=#ce77da>器械類</color>,<color=#ce77da>Equipment</color>,<color=#ce77da>機械系</color>,<color=#ce77da>기계</color>
+text_compose_num0,需求量,需求量,Require,必要量,필요량
+text_compose_havenum0,持有量,持有量,Have,所持量,소지량
+text_compose_baghavenum0,背包持有,背包持有,In Backpack,バックパック保有数,배낭 속 소지량
+save_gamedata0,保存,保存,Save,セーブ,저장
+delete_gamedata0,删除,刪除,Delete,削除,삭제
+cover_gamedata0,覆盖,覆蓋,Overwrite,上書き,덮어쓰기
+copy_gamedata0,复制,複製,Copy,コピー,복제
+compose_confirm0,合成确认,合成確認,Synthesis Confirmation,合成の確認,합성 확인
+compose_confirm_tips0,是否消耗<color=#fffd90>{0}零件</color>、{1}合成<color=#ff8d48>{2}个{3}</color>？,是否消耗<color=#fffd90>{0}零件</color>、{1}合成<color=#ff8d48> {2} 個{3}</color>,Consume <color=#fffd90>{0} Parts</color> and {1} to synthesize <color=#ff8d48>{2} of {3}</color>?,<color=#fffd90>{0}パーツと{1}</color>を消費して、<color=#ff8d48>{3}×{2}</color>を合成しますか？,"<color=#fffd90>부품 {0}</color>개와, {1}을 사용하여 <color=#ff8d48>{2}개의 {3}</color>을(를) 합성하시겠습니까?"
+product_confirm0,制作确认,製作確認,Production Confirmation,製作の確認,제작 확인
+product_confirm_tips0,是否消耗<color=#fffd90>{0}零件</color>制作<color=#ff8d48>{1}个{2}</color>？,是否消耗<color=#fffd90>{0}零件</color>製作<color=#ff8d48> {1} 個{2}</color>,Consume <color=#fffd90>{0} Parts</color> to produce <color=#ff8d48>{1} of {2}</color>?,<color=#fffd90>{0}パーツ</color>を消費して、<color=#ff8d48>{2}×{1}</color>を製作しますか？,<color=#fffd90>부품 {0}</color>개를 소모하여 <color=#ff8d48>{1}개의 {2}</color>을(를) 제작하시겠습니까?
+text_undo0,撤销,撤銷,Cancel,取消,취소
+text_restoredefault0,恢复默认,恢復預設值,Restore to Default,初期値へ戻す,초기화
+text_copy0,复制,複製,Copy,複製,복제
+text_leave0,离开,離開,Exit,戻る,나가기
+text_depot_moveitem0,转移,轉移,Move,転送,옮기기
+text_depot_back0,返回,返回,Back,戻る,돌아가기
+text_depot_sell0,拆解,拆解,Disassemble,分解,나누기
+text_bag_sort0,自动整理,自動整理,Sort,自動整理,정리
+text_ui_choose0,选择,選擇,Select,選択,선택
+text_ui_confirm0,确定,確定,Confirm,閉じる,확인
+text_ui_compose0,订单确认,訂單確認,Order Confirmation,合成,합성
+text_ui_detail0,查看详情,查看詳情,View Details,詳細確認,상세보기
+text_ui_batch_compose0,合成,合成,Synthesize,アイテム合成,아이템 합성
+text_ui_batch_changenum0,修改数量,修改數量,Change Quantity,数量変更,수량 조절
+text_ui_product0,确认订单,確認訂單,Confirm Order,製作確認,제작하기
+text_ui_batch_product0,制作,製作,Produce,アイテム製作,아이템 제작
+text_ui_noacc0,暂无配件,暫無配件,No Accessories,アタッチメント無し,부품 부족
+text_ui_choose_acc0,选择配件,選擇配件,Select Accessories,アタッチメント選択,부품 선택
+text_ui_equip_acc0,装配,裝配,Equip,アタッチメント装備,부품 장착
+text_ui_unequip_acc0,卸下,卸下,Unequip,アタッチメントを外す,부품 해제
+text_ui_changeweapon0,切换,切換,Switch,武器変更,무기 교체
+text_ui_weaponchange0,升阶,升階,Upgrade,武器改造,무기 개조
+text_weapon_equiping0,已装备,已裝備,Equipped,装備品,장착 중
+text_weapon_levelup_confirm_title0,升阶确认,升階確認,Upgrade Confirmation,アップグレードの確認,업그레이드 확인
+text_weapon_levelup_confirm_tips0,是否消耗<color=#fffd90>{0}零件</color>、<color=#fffd90>{1}</color>，将<color=#ff8d48>{2}</color>从{3}阶升至<color=#ff8d48>{4}阶</color>？,是否消耗<color=#fffd90>{0}零件、{1}</color>，將<color=#ff8d48>{2}</color>從 {3} 階升至<color=#ff8d48> {4} 階</color>？,Consume <color=#fffd90>{0} Parts</color> and <color=#fffd90>{1}</color> to upgrade <color=#ff8d48>{2}</color> from Rank {3} to <color=#ff8d48>Rank {4}</color>?,<color=#fffd90>{0}パーツ、{1}</color>を消費して、<color=#ff8d48>{2}</color>を{3}から<color=#ff8d48>{4}ランク</color>にアップグレードしますか？,"<color=#fffd90>부품 {0}개, {1}</color>을(를) 소모하여 <color=#ff8d48>{2}</color>을(를) {3}단계에서 <color=#ff8d48>{4}단계</color>까지 업그레이드 하시겠습니까?"
+text_ui_roleprofile0,角色详情,角色詳情,STATUS,キャラクター詳細,캐릭터 정보
+text_ui_roletalent0,基因强化,基因強化,Genetic Enhancement,ゲノム強化,유전자 강화
+text_ui_weaponprepare0,武器整备,武器整備,Weapon Preparation,武器整備,무기 정비
+text_ui_compose_page0,道具合成,道具合成,Item Synthesis,アイテム合成,아이템 합성
+text_ui_product_page0,道具制作,道具製作,Item Production,アイテム作成,아이템 제작
+text_ui_depot_page0,背包仓库,背包倉庫,Backpack and Storage,バックパック収納,인벤토리
+text_ui_bag_page0,战斗背包,戰鬥背包,Battle Backpack,戦闘バック,전투 배낭
+text_ui_itemupgrade_page0,道具改造,道具改造,Item Modification,アイテム改造,아이템 개조
+text_ui_skill_passive0,基因特质,基因特質,Gene Trait,ゲノム特性,유전자 특성
+text_ui_skill_unlock0,解锁,解鎖,Unlock,解放,잠금 해제
+text_ui_skill_active0,技能,技能,Skill,ゲノムスキル,유전자 스킬
+text_ui_skillresult_dataerror0,数据错误,資料錯誤,Data Error,エラーデータ,데이터 오류
+text_ui_skillresult_noability0,能力不足,能力不足,Insufficient Ability,能力不足,능력치 부족
+text_ui_skillresult_incooldown0,冷却中,冷卻中,On Cooldown,クールダウン中,쿨 타임 중
+text_ui_skillresult_outofcount0,次数已用尽,次數已用盡,Out of Uses,これ以上動けない,횟수 부족
+text_ui_skillresult_nosp0,SP不足,SP 不足,Insufficient SP,SP不足,SP 부족
+text_ui_skillresult_noap0,AP不足,AP 不足,Insufficient AP,AP不足,AP 부족
+text_ui_skillresult_nodist0,距离不足,距離不足,Insufficient Distance,距離不足,거리 부족
+text_ui_skillresult_nobp0,BP不足,BP 不足,Insufficient BP,BP不足,BP 부족
+text_ui_skillresult_nocaster0,没有释放者,沒有施放者,No Caster,解放者がいません,시전자 부족
+text_ui_skillresult_inbuff0,已攻击过,已攻擊過,Already attacked,攻撃された,공격 완료
+text_ui_skillresult_inconditions0,未激活,未啟動,Not activated,未解放,활성화되지 않음
+text_ui_skillresult_silence0,失神中,失神中,Disoriented,失神中,넋을 잃다
+text_ui_gene_effect0,已激活,已啟動,Activated,有効状態,적용 완료
+text_ui_gene_equiped0,已装备,已裝備,Equipped,装備中,장착 완료
+text_attackinfo_noap0,<color=#ff7478>AP不足</color>,<color=#ff7478>AP 不足</color>,<color=#ff7478>Insufficient AP</color>,<color=#ff7748>AP不足</color>,<color=#ff7748>AP 부족</color>
+text_attackinfo_nobp0,<color=#ff7478>弹药不足</color>,<color=#ff7478>彈藥不足</color>,<color=#ff7748>Insufficient Ammo</color>,<color=#ff7748>弾薬不足</color>,<color=#ff7748>탄약 부족</color>
+text_attackinfo_nodist0,<color=#ff7478>射程以外</color>,<color=#ff7478>射程以外</color>,<color=#ff7748>Out of range</color>,<color=#ff7748>射程外</color>,<color=#ff7748>거리 부족</color>
+text_attackinfo_targetinvincible0,<color=#ff7478>目标无敌</color>,<color=#ff7478>目標無敵</color>,<color=#ff7748>Target is Invincible</color>,<color=#ff7748>ターゲットは不死身</color>,<color=#ff7748>목표물 무적 상태</color>
+text_attackinfo_inbuff0,<color=#ff7478>无法攻击</color>,<color=#ff7478>無法攻擊</color>,<color=#ff7748>Unable to Attack</color>,<color=#ff7748>攻撃不可</color>,<color=#ff7748>공격 불가</color>
+text_attackinfo_cannotbetarget0,<color=#ff7478>无效目标</color>,<color=#ff7478>無效目標</color>,<color=#ff7478>Invalid Target</color>,<color=#ff7478>無効なターゲット</color>,<color=#ff7478>유효하지 않은 목표</color>
+text_attackinfo_notarget0,<color=#ff7478>无目标</color>,<color=#ff7478>無目標</color>,<color=#ff7478>No Target</color>,<color=#ff7478>ターゲットなし</color>,<color=#ff7478>목표 없음</color>
+text_attackinfo_inattackdisabled0,<color=#ff7478>缴械中</color>,<color=#ff7478>繳械中</color>,<color=#ff7478>Disarmed</color>,<color=#ff7478>武装解除中</color>,<color=#ff7478>무장 해제 중</color>
+text_attackinfo_critical0,暴击,暴擊,Critical Hit,致命,치명타
+text_attackinfo_hit0,命中,命中,Accuracy,命中,명중
+text_ui_self_addition0,自身属性 ,自身屬性 ,Base Stats,デフォルト,개인 능력치
+text_ui_talent_addition0,基因加成 ,基因加成 ,Gene Bonus,ゲノムボーナス,유전자 보너스
+text_ui_weapon_addition0,武器属性 ,武器屬性 ,Weapon Attributes,武器ボーナス,무기 보너스
+text_ui_item_addition0,道具加成 ,道具加成 ,Item Bonus,アイテムボーナス,아이템 보너스
+text_ui_mood_addition0,心情加成 ,心情加成 ,Mood Bonus,,
+text_ui_buff_addition0,状态{0}加成 ,狀態 {0} 加成 ,Status {0} Bonus,ステータスボーナス{0},버프 {0} 보너스
+text_ui_specialability_addition0,特质{0}加成 ,特質 {0} 加成 ,Trait {0} Bonus,特性ボーナス{0},특성 {0} 보너스
+text_ui_terrain_addition0,地形属性 ,地形屬性 ,Terrain Bonus,地形ボーナス,지형 보너스
+text_ui_gamemode_10,休闲,休閒,Casual,カジュアル,쉬움
+text_ui_gamemode_20,标准,標準,Standard,ノーマル,일반
+text_ui_gamemode_30,挑战,挑戰,Challenge,チャレンジ,도전
+text_ui_gamemode_40,噩梦,噩夢,Nightmare,ナイトメア,악몽
+text_ui_gamemode_50,2092R,2092R,2092R,2092R,2092R
+text_ui_achievement_unlock_time0,{0}/{1}{2}/{3}{4} {5}{6}:{7}{8}:{9}{10} 达成,{0}/{1}{2}/{3}{4} {5}{6}:{7}{8}:{9}{10} 達成,{0}/{1}{2}/{3}{4} {5}{6}:{7}{8}:{9}{10} achieved,{0}/{1}{2}/{3}{4} {5}{6}:{7}{8}:{9}{10} 獲得,{0}/{1}{2}/{3}{4} {5}{6}:{7}{8}:{9}{10} 획득
+text_ui_achievement_secret0,剩余{0}项秘密成就，探索游戏来发现更多成就,剩餘 {0} 項秘密成就，探索遊戲來發現更多成就,{0} hidden achievements remaining. Explore the game to discover more achievements.,隠し実績が残り{0}個あります。探索して残りを探し出しましょう。,"히든 업적이 {0} 개 남았습니다, 게임을 탐색하며 더 많은 업적을 발견해보세요. "
+text_ui_achievement_total_progress0,已达成{0}/{1}项成就,已達成 {0}/{1} 項成就,{0}/{1} Achievements Unlocked,{0}/{1}個のアチーブメントを達成済,{0}/{1}개의 성과 달성
+text_ui_percent0,{0}%,{0}%,{0}%,{0}%,{0}%
+text_ui_show_ac_locked0,未达成成就,未達成成就,Not Achieved,未達成の実績,업적 미달성
+text_ui_show_ac_all0,全部成就,全部成就,All Achievements,全ての実績,모든 업적
+text_ui_collection_secret0,？？？,？？？,？？？,？？？,？？？
+text_ui_secretdoc_video_play0,正在播放,正在播放,Currently Playing,再生中,재생 중
+text_ui_secretdoc_video_pause0,暂停,暫停,Pause,ポーズ,일시 정지
+text_ui_gamebreak0,中断后会暂停战役并返回到标题界面，当前记录会被保存在<color=#ff8d48>中断存档</color>中，是否继续？,中斷後會暫停戰役並返回到標題介面，當前記錄會被保存在<color=#ff8d48>中斷存檔</color>中，是否繼續？,Force quitting will pause the battle and return to the main menu. The current game will be saved in a <color=#ff8d48>Disconnected Save</color>. Continue?,中断すると、この戦役を一時停止してタイトル画面に戻ります。現在の戦況は<color=#ff8d48>中断セーブデータ</color>内にセーブされます。続けますか？,중단 시 전투가 일시 중지되고 메인 화면으로 돌아갑니다. 현재 기록은 <color=#ff8d48>중단 파일</color>에 저장됩니다. 계속하시겠습니까?
+text_ui_backtitle0,返回确认,返回確認,Back Confirmation,決定,돌아가기 확인
+text_ui_savemode20,标准模式下每回合仅能保存一次。,標準模式下每回合僅能保存一次。,You can only save the game once per turn in Standard Mode.,ノーマルモードでは、ターンごとに一度だけセーブできます。,일반 모드에서는 턴마다 1회만 저장할 수 있습니다.
+text_ui_reinforce_win0,训练成功！,訓練成功！,Training Accomplished!,任務成功！,임무 성공!
+text_ui_reinforce_lose0,任务失败！,任務失敗！,Mission Failed!,任務失败！,임무 실패!
+text_ui_reinforce_evacuation0,撤离成功！,撤離成功,Evacuation successful!,撤退成功！,철수 성공!
+text_ui_noninteractive0,当前没有可进行交互的角色,目前沒有可互動的角色,No units to interact with,現在、交流できるキャラクターはいません,지금은 상호작용할 수 있는 캐릭터가 없습니다.
+text_ui_mystery_girl0,神秘少女,神秘少女,Mysterious Girl,謎の少女,수수께끼의 소녀
+text_ui_mystery_girl_en0,Mystery Girl,Mystery Girl,Mysterious Girl,Mystery Girl,Mystery Girl
+text_ui_wincondition0,胜利目标,勝利目標,Victory Objective,勝利目標,승리 목표
+text_ui_missioncondition0,阶段目标,階段目標,Phase Objective,ステージ目標,단계 목표
+text_ui_hud_cost0,消耗,消耗,Cost,消費,소비
+text_ui_mission_extratitle0,额外目标,額外目標,Bonus Objective,サブターゲット,추가 목표
+text_ui_cjaward0,《逆向坍塌：面包房行动》试玩周边一份,,,,
+text_ui_languagechange_tip0,是否切换游戏语言？,是否切換遊戲語言？,Change the game language?,言語設定を変更しますか？,게임 언어 설정을 변경하시겠습니까?
+text_ui_changeshortcut0,请<color=#ff8d48>直接按下</color>合理的更换健,请<color=#ff8d49>直接按下</color>合理的更换健,,,
+text_skillinfotype_attr_attack0,攻击,攻擊,ATK,攻撃,공격
+text_skillinfotype_attr_hit0,命中,命中,ACC,命中,명중
+text_skillinfotype_attr_armorpenetration0,破甲,破甲,ArP,徹甲,관통
+text_skillinfotype_attr_dodge0,闪避,閃避,EVA,回避,회피
+text_skillinfotype_attr_armor0,护甲,護甲,Armor,装甲,장갑
+text_skillinfotype_attr_sightrange0,普通视野,普通視野,NVR,普通視野,일반 시야
+text_skillinfotype_attr_stealthrange0,反潜视野,反潛視野,ASVR,反潜視野,안티 스텔스 시야
+text_skillinfotype_attr_attackrange0,射程,攻擊範圍,Range,攻撃範囲,공격 범위
+text_skillinfotype_distance0,施放距离,施放距離,Eff.Range,射程,시전 거리
+text_skillinfotype_dmg_block0,作用范围,作用範圍,RANGE,範囲,대상
+text_skillinfotype_trigger_area0,触发范围,觸發範圍,Area,触発範囲,발동 범위
+text_skillinfotype_cooldown0,冷却时间,冷卻時間,Cooldown,クールタイム,쿨 타임
+text_skillinfotype_cost0,SP消耗,SP 消耗,SP Cost,SP消費,SP 소비
+text_skillinfotype_carrycount0,携带量,攜帶量,Capacity,所持量,소지량
+text_skillinfotype_useap0,AP消耗,AP 消耗,AP Cost,AP消費,AP 소비
+text_skillinfotype_useen0,EN消耗,EN 消耗,EN Cost,EN消費,EN 소비
+text_ui_weaponprepare_lv0,等级{0},Lv {0},Lv {0},Lv{0},Lv. {0}
+text_ui_teamitem_00,我方全体角色<color=#ff8d48>AP上限+{0}</color>\n,我方全體角色<color=#ff8d48> AP 上限 +{0}</color>\n,All allied units <color=#ff8d48>AP Cap +{0}</color>\n,自軍全ユニット<color=#ff8d48>AP上限+{0}</color>\n,아군 전체 캐릭터 <color=#ff8d48>AP 최대치+{0}</color>\n
+text_ui_teamitem_10,我方全体角色<color=#ff8d48>SP上限+{0}</color>\n,我方全體角色<color=#ff8d48> SP 上限 +{0}</color>\n,All allied units <color=#ff8d48>SP Cap +{0}</color>\n,自軍全ユニット<color=#ff8d48>SP上限+{0}</color>\n,아군 전체 캐릭터 <color=#ff8d48>SP 최대치+{0}</color>\n
+text_ui_teamitem_20,我方全体角色<color=#ff8d48>普通视野+{0}</color>\n,我方全體角色<color=#ff8d48>普通視野 +{0}</color>\n,All allied units <color=#ff8d48>Normal Visual Range +{0}</color>\n,自軍全ユニット<color=#ff8d48>普通視野+{0}</color>\n,아군 전체 캐릭터 <color=#ff8d48>일반 시야+{0}</color>\n
+text_ui_teamitem_30,我方全体角色<color=#ff8d48>反潜视野+{0}</color>\n,我方全體角色<color=#ff8d48>反潛視野 +{0}</color>\n,All allied units <color=#ff8d48>Anti-Stealth Visual Range +{0}</color> \n,自軍全ユニット<color=#ff8d48>反潜視野+{0}</color>\n,아군 전체 캐릭터 <color=#ff8d48>안티 스텔스 시야+{0}</color>\n
+text_ui_teamitem_40,我方全体角色<color=#ff8d48>背包格数+{0}</color>\n,我方全體角色<color=#ff8d48>背包格數 +{0}</color>\n,All allied units <color=#ff8d48>Backpack Slot +{0}</color>\n,自軍全ユニット<color=#ff8d48>バックパック収納数+{0}</color>\n,아군 전체 캐릭터 <color=#ff8d48>배낭 슬롯+{0}</color>\n
+text_ui_teamitem_work0,获得{0}\n{1},獲得 {0}\n{1},Obtained {0}\n{1},獲得{0}\n{1},획득 {0}\n{1}
+text_ui_attr_battle_sp0,当前技力/技力上限,目前技力/技力上限,Current SP/SP Limit,現状のスキル/スキル上限,현재 SP/최대 SP
+text_ui_attr_prepare_sp0,初始技力/技力上限,初始技力/技力上限,Initial/Upper limit,初期スキル/スキル上限,최초 SP/최대 SP
+text_ui_remote_deploy0,"设置中,下回合可引爆","設定中,下回合可引爆",Deploying. Ready to detonate on the next turn.,設置後、次のターンに起爆可能,"세팅 중, 다음 턴 폭파 가능"
+text_ui_secretdoc_tips0,{0}已解锁，可在收集鉴赏的机密文件中查看。,{0}已解鎖，可在蒐集鑑賞的機密檔中查看,{0} unlocked. View it in Collection – Confidential Files.,{0}アンロックしたものは、「コレクション」のシークレットファイルで閲覧できます。,"{0}잠금 해제, 컬렉션 중 기밀 문서에서 확인해보세요."
+text_ui_mineset0,炸弹已安置,炸彈已安置,Bomb set,爆弾設置,폭탄 설치 완료
+uimessagebox_saveing0,保存中……,保存中……,Saving,セーブ中,저장 중
+text_ui_skill_lock0,未解锁,未解鎖,Locked,未開放,미해방
+text_ui_watchsearchlight0,探照灯路线,探照燈路線,Searchlight Route,サーチライトルート,탐조등 길
+text_message_watchsearchlight0,当前为探照灯观测模式，无法进行角色的操作,當前為探照燈觀測模式，無法進行角色的操作,Currently in Searchlight mode. Unable to perform the operation.,サーチライト観測モードです。ユニット操作を行えません,현재는 탐조등 관측 모드입니다. 캐릭터 조작을 할 수 없습니다.
+text_message_skinchanged0,该角色已穿戴了全新的服装,該角色已穿戴了全新的服裝,The character has put on a new outfit.,このユニットはすでに新しい服装を身に着けています,해당 캐릭터는 새로운 코스튬을 장착하였습니다
+text_ui_skinsource0,<color=#ff8d48>服装来源:</color>{0},<color=#ff8d48>服裝來源：</color>{0},<color=#ff8d48>Outfit Source:</color> {0},<color=#ff8d48>スキン出典:</color>{0},<color=#ff8d48>코스튬 출처</color>{0}
+text_ui_skillfail_outofrange0,<color=#ff7478>范围以外</color>,<color=#ff7478>範圍以外</color>,<color=#ff7478>Out of Range</color>,<color=#ff7478>範囲外</color>,<color=#ff7478>범위 외</color>
+text_ui_skillfail_cannotplaced0,<color=#ff7478>无法放置</color>,<color=#ff7478>無法放置</color>,<color=#ff7478>Cannot Place</color>,<color=#ff7478>設置不可</color>,<color=#ff7478>설치 불가</color>
+text_ui_skillfail_forbiddenzone0,禁区,禁區,Restricted Area,進入禁止,금지 구역
+text_ui_skillfail_cannotbetarget0,<color=#ff7478>无效目标</color>,<color=#ff7478>無效目標</color>,<color=#ff7478>Invalid Target</color>,<color=#ff7478>無効なターゲット</color>,<color=#ff7478>유효하지 않은 목표</color>
+text_ui_skillfail_notarget0,<color=#ff7478>无目标</color>,<color=#ff7478>無目標</color>,<color=#ff7478>No Target</color>,<color=#ff7478>ターゲットなし</color>,<color=#ff7478>목표 없음</color>
+text_get_itemcollection0,{0}已解锁，可在收集鉴赏的藏品收集中查看。,配件加成,{0} unlocked. View it in the Collectibles.,{0}アンロックしたものは、「コレクション」のシークレットファイルで閲覧できます。,"{0}잠금 해제, 컬렉션 중 수집품에서 확인해보세요"
+text_ui_attr_weapon0,武器属性,武器屬性,Weapon Stats,武器属性,무기 능력치
+text_ui_attr_acc0,配件加成,配件加成,Accessory Bonus,アタッチメントボーナス,부품 보너스
+text_ui_weaponlevel_10,一阶,一階,Tier 1,Tier 1,1단계
+text_ui_weaponlevel_20,二阶,二階,Tier 2,Tier 2,2단계
+text_ui_weaponlevel_30,三阶,三階,Tier 3,Tier 3,3단계
+text_ui_weaponlevel_40,四阶,四階,Tier 4,Tier 4,4단계
+text_ui_weaponlevel_50,五阶,五階,Tier 5,Tier 5,5단계
+text_ui_weaponlevel_60,六阶,六階,Tier 6,Tier 6,6단계
+text_ui_setmainweapon0,{0}的主武器已设置为{1}!,{0}的主武器已設定為{1}！,{1} has been set as {0}’s main weapon!,{0}のメイン武器を{1}に設定しました,{0}의 주무기가 {1}로(으로) 설정되었습니다!
+text_ui_gameload_title0,读档确认,讀檔確認,Load Confirmation,データロード,불러오기 확인
+text_ui_gameload_content0,是否读取<color=#ff8d48>存档{0}</color>的记录继续游戏？,是否讀取<color=#ff8d48>存檔{0}</color>繼續遊戲？,Load the <color=#ff8d48>Saved Game {0}</color> and resume the game?,<color=#ff8d48>セーブデータ{0}</color>でゲームを続けますか？,<color=#ff8d48>세이브 파일 {0}</color>의 기록으로 게임을 계속하시겠습니까?
+text_ui_gameload_content_20,读取<color=#ff8d48>存档{0}</color>后，原先的<color=#ff8d48>中断存档</color>将被删除，是否继续？,讀取<color=#ff8d48>存檔{0}</color>後，原先的<color=#ff8d48>中斷存檔</color>將被刪除，是否繼續？,"After loading the <color=#ff8d48>Saved Game {0}</color>, the original <color=#ff8d48>Quit Game file</color> will be deleted. Continue?",<color=#ff8d48>セーブデータ{0}</color>を読み取ると、今の<color=#ff8d48>中断セーブデータ</color>は削除されます、よろしいですか？,"<color=#ff8d48>세이브 파일 {0}</color>을(를) 불러오시면 원래의 <color=#ff8d48>중단 세이브 파일</color>은 삭제됩니다, 계속하시겠습니까?"
+text_ui_gameload_auto0,自动存档,自動封存,Auto Save,オートセーブ,자동 저장
+text_ui_gameload_manual0,手动存档,手動存檔,Manual Save,手動セーブ,수동 저장
+text_ui_reinforce_level0,推荐等级：{0},推薦等級：{0},Recommended Level: {0},推奨レベル：{0},추천 레벨: {0}
+text_ui_compose_havenum0,持有 {0},持有 {0},{0} in possession,所持数{0},소지 {0}
+text_ui_compose_bagdepotnum0,背包<color={0}>{1}/</color>{2}   仓库{3},背包<color={0}>{1}/</color>{2}	倉庫{3},Backpack <color={0}>{1}/</color>{2} Storage{3},バックパック<color={0}>{1}/</color>{2}   倉庫{3},배낭 <color={0}>{1}/</color>{2}  창고 {3}
+text_ui_compose_bagnum0,背包{0},背包{0},Backpack {0},バックパック{0},배낭 {0}
+text_ui_keyword_word0,关键词,詞條,Keyword,見出し,키워드
+text_ui_subkeyword_word0,关联词,關聯詞,Keyword,関連ワード,서브 키워드
+text_ui_keyword_record0,已收录,詞條已收錄,Recorded,含まれる言葉,키워드 수록 완료
+text_ui_keyword_update0,已更新,已更新,Already Updated,更新,업데이트 완료
+text_ui_tutorial_word0,教学,教學,Tutorial,教える,튜토리얼
+text_ui_tutorial_unlock0,已解锁,已解鎖,Unlocked,アンロック,잠금 해제 완료
+text_ui_achievement_word0,成就,成就,Unlocked,実績,업적
+text_ui_achievement_attain0,已达成,已達成,Achievements,達成済み,달성 완료
+text_ui_secretdoc_word0,机密文件,機密文件,Confidential Files,機密文章,기밀 문서
+text_ui_itemcollect_word0,藏品收集,藏品蒐集,Collectibles,コレクション,수집품
+text_ui_reinforce_lock0,未解锁,未解鎖,Locked,未開放,미해방
+text_ui_weaponprepare_unequipothersacc0,是否将<color=#ff8d48>{1}（{0}）</color>的<color=#ff8d48>{2}</color>卸下，并装配至<color=#ff8d48>{4}（{3}）</color>？,是否將<color=#ff8d48>{1}（{0}）</color>的<color=#ff8d48>{2}</color>卸下，並裝配至<color=#ff8d48>{4}（{3}）</color>？,Unequip <color=#ff8d48>{2}</color> from <color=#ff8d48>{1} ({0})</color> and equip it on <color=#ff8d48>{4} ({3})</color>?,<color=#ff8d48>{1}（{0}）</color>の<color=#ff8d48>{2}</color>を外して、<color=#ff8d48>{4}（{3}）</color>に装備させますか？,<color=#ff8d48>{1}（{0}）</color>의 <color=#ff8d48>{2}</color>을(를) 제거하고 <color=#ff8d48>{4}（{3}）</color>에 장착하시겠습니까?
+text_ui_weaponprepare_confirm_title0,配件更换确认,配件更換確認,Accessory Switch Confirmation,アタッチメント切り替えの確認,부품 교체 확인
+text_ui_checkteamweapon0,板凳队友的武器配件已上缴,板凳队友的武器配件已上缴,The weapon accessories of benched teammates have been turned in,,
+text_brainwash_noid0,<color=#ff7478>无对话</color>,<color=#ff7478>無對話</color>,<color=#ff7478>No Communication</color>,<color=#ff7478>対話無し</color>,<color=#ff7478>대화 없음</color>
+text_brainwash_nobuff0,<color=#ff7478>不可对话</color>,<color=#ff7478>不可對話</color>,<color=#ff7478>Unable to Communicate</color>,<color=#ff7478>対話不可</color>,<color=#ff7478>대화 불가</color>
+text_brainwash_nodist0,<color=#ff7478>距离以外</color>,<color=#ff7478>距離以外</color>,<color=#ff7478>Out of Range</color>,<color=#ff7478>距離外</color>,<color=#ff7478>거리 초과</color>
+text_statueturret_dont0,<color=#ff7478>不能旋转</color>,<color=#ff7478>不能旋轉</color>,<color=#ff7478>Unable to Rotate</color>,<color=#ff7478>旋回不能</color>,<color=#ff7478>회전 불가</color>
+text_levelmission_leftround0,剩余回合：{0},剩餘回合：{0},Remaining Turns: {0},残ターン：{0},남은 턴: {0}
+text_levelmission_leftcount0,剩余次数：{0},剩餘次數：{0},Remaining Uses: {0},残回数：{0},남은 횟수: {0}
+text_levelmission_leftdmg0,剩余承伤：{0},剩餘承傷：{0},Remaining Damage: {0},残ダメージ：{0},남은 데미지: {0}
+text_talkpoint_cantalk0,仅,僅,Only,のみ,단지
+text_ui_battlemain_hide0,隐匿,隱匿,Conceal,隠蔽,은폐
+shortcut_indoorstealth0,伪装,偽裝,Camouflage,偽装,위장
+shortcut_indoorthrow0,吸引,吸引,Lure,吸引,유인
+text_item_carrymax0,该道具已达携带上限！,該道具已達攜帶上限！,You have reached the inventory limit for this item!,このアイテムはこれ以上持てません！,해당 아이템은 더 이상 소지할 수 없습니다!
+text_format_level0,{0}级,{0} 級,LV{0},LV{0},Lv. {0}
+text_itemupgrade_request0,改造需求:,改造需求：,Modification Requirements:,改造依頼：,개조 수요:
+text_technology_request_available0,科技等级  {0}级,科技等級 {0} 級,Tech Level {0},技術レベル  {0},기술 등급 {0} 
+text_gp_request_available0,研发点数 {0},研發點數 {0},Research Points {0},研究開発ポイント {0},연구 포인트 {0}
+text_technology_text0,{0}级,{0} 級,LV{0},LV{0},Lv. {0}
+text_itemupgrade_cost_confirm0,是否消耗<color=#ffbf81>{0}研发点数</color>将<color=#ff8d48>{1}</color>改造至<color=#ff8d48>{2}级</color>？,是否消耗<color=#ffbf81> {0} 研發點數</color>將<color=#ff8d48>{1}</color>改造至<color=#ff8d48> {2} 級</color>,Consume <color=#ffbf81>{0} Research Points</color> to modify <color=#ff8d48>{1}</color> to <color=#ff8d48>Level {2}</color>?,<color=#ffbf81>{0}研究ポイント</color>を消費して、<color=#ff8d48>{1}</color>を<color=#ff8d48>Lv.{2}</color>に改造しますか？,<color=#ffbf81>연구 포인트 {0}</color>를 소모하여 <color=#ff8d48>{1}</color>을(를) <color=#ff8d48>Lv. {0}</color>까지 개조하시겠습니까?
+text_ui_technolotychange0,科技等级提升至<color=#ff8d48>{0}级</color>！,科技等級提升至<color=#ff8d48> {0} 級</color>！,Tech level has increased to <color=#ff8d48>level {0}</color>!,技術レベルを<color=#ff8d48>Lv.{0}</color>に上昇させる！,기술 등급을 <color=#ff8d48>Lv. {0}</color>까지 업그레이드!
+text_bag_full0,背包已满,背包已滿,Backpack is full,バックパックがいっぱいです,배낭이 가득 참
+text_bag_sameitem0,已携带该道具,已攜帶該道具,Item already in inventory,既にこのアイテムを所持してる,해당 아이템 소지 중
+text_bag_autopile_a0,已将仓库内部分道具的库存补充至背包内\n,已將倉庫內部分道具的庫存補充至背包內\n,Part of the inventory in the Storage has been replenished from the Backpack\n,倉庫内の一部アイテムのストックをリュックに移動しました\n,창고 내 일부 아이템 재고를 배낭에 보충하였습니다.
+text_bag_autopile_b0,已将超过上限部分的道具移至仓库\n,已將超過上限部分的道具移至倉庫\n,Items exceeding the inventory limit have been moved to the Storage\n,上限を超過したアイテムを倉庫に移動しました\n,상한을 넘을 일부 아이템을 창고로 이동시킵니다\n
+text_bag_autopile_c0,已将临时背包中道具移至仓库\n,已將臨時背包中道具移至倉庫\n,Items in the Temporary Backpack have been moved to the Storage\n,簡易リュックのアイテムは倉庫に移動しました\n,임시 백팩의 아이템을 인벤토리로 이동시켰습니다.\n
+text_item_level0,{0}级,{0} 級,LV. {0},LV. {0},LV. {0}
+text_bag_preset_defaultname0,预设{0},預設{0},Preset {0},プリセット{0},프리셋 {0}
+text_apply_preset0,是否套用当前预设？,是否套用目前預設？,Apply the current preset?,このプリセットを使用しますか？,프리셋을 적용하시겠습니까?
+text_save_preset0,保存将会覆盖当前预设，是否继续？,保存將會覆蓋目前預設，是否繼續？,Saving will overwrite the previous preset. Continue?,現在のプリセットを上書きします、よろしいですか？,"저장하시면 현재의 프리셋에 덮어씌워집니다, 계속하시겠습니까?"
+text_technology_reset_confirm0,科技重置后，科技等级及所有道具等级将全部变为<color=#ff8d48>1级</color>，且返还对应的<color=#ff8d48>所有研发点数</color>，是否消耗<color=#ff8d48>1个重置磁盘</color>执行此操作？,科技重置後，科技等級及所有道具等級將全部變為<color=#ff8d48>1級</color>，且返還對應的<color=#ff8d48>所有研發點數</color>，是否消耗<color=#ff8d48>1個重置磁片</color>執行此操作？,"After resetting tech, all tech and item levels will be changed to <color=#ff8d48>Lvl 1</color>, and all corresponding <color=#ff8d48>Research Points</color> will be refunded. Do you want to use <color=#ff8d48>1 Reset Disk</color> to perform this operation?",技術をリセットすると、技術レベルと全てのアイテム<color=#ff8d48>レベル1</color>になります。さらに対応する<color=#ff8d48>全ての研究ポイント</color>が返還されます。<color=#ff8d48>1個のリセットディスク</color>を消費してこの操作を行いますか？,"기술 리셋 후, 기술 등급 및 모든 아이템 레벨은 모두 <color=#ff8d48>1레벨</color>로 변경되며, 해당하는 <color=#ff8d48>모든 연구 포인트가 </color>반환됩니다. <color=#ff8d48>1개의 디스크 리셋</color>을 소모하여 이 작업을 수행하시겠습니까?"
+text_technology_reset_confirm_title0,重置确认,重置确认,Reset items?,アイテムリセット,아이템 리셋 확인
+text_compose_tobag0,已添加{0}个{1}至背包中,已添加{0}個{1}至背包中,Added {0} {1}s to the Backpack,{0}個の{1}をリュックに追加しました,배낭에 {0}게{1}를 추가했습니다
+text_compose_todepot0,背包已满，获得的{0}个{1}已放入仓库,背包已滿，獲得的{0}個{1}已放入倉庫,"Backpack is full, {0}x{1} obtained have been put in the Storage",リュックがいっぱいのため、入手した{0}個の{1}を倉庫に入れました,"배낭이 가득 차서, 획득한 {0}개{1}는 창고로 이동합니다"
+text_compose_both0,已添加{0}个{1}至背包中，超出携带上限的{2}个已入库,已添加{0}個{1}至背包中，超出攜帶上限的{2}個已入庫,"Added {0}x{1} to Backpack, {2} items exceeding limit have been moved to the Storage",{0}個の{1}をリュックに追加し、最大所持量を超えた{2}個を倉庫に入れました,"배낭에 {0}개{1}를 추가했습니다, 휴대 상한을 넘은 {2}개는 이미 창고에 들어갔습니다"
+text_item_maxcarray_change0,{0}道具升级后其携带上限已提升，\n并且已将仓库内具{1}个{0}道补充至背包内,{0}道具升級後其攜帶上限已提升，\n並且已將倉庫內具{1}個{0}道補充至背包內,"After upgrading {0} the carrying limit has been increased, \n{1}x{0} have been added to the Backpack from the Storage",{0}アイテムがレベルアップし、その最大所持量が増加しました。\nまた、倉庫内アイテムの{1}個の{0}がリュックに移動されました,"{0}아이템 레벨업 후, 휴대 상한이 향상되었습니다, \n그리고 창고 안 {1}개{0}의 아이템을 배낭으로 이동합니다."
+text_ui_timeworld_10,第一章,第一章,Chapter 1,第一章,제1장
+text_ui_timeworld_20,第二章,第二章,Chapter 2,第二章,제2장
+text_ui_timeworld_30,第三章,第三章,Chapter 3,第三章,제3장
+text_ui_timeworld_40,第四章,第四章,Chapter 4,第四章,제4장
+text_ui_timeworld_50,第五章,第五章,Chapter 5,第五章,제5장
+text_ui_timeworld_60,特殊,特殊,Special,特殊,특수
+text_ui_timeworld_90,一周目,一周目,Playthrough 1,一周目,1주목
+text_ui_timeworld_100,二周目,二周目,Playthrough 2,二周目,2주목
+text_ui_timeworld_subtitle_10,第一章副标题,第四章,Chapter 1 Subtitles,第四章,제4장
+text_ui_timeworld_subtitle_20,第一章副标题,第五章,Chapter 1 Subtitles,第五章,제5장
+text_ui_timeworld_subtitle_30,第一章副标题,特殊,Chapter 1 Subtitles,特殊,특수
+text_ui_timeworld_subtitle_40,第一章副标题,,Chapter 1 Subtitles,,
+text_ui_timeworld_subtitle_50,第一章副标题,,Chapter 1 Subtitles,,
+text_ui_timeworld_subtitle_90,一周目副标题,,Playthrough 1 Subtitles,,
+text_ui_timeworld_subtitle_100,二周目副标题,蒐集進度 {0}/{1},Playthrough 2 Subtitles,コレクション進捗{0}/{1},수집 진도 {0}/{1}
+text_artcollect_num0,收集进度{0}/{1},收集進度{0}/{1},Collection Progress {0}/{1},コレクション進捗 {0}/{1},수집 진도{0}/{1}
+text_quickbuy_tips0,是否消耗<color=#fffd90>{0}零件</color>、{1}快捷补充<color=#ff8d48>{2}个{3}</color>?,是否消耗<color=#fffd90>{0}零件</color>、{1}快捷補充<color=#ff8d48>{2}個{3}</color>？,Consume <color=#fffd90>{0} Parts</color> and {1} to quickly replenish <color=#ff8d48>{2}*{3}</color>?,<color=#fffd90>{0}パーツ</color>を消費して、{2}個の{3}を{1}クイック充填<color=#ff8d48>しますか？</color>？,<color=#fffd90>부품 {0}</color>개와 {1}을(를) 소모하여 <color=#ff8d48>{2}개의 {3}</color>을 일괄 보충하시겠습니까?
+text_quickbuy_maximum0,已达到该道具的补充上限！,已達到該道具的補充上限！,This item has been replenished to its maximum capacity!,これ以上アイテムを補充できません,해당 아이템은 최대치까지 보충되었습니다!
+text_quickbuy_productnum0,制作量,製作量,Production Amount,製作量,제작량
+text_quickbuy_singleparts0,单价,單價,Unit Price,単価,단가
+text_quickbuy_totalparts0,总价,總價,Total Price,合計,총 가격
+text_quickbuy_cantproduct0,不可制作,不可製作,Unable to Produce,製作不可,제작 불가
+text_quickbuy_composecost0,合成消耗,合成消耗,Synthesis Cost,合成消費,합성 소비
+text_quickbuy_composenum0,合成量,合成量,Synthesis Amount,合成量,합성량
+text_move2bag0,移至背包,移至背包,Move to Backpack,バックパックへ移す,배낭으로 옮기기
+text_move2depot0,移至仓库,移至倉庫,Move to Storage,倉庫へ移す,창고로 옮기기
+text_collection_nokeyword0,暂无词条,暫無詞條,Entry Not Found,見出し無し,키워드 없음
+text_preset_del_tips0,删除将会导致当前预设彻底消失，是否继续？,刪除將會導致當前預設徹底消失，是否繼續？,Deleting will permanently remove the current preset. Continue?,削除すると、現在のプリセットが失われてしまいます。続けますか？,"삭제하시면 현재의 프리셋이 완전히 지워집니다, 계속하시겠습니까?"
+text_hud_itemcost0,消耗  <color=#ff8d48>{0}AP</color>,消耗	<color=#ff8d48>{0} AP</color>,Consume <color=#ff8d48>{0} AP</color>,<color=#ff8d48>{0}AP</color>消費,<color=#ff8d48>{0}AP</color> 소비
+text_hud_name_teleport0,快速移动,快速移動,Teleport,高速移動,텔레포트
+text_hud_name_tower10,轰炸,轟炸,Bombardment,爆撃,폭파
+text_hud_name_tower20,吸引,吸引,Lure,吸引,유인
+text_hud_name_setmine0,埋雷,地雷陷阱,Lay Mine,地雷,지뢰 설치
+text_hud_name_talkpoint0,开门,開門,Open Door,ドアを開く,문 열기
+text_hud_name_controlswitch0,操控,操控,Control,操作,컨트롤
+text_hud_name_ferriswheel0,操控,操控,Control,操作,컨트롤
+text_hud_name_strop0,使用滑索,使用滑索,Use Zip Line,ジップラインを使う,짚라인 사용
+text_hud_name_brainwash0,对话,對話,Talk,話す,대화
+text_hud_name_mine0,引爆,引爆,Detonate,起爆,폭파
+text_hud_name_statueturret0,旋转,旋轉,Rotate,回る,회전
+text_hud_name_repeattalkpoint0,开关,開關,Use Switch,スイッチを押す,스위치
+text_itemupgrade_title0,道具改造,道具改造,Item Modification,アイテム改造,아이템 개조
+text_preset_apply_title0,套用确认,套用確認,Apply Preset,プリセット適用,적용 확인
+text_preset_save_title0,覆盖确认,覆蓋確認,Save Preset,プリセット保存,덮어씌우기 확인
+text_preset_delete_title0,删除确认,確認刪除,Delete Preset,プリセット削除,삭제 확인
+text_item_carrycount0,单格携带量,單格攜帶量,Carrying Capacity per Slot,１スロット当たりの所持量,슬롯 당 최대 소지량
+text_quickbuy_insufficient0,您当前没有足够的资源来合成更多的<color=#a4cbff>【{0}】</color>,您當前沒有足夠的資源來合成更多的<color=#a4cbff>【{0}】</color>,Not enough resources to synthesize more <color=#a4cbff>[{0}]</color>,追加で<color=#a4cbff>【{0}】を合成するための資源が足りません</color>,현재 더 많은 <color=#a4cbff>【{0}】</color>을(를) 합성할 충분한 자원이 없습니다.
+text_keyitem_type_name0,重要,重要,Important,重要,중요
+text_get_keyitem0,已获得{0} ，可在背包中的关键物查看。,【{0}】已獲得，可在背包中的關鍵物查看,{0} has been obtained. View in Key Items in your Backpack.,【{0}】を獲得しました、バックパックの「キーアイテム」から確認できます,"【{0}】 획득 완료, 배낭 속 키 아이템에서 확인"
+text_get_keyitem_title0,获得关键物,獲得關鍵物,Key Item Obtained,キーアイテムを獲得,키 아이템 획득
+text_ui_itemteam_dialog0,团队属性提升！,團隊屬性提升！,Team Equipment Upgraded,チーム装備のアップグレード,팀 장비 업그레이드 완료
+text_ui_itemteam_maxap_up0,全员最大AP提升,全員最大 AP 提升,Max AP increased for the entire team,全ユニットの最大AP上昇,전원 최대 AP 증가
+text_ui_itemteam_maxsp_up0,全员最大SP提升,全員最大 SP 提升,Max SP increased for the entire team,全ユニットの最大SP上昇,전원 최대 SP 증가
+text_ui_itemteam_sightrange_up0,全员普通视野提升,全員普通視野提升,Normal Visual Range increased for the entire team,全ユニットの普通視野拡大,전원 일반 시야 강화
+text_ui_itemteam_stealthrange_up0,全员反潜视野提升,全員反潛視野提升,Anti-Stealth Visual Range increased for the entire team,全ユニットの反潜視野拡大,전원 안티 스텔스 시야 강화
+text_ui_itemteam_bagcount_up0,全员背包容量提升,全員背包容量提升,Backpack Capacity increased for the entire team,全員のバックパック容量が増加,전원 배낭 용량 증가
+text_ui_itemteam_sightrange_steal_up0,全员隐匿视野提升,全員隱匿視野提升,Concealment Visual Range increased for the entire team.,全員の隠蔽視野が増加,전원 은닉 시야 증가
+text_remove_keyitem0,{0}已从背包中的关键物中移除。,{0}已從背包中的關鍵物中移除。,{0} has been removed from Key Items in the Backpack.,{0}がバックパック内のキーアイテム欄から取り除かれました。,{0}배낭의 키 아이템에서 제거했습니다.
+text_ui_savedata_version_tip0,网友改过地图配置了，加载可能有错！,,,,
+text_add_resetitem0,获得<color=#a4cbff>{0}</color>*{1},獲得<color=#a4cbff>{0}</color>*{1},<color=#a4cbff>{0}</color>*{1} obtained,<color=#a4cbff>{0}</color>*{1}獲得,<color=#a4cbff>{0}</color>*{1} 획득
+text_prepare_disable_skill0,下一战役将使用定制技能,下一戰役將使用訂製技能,The next battle will be fought with custom skills,スキルセット固定,다음 전투에서는 고정 스킬을 사용합니다
+text_prepare_disable_bag0,下一战役将使用定制背包,下一戰役將使用訂製背包,The next battle will be fought with a custom Backpack,所持アイテム固定,다음 전투에서는 고정 배낭을 사용합니다
+text_prepare_disable_reinforce0,角色已达团队最高等级,角色已達目前最高級,This character has reached the maximum level,レベル上限に到達しました,캐릭터가 최대 레벨까지 올랐습니다
+text_depot_disable_material0,材料不可置入仓库,材料不可置入倉庫,Materials cannot be placed in the Storage,材料は倉庫に保管できない,재료를 창고에 넣을 수 없습니다
+text_depot_disable_keyitem0,关键物不可置入仓库,關鍵物不可置入倉庫,Key Items cannot be placed in the Storage,キーアイテムは倉庫に保管できない,키 아이템은 창고에 넣을 수 없습니다
+text_geneupgrade_level0,等级{0},LV. {0},Lvl {0},Lv{0},Lv. {0}
+text_geneupgrade_gene_require_available0,潜能密钥{0},潛能秘鑰 {0},Potential Key {0},ゲノムキー{0},포텐셜 키 {0}
+text_geneupgrade_level_require_available0,{0}等级{1},{0} 等級 {1},{0} Level {1},{0}{1}レベル,{0}{1} 레벨
+text_geneupgrade_title0,强化确认,強化確認,Enhancement Confirmation,決定,강화 확인
+text_geneupgrade_confirm0,是否消耗<color=#ADB7FF>{2}</color><color=#ADB7FF>潜能密钥</color>将<color=#ff8d48>{0}</color>强化至<color=#ff8d48>{1}</color>级？,是否消耗<color=#ADB7FF> {2} </color><color=#ADB7FF>潛能秘鑰</color>將<color=#ff8d48>{0}</color>強化至<color=#ff8d48> {1} </color>級？,Consume <color=#ADB7FF>{2}</color> <color=#ADB7FF>Potential Keys</color> to enhance <color=#ff9600>{0}</color> to level <color=#ff9600>{1}</color>?,<color=#ADB7FF>ゲノムキー</color>を<color=#ADB7FF>{2}</color>消費して、<color=#ff8d48>{0}</color>を<color=#ff8d48>Lv.{1}</color>に強化しますか？,<color=#ADB7FF>{2}</color>개의 <color=#ADB7FF>포텐셜 키</color>를 소모하여 <color=#ff8d48>{0}</color>을(를) <color=#ff8d48>Lv {1}</color>까지 강화하시겠습니까?
+text_genemaster_part0,{0}碱基完成度：{1}%,{0}堿基完成度：{1}%,{0} Nucleobase Completion: {1}%,{0}塩基クオリティ：{1}%,{0}염기 완성도：{1}%
+text_genemaster_part_unlock0,消耗潜能密钥{0}/{1}可自动激活,消耗潛能密鑰{0}/{1}可自動啟動,Use {0}/{1} Pot. Keys to auto-activate,ゲノムキーを{0}/{1}個消費すれば解禁,포텐션 키 {0}/{1}개로 자동 활성화 가능함
+text_gene_lock0,未解锁,未解鎖,Locked,アンロック,미해방
+text_gene_unlock_require0,解锁需要,解鎖需要,Unlock Requirements,解放必要数,해금 필요 조건
+text_replay_title0,重开战役确认,重開戰役確認,Restart Battle,戦役再開確認,전투 재시작 확인
+text_replay_content0,是否回到当前战役起始状态重新开始战斗？,是否回到當前戰役起始狀態重新開始戰鬥？,Restart the current Battle?,現在の戦役を初期状態にリセットして、もう一度戦闘を開始しますか？,전투 초기 상태로 돌아가 다시 전투하시겠습니까?
+attr_forcefield0,力场,力場,Force Field,フォースフィールド,역장
+attr_forcefield_desc0,伤害减少,傷害減少,Damage Reduction,ダメージ減少,데미지 감소
+text_resetgene_title0,重组确认,重組確認,Reconfigure Confirmation,リビルド確認,재구성 확인
+text_resetgene_content0,是否消耗 {0} 个重组密钥进行【{1}】的基因重置。\n重置后，【{1}】的所有技能与特质将全部变为1级，且返还所有<color=#ff8d48>{2}</color>潜能密钥。,是否消耗 {0} 個重組密鑰進行【{1}】的基因重置。\n重置後，【{1}】的所有技能與特質將全部變為1級，且返還所有<color=#ff8d48>{2}</color>潛能密鑰。,"Use {0} Recombination Keys for [{1}] Gene Reset? \nAll [{1}] Skills and Traits will be set to Level 1, and all <color=#ff8d48>{2}</color> Potential Keys will be refunded after the reset.",{0}個のリビルドキーを消費して【{1}】のゲノムリセットを行いますか？\nリセットすると、【{1}】のスキルと特質が全てレベル1になり、<color=#ff8d48>{2}</color>のゲノムキーが全て返還されます。,{0}개의 재구성 키를 소비하여 【{1}】의 유전자 리셋를 하시겠습니까.\n 리셋 후 【{1}】의 모든 스킬과 특성은 모두 1급으로 바뀝니다. 또한 모든<color=#ff8d48>{2}</color> 포텐셜 키를 반환합니다.
+text_timeback_title0,视界跃迁确认,視界躍遷確認,Backtrack,視野遷移の確認,시야 점프 확인
+text_timeback_content0,是否确认视界跃迁至<color=#ff8d48>{0}</color>？,是否確認視界躍遷至<color=#ff8d48>{0}</color>？,Backtrack to <color=#ff8d48>{0}</color>?,<color=#ff8d48>{0}</color>まで視野遷移しますか？,시야를 <color=#ff8d48>{0}</color>으로 점프하시겠습니까?
+text_jumplevel_title0,记忆跃迁确认,記憶躍遷確認,Jump,記憶遷移の確認,메모리 점프 확인
+text_jumplevel_content0,是否消耗<color=#ff8d48>{0}记忆点</color>立刻记忆跃迁至<color=#ff8d48>{1}</color>？,是否消耗<color=#ff8d48>{0}記憶點</color>立刻記憶躍遷至<color=#ff8d48>{1}</color>？,Use <color=#ff8d48>{0} Jump Points</color> to immediately Jump to <color=#ff8d48>{1}</color>?,<color=#ff8d48>{0}記憶ポイント</color>を消費して、<color=#ff8d48>{1}</color>まで記憶遷移しますか？,<color=#ff8d48>{0}메모리 포인트</color>를 소모하여 즉시 <color=#ff8d48>{1}</color>으로 메모리 점프 하시겠습니까?
+text_jumplevel_word0,记忆跃迁,記憶躍遷,Jump,記憶遷移,메모리 점프
+text_award_damp_format0,{0}x<color=#ff8d48>{1:0.0}</color>x<color=#ff8d48>{2:0.0}</color>=<color=#ff8d48>{3}</color>,{0}x<color=#ff8d48>{1:0.0}</color>x<color=#ff8d48>{2:0.0}</color>=<color=#ff8d48>{3}</color>,{0}x<color=#ff9600>{1:0.0}</color>x<color=#ff9600>{2:0.0}</color>=<color=#ff9600>{3}</color>,{0}x<color=#ff8d48>{1:0.0}</color>x<color=#ff8d48>{2:0.0}</color>=<color=#ff8d48>{3}</color>,{0}x<color=#ff8d48>{1:0.0}</color>x<color=#ff8d48>{2:0.0}</color>=<color=#ff8d48>{3}</color>
+text_gene_upgrade0,强化,強化,Gene Enhancement,ゲノム強化,유전자 강화
+text_gene_select0,选择技能,選擇技能,Select Skills,スキル選択,스킬 선택
+text_gene_deploy0,替换技能,替換技能,Switch Skills,スキル交換,스킬 교체
+text_geneupgrade_level_require_unavailable0,{0}等级<color=#b94343>{1}</color>/{2},{0}等級<color=#b94343> {1}</color>/{2},{0}Level<color=#b94343>{1}</color>/{2},{0}不足<color=#b94343>{1}</color>/{2}レベル,{0}이(가) <color=#b94343>{1}</color>/{2}레벨 미만입니다
+text_geneupgrade_gene_require_unavailable0,潜能密钥<color=#b94343>{0}</color>/{1},潛能秘鑰<color=#b94343> {0}</color>/{1},Gene Keys <color=#b94343>{0}</color>/{1},ゲノムキー<color=#b94343>{0}</color>/{1},포텐셜 키 <color=#b94343>{0}</color>/{1}
+text_technology_request_unavailable0,科技等级 <color=#b94343>{0}</color>/{1},科技等級 <color=#b94343>{0}</color>/{1},Tech Level <color=#b94343>{0}</color>/{1},技術レベル <color=#b94343>{0}</color>/{1},과학기술 등급 <color=#b94343>{0}</color>/{1}
+text_gp_request_unavailable0,研发点数 <color=#b94343>{0}</color>/{1},研發點數<color=#b94343> {0}</color>/{1},Research Points <color=#b94343>{0}</color>/{1},研究ポイント <color=#b94343>{0}</color>/{1},연구 포인트  <color=#b94343>{0}</color>/{1}
+text_mark_itemupgrade0,道具可改造,道具可改造,Item Modification Available,アイテム改造可能,아이템 개조 가능
+text_mark_geneupgrade0,基因可强化,基因可強化,Gene Enhancement Available,ゲノム強化可能,유전자 강화 가능
+text_mark_weaponupgrade0,武器可升阶,武器可升階,Weapon Upgrade Available,武器アップグレード可能,무기 업그레이드 가능
+text_gene_activate0,已激活,已啟動,Activated,活性化中,활성화 완료
+text_title_unittypetips_10,人类,人類,Human,人間,인간
+text_title_unittypetips_20,机械,機械,Machine,機械,기계
+text_title_unittypetips_30,生骸,生骸,ELID Creatures,生骸,생해
+text_title_unittypetips_40,伯劳,伯勞,Shrike,シュライク,슈라이크
+text_title_unittypecontent_10,人类单位,人類單位,Human Unit,人間ユニット,인간 유닛
+text_title_unittypecontent_20,机械单位,機械單位,Mechanical Unit,機械ユニット,기계 유닛
+text_title_unittypecontent_30,受辐射感染变异的特殊生物单位,受輻射感染變異的特殊生物單位,Endemic Creature Infected and Mutated by Radiation,放射線に感染した突然変異の特殊生物,방사능 감염으로 변이된 특수 생물 유닛
+text_title_unittypecontent_40,一种全新且未知的生命形态单位,一種全新且未知的生命形態單位,A Completely New and Unknown Life Form,新しい未知の生命体,미지의 새로운 형태의 생명 유닛
+text_weaponskill_new0,新增特质,新增特質,New Traits,新規特質,새로 추가된 특성
+text_weaponskill_cur0,等级{0},等級{0},Level {0},レベル{0},레벨 {0}
+text_weaponskill_next0,等级{0},等級{0},Level {0},レベル{0},레벨 {0}
+text_accskill_type_00,武器特质,武器特質,Weapon Traits,武器特性,무기 특성
+text_accskill_type_10,补偿器特质,補償器特質,Compensator Traits,マズルブレーキ特性,보정기 특성
+text_accskill_type_20,高倍瞄具特质,高倍率瞄具特質,Long-Range Scope Attributes,高倍率スコープ特性,고배율 스코프 특성
+text_accskill_type_30,基础瞄具特质,基礎瞄具特質,Basic Scope Traits,アイアンサイト特性,기본 스코프 특성
+text_accskill_type_40,镭射器特质,雷射器特質,Laser Traits,レーザーサイト特性,전방 손잡이 특성
+text_accskill_type_50,脉冲器特质,脈衝器特質,Pulser Traits,パルスマシン特性,펄스 장치 특성
+text_accskill_type_60,前握把特质,前握把特質,Foregrip Traits,フォアグリップ特性,전방 손잡이 특성
+text_accskill_type_70,枪管特质,槍管特質,Barrel Traits,バレル特性,총열 특성
+text_accskill_type_80,枪托特质,槍托特質,Stock Traits,ストック特性,개머리판 특성
+text_accskill_type_90,收束环特质,收束環特質,Choke Traits,チョーク特性,초크루프 특성
+text_accskill_type_100,消音器特质,消音器特質,Suppressor Traits,サプレッサー特性,소음기 특성
+text_accskill_type_110,火控芯片特质,火控晶片特質,Fire Control Chip Traits,射撃管制チップ特性,불의 통제 메모리칩 특성
+text_accskill_type_120,伯劳刀刃特质,伯勞刀刃特質,Shrike Blade Traits,シュライク刀身特性,슈라이크 칼날 특성
+text_accskill_type_130,伯劳刀柄特质,伯勞刀柄特質,Shrike Hilt Traits,シュライクの柄特性,슈라이크 칼자루 특성
+text_accskill_type_140,伯劳刀油特质,伯勞刀油特質,Shrike Blade Oil Traits,シュライクの刀剣油特性,슈라이크 칼기름 특성
+text_weaponskill_unlock_info0,武器{0}解锁,武器{0}解鎖,Weapon {0} unlocked,武器{0}アンロック,무기 {0} 잠금 해제
+text_secretdoc_text0,文档,文件,Document,ドキュメント,텍스트
+text_secretdoc_audio0,音频,音訊,Audio,音声,오디오
+text_secretdoc_video0,视频,影片,Video,動画,비디오
+text_secretdoc_pic0,图像,圖像,Image,画像,이미지
+text_upgrade_genepoint_unsatisfy0,潜能密钥不足！,潛能秘鑰不足！,Insufficient Potential Keys!,ゲノムキー不足！,포텐셜 키가 부족합니다!
+text_upgrade_playerlevel_unsatisfy0,角色等级不足！,角色等級不足！,Insufficient Character Level!,キャラクターレベル不足！,캐릭터 레벨이 부족합니다!
+text_upgrade_gene_maxlevel0,该基因已达满级！,該基因已達滿級！,This gene has reached the max level!,ゲノム最大改造済み！,해당 유전자는 이미 최대 레벨입니다!
+text_upgrade_weaponmaterial_unsatisfy0,所需材料不足！,所需材料不足！,Insufficient Materials!,必要材料不足！,필요한 재료가 부족합니다!
+text_upgrade_weaponlevel_max0,该武器已达满级！,該武器已達滿級！,This weapon has reached the max level!,武器最大改造済み！,해당 무기는 이미 최대 레벨입니다!
+text_upgrade_technology_unsatisfy0,科技等级不足！,科技等級不足！,Insufficient Tech Level!,技術レベル不足！,기술 등급이 조건에 도달하지 못했습니다!
+text_upgrade_gp_unsatisfy0,研发点数不足！,研發點數不足！,Insufficient Research Points!,研究ポイント不足！,연구 포인트가 부족합니다!
+text_upgrade_item_maxlevel0,该道具已达满级！,該道具已達滿級！,This item has reached the max level!,武器最大改造済み！,해당 아이템은 이미 최대 레벨입니다!
+text_gene_bar0,技能栏,技能欄,Skill Bar,スキルバー,스킬바
+text_gene_bar_prepare0,技能配置,技能配置,Skill Configuration,スキル装備,스킬 정비
+text_gene_skill_passive0,特质,特質,Traits,特性,특성
+uimessagebox_important_tip0,<color=#a4b1ff>重要提示</color>,<color=#a4b1ff>重要提示</color>,<color=#a4b1ff>Important Reminder</color>,<color=#a4b1ff>大事なヒント</color>,<color=#a4b1ff>중요 알림</color>
+uimessagebox_max_product0,该道具的库存已达上限！,該道具的庫存已達上限！,Item has reached the inventory limit!,このアイテムは既に所持数上限に達しています！,해당 아이템의 저장 갯수가 상한선에 도달했습니다!
+uimessagebox_max_sell0,您是否确认仍然要拆解此道具，拆解后零件上限会超出？,您是否確認仍然要拆解此道具，拆解後零件上限會超出？,Confirm the disassembly of the item? Parts limit will be exceeded after disassembly.,分解後のパーツ数が所持数上限を超えてしまいますが、それでもこのアイテムを分解しますか？,이 아이템을 분해하고 분해 후에도 부품 상한이 초과된다는 것을 확인하셨나요?
+ui_itemorder_maxcarry0,该道具已达携带上限！,該道具已達攜帶上限！,Max carry limit for this item has been reached!,このアイテムは既に携帯可能数上限に達しています！,해당 아이템은 소지 가능 상한선에 도달했습니다!
+ui_dialogrecord_switch_on0,词条开,開啟詞條,Entry Open,見出しを開く,키워드 켬
+ui_dialogrecord_switch_off0,词条关,關閉詞條,Entry Closed,見出しを閉じる,키워드 끔
+uimessagebox_itemsort_tip0,自动整理已完成！,自動整理已完成！,Auto Sort Complete!,自動整理完了しました,자동 정리 완료!
+uimessagebox_itemsort_content0,已将您背包内的道具根据道具类型进行了自动整理,已將您背包內的道具根據道具類型進行了自動整理,Items in the Backpack have been automatically organized based on item types,リュックのアイテムは、タイプ別に自動的に整理されました。,백팩 안의 아이템을 아이템 유형에 따라 자동 정리했습니다
+uimessagebox_cgsave_content0,保存成功，该CG已保存于{0}。,保存成功，該CG已保存於{0}。,Save successful. The CG has been saved in {0}.,保存を完了しました。このCGは{0}に保存されます。,"저장 성공, 해당CG가 {0}에 저장되었습니다."
+uimessagebox_cgsave_title0,提示,提示,Hint,ヒント,알림
+uiitem_iteminfo_shortcut0,翻页   {0}  /  2,翻頁	{0}/2,Turn Page {0}/2,ページを開く  {0}  /  2,넘기기   {0}  /  2
+ui_reinforce_exp_overflow0,此次训练会有{0}经验溢出！,此次訓練會有 {0} 經驗值溢出！,This training session will generate an overflow of {0} EXP!,この訓練では{0}経験値が無駄になります！,이번 훈련은 경험치가 {0}만큼 넘어납니다.
+ui_reinforce_limitlevel0,现阶段团队等级上限：{0},現階段團隊等級上限：{0},Team Level Cap: {0},模擬訓練で到達可能な最大レベル：{0},모의 훈련을 통해 도달할 수 있는 최고 레벨: {0}
+ui_reinforce_exp_word0,训练经验,訓練經驗,Training EXP,訓練経験,훈련 경험치
+text_hud_name_railtransport_control0,操控,操控,Control,操る,컨트롤
+text_hud_name_railtransport_geton0,搭乘,搭乘,Board,乗る,탑승
+text_hud_name_railtransport_getoff0,下车,下車,Get off,降りる,하차
+text_ui_skintip_title0,{0}新服装解锁,{0}新服裝解鎖,New outfit {0} unlocked,{0}の新たなスキンを開放しました,{0} 신규 코스튬 잠금 해제
+rolebattleinfo_buffcount0,{0}层：{1},{0} 層：{1},{0} stack(s): {1},{0}枚：{1},{0} 층: {1}
+text_ui_technolotychange_withitem0,的等级上限已突破！,的等級上限已突破！,Level Cap Increased!,レベルキャップを突破。改造項目が増えました！,의 레벨 제한이 해제되어 심층 개조를 진행할 수 있게 되었습니다! 
+text_ui_technolotychange_title0,科技等级提升,科技等級提升,Tech Level Increased!,技術レベル上昇！,기술 등급 상승!
+text_ui_battlewin_exp_tip_title0,经验,經驗,EXP,経験値,경험치
+text_ui_battlewin_part_tip_title0,零件,零件,Parts,パーツ,부품
+text_ui_battlewin_gp_tip_title0,研发点数,研發點數,Research Points,研究ポイント,연구 포인트
+text_ui_battlewin_rewardfinish0,通关获得,過關獲得,Clear Reward,パス獲得,클리어 보상
+text_ui_battlewin_factor_wincount0,评价加成系数,評價加成係數,Rating Bonus Coefficient,評価ボーナス倍率,평가 보너스 계수
+text_ui_battlewin_factor_damp0,视界跃迁折算系数,視界躍遷折算係數,Visual Leap Conversion,視野遷移換算係数,시야 점프 전환계수
+text_escmenu_backtitle0,回到标题,回到標題,Return to Title,タイトルへ戻る,타이틀로
+text_escmenu_backprepare0,返回整备,返回整備,Return to Preparation,準備画面へ戻る,정비하기
+text_hud_name_drivableaa_geton0,驾驶,駕駛,Drive,操縦,운전
+text_hud_name_drivableaa_getoff0,离开,離開,Exit,戻る,나가기
+shortcut_aagetoff0,离开,離開,Exit,戻る,나가기
+text_ui_bagtype_battle0,战斗背包,戰鬥背包,Battle Backpack,戦闘バックパック,전투 배낭
+text_ui_bagtype_temp0,临时背包,臨時背包,Temporary Backpack,一時収納パック,임시 배낭
+text_ui_unitgene_showcd0,查看冷却,查看冷卻,Show Cooldown,冷却を調べる,쿨 타임 보기
+text_ui_unitgene_closecd0,关闭冷却,關閉冷卻,Hide Cooldown,冷却をオフにする,쿨 타임 끄기
+text_ui_roleprofile_disableskin0,本战役不可更换服装,本戰役不可更換服裝,Cannot change outfit in this battle,この戦役ではスキンを変更できません,본 전투에서는 코스튬 교체가 불가합니다.
+text_ui_gamefinish_title0,恭喜通关,恭喜通關,Congratulations on clearing the game!,クリアおめでとうございます,축하합니다. 관문을 통과했습니다.
+text_ui_gamefinish_savetip0,恭喜您完成了第{0}轮（{1}模式）的游戏流程，请进行通关存档。\n您可读取该通关存档复盘战役或继承该存档开始下一轮的旅程。,恭喜您完成了第{0}輪（{1}模式）的遊戲流程，請進行通關存檔。\n您可讀取該通關存檔複盤戰役或繼承該存檔開始下一輪的旅程。,Congratulations on completing playthrough {0} ({1} Mode) of the game. Please save your game data. \nYou can load the completed save to replay the battles or use the completed save to start the next playthrough.,第{0}ラウンド（{1}モード）のゲームプロセスをクリアしました。おめでとうございます。クリアデータをセーブしてください。\nこのクリアデータをロードして戦役を再現したり、データを引き継いで次のラウンドをプレイしたりすることができます。,제{0}라운드의（{1}모드）게임을 완성했습니다. 축하합니다. 관문 통과 저장을 진행하십시오.\n 관문 통과 파일을 읽어 전투를 리플레이 하거나 이어서 다음 여행을 시작할 수 있습니다.
+text_ui_battlewin_total_tip0,最终获得,最終獲得,Final Acquisition,最終獲得,최종 획득
+text_ui_gamesave_replaymode0,复盘模式,重看檢討模式,Replay Mode,再現モード,리플레이 모드
+text_ui_gamesave_gamefinish0,已通关,已過關,Cleared,クリア,클리어 완료
+text_ui_gameload_inheirt0,继承该存档开始第{0}轮游戏，初始潜能密钥为{1}，初始研发点数为{2}，初始零件数量为{3}，是否继续？,繼承該存檔開始第{0}輪遊戲，初始潛能密鑰為{1}，初始研發點數為{2}，初始零件數量為{3}，是否繼續？,Reload saved game to start Playthrough {0}. Starting Potential Key: {1}. Starting Research Points: {2}. Starting Parts: {3}. Continue?,このセーブデータを引き継いで第{0}ラウンドのゲームを開始します。初期ゲノムキーは{1}、初期研究ポイントは{2}、初期パーツ数は{3}です。続けますか？,"해당 저장을 불러와 {0}라운드 게임을 시작합니다. 초기 포텐셜 키는 {1}고, 초기 연구 포인트는 {2}이며, 초기 부품 수는 {3}입니다, 이대로 진행하시겠습니까?"
+text_ui_newgame_inherit_title0,继承确认,繼承確認,Reload Game,引き継ぎ確認,이어서 하기 확인
+text_ui_newgame_inherit0,是否继承通关存档开始新一轮游戏？,是否繼承通關存檔開始新一輪遊戲？,Reload saved game to start a new playthrough?,クリアデータを引き継いで、新たにゲームを始めますか？,관문 통과 파일을 이어받아 새로운 게임을 시작하시겠습니까?
+text_ui_levelcollection_mode_10,休闲,休閒,Casual,カジュアル,쉬움
+text_ui_levelcollection_mode_20,标准,標準,Standard,ノーマル,일반
+text_ui_levelcollection_mode_30,挑战,挑戰,Challenge,チャレンジ,도전
+text_ui_levelcollection_mode_40,噩梦,噩夢,Nightmare,ナイトメア,악몽
+attr_guard0,护盾,護盾,Shield,シールド,쉴드
+attr_guard_desc0,每层护盾可抵挡一次伤害,每層護盾可抵擋一次傷害,Every shield stack can block a single attack.,ダメージ減少,데미지 감소
+attr_energy0,能量,能量,Energy,エネルギー,에너지
+attr_energy_desc0,用于释放技能,用於釋放技能,Used for releasing skills,スキル発動のために,스킬 방출에 사용
+text_hud_teleport_occupy0,<color=#ff7748>出口被占</color>,<color=#ff7748>出口遭佔領</color>,<color=#ff7748>The exit has been occupied</color>,<color=#ff7748>出口占領中</color>,<color=#ff7748>출구가 점령 당함</color>
+text_hud_passengergetoff_occupy0,<color=#ff7748>出口被占</color>,<color=#ff7748>出口遭佔領</color>,<color=#ff7748>The exit has been occupied</color>,<color=#ff7748>出口占領中</color>,<color=#ff7748>출구가 점령 당함</color>
+text_ui_acc_type_10,补偿器,補償器,Compensator,コンペンセイター,보정기
+text_ui_acc_type_20,高倍瞄具,高倍率瞄具,Long-Range Scope,高倍率スコープ,고배율 스코프
+text_ui_acc_type_30,基础瞄具,基礎瞄具,Basic Scope,アイアンサイト,기본 스코프
+text_ui_acc_type_40,镭射器,鐳射器,Laser,レーザーサイト,레이저 발사기
+text_ui_acc_type_50,脉冲器,脈衝器,Pulser,パルスマシン,펄스 장치
+text_ui_acc_type_60,前握把,前握把,Foregrip,フォアグリップ,전방 손잡이
+text_ui_acc_type_70,枪管,槍管,Barrel,バレル,총열
+text_ui_acc_type_80,枪托,槍托,Stock,ストック,개머리판
+text_ui_acc_type_90,收束环,收束器,Choke,チョーク,초크루프
+text_ui_acc_type_100,消音器,消音器,Suppressor,サプレッサー,소음기
+text_ui_acc_type_110,火控芯片,火控晶片,Fire Control Chip,射撃管制チップ,불의 통제 메모리칩
+text_ui_acc_type_120,伯劳刀刃,伯勞刀刃,Shrike Blade,シュライク刀身,슈라이크 칼날
+text_ui_acc_type_130,伯劳刀柄,伯勞刀柄,Shrike Hilt,シュライクの柄,슈라이크 칼자루
+text_ui_acc_type_140,伯劳刀油,伯勞刀油,Shrike Blade Oil,シュライクの刀剣油,슈라이크 칼기름
+text_ui_terrain_tip_name0,当前地形-{0},目前地形-{0},Terrain Details – {0},現在の地形-{0},현재 지형- {0}
+text_hud_name_planemove0,猛烈撞击,猛烈撞擊,Slam,ハードタックル,맹렬한 부딪힘
+text_message_start_timeworld5th_title0,进入下一章,進入下一章,Go to next chapter,次の章へ,다음 장 진입
+text_message_start_timeworld5th0,是否进入下一章，进入后复盘模式将暂时关闭，完成下一章后重新开启。,是否進入下一章，進入後複盤模式將暫時關閉，完成所有戰役後重新開啟。,"Go to the next chapter? After entering, Replay Mode will be temporarily disabled. It will be reactivated upon completing the next chapter.",次の章へを始めますか？本章のプレイを開始すると、全ての戦役をクリアするまで、再現モードを開始することができなくなります。,다음 장 진입 진입하시겠습니까? 진입 후 리플레이 모드는 잠시 꺼지며 모든 전투를 완료한 후 다시 열 수 있습니다.
+text_message_unlock_timeworld5th_title0,第五章开启！,第五章開啟！,Chapter 5 Unlocked!,第五章開始！,제5장 시작！
+text_message_unlock_timeworld5th0,您已获得全部机密文件，开启了第五章的战役！,您已獲得全部機密檔，開啟了第五章的戰役！,You have obtained all Confidential Files. Chapter 5 Battles unlocked!,機密ファイルを全て入手しました。第五章の戦役が始まります！,전체 기밀 문서를 획득하여 제5장 전투를 시작합니다!
+text_ui_enter5th0,进入下一章,進入下一章,Go to Next Chapter,次の章へ,다음 장 진입
+text_hud_skill_ap_count_10,<color=#11ff11>{0}</color>/{1}\n<size=14><color=#11ff11>{2}回合后次数+1</color></size>,<color=#11ff11>{0}</color>/{1}\n<size=14><color=#11ff11>{2}回合後次數+1</color></size>,<color=#11ff11>{0}</color>/{1}\n<size=14><color=#11ff11>Uses +1 after {2} turns</color></size>,<color=#11ff11>{0}</color>/{1}\n<size=14><color=#11ff11>{2}ターン後、回数+1</color></size>,<color=#11ff11>{0}</color>/{1}\n<size=14><color=#11ff11>{2}턴 종료 후 횟수+1</color></size>
+text_hud_skill_ap_count_20,<color=#ff7272>{0}</color>/{1}\n<size=14><color=#ff7272>填装已到上限</color></size>,<color=#ff7272>{0}</color>/{1}\n<size=14><color=#ff7272>填裝已到上限</color></size>,<color=#ff7272>{0}</color>/{1}\n<size=14><color=#ff7272>Filling has reached max</color></size>,<color=#ff7272>{0}</color>/{1}\n<size=14><color=#ff7272>充填が上限に到達</color></size>,<color=#ff7272>{0}</color>/{1}\n<size=14><color=#ff7272>이미 상한선에 도달했습니다</color></size>
+text_ui_compose_btn_compose0,合成详情,合成詳情,Synthesis Details,合成詳細,합성 정보
+text_ui_compose_btn_materialbag0,查看材料,查看材料,Material Backpack,材料,재료 배낭
+text_ui_button_drag0,移动,移動,Move,移動,이동
+text_ui_uidepot_tab_item0,道具,道具,Items,アイテム,아이템
+text_ui_uidepot_tab_material0,材料,材料,Materials,材料,재료
+text_ui_uidepot_tab_keyitem0,关键物,關鍵物,Key Items,重要,키 아이템
+text_ui_rolebattleinfo_title_gene0,基因,基因,Gene,ゲノム,유전자
+text_ui_rolebattleinfo_title_skill0,技能,技能,Skill,ゲノムスキル,유전자 스킬
+text_functioncontrol_tips_10,角色养成的角色详情功能已开启！,角色養成的角色詳情功能已開啟！,Character Details in Character Training unlocked!,ユニット育成のユニット詳細機能が使用できるようになりました！,캐릭터 육성 캐릭터 상세 기능이 활성화되었습니다!
+text_functioncontrol_tips_20,角色养成的基因强化功能已开启！,角色養成的基因強化功能已開啟！,Gene Enhancement in Character Training unlocked!,ユニット育成：ゲノム強化機能が解放されました,캐릭터 육성의 유전자 강화 기능이 활성화되었습니다!
+text_functioncontrol_tips_30,角色养成的武器整备功能已开启！,角色養成的武器整備功能已開啟！,Weapon Preparation in Character Training unlocked!,ユニット育成：武器整備機能が解放されました,캐릭터 육성의 무기 정비 기능이 활성화되었습니다!
+text_functioncontrol_tips_40,道具整备的道具合成功能已开启！,道具整備的道具合成功能已開啟！,Item Synthesis in Item Preparation unlocked!,アイテム整備：アイテム合成機能が解放されました,아이템 정비의 아이템 합성 기능이 활성화되었습니다!
+text_functioncontrol_tips_50,道具整备的道具制作功能已开启！,道具整備的道具製作功能已開啟！,Item Production in Item Preparation unlocked!,アイテム整理のアイテム製作機能が使用できるようになりました！,아이템 정비의 아이템 제작 기능이 활성화되었습니다!
+text_functioncontrol_tips_60,tips6的【XXX功能】已开启,,,,
+text_functioncontrol_tips_70,tips7的【XXX功能】已开启,,,,
+text_functioncontrol_tips_80,tips8的【XXX功能】已开启,,,,
+text_functioncontrol_tips_90,整备阶段的战场资讯功能已开启！,整備階段的戰場資訊功能已開啟！,Map Details in Preparation Phase unlocked!,整備フェイズの戦域情報機能が使用できるようになりました！,정비 단계의 전장 정보 기능이 활성화되었습니다!
+text_functioncontrol_tips_100,tips10的【XXX功能】已开启,,,,
+text_functioncontrol_tips_110,武器整备的武器升级功能已开启！,武器整備的武器升級功能已開啟！,The weapon upgrade function has been unlocked in Weapon Preparation!,武器整備内の武器レベルアップ機能が使用できるようになりました！,무기 정비의 무기 레벨업 기능이 활성화되었습니다!
+text_functioncontrol_tips_120,武器整备的装备配件功能已开启！,武器整備的裝備配件功能已開啟！,Equip Accessories in Weapon Preparation unlocked!,武器整備内のアタッチメント装備機能が使用できるようになりました！,무기 정비의 부품 장착 기능이 활성화되었습니다!
+text_functioncontrol_tips_130,道具整备的背包仓库功能已开启！,道具整備的背包倉庫功能已開啟！,The Backpack Storage has been unlocked in Item Preparation!,アイテム整理のバックパックと倉庫機能が使用できるようになりました！,아이템 정비의 배낭 창고 기능이 활성화되었습니다!
+text_functioncontrol_tips_140,tips14的【XXX功能】已开启,,,,
+text_functioncontrol_tips_150,tips15的【XXX功能】已开启,,,,
+text_functioncontrol_tips_160,tips16的【XXX功能】已开启,,,,
+text_functioncontrol_tips_170,道具整备的道具改造功能已开启！,道具整備的道具改造功能已開啟！,The item modification function has been unlocked in Item Preparation!,アイテム整備：アイテム改造機能が解放されました,아이템 정비의 아이템 개조 기능이 활성화되었습니다!
+text_functioncontrol_tips_180,整备阶段的时间轴功能已开启！,整備階段的時間軸功能已開啟！,The timeline has been unlocked in the Preparation Phase!,整備フェイズの時間軸機能が使用できるようになりました！,정비 단계의 시간축 기능이 활성화되었습니다!
+text_ui_quickbuy_tips_lvmaterial0,必须消耗持有量,必須消耗持有量,Must use the materials in possession,保有物を消費する必要がある,소지량을 소모하셔야 합니다
+text_ui_quickbuy_tips_productmaterial0,该道具不可制作,該道具不可製作,This item cannot be produced,このアイテムは作成できません,해당 아이템은 제작할 수 없습니다
+text_ui_levelcollection_btn_gamemode0,切换难度,切換難度,Change Difficulty,難易度切替,난이도 변경
+text_ui_artcollection_btn_tab0,切换标签,切換標籤,Change Tag,ラベル切替,탭 변경
+text_ui_skincollection_btn_switch0,切换动作,切換動作,Switch Action,動作切替,동작 변경
+text_ui_itemupgrade_btn_reset0,重置,重置,Reset,リセット,리셋
+text_ui_depot_lock_txt0,未解锁,未解鎖,Locked,未開放,미해방
+text_ui_depot_presetmode_checkitem0,查看道具,查看道具,View Item,アイテムを確認,아이템 확인
+text_ui_depot_presetmode_backpreset0,返回预设,返回預設,Back to Presets,プリセットに戻る,프리셋으로 돌아가기
+text_keyitem_examine0,查看,查看,Check,表示,확인
+text_ui_setmainweapon_button0,设为主武器,設為主武器,Set as main weapon,メイン武器に設定,주무기로 설정
+text_ui_title_setmainweapon0,主武器更替,主武器更替,Switch main weapon,メイン武器切り替え,주무기 교체
+text_weaponskill_upgrade_info0,武器{0}可升阶,武器{0}可升階,Weapon {0} can be upgraded.,武器{0}がアップグレード可能です,무기{0}를 개조할 수 있습니다
+text_ui_skill_weapon_10,武器特质,武器特質,Weapon Traits,武器特質,무기 특성
+text_ui_skill_weapon_20,配件特质,配件特質,Accessory Traits,アタッチメント特質,부품 특성
+text_secretfile_page0,{0}/{1},{0}/{1},{0}/{1},{0}/{1},{0}/{1}
+text_tutorial_pic_next0,下一页,下一頁,Next Page,次のページ,다음
+text_tutorial_pic_finish0,结束教程,結束教學,End,閉じる,종료
+text_preparemain_necessaryitems_tips0,未携带推荐道具,未攜帶推薦道具,You are not carrying the recommended item(s),推奨アイテムを所持していません,추천 아이템 미소지
+text_ui_shortcut_changeteleport0,切换,切換,Switch,切替,전환
+text_hud_name_biggirl0,切换部位,切換部位,Switch target,部位の切替,부위 전환
+text_quicksell_maximum0,已达到该道具的拆解上限！,已達到該道具的拆解上限！,You have reached the maximum disassembly limit for this item!,これ以上アイテムを分解できません,해당 아이템의 분해 상한에 도달했습니다!
+text_ui_weapon_apcost0,武器消耗,武器消耗,Weapon AP Cost,武器の消費,무기 소모
+text_ui_weapon_apcost_total0,总消耗,總消耗,Total Consumption,合計消費,총 소모
+text_ui_attr_battle_energy0,当前能量/总能量,當前能量/總能量,Current Energy/Total Energy,現在のエネルギー/総エネルギー,현재 에너지/총 에너지
+text_depot_buy0,补充,补充,Replenish,補充,보충
+text_levelcollection_gaintime0,达成时间,達成時間,Time of Acquisition,達成日時,달성 시간
+text_ui_acc_equiping0,装备中,裝備中,Equipped,装備中,장착 중
+text_ui_battlemain_banitem0,禁用道具,禁用道具,Banned,アイテム使用禁止,사용 금지 아이템
+text_ui_getsecretdoc_title0,获得机密文件,獲得機密文件,Confidential File Obtained,機密ファイルを獲得,기밀 문서 획득
+text_ui_getitemcollect_title0,获得藏品,獲得藏品,Collectible Obtained,コレクションを獲得,수집품 획득
+text_ui_genereset_tip0,{0}的基因已完成重组！,{0}的基因已完成重組！,{0} Genes have been successfully reset!,{0}の遺伝子は再編成された！,{0}의 유전자가 이미 재구성되었습니다!
+text_ui_geneupgrade_tip0,觉醒技<color={0}>{1}碱基</color>完成度达到100%！<color=#ff8d48>{2}</color>已获得强化！,覺醒技<color={0}>{1}鹼基</color>完成度達到 100%！<color=#ff8d48>{2}</color>已強化！,Ultimate Skill <color={0}>{1} Nucleobase</color> has reached 100% completion! <color=#ff8d48>{2}</color> has been enhanced!,覚醒スキル<color={0}>{1}塩基</color>適合率が100％に到達！<color=#ff8d48>{2}</color>が強化されました！,각성 스킬의 <color={0}>{1}염기</color> 완성도가 100%에 도달했습니다! <color=#ff8d48>{2}</color>이(가) 강화되었습니다!
+text_ui_skill_genemaster0,觉醒技,覺醒技,Ult.,覚醒スキル,각성 스킬
+text_ui_skill_masterequip0,永久装备,永久裝備,Perm.,永久装備,영구 장비
+text_ui_missioncomplete_level0,战役胜利,戰役勝利,Victory,戦役勝利,전투 승리
+text_ui_missioncomplete_reinforce0,训练完成,訓練完成,Training Complete,訓練完了,훈련 완료
+text_ui_escmenu_reinforce_finish0,返回整备,返回整備,Back to Preparation,準備画面へ戻る,정비하기
+text_ui_escmenu_back2prepare0,返回整备,返回整備,Back to Preparation,準備画面へ戻る,정비하기
+text_ui_escmenu_backtitle0,返回标题,返回標題,Back to Main Menu,タイトル画面に戻る,타이틀 화면
+text_ui_lvlimit_mission0,已达最高团队等级,已達最高團隊等級！,The team level cap has been reached,今のチームレベルの上限になりました,현재 팀 레벨 제한에 도달
+text_ui_reinforce_endtraining0,是否退出当前训练战役？,是否退出目前訓練戰役？,Do you want to exit the current Training Simulator?,訓練を中止しますか？,是否确认退出训练
+text_ui_reinforce_endtraining_title0,退出确认,退出確認,Exit Training Simulator,中止確認,退出训练
+text_ui_depot_autopile_max0,已从仓库中补充此道具至上限！,已從倉庫中補充此道具至上限！,This item has been replenished from the Storage to its maximum capacity!,これ以上倉庫からこのアイテムを補充できません,창고에서 해당 아이템을 최대치까지 보충했습니다!
+text_ui_depot_autopile0,已从仓库中补充此道具！,已從倉庫中補充此道具！,Item replenished from Storage!,このアイテムはすでに倉庫から補充し終えています,창고에서 해당 아이템을 보충했습니다!
+text_ui_attr_battle_guard0,当前护盾/护盾上限,當前護盾/護盾上限,Current Shield/Shield Limit,現在シールド/最大シールド,현재 베리어/베리어 상한
+text_ui_collection_joystick_check0,确定,確定,Confirm,はい,확인
+text_ui_attr_prepare_guard0,初始护盾/护盾上限,初始護盾/護盾上限,Initial Shield/Shield Limit,初期シールド/最大シールド,기본 베리어/베리어 상한
+text_accskill_short_type_00,武器,武器,Weapon,武器,무기
+text_accskill_short_type_10,补偿器,補償器,Compensator,コンペンセイター,보정기
+text_accskill_short_type_20,高倍瞄具,高倍率瞄具,Long-Range Scope,高倍率スコープ,고배율 스코프
+text_accskill_short_type_30,基础瞄具,基礎瞄具,Basic Scope,アイアンサイト,기본 스코프
+text_accskill_short_type_40,镭射器,雷射器,Laser,レーザーサイト,레이저 발사기
+text_accskill_short_type_50,脉冲器,脈衝器,Pulser,パルスマシン,펄스 발사기
+text_accskill_short_type_60,前握把,前握把,Foregrip,フォアグリップ,전방 손잡이
+text_accskill_short_type_70,枪管,槍管,Barrel,バレル,총열
+text_accskill_short_type_80,枪托,槍托,Stock,ストック,개머리판
+text_accskill_short_type_90,收束环,收束環,Choke,チョーク,초크루프
+text_accskill_short_type_100,消音器,消音器,Suppressor,サプレッサー,소음기
+text_accskill_short_type_110,火控芯片,火控晶片,Auto-Aim Chip,射撃管制チップ,불의 통제 메모리칩
+text_accskill_short_type_120,伯劳刀刃,伯勞刀刃,Shrike Blade,シュライク刀身,슈라이크 칼날
+text_accskill_short_type_130,伯劳刀柄,伯勞刀柄,Shrike Hilt,シュライクの柄,슈라이크 칼자루
+text_accskill_short_type_140,伯劳刀油,伯勞刀油,Shrike Blade Oil,シュライクの刀剣油,슈라이크 칼기름
+text_role_changeskin_tips0,{0}已穿上{1},{0}已穿上{1},{1} has been equipped on {0}.,{0}が{1}を身に着けました,"{0}, {1} 착용 완료"
+text_quickbuy_fail_tips0,所需零件不足！,所需零件不足！,Insufficient Parts!,必要なパーツが足りません,필요한 부품이 부족합니다!
+text_ui_checkprevkeyword0,查看源词条,查看上一詞條,View Source,元の見出しを確認,소스 항목 보기
+text_ui_findsubkeyword0,查看关联词,查看關聯詞,View Keywords,関連見出しを確認,키워드 보기
+text_levelcollection_desc_unfinish0,战役未完成,戰役未完成,Pending Completion,戦役を終えていません,전투 미완료
+text_levelcollection_time_unfinish0,未达成,未達成,Incomplete,未達成,미달성
+text_levelcollection_timeworld_remake_10,2092R-1,2092R-2,2092R-1,2092R-1,2092R-1
+text_levelcollection_timeworld_remake_20,2092R-2,2092R-3,2092R-2,2092R-2,2092R-2
+text_artdocument_timeworld_remake0,2092R,2092R,2092R,2092R,2092R
+text_ui_levelreplay_remake_secretdoc_tip0,机密文件：不同周目间共通，任意周目获得即可。,機密檔：不同周目間共通，任意周目獲得即可。,Confidential Files: shared across different playthroughs. Can be obtained in any playthrough.,機密ファイル：ゲームを何週プレイしても内容は変わらないため、任意の周回プレイで入手すれば問題ありません。,기밀문서: 여러 주차에 볼 수 있으며 임의의 주차에서 얻을 수 있습니다.
+attr_atkrange_00,劣势射程,劣势射程,Disadvantaged Range,最大射程,열세 사거리
+attr_atkrange_10,优势射程,优势射程,Advantaged Range,有効射程,우세 사거리
+attr_atkrange_20,优势射程,优势射程,Advantaged Range,有効射程,우세 사거리
+attr_atkrange_30,普通射程,普通射程,Normal Range,通常射程,일반 사거리
+attr_atkrange_40,劣势射程,劣势射程,Disadvantaged Range,最大射程,열세 사거리
+attr_hit_normal0,普通命中,普通命中,Normal Accuracy,通常命中,일반 명중
+attr_hit_normal_desc0,可增加攻击击中普通射程内目标的概率,可增加攻擊擊中普通射程內目標的概率,Increases probability of hitting targets within normal range,通常射程内のターゲットに対する攻撃命中確立を高めることができる,공격이 일반 사거리 내의 표적을 적중할 확률이 증가합니다.
+text_ui_battlewin_item_gp0,研发点数：,研發點數：,Research Points:,研究ポイント：,연구 포인트:
+text_ui_battlewin_item_jump0,记忆点：,跃迁点：,Jump Points:,遷移ポイント：,점프 포인트:
+text_ui_battlewin_item_item0,重置磁盘：,重置磁片：,Reset Disks:,リセットディスク：,디스크 재설정:
+text_ui_battlewin_item_gene0,重组密钥：,重組密鑰：,Recombination Keys:,リビルドキー：,키 재설정:
+text_ui_messagetip_remakecode_error0,激活码错误！,啟動碼錯誤！,Invalid Activation Code!,アクティベーションコードが正しくありません！,활성 코드가 틀렸습니다！
+text_ui_backtip0,未保存的数据将会丢失，是否直接返回标题界面？,未保存的數據將會丟失，是否直接返回標題介面？,Unsaved data will be lost. Back to Main Menu?,セーブされていないデータは失われてしまいます。タイトル画面に戻りますか？,저장하지 않은 데이터는 손실됩니다. 메인 페이지로 이동하시겠습니까?
+text_ui_languagechange_title0,语言设置确认,語言設定確認,Language Settings Confirmation,言語設定の確認,언어 설정 확인
+text_ui_messagetip_remakecode_used0,该激活码已被使用！,該啟動碼已被使用！,This Activation Code is already in use!,このアクティベーションコードは使用済みです！,해당 활성 코드는 이미 사용중입니다！
+text_gene_upgrade_tips_content0,{0}已强化至{1}级！,{0}已強化至 {1} 級！,{0} Enhanced to level {1}!,{0}をLv.{1}に強化しました,{0}이(가) Lv. {1}까지 강화되었습니다!
+text_weapon_upgrade_tips0,{0}({1})已升至{2}阶!,{0}({1})已升至 {2} 階！,{0} ({1}) Upgraded to Tier {2}!,{0}({1})をランク{2}に上げました,{0}({1})이(가) {2}단계까지 업그레이드되었습니다!
+messsagebox_restoredefault_title0,恢复默认确认,恢復預設確認,Restore Default Confirmation,初期値へ戻す,초기화 확인
+messsagebox_restoredefault0,恢复默认设置后无法撤销，是否继续？,恢復預設設定後無法撤銷，是否繼續？,Restoring to the default settings is irreversible. Continue?,初期値に戻すと現在の変更は失われます、よろしいですか？,"설정을 초기화하시면 되돌릴 수 없습니다, 계속하시겠습니까?"
+text_depot_quickbuy_tips0,已完成快捷补充！,已完成快速補充！,Quick Replenishment Complete!,クイック補充完了！,일괄 보충 완료!
+text_depot_sellitem_tips0,已完成拆解！,已完成拆解！,Disassembly Complete!,分解しました！,분해 완료!
+text_itemupgrade_complete_tips0,{0}已改造至{1}级！,{0}已改造至{1}級！,{0} modified to Level {1}!,{0}はレベル{1}まで改造済みです！,{0}{1}급으로 개조되었습니다!
+text_itemupgrade_reset_tips0,科研已完成重置！,科技已完成重置！,Tech Reset complete!,技術リセット完了！,기술 리셋 완료!
+text_itemproduct_tips0,已将{0}置入背包仓库！,已將{0}置入背包倉庫！,{0} has been placed into your Backpack!,{0}をバックパック倉庫にしまいました,{0}을 배낭 창고로 넣었습니다!
+text_ui_gamebreak_title0,恢复确认,恢復確認,Recovery Confirmation,回復確認,회복 확인
+text_weaponupgrade_material0,{0}份{1},{0}份{1},{0} {1},{0}個{1},{0}분{1}
+attr_biggirl_la0,清灰手臂,清灰手臂,Gray Arm,クリーニングアーム,회색 팔뚝
+attr_biggirl_ra0,暗红手臂,暗紅手臂,Crimson Arm,ダークレッドアーム,검붉은 팔뚝
+attr_biggirl_la_desc0,清灰手臂可承受的伤害量,清灰手臂可承受的傷害量,Gray Arm damage threshold,クリーニングアーム許容可能ダメージ量,회색 팔뚝이 견딜 수 있는 데미지
+attr_biggirl_ra_desc0,暗红手臂可承受的伤害量,暗紅手臂可承受的傷害量,Crimson Arm damage threshhold,ダークレッドアーム許容可能ダメージ量,검붉은 팔뚝이 견딜 수 있는 데미지
+text_ui_battlewin_item_weapon0,还原套件：,還原套件：,Restoration Kit:,復元キット：,복원 키트:
+text_resetweapon_title0,还原确认,還原確認,Restore,復元確認,복원 확인
+text_resetweapon_content0,武器还原后，<color=#ff8d48>{0}</color>的<color=#ff8d48>{1}</color>会变为1阶，且返还对应的<color=#ff8d48>{3}</color>零件和<color=#ff8d48>{2}</color>，所有配件将被收回配件库，是否消耗<color=#ff8d48>1个还原套件</color>执行此操作？,武器還原後，<color=#ff8d48>{0}</color>的<color=#ff8d48>{1}</color>會變為1階，且返還對應的<color=#ff8d48>{3}</color>零件和<color=#ff8d48>{2}</color>，所有配件將被收回配件庫，是否消耗<color=#ff8d48>1個還原套件</color>執行此操作？,"After the weapon is restored, <color=#ff8d48>{1}</color> of <color=#ff8d48>{0}</color> will become Rank 1 and the corresponding <color=#ff8d48>{3}</color> Parts and <color=#ff8d48>{2}</color> will be refunded. Use <color=#ff8d48>1 Restoration Kit</color> to perform this operation?",武器を復元すると、<color=#ff8d48>{0}</color>の<color=#ff8d48>{1}</color>がレベル1になり、対応する<color=#ff8d48>{3}</color>のパーツと<color=#ff8d48>{2}</color>が返還され、全てのアタッチメントがアタッチメント倉庫に回収されます。<color=#ff8d48>復元キットを1個</color>消費して、この操作を実行しますか？,"무기 복원 후, <color=#ff8d48>{0}</color>의 <color=#ff8d48>{1}</color>는 1단계로 변경되고, 해당 <color=#ff8d48>{3}</color>부품과 <color=#ff8d48>{2}</color>를 모두 반환합니다. 모든 부품은 부품 창고로 돌아갑니다. <color=#ff8d48>1개의 복원 키트</color>를 소모하여 해당 작업을 진행하시겠습니까?"
+text_ui_resetweapon_tip0,<color=#ff8d48>{0}</color>的<color=#ff8d48>{1}</color>已还原为出厂配置！,<color=#ff8d48>{0}</color>的<color=#ff8d48>{1}</color>已還原為出廠配置！,<color=#ff8d48>{1}</color> of <color=#ff8d48>{0}</color> has been factory reset!,<color=#ff8d48>{0}</color>の<color=#ff8d48>{1}</color>は既に出荷時状態に復元されています！,<color=#ff8d48>{0}</color>의 <color=#ff8d48>{1}</color>는 이미 초기 배치로 복원되었습니다.
+text_ui_geneupgrade_title0,觉醒技强化,覺醒技強化,Ultimate Skill Enhancement,覚醒スキル強化,각성 스킬 강화
+text_hud_name_terraintreasure0,搜刮,搜刮,Search,搾取,긁어모으기
+text_ui_itemupgrade_viewall_btn0,查看详情,查看詳情,View Details,詳細確認,상세 정보 보기
+text_ui_endless_date0,{0}/{1}{2}/{3}{4},{0}/{1}{2}/{3}{4},{0}/{1}{2}/{3}{4},{0}/{1}{2}/{3}{4},{0}/{1}{2}/{3}{4}
+text_ui_endless_heightest_score0,最高积分：{0},最高積分：{0},Max Points:{0},最高ポイント：{0},최고 포인트：{0}
+text_ui_endless_heightest_score_remake0,最高波数：{0},最高波數：{0},Highest Wave: {0},最大ウェーブ数：{0},최고 파수: {0}
+text_ui_endless_heightest_time0,攻略时间：,攻略時間：,Raid Time:,攻略時間：,공략 시간：
+text_ui_endless_list_score0,积分,積分,Infinite Points,ポイント,포인트
+text_ui_endless_list_time0,挑战时间,挑戰時間,Challenge Time:,チャレンジ時間,도전 시간
+text_ui_endless_list_tips0,仅展示当前难度的积分,僅展示當前難度的積分,Only display points for the current difficulty,現在難易度のポイントのみを表示します,현재 난이도의 포인트만 보여줍니다
+text_ui_endless_levelcollection0,得偿所愿,得償所願,Wish Fulfilled,念願成就,원하는 바를 이루다
+text_ui_endless_unfinish_time0,未达成,未達成,Incomplete,未達成,미달성
+text_ui_messagebox_changemode_title0,切换确认,切換確認,Switch Confirmation,切替確認,교체 확인
+text_ui_messagebox_changemode_content0,切换至{0}模式后，无法再更改为难度更高的模式，是否继续？,切換至{0}模式後，無法再更改為難度更高的模式，是否繼續？,"After switching to {0} mode, the difficulty cannot be changed. Continue?",{0}モードに切り替えると、より高い難易度のモードに変更することはできなくなります。続けますか？,{0} 모드로 교체 후 난이도가 더 높은 모드로 변경이 불가합니다. 계속하시겠습니까?
+text_ui_subkeyword_count0,{0}条,{0} 條,{0},{0}個,{0}개
+text_ui_subkeyword_group_name0,关联词条,關聯詞條,Related Keyword(s),関連する見出し,관련 키워드
+text_ui_keyword_unlock0,已解锁,已解鎖,Unlocked,解放済,잠금 해제됨
+text_ui_endlessresult_factor0,{0}难度 积分X{1},{0}難度 積分X{1},Difficulty: {0} Points X{1},難易度{0} ポイント×{1},{0}난이도 포인트X{1}
+text_ui_unlockcollect_sorce0,通过{0}解锁,通過{0}解鎖,Unlocked by {0},{0}で解放,{0}를 통해 잠금 해제
+text_ui_gene_reset_single0,基因重组后，<color=#ff8d48>{0}</color>的<color=#ff8d48>{1}</color>将变为<color=#ff8d48>1级</color>，且返还对应的<color=#ff8d48>{2}</color><color=#adb7ff>个潜能密钥</color>，是否消耗<color=#ff8d48>1个重组密钥</color>执行此操作？,基因重組後，<color=#ff8d48>{0}</color>的<color=#ff8d48>{1}</color>將變為<color=#ff8d48>1級</color>，且返還對應的<color=#ff8d48>{2}</color><color=#adb7ff>個潛能密鑰</color>，是否消耗<color=#ff8d48>1個重組密鑰</color>執行此操作？,"After Gene Recombination, <color=#ff8d48>{1}</color> of <color=#ff8d48>{0}</color> changes to <color=#ff8d48>Level 1</color>. The corresponding <color=#ff8d48>{2}</color><color=#adb7ff> Potential Keys</color> will be refunded. Use <color=#ff8d48>1 Potential Key</color> to perform this operation?",ゲノムをリビルドすると、<color=#ff8d48>{0}</color>の<color=#ff8d48>{1}</color>が<color=#ff8d48>レベル1</color>になり、さらに対応する<color=#ff8d48>{2}</color><color=#adb7ff>個のゲノムキー</color>が返還されます。<color=#ff8d48>1個のリビルドキー</color>を消費してこの操作を行いますか？,유전자 재조합 후，<color=#ff8d48>{0}</color>의 <color=#ff8d48>{1}</color>는 <color=#ff8d48>1급</color>이 됩니다. 또한 대응되는 <color=#ff8d48>{2}</color><color=#adb7ff>개의 포텐셜 키</color>를 반환합니다. <color=#ff8d48>1개의 키 재설정</color>을 사용해 해당 조작을 하시겠습니까?
+text_ui_gene_reset_multiple0,基因重组后，<color=#ff8d48>{0}</color>当前选中的技能与特质将全部变为<color=#ff8d48>1级</color>，且返还对应的<color=#ff8d48>{1}</color><color=#adb7ff>个潜能密钥</color>，是否消耗<color=#ff8d48>{2}个重组密钥</color>执行此操作？,基因重組後，<color=#ff8d48>{0}</color>當前選中的技能與特質將全部變為<color=#ff8d48>1級</color>，且返還對應的<color=#ff8d48>{1}</color><color=#adb7ff>個潛能密鑰</color>，是否消耗<color=#ff8d48>{2}個重組密鑰</color>執行此操作？,"After Gene Recombination, <color=#ff8d48>{0}</color> currently selected skills and attributes will change to <color=#ff8d48>Level 1</color> and the corresponding <color=#ff8d48>{1}</color><color=#adb7ff> Potential Keys</color> will be refunded. Use <color=#ff8d48>{2} Potential Keys</color> to perform this operation?",ゲノムをリビルドすると、<color=#ff8d48>{0}</color>現在選択中のスキルと特質が全て<color=#ff8d48>レベル1</color>になり、対応する<color=#ff8d48>{1}</color><color=#adb7ff>個のゲノムキー</color>が返還されます。<color=#ff8d48>{2}個のリビルドキー</color>を消費してこの操作を行いますか？,유전자 재조합 후，<color=#ff8d48>{0}</color>현재 선택한 스킬 및 특성은 전부 <color=#ff8d48>1급</color>이 됩니다. 또한 대응되는 <color=#ff8d48>{1}</color><color=#adb7ff>의 포텐셜 키</color>를 반환합니다. <color=#ff8d48>{2}개의 키 재설정</color>을 소비해 해당 조작을 하시겠습니까?
+text_ui_gene_reset_single_masterdown0,基因重组后，<color=#ff8d48>{0}</color>的<color=#ff8d48>{1}</color>将变为<color=#ff8d48>1级</color>，觉醒技的{2}效果将<color=#ff8d48>失效</color>，且返还对应的<color=#ff8d48>{3}</color><color=#adb7ff>个潜能密钥</color>，是否消耗<color=#ff8d48>1个重组密钥</color>执行此操作？,基因重組後，<color=#ff8d48>{0}</color>的<color=#ff8d48>{1}</color>將變為<color=#ff8d48>1級</color>，覺醒技的{2}效果將<color=#ff8d48>失效</color>，且返還對應的<color=#ff8d48>{3}</color><color=#adb7ff>個潛能密鑰</color>，是否消耗<color=#ff8d48>1個重組密鑰</color>執行此操作？,"After Gene Recombination, <color=#ff8d48>{1}</color> of <color=#ff8d48>{0}</color> changes to <color=#ff8d48>Level 1</color>, {2} Ultimate Skills will <color=#ff8d48>run out</color>, and the corresponding <color=#ff8d48>{3}</color><color=#adb7ff> Potential Keys</color> will be refunded. Use <color=#ff8d48>1 Potential Key</color> to perform this operation?",ゲノムをリビルドすると、<color=#ff8d48>{0}</color>の<color=#ff8d48>{1}</color>が<color=#ff8d48>レベル1</color>になり、覚醒スキルの{2}効果が<color=#ff8d48>失われます</color>。さらに対応する<color=#ff8d48>{3}</color><color=#adb7ff>個のゲノムキー</color>が返還されます。<color=#ff8d48>1個のリビルドキー</color>を消費してこの操作を行いますか？,유전자 재조합 후，<color=#ff8d48>{0}</color>의 <color=#ff8d48>{1}</color>는 <color=#ff8d48>1급</color>이 됩니다. 각성 스킬의 {2}효과는<color=#ff8d48>효력을 잃게됩니다</color>. 또한 대응되는 <color=#ff8d48>{3}</color><color=#adb7ff>개의 포텐셜 키</color>를 반환합니다. <color=#ff8d48>1개의 키 재설정 </color>을 소비해 해당 조작을 하시겠습니까?
+text_ui_gene_reset_multiple_masterdown0,基因重组后，<color=#ff8d48>{0}</color>当前选中的技能与特质将全部变为<color=#ff8d48>1级</color>，觉醒技的{1}效果将<color=#ff8d48>失效</color>，且返还对应的<color=#ff8d48>{2}</color><color=#adb7ff>个潜能密钥</color>，是否消耗<color=#ff8d48>{3}个重组密钥</color>执行此操作？,基因重組後，<color=#ff8d48>{0}</color>當前選中的技能與特質將全部變為<color=#ff8d48>1級</color>，覺醒技的{1}效果將<color=#ff8d48>失效</color>，且返還對應的<color=#ff8d48>{2}</color><color=#adb7ff>個潛能密鑰</color>，是否消耗<color=#ff8d48>{3}個重組密鑰</color>執行此操作？,"After Gene Recombination, <color=#ff8d48>{0}</color> currently selected skills and attributes will change to <color=#ff8d48>Level 1</color>, {1} Ultimate Skills will <color=#ff8d48>run out</color>, and the corresponding <color=#ff8d48>{2}</color><color=#adb7ff> Potential Keys</color> will be refunded. Use <color=#ff8d48>{3} Potential Keys</color> to perform this operation?",ゲノムをリビルドすると、<color=#ff8d48>{0}</color>現在選択中のスキルと特質が全て<color=#ff8d48>レベル1</color>になり、覚醒スキルの{1}効果が<color=#ff8d48>失われます</color>。さらに対応する<color=#ff8d48>{2}</color><color=#adb7ff>個のゲノムキー</color>が返還されます。<color=#ff8d48>{3}個のリビルドキー</color>を消費してこの操作を行いますか？,유전자 재조합 후，<color=#ff8d48>{0}</color>현재 선택한 스킬 및 특성은 전부 <color=#ff8d48>1급</color>이 됩니다. 각성 스킬의 {1}효과는 <color=#ff8d48>효력을 잃게됩니다</color>. 또한 대응되는 <color=#ff8d48>{2}</color><color=#adb7ff>개의 포텐셜 키 </color>를 반환합니다. <color=#ff8d48>{3}개의 키 재설정</color>을 소비해 해당 조작을 하시겠습니까?
+text_ui_gene_master_level_name0,{0}碱基,{0}堿基,{0} Nucleobases,{0}塩基,{0}염기
+text_ui_endless_title0,特质选择,特質選擇,Select Traits,特質の選択,특성 선택
+text_ui_gene_reset_btn_choose0,选中,選中,Select,選択,선택
+text_ui_gene_reset_btn_choose_cancel0,取消选中,取消選中,Deselect,選択取消,선택 취소
+text_ui_gene_reset_btn_all0,全选,全選,Select All,全選択,전체 선택
+text_ui_gene_reset_btn_all_cancel0,撤销全选,撤銷全選,Deselect All,全選択取消,전체 선택 취소
+text_ui_item_reset_single0,科研重置后，<color=#ff8d48>{0}</color>将变为<color=#ff8d48>1级</color>，且返还<color=#ffbf81>{1}</color><color=#adb7ff>研发点数</color>，是否消耗<color=#ff8d48>1个重置磁盘</color>执行此操作？,科研重置後，<color=#ff8d48>{0}</color>將變為<color=#ff8d48>1級</color>，且返還<color=#ffbf81>{1}</color><color=#adb7ff>研發點數</color>，是否消耗<color=#ff8d48>1個重置磁片</color>執行此操作？,"After Tech Reset, it will reset <color=#ff8d48>{0}</color> to <color=#ff8d48>Level 1</color> and <color=#ffbf81>{1}</color><color=#adb7ff> Research Points</color> will be refunded. Use <color=#ff8d48>1 Reset Disk</color> to perform this operation?",科学研究をリセットすると、<color=#ff8d48>{0}</color>が<color=#ff8d48>レベル1</color>になり、<color=#ffbf81>{1}</color><color=#adb7ff>研究ポイント</color>が返還されます。<color=#ff8d48>1個のリセットディスク</color>を消費してこの操作を行いますか？,과학 연구 리셋 후，<color=#ff8d48>{0}</color><color=#ff8d48>1급</color>이 됩니다. 또한 <color=#ffbf81>{1}</color><color=#adb7ff>연구 포인트 </color>를 반환합니다. <color=#ff8d48>1개의 디스크 리셋</color>을 소비해 해당 조작을 하시겠습니까?
+text_ui_item_reset_multiple0,科研重置后，当前选中的道具将全部变为<color=#ff8d48>1级</color>，且返还<color=#ffbf81>{0}</color><color=#adb7ff>研发点数</color>，是否消耗<color=#ff8d48>{1}个重置磁盘</color>执行此操作？,科研重置後，當前選中的道具將全部變為<color=#ff8d48>1級</color>，且返還<color=#ffbf81>{0}</color><color=#adb7ff>研發點數</color>，是否消耗<color=#ff8d48>{1}個重置磁片</color>執行此操作？,"After Tech Reset, all currently selected items will be reset to <color=#ff8d48>Level 1</color>, and <color=#ffbf81>{0}</color><color=#adb7ff> Research Points</color> will be refunded. Use <color=#ff8d48>{1} Reset Disks</color> to perform this operation?",科学研究をリセットすると、現在選択中のアイテムが全て<color=#ff8d48>レベル1</color>になり、<color=#ffbf81>{0}</color><color=#adb7ff>研究ポイント</color>が返還されます。<color=#ff8d48>{1}個のリセットディスク</color>を消費してこの操作を行いますか？,"과학 연구 리셋 후, 현재 선택한 아이템은 모두 <color=#ff8d48>1급</color>이 됩니다. 또한 <color=#ffbf81>{0}</color><color=#adb7ff>연구 포인트 </color>를 반환합니다.<color=#ff8d48>{1}개의 디스크 리셋</color>을 소비해 해당 조작을 하시겠습니까?"
+text_ui_item_reset_single_techdown0,科研重置后，<color=#ff8d48>{0}</color>将变为<color=#ff8d48>1级</color>，科技等级将降至<color=#ff8d48>{1}级</color>，且返还对应的<color=#ffbf81>{2}</color><color=#adb7ff>研发点数</color>，是否消耗<color=#ff8d48>1个重置磁盘</color>执行此操作？,科研重置後，<color=#ff8d48>{0}</color>將變為<color=#ff8d48>1級</color>，科技等級將降至<color=#ff8d48>{1}級</color>，且返還對應的<color=#ffbf81>{2}</color><color=#adb7ff>研發點數</color>，是否消耗<color=#ff8d48>1個重置磁片</color>執行此操作？,"After Tech Reset, it will reset <color=#ff8d48>{0}</color> to <color=#ff8d48>Level 1</color>, Tech Level will drop to Level <color=#ff8d48>{1}</color>, and <color=#ffbf81>{2}</color><color=#adb7ff> Research Points</color> will be refunded. Use <color=#ff8d48>1 Reset Disk</color> to perform this operation?",科学研究をリセットすると、<color=#ff8d48>{0}</color>が<color=#ff8d48>レベル1</color>になり、技術レベルが<color=#ff8d48>レベル{1}</color>まで下がります。さらに、対応する<color=#ffbf81>{2}</color><color=#adb7ff>研究ポイントが返還されます</color>。<color=#ff8d48>1個のリセットディスク</color>を消費してこの操作を行いますか？,과학 연구 리셋 후，<color=#ff8d48>{0}</color><color=#ff8d48>1급</color>이 됩니다. 과학기술 등급 이 <color=#ff8d48>{1}급</color>으로 내려갑니다. 또한 대응되는 <color=#ffbf81>{2}</color><color=#adb7ff>연구 포인트 </color>를 반환합니다. <color=#ff8d48>1개의 디스크 리셋</color>을 소비해 해당 조작을 하시겠습니까?
+text_ui_item_reset_multiple_techdown0,科研重置后，当前选中的道具将全部变为<color=#ff8d48>1级</color>，科技等级将降至<color=#ff8d48>{0}级</color>，且返还<color=#ffbf81>{1}</color><color=#adb7ff>研发点数</color>，是否消耗<color=#ff8d48>{2}个重置磁盘</color>执行此操作？,科研重置後，當前選中的道具將全部變為<color=#ff8d48>1級</color>，科技等級將降至<color=#ff8d48>{0}級</color>，且返還<color=#ffbf81>{1}</color><color=#adb7ff>研發點數</color>，是否消耗<color=#ff8d48>{2}個重置磁片</color>執行此操作？,"After Tech Reset, all currently selected items will be reset to <color=#ff8d48>Level 1</color>, Tech Level will drop to Level <color=#ff8d48>{0}</color>, and <color=#ffbf81>{1}</color><color=#adb7ff> Research Points</color> will be refunded. Use <color=#ff8d48>{2} Reset Disks</color> to perform this operation?",科学研究をリセットすると、現在選択中のアイテムが全て<color=#ff8d48>レベル1</color>になり、技術レベルが<color=#ff8d48>レベル{0}</color>まで下がります。さらに<color=#ffbf81>{1}</color><color=#adb7ff>研究ポイント</color>が返還されます。<color=#ff8d48>{2}個のリセットディスク</color>を消費してこの操作を行いますか？,과학 연구 리셋 후，현재 선택한 아이템은 모두 <color=#ff8d48>1급</color>이 됩니다. 과학기술 등급이 <color=#ff8d48>{0}급</color>으로 내려갑니다. 또한 <color=#ffbf81>{1}</color><color=#adb7ff>연구 포인트 </color>를 반환합니다.<color=#ff8d48>{2}개의 디스크 리셋</color>을 소비해 해당 조작을 하시겠습니까?
+text_ui_tactics_win0,恭喜您获得了胜利！是否再尝试一次？,恭喜您獲得了勝利！是否再嘗試一次？,Victory! Would you like to try again?,勝利しました！もう一回チャレンジしますか？,승리하셨습니다. 축하합니다! 다시 한번 시도하시겠습니까?
+text_ui_tactics_lose0,请调整战术后再次挑战。,請調整戰術後再次挑戰。,Change tactics and try again.,戦術を見直してもう一度チャレンジしてください。,전술을 정비한 후 다시 도전하세요.
+text_ui_tactics_draw0,和棋！是否再尝试一次？,和棋！是否再嘗試一次？,Draw! Try again?,引き分け！もう一回チャレンジしますか？,장기！ 다시 한번 시도하시겠습니까?
+text_ui_gene_reset_fail0,该基因无法进行重组！,該基因無法進行重組！,This Gene cannot be recombined!,このゲノムをリビルトすることはできません！,해당 유전자는 재조합이 불가합니다!
+text_ui_item_reset_fail0,该道具无法进行重置！,該道具無法進行重置！,This Item cannot be reset!,このアイテムをリセットすることはできません！,해당 아이템은 재조합이 불가합니다!
+text_ui_depot_iteminfo0,道具信息,道具資訊,Item Info,アイテム情報,아이템 정보
+text_ui_depot_materialinfo0,物品信息,物品資訊,Object Info,アイテム情報,물품 정보
+text_ui_unitsight0,查看视野,查看視野,Check Visual Range,視野確認,시야 상세보기
+text_ui_acc_cur_equiped0,<color=#ff8d48>当前装备中</color>,<color=#ff8d48>當前裝備中</color>,<color=#ff8d48>Current Equipment</color>,<color=#ff8d48>装備中</color>,<color=#ff8d48>현재 장착 중</color>
+text_ui_biggirl_phase10,映溯母体,映溯母體,Reflection of the Progenitor,映遡母体,영삭의 모체
+text_ui_biggirl_phase20,映溯母体-本体,映溯母體-本體,Reflection of the Progenitor-Ontology,映遡母体-本体,영삭의 모체-본체
+text_ui_biggirl_phase30,映溯母体-组织供给中,映溯母體-組織供給中,Reflection of the Progenitor — Reorganizing Supply,映遡母体-組織供給中,영삭의 모체-조직 공급 중
+text_ui_gene_skill_type_remake0,潜能,潛能,Potential,ポテンシャル,포텐셜
+text_ui_gene_upgrade_remake0,强化需要：,強化需要：,Enhancement Required:,強化要求：,강화 필요：
+text_ui_weaponprepare_btn_setacc0,改装,改裝,Modifications,改造,개조
+text_ui_roleinfo0,角色详情,角色詳情,Character Details,ユニット詳細,캐릭터 정보
+text_ui_unitinfo0,单位详情,單位詳情,Unit Details,ユニット詳細,유닛 상세보기
+text_ui_gene_viewall0,预览,預覽,Unit Details,プレビュー,미리보기
+text_geneupgrade_request0,强化需求:,強化需求:,Preview,強化要求,강화 필요:
+text_ui_gene_tab_remake0,潜能强化,潛能強化,Potential Enhancement,ポテンシャル強化,포텐셜 강화
+text_mark_geneupgrade_remake0,潜能可强化,潛能可強化,Potential can be Enhanced,ポテンシャル強化可能,포텐셜 강화 가능
+text_genemaster_part_unlock_viewall0,累积消耗潜能密钥{0}可自动激活,累積消耗潛能密鑰{0}可自動啟動,Use {0} Pot. Keys to auto-activate,ゲノムキーを{0}個消費すれば解禁,포텐션 키 {0}개로 자동 활성화 가능함
+text_genereset_poptips_gene_lock0,该基因未解锁！,該基因未解鎖！,This Gene is locked!,このゲノムは未解放です！,해당 유전자는 잠금상태입니다！
+text_genereset_poptips_no_upgrade0,该基因未进行过强化！,該基因未進行過強化！,This Gene has not been enhanced!,このゲノムに強化を行ったことがありません！,해당 유전자는 강화하지 않았습니다！
+text_genereset_poptips_no_resetitem0,重组密钥不足！,重組密鑰不足！,Insufficient Recombination Keys!,リビルドキーが不足しています！,키 재설정이 부족합니다！
+text_genereset_poptips_no_gene0,没有需要重组的基因！,沒有需要重組的基因！,No Genes need to be recombined!,リビルドが必要なゲノムがありません！,재조합해야할 유전자가 없습니다！
+text_upgrade_poptips_maxlv_positive0,该基因已达满级！,該基因已達滿級！,This Gene has reached the max level!,このゲノムは既に最大レベルに達しています！,해당 유전자는 이미 최대 레벨입니다!
+text_equip_poptips_full0,技能栏已满！,技能欄已滿！,Skill Bar Full!,スキルバーが埋まっています！,스킬바가 가득 찼습니다！
+text_gameload_load0,读取,讀取,Load,ロード,불러오기
+text_gameload_poptips_nofile0,无档案可以读取！,無檔案可以讀取！,No files to load!,読み取り可能なファイルがありません！,불러올 수 있는 파일이 없습니다！
+text_battlesetting_confirm0,确定,確定,Confirm,閉じる,확인
+text_ui_battlemain_joystick_gene0,基因,基因,Gene,ゲノム,유전자
+text_ui_battlemain_joystick_item0,道具,道具,Item,アイテム,아이템
+text_ui_battlemain_joystick_select0,选择,選擇,Select,選択,선택
+text_ui_fail2product_tips_noparts0,所需零件不足！,所需零件不足！,Insufficient Parts!,必要なパーツが不足しています！,필요한 부품이 부족합니다!
+text_ui_fail2compose_tips_nomaterial0,所需材料不足！,所需材料不足！,Insufficient Materials!,必要な素材が不足しています！,필요한 재료가 부족합니다!
+text_ui_btn_playback0,查看,查看,Check,確認,상세보기
+text_ui_view0,查看,查看,Check,確認,상세보기
+text_ui_change0,更改,更改,Change,変更,고치기
+text_ui_compose_bagdepotnum_remark0,背包{0}  仓库{1},背包{0}  倉庫{1},Backpack {0} Storage {1},バックパック{0}  倉庫{1},배낭{0}  창고{1}
+text_ui_timeback0,视界跃迁,視界躍遷,Backtrack,視野遷移,시야 점프
+text_ui_jumplevel0,记忆跃迁,記憶躍遷,Jump,記憶遷移,메모리 점프
+text_ui_skillresult_insleep0,睡眠中,睡眠中,Asleep,睡眠中,수면 중
+text_ui_skillresult_inactiondisabled0,禁锢中,禁錮中,Confined,禁錮中,금고 중
+text_ui_skillresult_inattackdisabled0,缴械中,繳械中,Disarmed,武装解除中,무장 해제 중
+text_ui_skillresult_inflash0,眩晕中,眩暈中,Stunned,スタン中,기절 중
+text_ui_skillresult_inactiveskilldisabled0,失神中,失神中,Disoriented,失神中,넋을 잃다
+text_itemreset_poptips_no_resetitem0,重置磁盘不足！,重置磁片不足！,Insufficient Reset Disks!,リセットディスクが不足しています！,디스크 리셋이 부족합니다！
+text_itemreset_poptips_gene_lock0,该道具未解锁！,該道具未解鎖！,This item is locked!,このアイテムは未解放です！,해당 아이템은 잠금 해제되지 않았습니다！
+text_itemreset_poptips_no_upgrade0,该道具未进行过改造！,該道具未進行過改造！,This item has not been modified!,このアイテムに強化を行ったことがありません！,해당 아이템은 개조되지 않았습니다！
+text_weaponreset_poptips_no_resetitem0,还原套件不足！,還原套件不足！,Insufficient Restoration kits!,復元キットが不足しています！,복원 키트가 부족합니다！
+text_weaponreset_poptips_no_upgrade0,该武器未进行过升级！,該武器未進行過升級！,This weapon has not been upgraded!,この武器をレベルアップさせたことがありません！,해당 무기는 레벨업하지 않았습니다！
+text_ui_choose_battlesetting0,更改,更改,Change,変更,고치기
+text_itemreset_poptips_no_item0,没有需要重置的道具！,沒有需要重置的道具！,No items need to be reset!,リセットの必要があるアイテムがありません！,재배치가 필요한 아이템이 없습니다！
+text_itemreset_poptips_no_select0,当前未选中任何道具！,當前未選中任何道具！,No items currently selected!,アイテムが選択されていません！,현재는 선택한 아이템이 없습니다!
+text_genereset_poptips_no_select0,当前无选中任何技能或特质！,當前無選中任何技能或特質！,No skills or traits currently selected!,スキルや特質が選択されていません！,현재는 선택한 스킬 또는 특성이 없습니다!
+text_ui_depot_quickbuy_maxcarry0,该道具已达携带上限！,該道具已達攜帶上限！,You have reached maximum carry capacity for this item!,このアイテムは既に携帯可能数上限に達しています！,该道具已达携带上限！
+text_ui_depot_sell_num_null0,该道具无库存！,該道具無庫存！,This item is out of stock!,このアイテムに在庫がありません！,해당 아이템이 없습니다！
+text_ui_depot_move2bag_num_null0,该道具无库存！,該道具無庫存！,This item is out of stock!,このアイテムに在庫がありません！,해당 아이템이 없습니다！
+text_ui_roleprofile_skin_lock0,该服装未解锁！,該服裝未解鎖！,This outfit is locked!,このスキンは未解放です！,해당 코스튬은 잠금 해제되지 않았습니다！
+text_ui_storydialog_skipmode0,快进,快進,Speed Up,早送り,빨리감기
+text_ui_storydialog_hideui0,隐藏,隱藏,Hide,非表示,감추기
+text_ui_depot_quickbuy_noparts0,所需零件不足！,所需零件不足！,Insufficient Parts!,必要なパーツが不足しています！,필요한 부품이 부족합니다!
+text_ui_depot_quickbuy_nomaterial0,所需材料不足！,所需材料不足！,Insufficient Materials!,必要な素材が不足しています！,필요한 재료가 부족합니다!
+text_ui_preparemain_roletrain0,角色养成,角色養成,Character Training,キャラクター育成,캐릭터 육성
+text_ui_preparemain_roleinfo0,角色信息,角色資訊,Character Information,ユニット情報,캐릭터 정보
+text_ui_depot_move2bag_num_zero0,该道具无库存！,該道具無庫存！,This item is out of stock!,このアイテムに在庫がありません！,해당 아이템이 없습니다！
+text_ui_battlemenu_pause0,暂停,暫停,Pause,一時停止,일시 정지
+text_ui_battlemenu_menu0,菜单,菜單,Menu,メニュー,메뉴
+text_ui_weaponprepare_specialab_scroll0,滚动,滾動,Scroll,回転,구르기
+text_ui_sl_savetime0,保存时间：{0}年{1}{2}月{3}{4}日  {5}{6}:{7}{8},保存時間：{0}年{1}{2}月{3}{4}日  {5}{6}:{7}{8},Save Time: {3}{4}/{1}{2}/{0} (DD/MM/YY) {5}{6}:{7}{8},セーブ時間：{0}年{1}{2}月{3}{4}日  {5}{6}:{7}{8},저장 시간：{0}년{1}{2}월{3}{4}일  {5}{6}:{7}{8}
+text_ui_messagetip_lock0,尚未解锁,尚未解鎖,Not yet unlocked,現在未解放,잠금 해제되지 않음
+text_ui_battleshortcut_save0,快捷保存,快捷保存,Quick Save,クイックセーブ,바로 저장
+text_ui_battleshortcut_load0,快捷读取,快捷讀取,Quick Load,クイックロード,바로 읽기
+text_ui_modechoose_challengeplus_title0,是否启用进阶{0}模式？,是否啟用進階{0}模式？,Enable Advanced {0} Mode?,アドバンスド{0}モードをオンにしますか？,단계{0}모드를 켜시겠습니까? 
+text_ui_modechoose_challengeplus_content0,"在<color=#d72f30>进阶挑战</color>（挑战+）模式下，游戏难度和挑战保持一致。
+进入关卡后，除关键节点会进行自动存档外，只能中断游戏。","在<color=#d72f30>進階挑戰</color>（挑戰+）模式下，遊戲難度和挑戰保持一致。
+進入關卡後，除關鍵節點會進行自動存檔外，只能中斷遊戲。","In <color=#d72f30>Advanced Challenge</color> (Challenge+) Mode, the game difficulty will remain consistent with Challenge Mode. 
+After entering a stage, aside from auto-saves at certain key points, you must quit the game if you want to save.","<color=#d72f30>アドバンスドチャレンジ</color>（チャレンジ+）モードでは、ゲーム難易度とチャレンジが同じになります。
+ステージ開始後、オートセーブが行われる重要な部分以外は、ゲームの中断しか行えません。","<color=#d72f30>단계 도전</color>（챌린지+） 모드에서는 게임 난이도와 챌린지가 일치합니다. 
+관문 시작 후, 핵심 장면이 자동 저장되는 것 외에는 게임 중단만 가능합니다."
+text_ui_savemode30,挑战模式下每回合仅能保存一次。,挑戰模式下每回合僅能保存一次。,Only one save per turn in Challenge Mode.,チャレンジモードでは、セーブを毎ターン1回しか行えなくなります。,도전 모드에서 턴 당 한 번만 저장이 가능합니다.
+text_ui_reinforcelv_maxlv0,当前已达团队最高等级!,當前已達團隊最高等級!,The team has reached the max level!,既にチーム最高レベルに達しています！,팀의 최고 등급에 도달했습니다!
+text_preset_poptips_save0,预设保存成功！,預設保存成功！,Preset Saved!,プリセットの保存が完了しました！,프리셋 저장 성공！
+text_collection_tips_secretfile0,完成当前章节后开启复盘模式，可重复挑战战役，获取机密文件/藏品/更高的战役评价,完成當前章節後開啟複盤模式，可重複挑戰戰役，獲取機密檔/藏品/更高的戰役評價,"After completing the current chapter, Replay Mode will be unlocked. Replay battles to obtain Confidential Files, Collectibles, and achieve higher Ranks.",クリア後に再現モードをオンにすると、その戦役に何度でも挑戦することができ、機密ファイルやコレクション、より高い戦役評価を獲得することができます。,현재 장을 완성한 후 리플레이 모드를 켜면 반복적으로 전투에 도전하고 기밀 문서/소장품/더 높은 전투 평가를 획득할 수 있습니다.
+text_collection_tips_itemcollect0,完成当前章节后开启复盘模式，可重复挑战战役，获取机密文件/藏品/更高的战役评价,完成當前章節後開啟複盤模式，可重複挑戰戰役，獲取機密檔/藏品/更高的戰役評價,"After completing the current chapter, Replay Mode will be unlocked. Replay battles to obtain Confidential Files, Collectibles, and achieve higher Ranks.",現在の章のクリア後に再現モードを有効にすると、戦役に繰り返しチャレンジし、機密ファイル/コレクション/より高い戦役評価を獲得できます,현재 장을 완성한 후 리플레이 모드를 켜면 반복적으로 전투에 도전하고 기밀 문서/소장품/더 높은 전투 평가를 획득할 수 있습니다.
+text_collection_tips_levelcollect0,完成当前章节后开启复盘模式，可重复挑战战役，获取机密文件/藏品/更高的战役评价,完成當前章節後開啟複盤模式，可重複挑戰戰役，獲取機密檔/藏品/更高的戰役評價,"After completing the current chapter, Replay Mode will be unlocked. Replay battles to obtain Confidential Files, Collectibles, and achieve higher Ranks.",現在の章のクリア後に再現モードを有効にすると、戦役に繰り返しチャレンジし、機密ファイル/コレクション/より高い戦役評価を獲得できます,현재 장을 완성한 후 리플레이 모드를 켜면 반복적으로 전투에 도전하고 기밀 문서/소장품/더 높은 전투 평가를 획득할 수 있습니다.
+text_secretgene_geneui_poptips0,该基因无法重组,該基因無法重組,The gene cannot be recombined,このゲノムはリビルドできません,해당 유전자는 재조합이 불가합니다
+text_secretgene_geneui_type0,特殊技能,特殊技能,Hidden Skill,特殊スキル,특수 스킬
+text_secretgene_geneui_type20,特殊特质,特殊特質,Unique,特殊特質,특수 특성
+text_ui_button_continue_txt0,继续,繼續,Continue,続ける,계속
+text_ui_attr_battle_hp0,当前生命值/生命值上限,當前生命值/生命值上限,Current HP/Max HP,現在HP/最大HP,현재 HP/HP상한
+text_ui_attr_battle_ap0,当前行动力/行动力上限,當前行動力/行動力上限,Current AP/Max AP,現在AP/最大AP,현재 AP/AP상한
+text_laststate_title0,重开阶段确认,重開階段確認,Restart Phase Confirmation,再開段階確認,단계 재시작 확인
+text_laststate_content0,是否回到当前阶段起始状态重新开始战斗？,是否回到當前階段起始狀態重新開始戰鬥？,Return to the beginning of the current phase and restart the battle?,現在の戦局を初期状態にリセットして、もう一度戦闘を開始しますか？,현재 단계의 초기 상태로 돌아가 다시 전투를 시작하시겠습니까?
+text_mode_change_nohigh0,不可切换至难度更高的模式,不可切換至難度更高的模式,Unable to switch to a higher difficulty mode,難易度のより高いモードには変更できません,최고 난이도 모드로 변경 불가
+text_mode_change_nocur0,不可切换至当前模式,不可切換至當前模式,Unable to switch to the current mode,現在のモードには変更できません,현재 모드로 변경 불가
+text_ui_skillresult_unopen0,暂未开启,暫未開啟,Not yet unlocked,現在未解放,아직 열리지 않았습니다
+text_ui_skillresult_invalid0,无效,無效,Invalid,無効,무효합니다
+item_category_remake_acc0,<color=#b5b6bb>配件</color>,<color=#b5b6bb>配件</color>,<color=#b5b6bb>Accessories</color>,<color=#b5b6bb>アタッチメント</color>,<color=#b5b6bb>부품</color>
+text_ui_messagebox_manualtypechange_title0,移动路径变更确认,移動路徑變更確認,Confirm change to Movement Path,移動ルート変更の確認,이동 루트 변경 확인
+text_ui_messagebox_manualtypechange_content0,当前战役进程中，游戏设置中的移动路径设置将锁定为<color=#ff8d48>{0}</color>模式，且不可更改。,當前戰役進程中，遊戲設置中的移動路徑設置將鎖定為<color=#ff8d48>{0}</color>模式，且不可更改。,"During the current battle, the Movement Path settings in the Game Settings will be locked to <color=#ff8d48>{0}</color> Mode and cannot be changed.",現在の戦役の進行状況では、ゲーム設定内の移動ルート設定が<color=#ff8d48>{0}</color>モードに固定されます。また、この設定を変更することはできません。,현재 전투 진도에서 게임 설정의 이동 경로는 <color=#ff8d48>{0}</color>모드로 고정할 수 있으며 변경 불가합니다.
+text_ui_messagebox_manualtyperestore_content0,游戏设置中的移动路径设置已解除锁定，且已还原为<color=#ff8d48>{0}</color>模式。,遊戲設置中的移動路徑設置已解除鎖定，且已還原為<color=#ff8d48>{0}</color>模式。,The Movement Path in the Game Settings has been unlocked and has been restored to <color=#ff8d48>{0}</color> Mode.,ゲーム設定内の移動ルート設定の固定が解除されました。また、既に<color=#ff8d48>{0}</color>モードに戻されています。,게임 설정의 이동 경로 설정은 이미 고정이 해제되었습니다. 또한 <color=#ff8d48>{0}</color>모드로 복원되었습니다.
+text_ui_messagebox_manualtypelock_title0,移动路径变更确认,移動路徑變更確認,Confirm change to Movement Path,移動ルート変更の確認,이동 루트 변경 확인
+text_ui_messagebox_manualtypelock_content0,当前战役的移动路径锁定为<color=#ff8d48>{0}</color>模式，且不可更改。,當前階段進程中，遊戲設置中的移動路徑設置將鎖定為<color=#ff8d48>{0}</color>模式，且不可更改。,The Movement Path for the current battle is locked to <color=#ff8d48>{0}</color> Mode and cannot be changed.,現在の戦役の進行状況では、ゲーム設定内の移動ルート設定が<color=#ff8d48>{0}</color>モードに固定されます。また、この設定を変更することはできません,현재 단계 진도에서 게임 설정의 이동 경로 설정을 <color=#ff8d48>{0}</color> 모드로 고정할 수 있으며 변경 불가합니다.
+text_ui_gene_upgrade_positive_lock0,该基因未解锁！,該基因未解鎖！,This Gene is Locked!,このゲノムは未解放です！,해당 유전자는 잠금상태입니다！
+text_skill_copy_spdesc0,变化,變化,Change,変化,변화
+text_ui_weapon_upgrade_no_parts0,所需零件不足！,所需零件不足！,Insufficient Parts!,必要なパーツが不足しています！,필요한 부품이 부족합니다!
+text_ui_messagetip_lock_secretfile0,该文件未解锁！,該檔案未解鎖!,This File is Locked!,このファイルは未解放です！,해당 문서는 잠금 해제되지 않았습니다！
+text_ui_messagetip_lock_itemcollection0,该藏品未解锁！,該藏品未解鎖！,The Collectible is Locked!,このコレクションは未解放です！,해당 소장품을 잠금 해제되지 않았습니다！
+text_ui_messagetip_lock_artcollection0,该影像未解锁！,該影像未解鎖！,The Art Material is Locked!,この映像は未解放です！,해당 영상은 잠금 해제되지 않았습니다！
+text_challengeplus_desc0,"在<color=#d72f30>进阶挑战</color>（挑战+）模式下，游戏难度和挑战保持一致。
+进入关卡后，除关键节点会进行自动存档外，只能中断游戏。",在挑戰+模式下，戰役進程中僅會在關鍵節點進行自動存檔，其餘時間只能中斷遊戲，是否啟用該模式？,"In <color=#d72f30>Advanced Challenge</color> (Challenge+) Mode, the game difficulty will remain consistent wiith Challenge Mode. 
+After entering a stage, aside from auto-saves at certain key points, you must quit the game if you want to save.",チャレンジ+モードでは、戦役における重要なタイミングでオートセーブが行われ、その他のタイミングでもゲームの中断しか行えなくなります。このモードをオンにしますか？,도전+모드에서 전투 진도는 하이라이트만 자동 저장됩니다. 나머지 시간은 게임을 중단해야 합니다. 해당 모드를 사용하시겠습니까?
+text_teammember_tips_in0,已加入队伍,已加入隊伍, has joined the team,入隊済,이미 대열에 합류했습니다
+text_teammember_tips_out0,已离开队伍,已離開隊伍,has left the team,除隊済,이미 대열을 이탈했습니다
+text_messagebox_threadsavedata0,加载中,加載中,Loading,ロード中,로딩 중
+text_title_quickbuy_confirm0,补充确认,補充確認,Replenishment Confirmation,補充確定,보충 확인
+text_depot_itempriority0,优先道具,優先道具,Priority Items,優先アイテム,우선 아이템
+text_depot_partpriority0,优先零件,優先零件,Priority Parts,優先パーツ,우선 부품
+text_depot_viewnum0,查看数量,查看數量,View Quantity,数量確認,수량 보기
+text_depot_viewpart0,查看零件,查看零件,View Parts,パーツ確認,부품 보기
+text_mark_gene_equip_idle0,技能可装备,技能可裝備,Skills Equippable,スキル装備可能,스킬 장비 가능
+text_ui_messagetip_lock_skin0,该服装未解锁！,該服裝未解鎖！,This outfit is locked!,このスキンは未解放です。,해당 코스튬은 잠금 해제되지 않았습니다！
+text_ui_messagetip_unlock_itemteam_buy0,新团队道具【{0}】可购买！,新團隊道具【{0}】可購買！,New team item [{0}] available for purchase!,新チームアイテム【{0}】が購入可能になりました！,새로운 팀 아이템【{0}】이 구매 가능합니다!
+text_ui_shop_quickequip_confirm0,是否要快捷装配购买的配件,是否要快捷裝配購買的配件,Would you like to quick-equip purchased accessories?,購入したアタッチメントをクイック装備しますか？,구매한 부품을 바로 장착할까요?
+text_ui_shop_quickequip_title0,快捷装备,快捷裝備,Quick-equip,クイック装備,바로 장비
+text_ui_shop_quickequip_success0,已成功装备配件【{0}】,已成功裝備配件【{0}】,Successfully equipped [{0}],アタッチメント【{0}】の装備が完了しました,【{0}】부품을 성공적으로 장비했습니다
+text_ui_accshop_page0,装备制作,裝備製作,Equipment Crafting,装備製作,장비 제작
+text_ui_select_showtype_all0,全部,全部,All,全て,전부
+text_ui_select_showtype_itemteam0,团队道具,團隊道具,Team Items,チームアイテム,팀 아이템
+text_ui_itemteam_maxap_type0,最大AP,最大AP,Max AP,最大AP,최대 AP
+text_ui_itemteam_maxsp_type0,最大SP,最大SP,Max SP,最大SP,최대 SP
+text_ui_itemteam_sightrange_type0,普通视野,普通視野,Normal Visual Range,普通視野,일반 시야
+text_ui_itemteam_stealthrange_type0,反潜视野,反潛視野,Anti-Stealth Visual Range,反潜視野,안티 스텔스 시야
+text_ui_itemteam_bagcount_type0,背包容量,背包容量,Backpack Capacity,バックパック容量,배낭 용량
+text_ui_itemteam_sightrange_steal_type0,隐匿视野,隱匿視野,Stealth Vision,隠蔽視野,은닉 시야
+text_ui_accshop_buylimit0,限购{0}件,限購{0}件,Purchase Limit: {0},{0}個まで購入可能,{0}개 구매 한정
+text_ui_accshop_have_count0,持有{0},持有{0},Owned: {0},所持数：{0},{0}개 보유
+text_ui_battlemain_cannotchangeweapon0,没有其他武器可以更换,沒有其他武器可以更換,No other weapons to replace,交換可能な武器が他にありません,교체 가능한 무기가 없습니다.
+text_ui_unithud_invalidoperation0,未满足操作条件,未滿足操作條件,Operating conditions not met,操作条件を満たしていません,조작 조건을 충족하지 않습니다.
+text_ui_weaponprepare_quickbuy_equiped0,已装备该配件！,已裝備該配件！,Already equipped this accessory!,そのアタッチメントは装備済みです。,해당 부품을 장착했습니다!
+text_ui_weaponprepare_quickbuy_sellout0,该装备已售罄！,該裝備已售罄！,Equipment is sold out!,その装備は売り切れです。,해당 장비는 품절입니다!
+text_ui_weaponprepare_quickbuy_doequip0,{0}已装配至{1}({2}),{0}已裝配至{1}({2}),{0} equipped to {1} ({2}),{0}は既に{1}({2})に装備されています,{0}을 이미{1}({2})에 장착했습니다!
+uimessagebox_max_product_accshop0,已达到该装备的制作上限！,已達到該裝備的製作上限！,Crafting limit reached for this equipment!,該当装備の製作上限に達しています。,해당 장비는 더 이상 제작이 불가능합니다!
+text_ui_consumedepot0,优先使用道具,優先使用道具,Prioritized Item,アイテム優先使用,우선 사용할 아이템
+text_acc_title_accstore0,配件库,配件庫,Accessory Storage,アタッチメント倉庫,부품 창고
+text_acc_title_quickbuy0,快捷制作,快捷製作,Quick Production,クイック作成,바로 제작
+text_itemupgrade_lv_max0,MAX,MAX,MAX,MAX,MAX
+text_weaponprepare_part_need0,所需零件：,所需零件：,Required Parts:,必要パーツ：,필요한 부품:
+item_selecttype_10,伤害类,傷害類,Damage,ダメージ系,데미지
+item_selecttype_20,恢复类,恢復類,Recovery,回復系,회복
+item_selecttype_30,功能类,功能類,Function,戦略系,기능
+item_selecttype_60,器械类,器械類,Equipment,機械系,기계
+text_messagebox_settingtutorial_on0,开启新手引导，但已通关的战役中不会出现新手引导。如果在战役中开启引导，已跳过的引导需要重开战役后才能生效。是否继续？,開啟新手引導，但已通關的戰役中不會出現新手引導。如果在戰役中開啟引導，已跳過的引導需要重開戰役後才能生效。是否繼續？,"Enable tutorials, but they will not appear in battles already cleared. If tutorials are enabled during the battle, skipped tutorials will only take effect after restarting the battle. Continue?",チュートリアルをオンにしても、クリア済みの戦役ではチュートリアルが発生しません。戦役中にチュートリアルをオンにした場合、既にスキップされたチュートリアルは戦役を改めて開始しなければ発生しません。続けますか？,"초보자 튜토리얼을 켭니다, 하지만 이미 통과한 전투에서는 초보자 튜토리얼이 나오지 않습니다. 전투에서 초보자 튜토리얼을 켜면, 스킵한 튜토리얼은 전투를 재시작해야 나옵니다. 계속하시겠습니까?"
+text_messagebox_settingtutorial_off0,关闭新手引导。如果在战役中关闭新手引导，将会立刻关闭所有新手引导。是否继续？,關閉新手引導。如果在戰役中關閉新手引導，將會立刻關閉所有新手引導。是否繼續？,"Disable tutorials. If you disable tutorials during the battle, all tutorials will immediately be disabled. Continue?",チュートリアルをオフにする。戦役中にチュートリアルをオフにした場合、全てのチュートリアルが発生しません。続けますか？,초보자 튜토리얼을 닫습니다. 전투에서 초보자 튜토리얼을 닫으면 즉시 모든 초보자 튜토리얼이 닫힙니다. 계속하시겠습니까?
+text_ui_tutorialopen0,关闭后，游戏中不会出现新手引导。\n如果后续需要开启，可以在设置中对该选项进行修改。,關閉後，遊戲中不會出現新手引導。\n如果後續需要開啟，可以在設置中對該選項進行修改。,"When disabled, no tutorials will appear in the game. If you need to enable it again, modify it in the settings.",オフにすると、ゲーム中にチュートリアルが表示されません。\n後でオンにする必要がある場合は、設定内でこのオプションを変更できます。,종료 후 게임에 초보자 튜토리얼이 나타나지 않습니다. 나중에 다시 켜야 한다면 설정에서 해당 옵션을 수정할 수 있습니다.
+text_acc_btn_selecttype0,筛选,篩選,Filter,絞り込み,선별
+text_acc_btn_selecttype_confirm0,确定,確定,Confirm,はい,확인
+text_endturn_press0,长按,長按,Hold,長押し,클릭
+text_playback_error_tips0,战役中无法查看剧情回放,戰役中無法查看劇情回放,Unable to view story replay during battle,戦役中はストーリーを再鑑賞することはできません,전투 중 스토리를 재생할 수 없습니다.
+text_restartround_title0,重开回合确认,重開回合確認,Confirm Restart Turn,ターンを最初から開始確定,턴 재시작 확인
+text_restartround_content0,是否回到当前回合起始状态重新开始战斗？,是否回到當前回合起始狀態重新開始戰鬥？,Revert to the start of the current turn?,このターンをリセットして、もう一度戦闘を開始しますか？,턴 초기 시작 상태로 돌아가 다시 전투를 시작하겠습니까?
+text_ui_messagetip_autoequip_success0,{0}已装备,{0}已裝備,{0} Equipped,{0}は装備済みです,{0}장비됨
+text_ui_gamesave_op_quicksave0,无法手动修改快捷存档,無法手動修改快捷存檔,Cannot manually modify Quick Save Files,クイックセーブを手動で変更することはできません,빠른 저장은 수동으로 수정할 수 없습니다
+text_ui_quicksave_success0,快速保存完成,快捷保存完成,Quick Save Complete,クイックセーブ完了,바로 저장 완료
+text_ui_genetips_title_skill0,特殊技能解锁,特殊技能解鎖,Special Skills Unlocked,特殊スキル解放,특수 스킬 잠금 해제
+text_ui_genetips_title_special0,特殊特质解锁,特殊特質解鎖,Special Traits Unlocked,特殊特質解放,특수 특성 잠금 해제
+text_ui_gamesave_replay0,复盘,複盤,Replay,再現,리플레이
+text_ui_quicksave_notexist0,无档案可读取,無檔案可讀取,No readable files,読み取り可能なファイル無し,읽을 수 있는 파일이 없습니다
+text_ui_quicksave_fail0,{0}模式下每回合仅能保存一次,{0}模式下每回合僅能保存一次,Can only save once per turn in {0} mode,{0}モードでは、セーブは各ターン1回のみしか行えません,{0} 모드에서 턴 당 한 번만 저장 가능합니다
+text_ui_gameload_quickload0,是否读取快捷存档的记录继续游戏？,是否讀取快捷存檔的記錄繼續遊戲？,Read quick save file to keep playing?,クイックセーブデータを読み取ってゲームを続けますか？,바로 가기에 저장된 기록을 불러와 게임을 계속하시겠습니까?
+text_ui_skillresult_fullhp0,满血中,滿血中,Full HP,HP満タン,HP차는 중
+text_throughtimeworldcount0,经历世界线{0},經歷世界線{0},Experiencing World Line {0},世界線の経験{0},세계선 넘기{0}
+text_ui_skillfail_invalidplace0,<color=#ff7478>无效位置</color>,<color=#ff7478>無效位置</color>,<color=#ff7478>Invalid Location</color>,<color=#ff7478>無効な位置</color>,<color=#ff7478>무효한 위치</color>
+text_ui_depot_confirm_preset0,预设,預設,Presets,プリセット,프리셋
+text_ui_depot_confirm_infoswitch0,切换,切換,Switch,切替,교체
+text_timemap_jump_nolevel0,当前没有可执行记忆跃迁的战役！,當前沒有可執行記憶躍遷的戰役！,No Memory Leap battle available at the moment!,記憶遷移を実行できる戦役がありません！,지금은 메모리 점프를 할 수 있는 전투가 없습니다!
+text_timemap_jump_noitem0,所需记忆点不足！,所需記憶點不足！,Insufficient Memory Points!,必要な記憶ポイントが不足しています！,메모리 포인트가 부족합니다!
+text_weapon_levelup_confirm_tips_remake0,是否消耗<color=#fffd90>{0}零件</color>，将<color=#ff8d48>{1}</color>从{2}阶升至<color=#ff8d48>{3}阶</color>？,是否消耗<color=#fffd90>{0}零件</color>，將<color=#ff8d48>{1}</color>從{2}階升至<color=#ff8d48>{3}階</color>？,Consume <color=#fffd90>{0}Parts</color> to upgrade <color=#ff8d48>{1}</color> from Rank {2} to <color=#ff8d48>Rank {3}</color>?,<color=#fffd90>{0}パーツ</color>を消費して<color=#ff8d48>{1}</color>をレベル{2}から<color=#ff8d48>レベル{3}</color>にアップグレードしますか？,<color=#fffd90>{0}부품</color>을 소모하여 <color=#ff8d48>{1}</color>에서 {2}<color=#ff8d48>{3}단계</color>로 무기 개조를 하시겠습니까?
+text_ui_roleprofile_skin_dlc_lock0,通过DLC解锁,通過DLC解鎖,Unlock via DLC,DLCにより解放,DLC통해 잠금해제
+text_ui_messagebox_remakenewgame0,此篇章内容源自于云母组2013年制作的《面包房少女》原作，若其中的剧情或设定与新作存在冲突，则以新作为准，感谢各位的游玩与支持！,此篇章內容源自於雲母組2013年製作的《麵包房少女》原作，若其中的劇情或設定與新作存在衝突，則以新作為准，感謝各位的遊玩與支持！,"The content of this chapter is based on the original ""Bakery Girl"" developed by the MICA Team in 2013. If there is any inconsistency between the plot or settings between the new version and the old version, please follow the new version. Thank you for playing this game!",この章の内容は、サンボーンが2013年に製作した『パン屋少女』を原作としています。新作のストーリーまたは設定が原作と矛盾する場合は、新作のものが基準となります。予めご了承ください。,본 장의 내용은 2013년 운모팀이 제작한 원작 '베이커리 소녀'에서 따온 것입니다. 스토리와 설정에서 신작과 충돌되는 부분이 있으면 신작을 우선으로 합니다. 여러 플레이어분들의 플레이와 성원에 감사드립니다!
+text_ui_battlecompose_no_ap0,所需AP不足！,所需AP不足！,Insufficient AP!,必要なAPが不足しています！,AP가 부족합니다!
+text_ui_messagebox_skinerror0,数据不完整,數據不完整,Incomplete Data,データが不完全です,데이터가 불완전합니다.
+text_ui_hud_explosion0,引爆,引爆,Detonate,起爆,폭파
+text_ui_hud_active0,启动,啟動,Activate,有効にする,가동
+text_dlclevel_uninstall0,dlc资源缺失，请检查资源完整性,dlc資源缺失，請檢查資源完整性。,DLC resources missing. Please check the integrity of resources.		,dlcリソースがありません。コンテンツの整合性を確認してください。,"dlc 자원 손실, 자원의 완전성을 검사하세요."
+text_ui_gamesave_empty0,空,空,Empty,Empty,Empty
+text_ui_gamesave_passedtime0,游戏时长,遊戲時長,Game Duration,プレイ時間,플레이 시간
+item_selecttype_50,配件类,配件類,Accessory type	,アタッチメント類,부품류
+text_ui_accshop_not_inteam0,暂时离队,暫時離隊,Leave team temporarily,一時的離脱,잠시 이탈
+text_ui_levelreplaytoptip_rank0,最高评分,戰役S評價,Battle Rank S,戦役のS評価,전투 S 평가
+text_ui_levelreplaytoptip_rank_desc0,当前章节最高评分达成情况,每個章節完成後，都可進入複盤模式嘗試獲取最高的戰役評價,"After completing each chapter, you can enter Replay Mode to aim for the highest battle rank.",各章をクリアすると、再現モードで最上級の戦役評価をチャレンジできます。,한 장을 완성한 후 리플레이 모드로 들어가 더 높은 전투 평가를 얻을 수 있습니다.
+text_ui_levelreplaytoptip_secretdoc0,机密文件,機密檔,Confidential Files,機密ファイル,기밀 문서
+text_ui_levelreplaytoptip_secretdoc_desc0,当前章节机密文件收集情况,每個章節完成後，都可進入複盤模式收集所有未獲得的機密檔,"After completing each chapter, you can enter Replay Mode to collect any Confidential Files you missed.",各章をクリアすると、再現モードで未所持の機密ファイルを収集できます。,한 장을 완성한 후 리플레이 모드로 들어가 아직 획득하지 못한 기밀 문서를 수집할 수 있습니다.
+text_ui_levelreplaytoptip_itemcollect0,藏品,藏品,Collectibles,コレクション,소장품
+text_ui_levelreplaytoptip_itemcollect_desc0,当前章节藏品收集情况,每個章節完成後，都可進入複盤模式收集所有未獲得的藏品,"After completing each chapter, you can enter Replay Mode to collect all the undiscovered collectibles.",各章をクリアすると、再現モードで未所持のコレクションを収集できます。,한 장을 완성한 후 리플레이 모드로 들어가 아직 획득하지 못한 소장품을 수집할 수 있습니다.
+text_ui_static_endless_score0,无尽积分,無盡積分,Score,無限Pt,무한 포인트
+text_ui_static_endless_wave0,最高波数,最高波數,Highest Wave,最大ウェーブ数,최고 파수
+text_ui_endless_list_tips_remake0,仅展示当前难度的波数,僅展示當前難度的波數,Only shows wave number for current difficulty,現在の難易度のウェーブ数のみ表示,현재 난이도의 파수만 보기
+text_ui_endless_levelcollection_remake0,废弃小镇,廢棄小鎮,Abandoned Town,放棄された村,버려진 마을
+text_ui_easyplus_title0,是否启用休闲²模式,是否啟用休閒²模式？,Enable Casual² Mode?,レジャー²モードをオンにしますか？,쉬움² 모드를 켜시겠습니까? 
+text_ui_easyplus_desc0,在<color=#ff8d48>休闲²</color>模式下，游戏难度和休闲保持一致。\n每场战役可额外获得数枚治疗类道具“药丸”；\n在战役中，每回合开始时，我方角色会恢复生命值上限的50%。\n（部分特殊战役除外）,在<color=#ff8d48>休閒²</color>模式下，遊戲難度和休閒保持一致。 \n每場戰役可額外獲得數枚治療類道具「藥丸」\n； \n在戰役中，每回合開始時，我方角色會恢復生命值上限的50%。\n（部分特殊戰役除外）,"In <color=#ff8d48>Casual²</color> mode, gameplay difficulty remains the same. \nGain additional healing items ""Pill"" every mission.\nIn battles, allied units will be healed 50% of their Max HP at the start of each turn. \n (excluding certain special missions)",<color=#ff8d48>レジャー²</color>モードでは、ゲームの難易度はレジャーと一致しています。\n各戦闘では追加の治療アイテム「カプセル」を数個入手できます。\n戦闘中、各ターンの開始時に、自分のキャラクターの最大体力の50％が回復します。\n（一部の特別な戦闘を除く）。,<color=#ff8d48>쉬움²</color> 모드의 게임 난이도는 쉬움과 동일합니다. \n각 전투마다 치료 아이템 '알약'을 추가로 획득할 수 있습니다. \n전투에서 턴이 시작할 때마다 아군 캐릭터는 HP 상한의 50%를 회복합니다.\n(일부 특수 전투 제외)
+text_ui_challengeplus_yes0,<color=#d72f30>启用</color>,<color=#d72f30>啟用</color>,<color=#d72f30>Enable</color>,<color=#d72f30>オン</color>,<color=#d72f30>on</color>
+text_ui_challengeplus_no0,不启用,不啟用,Disable,オフ,off
+text_ui_easyplus_yes0,<color=#ff8d48>启用</color>,<color=#ff8d48>啟用</color>,<color=#ff8d48>Enable</color>,<color=#ff8d48>オン</color>,<color=#ff8d48>on</color>
+text_ui_easyplus_no0,不启用,不啟用,Disable,オフ,off
+text_ui_sl_easyplus0,休闲²,休閒²,Casual²,カジュアル²,쉬움²
+text_ui_modechoose_easyplus_desc0,适合刚接触战棋游戏或者专注于体验剧情的玩家,適合剛接觸戰棋遊戲或者專注於體驗劇情的玩家,Suitable for players new to turn-based strategy games or those who wish to focus only on the story.,バトルチェスゲームに初めて触れる、もしくはストーリーだけを楽しみたいプレイヤー向けです,전략 게임에 갓 입문했거나 스토리만 즐기고 싶은 플레이어에게 적합하다
+text_ui_modechoose_easyplus_desc_content0,*敌人的能力降低、数量减少\n*敌方头目受到的伤害提升50%\n*部分任务更容易达成\n*每回合可进行无限次手动存档\n*首轮游戏团队等级上限提高20级\n*每场战役可额外获得数枚治疗类道具“药丸”\n （部分特殊战役除外）\n*在战役中，每回合开始时，我方角色会恢复生命值上限的50%\n （部分特殊战役除外）,*敵人的能力降低、數量減少\n*敵方頭目受到的傷害提升50%\n*部分任務更容易達成\n*每回合可進行無限次手動存檔\n*首輪遊戲團隊等級上限提高20級\n*每場戰役可額外獲得數枚治療類道具「藥丸」\n （部分特殊戰役除外）\n*在戰役中，每回合開始時，我方角色會恢復生命值上限的50%\n （部分特殊戰役除外）,"*Enemy abilities reduced and are fewer in number\n*Increase damage dealt to enemy bosses by 50%\n*Certain missions are easier to complete\n*Unlimited manual saves per turn\n*Max level for the first playthrough is increased by 20\n*Gain additional healing items ""Pill"" every mission \n (excluding certain special missions)\n*In battles, allied units will be healed 50% of their Max HP at the start of each turn \n (excluding certain special missions)",*敵の能力が低下し、数量が減少します\n*敵ボスの被ダメージが50%上昇します\n*一部任務の達成が容易になっています\n*ターンごとに何度でもセーブできます\n*第一ラウンドのチームレベル上限が20になりました。\n*各戦闘では追加の治療アイテム「カプセル」を数個入手できます\n （一部の特別な戦闘を除く）\n*戦闘中、各ターンの開始時に、自分のキャラクターの最大体力の50％が回復します\n （一部の特別な戦闘を除く）,"*적 능력치 감소, 수량 감소 \n*적군의 보스가 받는 데미지 50% 증가 \n*일부 임무가 달성하기 더 쉬워집니다 \n*매 턴 수동 저장 횟수 제한 없음\n*1회차 플레이 팀 레벨 상한 20 상승\n*각 전투마다 치료 아이템 '알약'을 추가로 획득할 수 있습니다 \n (일부 특수 전투 제외)\n*전투에서 턴이 시작할 때마다 아군 캐릭터는 HP 상한의 50%를 회복합니다 \n (일부 특수 전투 제외)"

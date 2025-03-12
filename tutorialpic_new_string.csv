@@ -1,0 +1,431 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+10010,行动力,行動力,Action Points,行動力/AP,AP
+10012,"我方角色可以消耗<color=#ff8d48>行动力（AP）</color>执行各种<color=#ff8d48>基础操作</color>。
+
+每个角色的AP均是<color=#ff8d48>独立</color>的，每回合AP都会<color=#ff8d48>恢复至上限</color>。","我方角色可以消耗<color=#ff8d48>行動力（AP）</color>執行各種<color=#ff8d48>基礎操作</color>。
+
+每個角色的AP均是<color=#ff8d48>獨立</color>的，每回合AP都會<color=#ff8d48>恢復至上限</color>。","Allied units can use <color=#ff8d48>Action Points (AP)</color> to perform <color=#ff8d48>basic actions</color>. 
+
+Each unit's AP is <color=#ff8d48>independent</color>, and AP is <color=#ff8d48>restored to its maximum limit</color> each turn.","味方ユニットは<color=#ff8d48>AP</color>を消費することで各種<color=#ff8d48>基本操作</color>を行うことができます。
+
+各ユニットのAPは<color=#ff8d48>独立</color>しており、毎ターン<color=#ff8d48>上限まで回復</color>します。","아군 캐릭터는 <color=#ff8d48>행동력(AP)</color>을 소모해 다양한 <color=#ff8d48>기본 조작</color>을 수행할 수 있습니다. 
+
+캐 캐릭터마다 <color=#ff8d48>독립</color>적인 AP를 가지고 있습니다. 턴마다 Ap가 <color=#ff8d48>최대치까지 회복합니다</color>."
+10020,移动,移動,Movement,移動,이동
+10022,"角色在<color=#ff8d48>不同地形</color>上移动消耗的AP<color=#ff8d48>存在差异</color>。
+
+可以在右下角地形信息中查看移动消耗。","角色在<color=#ff8d48>不同地形</color>上移動消耗的AP<color=#ff8d48>存在差異</color>。
+
+可以在右下角地形資訊中查看移動消耗。","Moving over <color=#ff8d48>different terrain</color> requires <color=#ff8d48>different amounts of AP</color>. 
+
+View the movement requirements in Terrain Information at the bottom right corner.","ユニットが移動する際に消費するAPは<color=#ff8d48>地形によって</color><color=#ff8d48>異なります</color>。
+
+画面右下の地形情報で、移動に必要な消費APを確認できます。","캐릭터는 <color=#ff8d48>다른 지형</color>에서 이동할 때 소모하는 AP가 <color=#ff8d48>다릅니다</color>. 
+
+우측 하단에서 이동 시 소모하는 AP를 확인할 수 있습니다."
+1001010,设置移动路径,設置移動路徑,Set Movement Path,移動ルート設定,이동 루트 설정
+1001012,可在<color=#ff8d48>游戏设置</color>中调整系统计算路径的方式。,可在<color=#ff8d48>遊戲設置</color>中調整系統計算路徑的方式。,The system's pathfinding method can be adjusted in the <color=#ff8d48>Game Settings</color>.,<color=#ff8d48>ゲーム設定</color>内で移動ルートの計算方法を調整できます。,<color=#ff8d48>게임 설정</color>에서 시스템이 루트를 계산하는 방식을 조정할 수 있습니다.
+10030,攻击,攻擊,Attack,攻撃,공격
+10032,"进入攻击模式后即可选择<color=#ff8d48>射程内</color>的敌方单位发动攻击。
+
+在一回合内，我方角色可以<color=#ff8d48>攻击多次</color>。在攻击图标处可以查看攻击<color=#ff8d48>消耗的AP</color>，以及<color=#ff8d48>剩余AP</color>能够进行的<color=#ff8d48>攻击次数</color>。","進入攻擊模式後即可選擇<color=#ff8d48>射程內</color>的敵方單位發動攻擊。
+
+在一回合內，我方角色可以<color=#ff8d48>攻擊多次</color>。在攻擊圖示處可以查看攻擊<color=#ff8d48>消耗的AP</color>，以及<color=#ff8d48>剩餘AP</color>能夠進行的<color=#ff8d48>攻擊次數</color>。","Enter attack mode to select an enemy unit <color=#ff8d48>in range</color> to attack. 
+
+In one turn, an allied unit can <color=#ff8d48>attack multiple times</color>. View the <color=#ff8d48>AP Cost</color> by the attack and the <color=#ff8d48>amount of attacks</color> that can be performed with the <color=#ff8d48>remaining AP</color> in the attack icon.","攻撃モードになると<color=#ff8d48>射程内</color>の敵ユニットを選択して攻撃を行うことができます。
+
+味方ユニットは1ターンの間に<color=#ff8d48>複数回攻撃</color>することができます。攻撃アイコンで、攻撃の<color=#ff8d48>消費AP</color>と<color=#ff8d48>残りAP</color> で行える<color=#ff8d48>攻撃回数</color>を確認できます。","공격 모드에 진입한 후 <color=#ff8d48>사거리 내</color>에 있는 적 유닛을 선택해 공격할 수 있습니다. 
+
+한 턴 내에, 아군 유닛은 <color=#ff8d48>여러 번 공격</color>할 수 있습니다. 공격 아이콘에서 공격 시 <color=#ff8d48>소모하는 AP</color>를 확인할 수 있습니다, 또한 <color=#ff8d48>남은 AP로</color>로 진행할 수 있는 <color=#ff8d48>공격 횟수</color>를 확인할 수 있습니다."
+10040,射程,射程,Range,射程,사거리
+10042,"攻击模式下可以在当前角色的脚底查看其<color=#ff8d48>射程</color>，其中：
+
+<color=#fd555c>红色格</color>为<color=#ff8d48>优势射程</color>
+<color=#eeb951>黄色格</color>为<color=#ff8d48>劣势射程</color>
+
+攻击劣势射程内的目标命中率会降低。","攻擊模式下可以在當前角色的腳底查看其<color=#ff8d48>射程</color>，其中：
+
+<color=#fd555c>紅色格</color>為<color=#ff8d48>優勢射程</color>
+<color=#eeb951>黃色格</color>為<color=#ff8d48>劣勢射程</color>
+
+攻擊劣勢射程內的目標命中率會降低。","In attack mode, the <color=#ff8d48>Range</color> of the current unit can be viewed beneath the unit: 
+
+<color=#ff8d48>Optimal Range</color> is in <color=#fd555c>Red</color>
+<color=#ff8d48>Suboptimal Range</color> is in  <color=#eeb951>Yellow</color>
+
+Attacks on targets in Suboptimal Range have reduced Accuracy.","攻撃モードでは、現在のユニットの足元でその<color=#ff8d48>射程</color>を確認できます。その内：
+
+<color=#fd555c>赤色のマス</color>は<color=#ff8d48>最適射程</color>です
+<color=#eeb951>黄色のマス</color>は<color=#ff8d48>劣勢射程</color>です
+
+劣勢射程内のターゲットを攻撃する際の命中率は低下します。","공격 모드 진입 후 해당 캐릭터의 발밑에서 <color=#ff8d48>사거리</color>를 확인할 수 있습니다, 그중: 
+
+<color=#fd555c>빨간색 타일</color>은 <color=#ff8d48>우세 사거리</color>이고
+<color=#eeb951>노란색 타일</color>은 <color=#ff8d48>열세 사거리</color>입니다
+
+열세 사거리내에 목표 공격시 명중률이 감소합니다."
+1004020,攻击预览,攻擊預覽,Attack Preview,攻撃プレビュー,공격 미리보기
+1004022,选择目标时将光标移动至任意敌方单位，可以<color=#ff8d48>预览</color>攻击该单位的命中率、暴击率、消耗AP和伤害等<color=#ff8d48>关键信息</color>。,選擇目標時將游標移動至任意敵方單位，可以<color=#ff8d48>預覽</color>攻擊該單位的命中率、暴擊率、消耗AP和傷害等<color=#ff8d48>關鍵資訊</color>。,"Hover over any enemy unit when selecting a target to <color=#ff8d48>Preview</color> <color=#ff8d48>Key Information</color> such as Accuracy, Critical Rate, AP Cost and Damage for attacking that unit.",ターゲット選択時、カーソルを任意の敵ユニットに合わせることで、そのユニットを攻撃する際の命中率・会心率・消費AP・ダメージなどの<color=#ff8d48>重要な情報</color>を<color=#ff8d48>プレビュー</color>できます。,"표적물을 선택할 때 커서를 임의의 적군 유닛으로 이동시키면,해당 단위를 공격하는 명중률, 치명률, 소비 AP, 데미지 등 <color=#ff8d48>핵심 정보</color>를 <color=#ff8d48>미리볼 수 있습니다</color> ."
+10050,移动攻击预览,移動攻擊預覽,Movement Attack Preview,移動攻撃プレビュー,이동 공격 미리보기
+10052,"选择移动目的地时，可以<color=#ff8d48>预览</color>移动到光标所在格时<color=#ff8d48>能攻击的目标</color>，此类单位脚底会显示<color=#ff8d48>标记</color>。
+
+<color=#fd555c>红色标记</color>：敌方单位位于我方<color=#ff8d48>优势射程</color>内。
+<color=#eeb951>黄色标记</color>：敌方单位位于我方<color=#ff8d48>劣势射程</color>内。","選擇移動目的地時，可以<color=#ff8d48>預覽</color>移動到游標所在格時<color=#ff8d48>能攻擊的目標</color>，此類單位腳底會顯示<color=#ff8d48>標記</color>。
+
+<color=#fd555c>紅色標記</color>：敵方單位位於我方<color=#ff8d48>優勢射程</color>內。
+<color=#eeb951>黃色標記</color>：敵方單位位於我方<color=#ff8d48>劣勢射程</color>內。","Move the cursor to a tile to <color=#ff8d48>Preview</color> the <color=#ff8d48>targets that can be attacked</color> when moving to that tile. <color=#ff8d48>Markers</color> will appear beneath the targets. 
+
+<color=#fd555c>Red Markers</color>: Enemy is in <color=#ff8d48>Optimal Range</color>. 
+<color=#eeb951>Yellow Markers</color>: Enemy is in <color=#ff8d48>Suboptimal Range</color>.","移動する目標地点の選択時、カーソルの置かれているマスへ移動することで<color=#ff8d48>攻撃できるターゲット</color>を<color=#ff8d48>プレビュー</color>できます。このタイプのユニットの足元に<color=#ff8d48>マーク</color>が表示されます。
+
+<color=#fd555c>赤色のマーク</color>：味方の<color=#ff8d48>最適射程</color>内に敵ユニットが位置している。
+<color=#eeb951>黄色のマーク</color>：味方の<color=#ff8d48>劣勢射程</color>内に敵ユニットが位置している。","이동 목적지를 선택하면, 커서를 이동해 타일 위에 올려놓으면 <color=#ff8d48>공격 가능한 목표</color>에 대해 <color=#ff8d48>미리보기</color>를 진행할 수 있으며, 목표의 발밑에 <color=#ff8d48>표기</color>가 생깁니다. 
+
+<color=#fd555c>빨간색 표기</color>: 적이 아군의 <color=#ff8d48>우세 사거리</color> 내에 위치하였음을 표시 
+<color=#eeb951>노란색 표기</color>: 적이 아군의 <color=#ff8d48>열세 사거리</color> 내에 위치하였음을 표시"
+10060,威胁数量,威脅數量,Threat Count,威嚇数量,위협 수량
+10062,"选中我方单位后，<color=#ff8d48>能够攻击到该单位的敌人数量</color>将会以<color=#ff8d48>连线</color>的方式显示。这一信息在移动预览时会实时变化。
+
+可以在设置中成切换为<color=#ff8d48>数字</color>显示。","選中我方單位後，<color=#ff8d48>能夠攻擊到該單位的敵人數量</color>將會以<color=#ff8d48>連線</color>的方式顯示。這一資訊在移動預覽時會即時變化。
+
+可以在設置中成切換為<color=#ff8d48>數字</color>顯示。","After selecting an allied unit, the <color=#ff8d48>number of enemies that can attack this unit</color> will be displayed with <color=#ff8d48>connecting lines</color>. This information will change in real-time in the Movement Preview.
+
+Switch to a <color=#ff8d48>numeric</color> display in the settings.","味方ユニットを選択すると、<color=#ff8d48>そのユニットに攻撃可能な敵の数が</color><color=#ff8d48>オンライン</color>として表示されます。この情報は移動のプレビュー時にリアルタイムで変化します。
+
+設定で<color=#ff8d48>数字</color>での表示に切り換えられます。","아군 유닛 선택 후, <color=#ff8d48>해당 유닛을 공격할 수 있는 적군 수량은 </color>곧 <color=#ff8d48>연결선</color> 방식으로 나타내집니다. 해당 정보는 이동 미리보기에서 실시간으로 변합니다. 
+
+설정에서 <color=#ff8d48>숫자</color> 보기로 변경할 수 있습니다."
+40,战役任务,戰役任務,Battle Objectives,戦役任務,전투 임무
+42,"<color=#ff8d48>胜利目标</color>是战役中<color=#ff8d48>必须完成</color>的主要目标，达成后即宣告战役胜利。
+
+若一场战役中存在多个阶段，则非最终目标都会以<color=#ff8d48>阶段目标</color>显示。
+","<color=#ff8d48>勝利目標</color>是戰役中<color=#ff8d48>必須完成</color>的主要目標，達成後即宣告戰役勝利。
+
+若一場戰役中存在多個階段，則非最終目標都會以<color=#ff8d48>階段目標</color>顯示。
+","A <color=#ff8d48>Victory Objective</color> is the primary goal that <color=#ff8d48>must be achieved</color> during the battle. Once accomplished, the battle is declared a victory. 
+
+If there are multiple phases in a battle, secondary objectives are shown as <color=#ff8d48>Phase Objectives</color>.","<color=#ff8d48>メイン任務</color>は、戦役において<color=#ff8d48>クリアしなければならない</color>主な目標です。クリアすると戦役の勝利が宣言されます。
+
+一度の戦役に複数の段階がある場合、非最終任務は<color=#ff8d48>段階的任務</color>として表示されます。
+","<color=#ff8d48>승리 목표</color>는 전투에서 <color=#ff8d48>반드시 완성해야</color>할 주된 목표입니다. 달성 후 임무가 완료되어 전투가 종료됩니다. 
+
+한 전투에서 여러 단계가 있는 경우, 최종 단계가 아닌 스테이지는 모두 <color=#ff8d48>단계 목표</color>로 표시됩니다."
+1001040,战役任务,戰役任務,Battle Objectives,戦役任務,전투 임무
+1001042,"<color=#ff8d48>额外目标</color>会影响战役的最终<color=#ff8d48>评价</color>，可通过任务前的标记实时确认其完成情况。
+
+<color=#ff8d48>失败条件</color>触发后即宣告战役失败。","<color=#ff8d48>額外目標</color>會影響戰役的最終<color=#ff8d48>評價</color>，可通過任務前的標記即時確認其完成情況。
+
+<color=#ff8d48>失敗條件</color>觸發後即宣告戰役失敗。","<color=#ff8d48>Bonus Objectives</color> will affect the final <color=#ff8d48>rank</color> of the battle. Their completion status can be checked in real-time through markers before the mission.
+
+Upon triggering the <color=#ff8d48>Failure Condition(s)</color>, the battle is declared a failure.","<color=#ff8d48>サブ任務</color>は戦役の最終<color=#ff8d48>評価</color>に影響を与え、それらの達成状況は、任務の前にあるマーカーでリアルタイムに確認することができます。
+
+<color=#ff8d48>失敗条件</color>を満たすと、戦役の敗北が宣言されます。","<color=#ff8d48>추가 목표</color>는 전투 최종 <color=#ff8d48>평가</color>에 영향을 줍니다. 목표 앞에 있는 표시로 달성 여부를 수시로 확인할 수 있습니다. 
+
+<color=#ff8d48>실패 조건</color>이 달성되면 미션이 실패되어 전투가 종료됩니다."
+50,危险范围,危險範圍,Danger Range,危険範囲,위험 범위
+52,"所有敌方单位的<color=#ff8d48>移动射程总和</color>被称为<color=#ff8d48>危险范围</color>。我方角色移动至该范围内，会在敌方回合<color=#ff8d48>受到威胁</color>。
+
+<color=#ff8d48>危险范围</color>会随着单位的移动而实时<color=#ff8d48>发生变化</color>。","所有敵方單位的<color=#ff8d48>移動射程總和</color>被稱為<color=#ff8d48>危險範圍</color>。我方角色移動至該範圍內，會在敵方回合<color=#ff8d48>受到威脅</color>。
+
+<color=#ff8d48>危險範圍</color>會隨著單位的移動而即時<color=#ff8d48>發生變化</color>。","The <color=#ff8d48>total Movement Ranges</color> of all enemy units is referred to as the <color=#ff8d48>Danger Range</color>. If allied units move into the Danger Range, they will be <color=#ff8d48>in danger</color> during the enemy's turn. 
+
+The <color=#ff8d48>Danger Range</color> changes in real-time as enemies move.","敵全員の<color=#ff8d48>移動射程の合計</color>は<color=#ff8d48>危険範囲</color>と呼ばれています。味方ユニットがこの範囲内に移動すると、敵ターン中に<color=#ff8d48>威嚇されます</color>。
+
+<color=#ff8d48>危険範囲</color>はユニットの移動に伴い常に<color=#ff8d48>変動します</color>。","모든 적 유닛의 <color=#ff8d48>이동 사거리</color>의 총합은 <color=#ff8d48>위험 범위</color>라고 불립니다. 아군 캐릭터가 해당 범위 내까지 이동할 경우, 적 턴에 <color=#ff8d48>위협을 받게</color> 됩니다. 
+
+<color=#ff8d48>위험 범위</color>는 유닛의 이동에 따라 <color=#ff8d48>실시간으로 변화</color>합니다."
+60,敌方行动模式,敵方行動模式,Enemy Action Mode,敵の行動パターン,적의 행동 모드
+62,"<color=#8aa8e8>待命</color>：原地待命，当敌方单位进入自身移动射程内时，会转变为进攻模式。
+<color=#f95859>进攻</color>：主动向敌方单位移动并发动攻击。
+<color=#61a8eb>坚守</color>：仅会对自身射程内的敌方单位发动攻击，不会移动。
+
+*在某些条件下，敌方单位的行动模式会发生变化。","<color=#8aa8e8>待命</color>：原地待命，當敵方單位進入自身移動射程內時，會轉變為進攻模式。
+<color=#f95859>進攻</color>：主動向敵方單位移動併發動攻擊。
+<color=#61a8eb>堅守</color>：僅會對自身射程內的敵方單位發動攻擊，不會移動。
+
+*在某些條件下，敵方單位的行動模式會發生變化。","<color=#8aa8e8>Standby</color>: Remains stationary; when an enemy unit enter its movement range, it will switch to attack mode. 
+<color=#f95859>Attack</color>: Actively moves towards enemy units and initiates an attack.
+<color=#61a8eb>Defense</color>: Only attacks enemy units in range; does not move. 
+
+*Under certain conditions, Enemy Action Mode will change.","<color=#8aa8e8>待機</color>：その場で指示を待つ。敵ユニットが自身の移動射程内に入ると、進撃モードに切り替わる。
+<color=#f95859>進撃</color>：自ら敵ユニットに向かって移動し、攻撃を行う。
+<color=#61a8eb>堅守</color>：自身の射程内の敵ユニットに対してのみ攻撃を行い、移動することはない。
+
+*とある条件下では、敵ユニットの行動モードにも変化が起こります。","<color=#8aa8e8>명령 대기</color>：제자리에서 명령을 기다립니다. 적군 유닛이 자신의 사거리 내로 진입했을 때 공격 모드로 전환합니다. 
+<color=#f95859>공격</color>：적군 유닛 쪽으로 이동하고 공격을 개시합니다. 
+<color=#61a8eb>수비</color>：자신 사거리 내의 적군 유닛에게만 공격을 발동하고 이동하지 않습니다. 
+
+*일부 조건에서 적군 유닛의 행동 패턴이 변화합니다."
+70,特殊地形,特殊地形,Special Terrain,特殊な地形,특수지형
+72,"<color=#ff8d48>部分地形</color>会为站在该位置的单位提供<color=#ff8d48>增益效果</color>。
+
+敌方单位攻击时也会考虑地形效果，灵活运用地形作战将获得很大的优势。","<color=#ff8d48>部分地形</color>會為站在該位置的單位提供<color=#ff8d48>增益效果</color>。
+
+敵方單位攻擊時也會考慮地形效果，靈活運用地形作戰將獲得很大的優勢。","Units can gain different status effects when standing on different <color=#ff8d48>Terrains</color>.
+
+When enemy units attack, they will also be affected by the terrain, Utilizing the terrain strategically can provide a significant advantage.","<color=#ff8d48>一部地形</color>では、その地形に位置するユニットが<color=#ff8d48>バフ効果</color>を得ます。
+
+敵ユニットに攻撃する際は地形効果も考慮しつつ、臨機応変に地形を利用して有利に作戦を進めましょう。","<color=#ff8d48>일부 지형</color>은 해당 위치에 서있는 유닛에게 <color=#ff8d48>버프 효과</color>를 제공합니다. 
+
+적군 유닛이 공격할 시 지형 효과를 고려합니다. 유연하게 지형을 활용해 작전을 수행하면 우위를 얻을 수 있습니다."
+80,地形迷雾,地形迷霧,Terrain Fog,地形の霧,지형 안개
+82,"<color=#ff8d48>特殊天气时</color>，地图会被地形迷雾所笼罩，此时仅能看见<color=#ff8d48>视野内</color>的敌方单位。
+
+同一阵营的单位<color=#ff8d48>共享视野</color>。
+
+篝火等地形会为我方提供<color=#ff8d48>额外的视野</color>。","<color=#ff8d48>特殊天氣時</color>，地圖會被地形迷霧所籠罩，此時僅能看見<color=#ff8d48>視野內</color>的敵方單位。
+
+同一陣營的單位<color=#ff8d48>共用視野</color>。
+
+篝火等地形會為我方提供<color=#ff8d48>額外的視野</color>。","In <color=#ff8d48>special weather conditions</color>, the map will be enveloped by Terrain Fog, and only enemy units in <color=#ff8d48>Visual Range</color> will be visible. 
+
+Units of the same faction <color=#ff8d48>share Visual Range</color>. 
+
+Certain features, such as Campfires, will provide allied units with <color=#ff8d48>additional Visual Range</color>.","<color=#ff8d48>特殊天候時</color>は、地図が地形霧により覆われ、<color=#ff8d48>視野内</color>の敵ユニットだけしか見えなくなります。
+
+同一陣営ユニットは、その<color=#ff8d48>視野を共有</color>します。
+
+かがり火などの地形により<color=#ff8d48>追加の視野</color>を得ることができます。","<color=#ff8d48>날씨가 특수할 경우</color>, 지도가 지형 안개에 싸여 <color=#ff8d48>시야 내</color>에 있는 적 유닛만 보입니다. 
+
+같은 진영의 유닛은 <color=#ff8d48>시야를 공유</color>합니다. 
+
+모닥불 지형은 아군에게 <color=#ff8d48>보너스 시야</color>를 제공합니다."
+20010,视野,視野,Visual Range,視野,시야
+20012,"观察敌方单位的视野可以看到两种不同颜色的视野格子。
+
+<color=#7bffc2>绿色格子</color>代表<color=#ff8d48>普通视野</color>，我方角色可以在<color=#ff8d48>潜行</color>状态下安全通过此类区域。
+<color=#fffe81>黄色格子</color>代表<color=#ff8d48>反潜视野</color>，即使我方处于潜行状态也会<color=#ff8d48>暴露</color>。","觀察敵方單位的視野可以看到兩種不同顏色的視野格子。
+
+<color=#7bffc2>綠色格子</color>代表<color=#ff8d48>普通視野</color>，我方角色可以在<color=#ff8d48>潛行</color>狀態下安全通過此類區域。
+<color=#fffe81>黃色格子</color>代表<color=#ff8d48>反潛視野</color>，即使我方處於潛行狀態也會<color=#ff8d48>暴露</color>。","When observing the Visual Range for enemy units, there will be two different colored tiles. 
+
+<color=#7bffc2>Green tiles</color> represent <color=#ff8d48>Normal Visual Range</color>, and allied units can safely pass through these areas while in <color=#ff8d48>Stealth</color>. 
+<color=#eeb951>Yellow tiles</color> represent <color=#ff8d48>Anti-Stealth Visual Range</color>, and allied units in Stealth will be <color=#ff8d48>Exposed</color>.","敵ユニットの視野を観察すると、二色の視野マスがあることがわかります。
+
+<color=#7bffc2>緑色のマス</color>は<color=#ff8d48>普通視野</color>を意味しており、<color=#ff8d48>潜行</color>状態の味方ユニットはこのエリアを安全に通ることができます。
+<color=#fffe81>黄色のマス</color>は<color=#ff8d48>反潜視野</color>を意味しており、潜行状態のユニットであっても<color=#ff8d48>発見</color>されてしまいます。","적군 유닛의 시야를 관찰하면 다른 두 가지 색상의 시야 타일을 볼 수 있습니다. 
+
+<color=#7bffc2>녹색 타일</color>은 <color=#ff8d48>일반 시야</color>를 말합니다. 아군 캐릭터는 <color=#ff8d48>스텔스</color> 상태에서 이런 구역을 안전하게 통과할 수 있습니다. 
+<color=#fffe81>황색 타일</color>은 <color=#ff8d48>안티 스텔스 시야</color>를 말합니다. 아군이 스텔스 상태에 있더라도 <color=#ff8d48>노출</color>됩니다."
+20020,潜行,潛行,Stealth,潜行,스텔스
+20022,在<color=#ff8d48>潜行</color>状态下移动时，<color=#ff8d48>避开黄色视野</color>即可安全通过。,在<color=#ff8d48>潛行</color>狀態下移動時，<color=#ff8d48>避開黃色視野</color>即可安全通過。,"While moving in <color=#ff8d48>Stealth</color>, avoid <color=#ff8d48>yellow-colored Visual Range</color> to pass safely.",<color=#ff8d48>潜行</color>状態での移動時は、<color=#ff8d48>黄色視野を避ける</color>ことで安全に通ることができます。,<color=#ff8d48>스텔스</color> 상태에서 이동 시，<color=#ff8d48>황색 시야를 피하면</color> 안전하게 통과할 수 있습니다.
+100,隐匿,隱匿,Concealment,隠蔽,은닉
+102,"树林、房屋、废墟等特殊地形，会给处于该地形的单位提供<color=#ff8d48>隐匿状态</color>，查看视野时，此类地形会显示特殊的<color=#ff8d48>隐匿标记</color>。
+
+隐匿状态下仅会被<color=#ff8d48>相邻</color>的敌方单位发现，每个单位相邻位置的视野会以<color=#fffe81>黄色斜线格</color>表示。","樹林、房屋、廢墟等特殊地形，會給處於該地形的單位提供<color=#ff8d48>隱匿狀態</color>，查看視野時，此類地形會顯示特殊的<color=#ff8d48>隱匿標記</color>。
+
+隱匿狀態下僅會被<color=#ff8d48>相鄰</color>的敵方單位發現，每個單位相鄰位置的視野會以<color=#fffe81>黃色斜線格</color>表示。","Special Terrain such as Forests, Buildings, and Ruins provide <color=#ff8d48>Concealment</color> to units within them. Such Terrain will display a special <color=#ff8d48>concealment marker</color> when checking the Visual Range.
+
+In Concealment, units can only be detected by <color=#ff8d48>adjacent</color> enemies, and the Visual Range of each unit's adjacent position is represented by <color=#ff8d48>striped yellow tiles</color>.","森・家屋・廃墟などの特殊な地形では、その地形に位置するユニットが<color=#ff8d48>隠蔽状態</color>になります。視野確認時、このような地形では特殊な<color=#ff8d48>隠蔽マーク</color>が表示されます。
+
+隠蔽状態では、敵ユニットが<color=#ff8d48>隣接</color>しなければ発見されません。各ユニットの隣接位置の視野は<color=#fffe81>黄色の斜線が入ったマス</color>で表示されます。","숲, 건물, 폐허 등 특수 지형에서 해당 지형에 위치한 유닛에게 <color=#ff8d48>은닉 상태</color>를 제공합니다. 시야 상세보기 시，이런 유형의 지형은 특수한 <color=#ff8d48> 은닉 표기</color>를 나타냅니다. 
+
+은닉 상태에서는 오직 <color=#ff8d48>서로 맞닿아 있는</color> 적군 유닛에게만 발견됩니다. 모든 유닛이 맞닿아 있는 위치의 시야는 <color=#fffe81>노란색 사선 타일</color>로 나타냅니다."
+110,搜寻,搜尋,Search,捜索,수색
+112,"当我方已暴露的单位从敌方视野内消失时，附近的敌方单位会进入<color=#ff8d48>搜寻模式</color>。
+
+处于该模式的敌方单位将前往<color=#ff8d48>最后发现我方单位的区域</color>进行搜索。","當我方已暴露的單位從敵方視野內消失時，附近的敵方單位會進入<color=#ff8d48>搜尋模式</color>。
+
+處於該模式的敵方單位將前往<color=#ff8d48>最後發現我方單位的區域</color>進行搜索。","When exposed units disappear from the enemy's Visual Range, nearby enemy units will enter <color=#ff8d48>Search Mode</color>.
+
+Enemy units in this mode will go to <color=#ff8d48>the last known area of enemy units</color> and search for targets.","発見済みの味方ユニットが敵の視界から外れると、付近の敵ユニットは<color=#ff8d48>捜索モード</color>に入ります。
+
+このモードの敵ユニットは<color=#ff8d48>最後に味方ユニットを発見したエリア</color>へと移動して捜索を行います。","이미 노출된 아군이 적군 유닛의 시야에서 사라질 때，근처의 적군 유닛은 <color=#ff8d48>수색 모드</color>로 들어갑니다. 
+
+해당 모드에 있는 적군 유닛은 <color=#ff8d48>마지막에 아군 유닛을 발견한 구역</color>으로 이동해 수색합니다."
+120,角色技能,角色技能,Character Skill,ユニットのスキル,캐릭터 스킬
+122,"战役过程中，我方角色可通过<color=#ff8d48>击败</color>敌方单位<color=#ff8d48>积攒技力（SP）</color>。
+
+<color=#ff8d48>消耗SP</color>可以施放不同效果的强力<color=#ff8d48>技能</color>。","戰役過程中，我方角色可通過<color=#ff8d48>擊敗</color>敵方單位<color=#ff8d48>積攢技力（SP）</color>。
+
+<color=#ff8d48>消耗SP</color>可以施放不同效果的強力<color=#ff8d48>技能</color>。","In battle, allied units can accumulate <color=#ff8d48>Skill Points (SP)</color> by <color=#ff8d48>defeating enemy units</color>.
+
+<color=#ff8d48>Consuming SP</color> allows for the usage of powerful <color=#ff8d48>Skills</color> with different effects.","戦役中、味方ユニットが敵ユニットを<color=#ff8d48>撃破</color>すると<color=#ff8d48>SPを蓄積</color>することができます。
+
+<color=#ff8d48>SPを消費</color>することで、効果の異なる強力な<color=#ff8d48>スキル</color>を発動できます。","전투 과정에서 아군 캐릭터는 적군 유닛을 <color=#ff8d48>해치워</color><color=#ff8d48> 스킬 파워（SP）를 쌓을 수 있습니다</color>. 
+
+<color=#ff8d48>SP를 소비해 </color>다른 효과의 강력 <color=#ff8d48>스킬</color>을 방출할 수 있습니다."
+130,爆炸物,爆炸物,Explosives,爆発物,폭발물
+132,带有爆炸标识的物体为<color=#ff8d48>爆炸物</color>，摧毁爆炸物能够引发爆炸。\n\n将光标移至爆炸物可查看其爆炸伤害。,帶有爆炸標識的物體為<color=#ff8d48>爆炸物</color>，摧毀爆炸物能夠引發爆炸。\n\n將游標移至爆炸物可查看其爆炸傷害。,Objects marked with an explosion marker are <color=#ff8d48>Explosives</color>. Destroying <color=#ff8d48>Explosives</color> can trigger an explosion. \n\nHover over Explosives to view their explosion damage.,爆発物マークを持つ物体は<color=#ff8d48>爆発物</color>です。爆発物を破壊すると、爆発を引き起こします。\n\nカーソルを爆発物の上に置くと、その爆発ダメージを確認できます。,폭발 표시가 있는 물체는 <color=#ff8d48>폭발물</color>입니다. 폭발물을 부시면 폭발을 일으킬 수 있습니다.\n\n 커서를 폭발물 위에 올려놓으면 위력을 확인할 수 있습니다.
+140,觉醒技,覺醒技,Ultimate Skill,覚醒スキル,각성 스킬
+142,<color=#ff8d48>觉醒技</color>为每个角色最强大的技能，需要消耗<color=#ff8d48>大量的SP</color>才可施放，且拥有较长的冷却时间。,<color=#ff8d48>覺醒技</color>為每個角色最強大的技能，需要消耗<color=#ff8d48>大量的SP</color>才可施放，且擁有較長的冷卻時間。,An <color=#ff8d48>Ultimate Skill</color> is the most powerful skill for each unit. Its activation requires <color=#ff8d48>a significant amount of SP</color> and have a relatively long cooldown period.,<color=#ff8d48>覚醒スキル</color>は各ユニットが持つ最強のスキルです。<color=#ff8d48>大量のSP</color>を消費することで発動できますが、長いCDタイムがあります。,<color=#ff8d48>각성 스킬</color>은 모든 캐릭터의 최강 스킬입니다. <color=#ff8d48>대량의SP</color>를 소비해야 발동이 가능하고 쿨 타임이 깁니다.
+14020,觉醒技,覺醒技,Ultimate Skill,覚醒スキル,각성 스킬
+14022,"<color=#ff8d48>神秘少女</color>-神迹宣言：降低自身普攻消耗，并<color=#ff8d48>全方位提升</color>个人能力。
+
+<color=#ff8d48>蒙德</color>-机械狂暴：<color=#ff8d48>修理</color>已损坏的<color=#ff8d48>武器站</color>，并提升全场武器站的<color=#ff8d48>输出能力</color>。","<color=#ff8d48>神秘少女</color>-神跡宣言：降低自身普攻消耗，並<color=#ff8d48>全方位提升</color>個人能力。
+
+<color=#ff8d48>蒙德</color>-機械狂暴：<color=#ff8d48>修理</color>已損壞的<color=#ff8d48>武器站</color>，並提升全場武器站的<color=#ff8d48>輸出能力</color>。","<color=#ff8d48>Mysterious Girl</color> — Declaration of Miracle: Decreases the AP Cost of normal attacks and <color=#ff8d48>boosts all</color> of her stats. 
+
+<color=#ff8d48>Mendo</color> — Mechanical Rampage: <color=#ff8d48>Repairs</color> damaged <color=#ff8d48>turrets</color> and <color=#ff8d48>boosts the output ability</color> of turrets in the field.","<color=#ff8d48>謎の少女</color>-霊迹のお告げ：自身の通常攻撃消費を減少させ、個人能力を<color=#ff8d48>全面的に上昇</color>させる。
+
+<color=#ff8d48>モンド</color>-マシンフューリー：損壊した<color=#ff8d48>ガンタレット</color>を<color=#ff8d48>修理</color>し、さらに戦場にある全てのガンタレットの<color=#ff8d48>ダメージ</color>を増加させる。","<color=#ff8d48>수수께끼의 소녀</color> - 신비한 선언: 자신의 일반 공격의 공격력을 감소시켜, <color=#ff8d48>전 유닛의 개인 능력을 올립</color>니다. 
+
+<color=#ff8d48>멘도</color> - 메카닉 레이지: <color=#ff8d48>이미 망가진</color> RCWS를 <color=#ff8d48>수리</color>하고, 모든 RCWS의 <color=#ff8d48>공격 능력</color>을 증가시킵니다."
+150,背包仓库,背包倉庫,Backpack and Storage,バックパック倉庫,배낭과 창고
+151,背包,背包,Backpack,バックパック,배낭
+152,在战役中可以使用<color=#ff8d48>背包</color>内的道具。战役背包内的道具顺序与整备中的顺序<color=#ff8d48>一致</color>。\n\n背包的<color=#ff8d48>容量有限</color>。每种道具至多可携带一格，不同道具可携带的<color=#ff8d48>上限存在差异</color>。\n\n*<color=#ff8d48>背包容量上限</color>随游戏进度解锁。,在戰役中可以使用<color=#ff8d48>背包</color>內的道具。戰役背包內的道具順序與整備中的順序<color=#ff8d48>一致</color>。\n\n背包的<color=#ff8d48>容量有限</color>。每種道具至多可攜帶一格，不同道具可攜帶的<color=#ff8d48>上限存在差異</color>。\n\n*<color=#ff8d48>背包容量上限</color>隨遊戲進度解鎖。,The items in the <color=#ff8d48>Backpack</color> can be used in battle. The order of the items in the Battle Backpack is <color=#ff8d48>the same</color> with the order during Preparation. \n\nThe Backpack <color=#ff8d48>capacity is limited</color>. Each type of item can be carried in at most <color=#ff8d48>one slot</color>. The <color=#ff8d48>maximum amount of items that can be carried</color> varies by item. \n\nThe <color=#ff8d48>maximum backpack capacity</color> unlocks as the game progresses.,戦役では、<color=#ff8d48>バックパック</color>内のアイテムを使用できます。戦役中のバックパック内アイテムの配置は、整備フェイズ時の配置と<color=#ff8d48>同じ状態</color>になります。\n\nバックパックの<color=#ff8d48>容量には上限があります</color>。各種アイテムを携帯する際に使用する枠は最大で1マスですが、それぞれ携帯できる<color=#ff8d48>上限には違いがあります</color>。\n\n*<color=#ff8d48>バックパックの容量上限は</color>ゲームを進めていくと増加します。,전투에서 <color=#ff8d48>배낭</color>안 아이템을 사용할 수 있습니다. 전투 배낭 안의 아이템 순서 및 정비 중 순서는 <color=#ff8d48>같습니다</color>.\n\n 배낭의 <color=#ff8d48>용량은 제한적 입니다</color>. 모든 아이템은 최대 한 타일만 소지 가능합니다. 아이템마다 소지 가능한 <color=#ff8d48> 상한이 다릅니다</color>.\n\n*<color=#ff8d48> 배낭 용량 상한</color>은 게임 진도에 따라 잠금 해제 할 수 있습니다.
+160,背包仓库,背包倉庫,Backpack and Storage,バックパック倉庫,배낭과 창고
+161,仓库,倉庫,Storage,倉庫,창고
+162,<color=#ff8d48>仓库</color>用于存放超过背包上限的道具。\n\n仓库中的道具<color=#ff8d48>无法在战斗中使用</color>，慎重考虑要携带哪些道具。,<color=#ff8d48>倉庫</color>用於存放超過背包上限的道具。\n\n倉庫中的道具<color=#ff8d48>無法在戰鬥中使用</color>，慎重考慮要攜帶哪些道具。,<color=#ff8d48>The Storage</color> is used to store items that exceed the Backpack capacity. \n\nItems in the Storage <color=#ff8d48>cannot be used in battle</color>. Choose which items to carry carefully.,<color=#ff8d48>倉庫</color>にはバックパック上限を超えたアイテムを保管しておくことができます。\n\n倉庫内のアイテムは<color=#ff8d48>戦闘中使用できません</color>。どのアイテムを携帯するかを慎重に決めましょう。,<color=#ff8d48>창고</color>는 배낭 용량을 초과하는 아이템을 저장할 때 사용합니다.\n\n 창고 안의 아이템은 <color=#ff8d48>전투에서 사용할 수 없습니다</color>. 어떤 아이템을 소지할 지 신중히 고민하세요.
+170,背包仓库,背包倉庫,Backpack and Storage,バックパック倉庫,배낭과 창고
+171,预设,預設,Presets,プリセット,프리셋
+172,使用快捷键进入<color=#ff8d48>预设</color>功能，可以<color=#ff8d48>保存</color>当前背包配置，也可以<color=#ff8d48>套用</color>已经存储的配置，需要频繁调整背包配置时十分方便。\n\n如果难以决定要携带哪些道具出战的话，就查看一下<color=#ff8d48>战场资讯</color>吧。,使用快捷鍵進入<color=#ff8d48>預設</color>功能，可以<color=#ff8d48>保存</color>當前背包配置，也可以<color=#ff8d48>套用</color>已經存儲的配置，需要頻繁調整背包配置時十分方便。\n\n如果難以決定要攜帶哪些道具出戰的話，就查看一下<color=#ff8d48>戰場資訊</color>吧。,"Using the shortcut keys to access the <color=#ff8d48>Presets</color> and <color=#ff8d48>save</color> the current Backpack configuration or <color=#ff8d48>apply</color> a stored configuration. This is very convenient for adjusting the Backpack setup frequently. \nFor help deciding which items to bring to battle, take a look at the <color=#ff8d48>Battlefield Information</color>.",クイックキーを使用すると<color=#ff8d48>プリセット</color>機能に入ります。現在のバックパック設定を<color=#ff8d48>保存</color>したり、既に保存済みの配置を<color=#ff8d48>再使用</color>したりすることができます。頻繁にバックパック配置を調整する際にとても便利な機能です。\n\nどのアイテムを携帯するか決めかねるときは、<color=#ff8d48>戦域情報</color>を確認してみましょう。,"단축키를 사용하여 <color=#ff8d48>프리셋</color> 기능에 엑세스하면, 현재 배낭 배치를 <color=#ff8d48>저장</color>할 수 있고 저장된 배치를 <color=#ff8d48>그대로 사용</color>할 수 있습니다.배낭 배치를 자주 바꿔야 할 때 편리하게 사용할 수 있습니다.\n\n 어느 아이템을 가지고 출전할지 고민된다면 <color=#ff8d48>전장 정보</color>를 살펴보세요."
+180,基因强化,基因強化,Gene Enhancement,ゲノムの強化,유전자 강화
+181,特质和技能,特質和技能,Traits and Skills,特質とスキル,특성과 스킬
+182,<color=#ff8d48>基因</color>是每个角色特有的能力，通过<color=#ff8d48>角色等级</color>解锁。\n\n基因分为<color=#ff8d48>特质</color>和<color=#ff8d48>技能</color>：\n<color=#ff8d48>特质</color>解锁后将<color=#ff8d48>自动激活</color>并在战役中生效。\n<color=#ff8d48>技能</color>需要在战役中<color=#ff8d48>手动</color>施放。,<color=#ff8d48>基因</color>是每個角色特有的能力，通過<color=#ff8d48>角色等級</color>解鎖。\n\n基因分為<color=#ff8d48>特質</color>和<color=#ff8d48>技能</color>：\n<color=#ff8d48>特質</color>解鎖後將<color=#ff8d48>自動啟動</color>並在戰役中生效。\n<color=#ff8d48>技能</color>需要在戰役中<color=#ff8d48>手動</color>施放。,"<color=#ff8d48>Genes</color> are unique abilities for each unit, unlocked by leveling up the unit. \nGenes are divided into <color=#ff8d48>Traits</color> and <color=#ff8d48>Skills</color>: \n<color=#ff8d48>Traits</color> <color=#ff8d48>are automatically activated</color> after unlocking and take effect in battle. \n<color=#ff8d48> Skills</color> need to be <color=#ff8d48>manually</color> used in battle.",<color=#ff8d48>ゲノム</color>は各ユニット固有の能力で、<color=#ff8d48>ユニットレベル</color>を上げると解放できます。\n\nゲノムは<color=#ff8d48>特質</color>と<color=#ff8d48>スキル</color>に分かれています：\n<color=#ff8d48>特質</color>解放すると<color=#ff8d48>自動で有効化され</color>、戦役においても有効です。\n<color=#ff8d48>スキル</color>は戦役中に<color=#ff8d48>手動</color>で発動する必要があります。,<color=#ff8d48>유전자</color>는 캐릭터가 가지고 있는 특별한 능력으로 <color=#ff8d48>캐릭터 등급</color>으로 잠금 해제할 수 있습니다.\n\n 유전자는 <color=#ff8d48>특성</color> 과 <color=#ff8d48>스킬</color>로 구분됩니다：\n<color=#ff8d48>특성</color>은 잠금 해제 후 <color=#ff8d48>자동 활성화되며</color> 전투에서 효과가 발생됩니다.\n<color=#ff8d48> 스킬은 </color>전투에서 <color=#ff8d48>수동</color>으로 사용해야 합니다.
+590,基因强化,基因強化,Gene Enhancement,ゲノムの強化,유전자 강화
+591,装备技能,裝備技能,Equip Skills,スキル装備,장비 스킬
+592,技能需要在整备阶段<color=#ff8d48>装备</color>在技能栏后，才能在战役中施放。\n\n技能栏中装备技能的顺序与战役中的技能顺序一致。,技能需要在整備階段<color=#ff8d48>裝備</color>在技能欄後，才能在戰役中施放。\n\n技能欄中裝備技能的順序與戰役中的技能順序一致。,<color=#ff8d48>Skills</color> must be <color=#ff8d48>equipped</color> in the Skill Bar to be used in battle. \n\nThe order of equipped Skills in the Skill Bar corresponds to the order in which they appear in battle.,スキルを整備フェイズ中にスキルバーに<color=#ff8d48>装備</color>すると、戦役中に使用できるようになります。\n\nスキルバー内の装備スキルの順序は、戦役中のスキル順序と同じになります。,스킬은 정비 단계에서 스킬바에 <color=#ff8d48>장착</color>한 후에만 전투에서 사용할 수 있습니다.\n\n 스킬바에 있는 장비 스킬의 순서는 전투 중의 스킬 순서와 일치합니다.
+190,基因强化,基因強化,Gene Enhancement,ゲノムの強化,유전자 강화
+191,基因升级,基因升級,Gene Upgrade,ゲノムのレベルアップ,유전자 업그레이드
+192,特质和技能都可以通过消耗<color=#ff8d48>潜能密钥</color>来<color=#ff8d48>升级</color>。\n\n每个角色的潜能密钥是<color=#ff8d48>互相独立</color>的，可通过提升<color=#ff8d48>角色等级</color>获得。\n\n基因升级前可以通过<color=#ff8d48>预览</color>功能查看更多信息。,特質和技能都可以通過消耗<color=#ff8d48>潛能密鑰</color>來<color=#ff8d48>升級</color>。\n\n每個角色的潛能密鑰是<color=#ff8d48>互相獨立</color>的，可通過提升<color=#ff8d48>角色等級</color>獲得。\n\n基因升級前可以通過<color=#ff8d48>預覽</color>功能查看更多資訊。,"Both Traits and Skills can be upgraded by spending <color=#ff8d48>Potential Keys</color>. \n Each units' Potential Keys are <color=#ff8d48>mutually independent</color> of each other and can be obtained by raising the <color=#ff8d48>unit's level</color>. \nBefore performing Gene Upgrades, see more information in the <color=#ff8d48>Preview</color> function.",特質とスキルは、<color=#ff8d48>ゲノムキー</color>を消費して<color=#ff8d48>レベルアップ</color>することができます。\n\n各ユニットのゲノムキーは<color=#ff8d48>互いに独立</color>しており、<color=#ff8d48>ユニットレベル</color>を上げることで入手できます。\n\nゲノムレベルアップ前に<color=#ff8d48>プレビュー</color>機能を使用するとより詳細な情報を確認できます。,"특성과 스킬은 <color=#ff8d48>포텐셜 키</color>를 소비해 <color=#ff8d48>레벨업</color>할 수 있습니다.\n\n 모든 캐릭터의 포텐셜 키는 <color=#ff8d48>서로 독립적</color>이기 때문에, <color=#ff8d48>캐릭터 레벨</color>업을 통해 획득할 수 있습니다.\n\n DNA 업그레이드 전에 <color=#ff8d48>미리보기</color>기능으로 더 많은 정보를 볼 수 있습니다."
+200,觉醒技,覺醒技,Ultimate Skill,覚醒スキル,각성 스킬
+202,提高角色任意技能或特质的等级都可以增加觉醒技的<color=#ff8d48>碱基完成度</color>。每个阶段<color=#ff8d48>达到100%</color>后，觉醒技就会得到强化。,提高角色任意技能或特質的等級都可以增加覺醒技的<color=#ff8d48>堿基完成度</color>。每個階段<color=#ff8d48>達到100%</color>後，覺醒技就會得到強化。,"Raising the level of any Skill or Trait for a unit increases the Ultimate Skills' <color=#ff8d48>Nucleobase Completion</color>. Once the Nucleobase Completion reaches 100%, Ultimate Skills will be <color=#ff8d48>enhanced</color>.",ユニットの任意のスキルまたは特質レベルを上昇させると、覚醒スキルの<color=#ff8d48>塩基適合率</color>が上昇します。各段階が<color=#ff8d48>100％に到達</color>する度に、覚醒スキルが強化されます。,"캐릭의 임의 스킬이나 특성 레벨을 올리면 각성 스킬의 <color=#ff8d48>염기 완성도</color>를 증가할 수 있습니다. 모든 단계에서 <color=#ff8d48>100%에 도달</color>한 뒤, 각성 스킬이 강화됩니다."
+210,战场资讯,戰場資訊,Battlefield Information,戦域情報,전장 정보
+212,<color=#ff8d48>战场资讯</color>提供了下一场战役的<color=#ff8d48>基本信息</color>。\n\n通过缩略图进入<color=#ff8d48>实地勘察</color>，便可以在大地图上查看具体的<color=#ff8d48>地形</color>及<color=#ff8d48>敌方单位信息</color>。,<color=#ff8d48>戰場資訊</color>提供了下一場戰役的<color=#ff8d48>基本資訊</color>。\n\n通過縮略圖進入<color=#ff8d48>實地勘察</color>，便可以在大地圖上查看具體的<color=#ff8d48>地形</color>及<color=#ff8d48>敵方單位資訊</color>。,"The <color=#ff8d48>Battlefield Information</color> provides <color=#ff8d48>basic information</color> about the next battle. By entering the <color=#ff8d48>Field Survey</color> via the thumbnail, specific <color=#ff8d48>Terrain</color> and <color=#ff8d48>enemy unit information</color> can be viewed on the Map.",<color=#ff8d48>戦域情報</color>では、次の戦役の<color=#ff8d48>基本情報</color>を確認できます。\n\n縮小マップから<color=#ff8d48>実地探査</color>に入り、メインマップ上で具体的な<color=#ff8d48>地形</color>と<color=#ff8d48>敵ユニット情報</color>を確認できます。,<color=#ff8d48>전장 정보</color>는 다음 전투의 <color=#ff8d48>기본 정보</color>를 제공합니다.\n\n 썸네일을 통해 <color=#ff8d48>현장 답사</color>로 들어가면 전체 맵에서 구체적인 <color=#ff8d48>지형</color> 및 <color=#ff8d48>적군 유닛 정보를 볼 수 있습니다</color>.
+220,道具改造,道具改造,Item Modification,アイテム改造,아이템 개조
+222,<color=#ff8d48>道具改造</color>不仅可以使道具变得更强，有时还可以提升道具<color=#ff8d48>携带量</color>、<color=#ff8d48>施放距离</color>等重要属性。\n\n随着游戏进度的推进，可改造的道具数量会<color=#ff8d48>逐步增加</color>。,<color=#ff8d48>道具改造</color>不僅可以使道具變得更強，有時還可以提升道具<color=#ff8d48>攜帶量</color>、<color=#ff8d48>施放距離</color>等重要屬性。\n\n隨著遊戲進度的推進，可改造的道具數量會<color=#ff8d48>逐步增加</color>。,"<color=#ff8d48>Item Modification</color> not only makes items more powerful but also improves important attributes such as <color=#ff8d48>Carrying Capacity and Effective Range</color>. As the game progresses, more items will become modifiable.",<color=#ff8d48>アイテム改造</color>はアイテムを強化できるだけでなく、アイテムの<color=#ff8d48>所持量</color>や、<color=#ff8d48>使用範囲</color>等の重要なステータスが増加することがあります。\n\nゲームの進行度に応じて、改造可能なアイテム数は<color=#ff8d48>徐々に増加します</color>。,"<color=#ff8d48>아이템 개조</color>는 아이템가 더 강해지게 할뿐 아니라 아이템<color=#ff8d48>의 소지량</color>,<color=#ff8d48>방출 거리</color> 등 중요한 속성을 상승시킬 수 있습니다.\n\n 게임을 진행하면서 개조할 수 있는 아이템 수량이 <color=#ff8d48>점차 늘어납니다</color>."
+230,道具改造,道具改造,Item Modification,アイテム改造,아이템 개조
+232,改造道具需要消耗一定的<color=#ff8d48>研发点数</color>，同时必须满足<color=#ff8d48>科技等级</color>的要求。\n\n消耗研发点数可以<color=#ff8d48>提升科技等级</color>，并进一步解锁道具改造的<color=#ff8d48>上限</color>。研发点数可通过<color=#ff8d48>完成战役</color>获得。,改造道具需要消耗一定的<color=#ff8d48>研發點數</color>，同時必須滿足<color=#ff8d48>科技等級</color>的要求。\n\n消耗研發點數可以<color=#ff8d48>提升科技等級</color>，並進一步解鎖道具改造的<color=#ff8d48>上限</color>。研發點數可通過<color=#ff8d48>完成戰役</color>獲得。,"<color=#ff8d48>Item Modification</color> costs a certain amount of <color=#ff8d48>Research Points</color>, and must meet a certain <color=#ff8d48>Tech Level</color> requirement. Consuming Research Points can increase the <color=#ff8d48>Tech Level</color> and further unlock <color=#ff8d48>more modifications</color> for items. Research Points can be obtained by <color=#ff8d48>completing Battles</color>.",アイテムの改造には<color=#ff8d48>研究ポイント</color>を一定数消費するほかに、要求される<color=#ff8d48>技術レベル</color>を満たしている必要があります。\n\n研究ポイントを消費すると<color=#ff8d48>技術レベル</color>が上昇し、アイテムの改造<color=#ff8d48>上限</color>が解放されます。研究ポイントは<color=#ff8d48>戦役をクリア</color>することで入手できます。,아이템 개조는 일정한 <color=#ff8d48>연구 포인트</color>를 소모하는 동시에 일정한 <color=#ff8d48>기술 등급</color>이 필요합니다.\n\n연구 포인트를 소모하면 <color=#ff8d48>기술 등급</color>을 올릴 수 있으며 아이템 개조의 <color=#ff8d48>제한</color>을 해제할 수 있습니다. 연구 포인트는 <color=#ff8d48>전투를 클리어</color>하여 얻을 수 있습니다.
+240,道具制作,道具製作,Item Production,アイテム製作,아이템 제작
+242,在整备阶段，可以消耗<color=#ff8d48>零件</color>来制作<color=#ff8d48>基础道具</color>。在制作完成后，超出背包上限的道具会直接送到<color=#ff8d48>仓库</color>中。\n\n零件主要通过<color=#ff8d48>完成战役</color>获得，有时也能在战役中的<color=#ff8d48>物资点</color>拾取。另外，在背包仓库中<color=#ff8d48>拆解</color>不需要的道具也可以获得零件（部分道具无法拆解）。\n\n*战役中无法制作道具。,在整備階段，可以消耗<color=#ff8d48>零件</color>來製作<color=#ff8d48>基礎道具</color>。在製作完成後，超出背包上限的道具會直接送到<color=#ff8d48>倉庫</color>中。\n\n零件主要通過<color=#ff8d48>完成戰役</color>獲得，有時也能在戰役中的<color=#ff8d48>物資點</color>拾取。另外，在背包倉庫中<color=#ff8d48>拆解</color>不需要的道具也可以獲得零件（部分道具無法拆解）。\n\n*戰役中無法製作道具。,"During the Preparation Phase, Parts can be used to produce <color=#ff8d48>basic items</color>. Produced items that exceed the Backpack capacity will be stored directly in the <color=#ff8d48>Storage</color>. \nParts are mainly obtained by <color=#ff8d48>completing Battles</color>, and sometimes they can be obtained at <color=#ff8d48>supply points</color> during battles. Additionally, parts can be obtained by <color=#ff8d48>disassembling</color> unwanted items in the Backpack and Storage *(Some items cannot be disassembled). \n\nItems cannot be produced during Battles.",整備フェイズでは、<color=#ff8d48>パーツ</color>を消費して<color=#ff8d48>基本アイテム</color>を製作できます。製作後、所持数がバックパックの上限を超えた場合は、直接<color=#ff8d48>倉庫</color>へと送られます。\n\nパーツは主に<color=#ff8d48>戦役を完了</color>させることで武器できるほか、戦役内の<color=#ff8d48>物資ポイント</color>でひろうこともあります。まや、バックパック倉庫画面で不要なアイテムを<color=#ff8d48>分解</color>することでも、パーツが手に入ります（一部アイテムは分解できません）。\n\n※戦役中はアイテムを製作できません。,"정비 단계에서는 <color=#ff8d48>부품</color>을 소모하여 <color=#ff8d48>기본 아이템</color>을 제작할 수 있습니다. 제작 완료 후 배낭 용량을 초과한 아이템은 자동으로 <color=#ff8d48>창고</color>에 보관됩니다.\n\n부품은 주로 <color=#ff8d48>전투를 클리어</color>했을 때 보상으로 얻을 수 있으며, 가끔은 전잔의 <color=#ff8d48>물자 포인트</color>에서 회수할 수도 있습니다. 그 외, 배낭과 창고에서 필요하지 않은 아이템을 <color=#ff8d48>분해</color>하여 얻을 수도 있습니다(일부 아이템은 분해 할 수 없음).\n\n*전투 중에는 아이템을 제작할 수 없습니다."
+250,武器,武器,Weapon,武器,무기
+252,每个角色持有<color=#ff8d48>不同的武器</color>，随着游戏进程的推进，会获得新的武器。\n\n角色会携带自身<color=#ff8d48>所有武器</color>出战，每次攻击前均可以<color=#ff8d48>切换武器</color>。,每個角色持有<color=#ff8d48>不同的武器</color>，隨著遊戲進程的推進，會獲得新的武器。\n\n角色會攜帶自身<color=#ff8d48>所有武器</color>出戰，每次攻擊前均可以<color=#ff8d48>切換武器</color>。,"Each unit holds <color=#ff8d48>different weapons</color>. As the game progresses, new weapons are acquired. \n\nUnits will carry <color=#ff8d48>their own weapons</color> into battle and can <color=#ff8d48>switch weapons</color> before each attack.",各ユニットは<color=#ff8d48>異なった武器</color>を持っており、ゲームの進捗に応じて新たな武器を入手します。\n\nユニットは<color=#ff8d48>自身の全ての武器を</color>持った状態で出撃します。攻撃前に<color=#ff8d48>武器を切り替える</color>ことができます。,모든 캐릭터는 <color=#ff8d48>각기 다른 무기</color>를 가지고 있습니다. 게임이 진행되면서 새로운 무기를 획득하게 됩니다.\n\n 캐릭터는 자신이 가진 <color=#ff8d48>모든 무기</color>를 가지고 출전합니다. 매 회 공격 전 <color=#ff8d48>무기를 바꿀 수 있습니다</color>.
+260,武器强化,武器強化,Weapon Enhancement,武器強化,무기 강화
+262,"可以通过<color=#ff8d48>升阶</color>和<color=#ff8d48>安装配件</color>来强化武器。\n\n<color=#ff8d48>升阶</color>需要消耗<color=#ff8d48>特殊素材</color>，可以使武器得到全面强化。
+<color=#ff8d48>安装配件</color>可以提升武器部分属性，配件可以在整备阶段<color=#ff8d48>随时装卸</color>。","可以通過<color=#ff8d48>升階</color>和<color=#ff8d48>安裝配件</color>來強化武器。\n\n<color=#ff8d48>升階</color>需要消耗<color=#ff8d48>特殊素材</color>，可以使武器得到全面強化。
+<color=#ff8d48>安裝配件</color>可以提升武器部分屬性，配件可以在整備階段<color=#ff8d48>隨時裝卸</color>。","Weapons can be enhanced through <color=#ff8d48>Upgrade</color> and <color=#ff8d48>installing accessories</color>. \n\n<color=#ff8d48>Upgrade</color> consumes <color=#ff8d48>special materials</color>, which can fully enhance the weapon. 
+<color=#ff8d48>Installing accessories</color> can enhance certain attributes, and accessories can be installed or removed <color=#ff8d48>at any time</color> during the Preparation Phase.","<color=#ff8d48>アップグレード</color>と<color=#ff8d48>アタッチメント装着</color>で武器を強化できます。\n\n<color=#ff8d48>アップグレード</color>には<color=#ff8d48>特殊素材</color>の消費が必要です。アップグレードすると武器を全面的に強化できます。
+<color=#ff8d48>アタッチメント装着</color>により、武器の一部ステータスが上昇します。アタッチメントは整備フェイズ中に<color=#ff8d48>いつでも取り外し</color>できます。","<color=#ff8d48>무기 개조</color> 및 <color=#ff8d48>부속 설치</color>로 무기를 강화할 수 있습니다.\n\n<color=#ff8d48> 개조</color>는 <color=#ff8d48>특수 소재</color>를 소비해야 합니다. 무기가 전체적으로 강화됩니다. 
+<color=#ff8d48>부품 설치</color>는 무기의 일부 속상을 향상시킵니다. 부품은 정비 단계에서 <color=#ff8d48>언제든 장착 해제</color>할 수 있습니다."
+480,素材获取,素材獲取,Material Acquisition,素材入手,재료획득
+482,升阶素材和配件可以在战役中的<color=#ff8d48>物资点</color>拾取，也可以通过<color=#ff8d48>击败特定敌方单位</color>获得。,升階素材和配件可以在戰役中的<color=#ff8d48>物資點</color>拾取，也可以通過<color=#ff8d48>擊敗特定敵方單位</color>獲得。,Upgrade materials and accessories can be found at <color=#ff8d48>supply points</color> in battles or obtained by <color=#ff8d48>defeating specific enemy units</color>.,アップグレード素材とアタッチメントは、戦役の<color=#ff8d48>物資地点</color>で入手できます。また、<color=#ff8d48>特定の敵ユニット撃破</color>によっても入手できます。,무기 개조 소재 및 부품은 전투의 <color=#ff8d48>물자</color>에서 획득할 수 있습니다. 또한 <color=#ff8d48>특정 적군 유닛을 처치하여</color> 획득할 수 있습니다.
+270,复盘模式,複盤模式,Replay Mode,再現モード,리플레이 모드
+272,完成章节后可以进入<color=#ff8d48>复盘模式</color>。在复盘模式中可以<color=#ff8d48>重复挑战</color>已经解锁的全部内容。\n\n进入下一章会<color=#ff8d48>暂时关闭</color>复盘模式。完成下一章后可以再次进入复盘模式。\n\n尝试获得更高的战役评价并收集所有的机密文件吧。,完成章節後可以進入<color=#ff8d48>複盤模式</color>。在複盤模式中可以<color=#ff8d48>重複挑戰</color>已經解鎖的全部內容。\n\n進入下一章會<color=#ff8d48>暫時關閉</color>複盤模式。完成下一章後可以再次進入複盤模式。\n\n嘗試獲得更高的戰役評價並收集所有的機密檔吧。,"After completing a chapter, the <color=#ff8d48>Replay Mode</color> can be accessed. \n\nIn Replay Mode, all unlocked content can be <color=#ff8d48>re-challenged</color>. Entering the next chapter will <color=#ff8d48>temporarily disable</color> Replay Mode. Completing the next chapter will re-enable Replay Mode. \n\nTry to achieve higher battle ranks and collect all Confidential Files.",章をクリアすると<color=#ff8d48>再現モード</color>を開始できます。再現モードでは、解放済みの全コンテンツに<color=#ff8d48>再挑戦</color>できます。\n\n次の章に進むと再現モードが<color=#ff8d48>一時的にオフ</color>になります。次の章をクリアすると、もう一度再現モードを開始できます。\n\n高い戦役評価を獲得し、機密ファイルを全て収集しましょう。,장을 완성한 후 <color=#ff8d48>리플레이 모드</color>로 진입할 수 있습니다. 리플레이 모드에서는 잠금 해제된 모든 내용에 <color=#ff8d48>반복적으로 도전</color>할 수 있습니다.\n\n 다음 장으로 넘어가면 리플레이  모드는 <color=#ff8d48>일시적으로 꺼집니다.</color> 다음 장을 완료한 후 다시 리플레이모드로 진입할 수 있습니다.\n\n 더 높은 전투 평가를 얻고 모든 기밀 문서을 수집하세요．
+280,模拟训练,模擬訓練,Training Simulation,模擬訓練,모의 훈련
+282,<color=#ff8d48>模拟训练</color>可以为我方提供额外的<color=#ff8d48>经验值</color>，在角色到达现阶段团队等级上限前可以<color=#ff8d48>反复挑战</color>。\n\n不同训练的参战角色是不同的，未参战的角色也能获得<color=#ff8d48>等量的经验</color>。,<color=#ff8d48>模擬訓練</color>可以為我方提供額外的<color=#ff8d48>經驗值</color>，在角色到達現階段團隊等級上限前可以<color=#ff8d48>反復挑戰</color>。\n\n不同訓練的參戰角色是不同的，未參戰的角色也能獲得<color=#ff8d48>等量的經驗</color>。,"<color=#ff8d48>Training Simulations</color> can provide <color=#ff8d48>additional EXP</color> for allied units. Training Simulations can be <color=#ff8d48>performed repeatedly</color> before allied units reach the current team level cap. \n\nDifferent characters participate in different simulations, and non-participants will also gain an <color=#ff8d48>equal amount of EXP</color>.",<color=#ff8d48>模擬訓練</color>を行うと<color=#ff8d48>経験値</color>を獲得できます。ユニットが現レベル上限に達する前は<color=#ff8d48>繰り返し挑戦</color>可能です。\n\n各訓練で使用するユニットは異なりますが、未参加のユニットも<color=#ff8d48>同量の経験値</color>を獲得できます。,<color=#ff8d48>모의 훈련</color>은 아군에게 추가적인 <color=#ff8d48>경험치</color>를 제공합니다. 캐릭터가 현 단계 팀 등급의 상한에 도달하기 전에 <color=#ff8d48>반복해서 도전할 수 있습니다</color>.\n\n 각기 다른 훈련의 참전 캐릭터는 다릅니다．참전하지 않은 캐릭터도 <color=#ff8d48>같은 경험치</color>를 획득할 수 있습니다．
+490,模拟训练,模擬訓練,Training Simulation,模擬訓練,모의 훈련
+492,每场训练会根据训练内容提供一定量的模拟道具，因此<color=#ff8d48>不会消耗</color>玩家实际的库存。\n\n随着游戏进程的推进，新的训练内容会<color=#ff8d48>逐步解锁</color>。,每場訓練會根據訓練內容提供一定量的模擬道具，因此<color=#ff8d48>不會消耗</color>玩家實際的庫存。\n\n隨著遊戲進程的推進，新的訓練內容會<color=#ff8d48>逐步解鎖</color>。,Each training simulation will provide a certain number of simulation items based on the training content. Items in the Backpack and Storage <color=#ff8d48>will not be consumed</color>. \n\nNew training content will <color=#ff8d48>be unlocked gradually</color>.,各訓練では、内容に応じて一定量のアイテムが支給されます。プレイヤーが実際に保有しているアイテムを<color=#ff8d48>消費することはありません</color>。\n\nゲームの進行に伴い、新たな訓練が<color=#ff8d48>徐々に解放</color>されます。,모든 훈련은 훈련 내용에 따라 일정량의 모의 아이템을 제공합니다. 따라서 플레이어의 실제 저장 아이템을 <color=#ff8d48>소비하지 않습니다</color>.\n\n 게임이 진행되면서 새로운 훈련 내용이 <color=#ff8d48>점차 잠금 해제됩니다</color>.
+290,时间轴,時間軸,Timeline,時間軸,시간축
+292,部分战役中有需要进行抉择的时刻，这样的战役被称为<color=#ff8d48>分歧点</color>。\n\n不同的选择会进入不同的<color=#ff8d48>时间轴</color>，后续面对的战役也会存在差异。,部分戰役中有需要進行抉擇的時刻，這樣的戰役被稱為<color=#ff8d48>分歧點</color>。\n\n不同的選擇會進入不同的<color=#ff8d48>時間軸</color>，後續面對的戰役也會存在差異。,"In some battles, there are moments when decisions need to be made. Such battles are referred to as <color=#ff8d48>Divergence Points</color>. \nDifferent choices will lead to <color=#ff8d48>different outcomes</color>, and subsequent battles will also vary accordingly.",一部の戦役では選択を迫られるときがあり、そのような戦役は<color=#ff8d48>分岐点</color>と呼ばれます。\n\n選択によって進む<color=#ff8d48>時間軸</color>が異なり、その後の戦役にも違いが生じます。,"일부 전투에서는 선택이 필요한 순간이 있습니다. 이런 전투를 <color=#ff8d48>분기점이라고 부릅니다</color>.\n\n 선택에 따라 다른 <color=#ff8d48>시간축</color>으로 이동하고, 그 뒤의 전투도 차이가 있습니다."
+300,视界跃迁,視界躍遷,Visual Leap,視野遷移,시야 점프
+302,整备阶段可以选择任意<color=#ff8d48>分歧点</color>进行<color=#ff8d48>视界跃迁</color>，执行该操作后可以<color=#ff8d48>保留</color>当前的团队状态回到该分歧点重新推动故事发展。\n\n已经完成的战役也可以<color=#ff8d48>再次进行挑战</color>，但获取的经验值会减少，战役中的武器升阶素材、配件、道具合成素材等特殊物品<color=#ff8d48>无法重复获得</color>。,整備階段可以選擇任意<color=#ff8d48>分歧點</color>進行<color=#ff8d48>視界躍遷</color>，執行該操作後可以<color=#ff8d48>保留</color>當前的團隊狀態回到該分歧點重新推動故事發展。\n\n已經完成的戰役也可以<color=#ff8d48>再次進行挑戰</color>，但獲取的經驗值會減少，戰役中的武器升階素材、配件、道具合成素材等特殊物品<color=#ff8d48>無法重複獲得</color>。,"During the Preparation Phase, any <color=#ff8d48>Divergence Point</color> can be chosen to perform a <color=#ff8d48>Visual Leap</color>. After executing the Visual Leap, the current team status will be <color=#ff8d48>retained</color> and return to a Divergence Point to reshape the story. \n\nCompleted missions can also be <color=#ff8d48>challenged again</color>, but the EXP gained will be reduced. Additionally, special items such as weapon upgrade materials, accessories, and item synthesis materials <color=#ff8d48>cannot be obtained again</color>.",整備フェイズでは、任意の<color=#ff8d48>分岐点</color>を選択して<color=#ff8d48>視野遷移</color>を実行できます。この操作を実行すると、現在のチームの状態の<color=#ff8d48>まま</color>、その分岐点に戻って改めてストーリーを進められます。\n\nすでにクリアした戦役に<color=#ff8d48>再びチャレンジ</color>することもできますが、獲得できる経験値は減少し、戦役中の武器のアップグレード素材、アタッチメント、アイテム合成素材などの特殊なアイテムは、<color=#ff8d48>再び取得することができません</color>。,"정비 단계에서 임의의 <color=#ff8d48>분기점</color>을 선택하여 <color=#ff8d48>시야 점프</color>를 할 수 있습니다. 해당 조작을 한 후 현재 팀의 상태를 <color=#ff8d48>저장</color>하고 분기점으로 돌아가 다시 스토리를 이어갈 수 있습니다.\n\n 이미 완성한 전투도 <color=#ff8d48>다시 도전</color>할 수 있습니다. 하지만 획득하는 경험치는 줄어듭니다. 전투 중의 무기 개조 재료, 부품, 아이템 합성 재료 등 특수 물품은 <color=#ff8d48>중복으로 획득할 수 없습니다</color>."
+310,地形：昙花,地形：曇花,Terrain: Epiphyllum,地形：エピフィラム,지형: 우담화
+312,"回合结束时，单位若站在<color=#ff8d48>昙花</color>地形上，会受到<color=#ff8d48>伤害</color>。\n\n<color=#f95859>罗联单位</color>会受到最大生命值<color=#ff8d48>30%</color>的伤害。
+<color=#61a8eb>南联单位</color>接受过基因改造，仅会受到最大生命值<color=#ff8d48>10%</color>的伤害。
+<color=#61a8eb>洁芙缇</color>因为身体的特殊性，<color=#ff8d48>免疫</color>昙花伤害。","回合結束時，單位若站在<color=#ff8d48>曇花</color>地形上，會受到<color=#ff8d48>傷害</color>。\n\n<color=#f95859>羅聯單位</color>會受到最大生命值<color=#ff8d48>30%</color>的傷害。
+<color=#61a8eb>南聯單位</color>接受過基因改造，僅會受到最大生命值<color=#ff8d48>10%</color>的傷害。
+<color=#61a8eb>潔芙緹</color>因為身體的特殊性，<color=#ff8d48>免疫</color>曇花傷害。","At the end of the turn, units standing on <color=#ff8d48>Epiphyllum</color> terrain will take <color=#ff8d48>damage</color>. \n\n<color=#f95859>URNC units</color> will take damage equal to <color=#ff8d48>30%</color> Max HP. \nUnits from the <color=#61a8eb>Antarctic Union</color> have been genetically modified and will only take damage equal to <color=#ff8d48>10%</color> Max HP. 
+<color=#61a8eb>Jefuty</color>, with the special characteristics of her body is <color=#ff8d48>immune</color> to Epiphyllum damage.","ターン終了時にユニットが<color=#ff8d48>エピフィラム</color>の地形にいる場合は、<color=#ff8d48>ダメージ</color>を受けます。\n\n<color=#f95859>ロ連のユニット</color>は最大HPの<color=#ff8d48>30%</color>のダメージを受けます。
+<color=#61a8eb>南連のユニット</color>はゲノム改造されているため、最大HPの<color=#ff8d48>10%</color>のダメージしか受けません。
+<color=#61a8eb>ジェフティ</color>の身体は特殊であるため、エピフィラムのダメージに対する<color=#ff8d48>免疫</color>があります。","턴 종료 시, 유닛이 <color=#ff8d48>우담화</color> 지형 위에 서 있으면 <color=#ff8d48>데미지</color>를 입습니다.\n\n<color=#f95859> 루련 유닛이 </color>최대HP의 <color=#ff8d48>30%</color> 데미지를 입습니다. 
+<color=#61a8eb>남련 유닛</color>은 유전자 개조 과정을 거쳐, 최대HP <color=#ff8d48>10%</color>의 데미지 만을 받습니다. 
+<color=#61a8eb>제퓨티</color>는 신체 특수성 때문에 우담화 데미지에 <color=#ff8d48>면역</color>입니다."
+500,地形：昙花,地形：曇花,Terrain: Epiphyllum,地形：エピフィラム,지형: 우담화
+502,<color=#ff8d48>燃烧弹</color>会对位于昙花地形上的敌方单位造成更高的伤害，并<color=#ff8d48>烧毁</color>范围内的昙花。\n\n昙花燃烧后，该地形会变为<color=#ff8d48>破败昙花</color>，不会再造成地形伤害。,<color=#ff8d48>燃燒彈</color>會對位於曇花地形上的敵方單位造成更高的傷害，並<color=#ff8d48>燒毀</color>範圍內的曇花。\n\n曇花燃燒後，該地形會變為<color=#ff8d48>破敗曇花</color>，不會再造成地形傷害。,"<color=#ff8d48>Incendiary Grenades</color> deal higher damage to enemy units standing on Epiphyllum terrain and <color=#ff8d48>burn</color> Epiphyllum within their radius. \n\nAfter Epiphyllum is burned, the terrain will transform into <color=#ff8d48>Ruined Epiphyllum</color>, no longer causing terrain damage.",<color=#ff8d48>焼夷弾</color>はエピフィラムの地形にいる敵ユニットに大きなダメージを与え、範囲内のエピフィラム<color=#ff8d48>を燃やします</color>。\n\nエピフィラムが燃えると、地形は<color=#ff8d48>荒廃したエピフィラム</color>に変わり、それ以上地形のダメージを与えることはなくなります。,"<color=#ff8d48>연소탄</color>은 우담화 지형에 있는 적군 유닛에 더 높은 데미지를 줄 수 있으며, 범위 내의 우담화를 <color=#ff8d48>불태웁니다</color>.\n\n 우담화가 불타면, 해당 지형은 <color=#ff8d48>파괴된 우담화</color>가 되어 지형 데미지를 줄 수 없습니다."
+320,特殊战役,特殊戰役,Special Battle,特殊戦役,특수 전쟁
+322,本战役中，有如下特别规则：\n\n我方角色行动力<color=#ff8d48>上限为2</color>，每回合至多<color=#ff8d48>移动一格</color>，且无法进入树林、房屋等地形。同时我方角色无法攻击、使用道具或施放技能。\n\n所有敌方单位会在敌方回合<color=#ff8d48>同时</color>往箭头所指方向<color=#ff8d48>移动一格</color>。,本戰役中，有如下特別規則：\n\n我方角色行動力<color=#ff8d48>上限為2</color>，每回合至多<color=#ff8d48>移動一格</color>，且無法進入樹林、房屋等地形。同時我方角色無法攻擊、使用道具或施放技能。\n\n所有敵方單位會在敵方回合<color=#ff8d48>同時</color>往箭頭所指方向<color=#ff8d48>移動一格</color>。,"In this <color=#ff8d48>Special Battle</color> the following special rules apply: \n\nAllied units have a <color=#ff8d48>Max AP of 2</color>, can move at most <color=#ff8d48>1 tile</color> per turn, and are unable to enter terrain such as Forests or Buildings. Additionally, allied units cannot Attack, use Items or cast Skills. \n\nAll enemy units will <color=#ff8d48>move 1 tile</color> in the direction indicated by the arrow <color=#ff8d48>simultaneously</color> during their turn.",この戦役の特別ルール：\n\n味方ユニットの<color=#ff8d48>最大APは2</color>、1ターンの移動は<color=#ff8d48>最大1マス</color>で、森や家屋などの地形には入れません。さらに、味方ユニットは攻撃、アイテム使用、スキル使用ができません。\n\n敵全員が敵のターンと<color=#ff8d48>同時に</color>矢印の方向に<color=#ff8d48>1マス移動</color>します。,"본 전투에서 아래의 특별한 규칙이 있습니다: \n\n아군 캐릭터 AP의 <color=#ff8d48>상한은 2이며</color>, 매 턴에 최대 <color=#ff8d48>1타일 이동할 수 있고</color>, 숲이나 건물 등 지형이 진입할 수 없습니다. 또한 아군 캐릭터는 공격, 아이템 사용 또는 스킬 방출을 할 수 없습니다.\n\n 모든 적군 유닛은 적군 턴에 <color=#ff8d48>동시에</color> 화살표가 가리키는 방향으로 <color=#ff8d48>1타일 이동합니다</color>."
+600,脆弱冰面,脆弱冰面,Thin Ice,もろい氷,부서지기 쉬운 얼음
+602,单位离开<color=#ff8d48>脆弱冰面</color>时，该格的地形会变成无法通行的<color=#ff8d48>冰洞</color>。,單位離開<color=#ff8d48>脆弱冰面</color>時，該格的地形會變成無法通行的<color=#ff8d48>冰洞</color>。,"When a unit leaves the <color=#ff8d48>Thin Ice</color>, the terrain on that tile transforms into an impassable <color=#ff8d48>Ice Hole</color>.",ユニットが<color=#ff8d48>もろい氷の上</color>から離れると、そのマスの地形は通行ができない<color=#ff8d48>氷の洞穴</color>に変わります。,"유닛이 <color=#ff8d48>부서지기 쉬운 얼음</color>에서 벗어날 때, 해당 타일의 지형은 통행이 불가능한 <color=#ff8d48>얼음동굴</color>이 됩니다."
+330,探照灯,探照燈,Searchlight,サーチライト,서치라이트
+332,<color=#ff8d48>探照灯</color>会按照固定的路线移动且拥有<color=#ff8d48>反潜视野</color>。\n\n<color=#ff8d48>集装箱</color>可以提供<color=#ff8d48>隐匿</color>效果，躲入其中可以避免被探照灯发现。,<color=#ff8d48>探照燈</color>會按照固定的路線移動且擁有<color=#ff8d48>反潛視野</color>。\n\n<color=#ff8d48>集裝箱</color>可以提供<color=#ff8d48>隱匿</color>效果，躲入其中可以避免被探照燈發現。,"The <color=#ff8d48>Searchlight</color> will move along a <color=#ff8d48>fixed route</color> and has <color=#ff8d48>Anti-Stealth Visual Range</color>. \n\n<color=#ff8d48>Containers</color> provide a <color=#ff8d48>Concealment</color> effect, hiding inside them can avoid detection by the Searchlight.",<color=#ff8d48>サーチライト</color>は<color=#ff8d48>反潜視野</color>を備え、固定のルートに従って移動します。\n\n<color=#ff8d48>コンテナ</color>には<color=#ff8d48>隠蔽</color>効果があり、中に隠れるとサーチライトに発見されません。,<color=#ff8d48>서치라이트</color>는 고정된 노선에 따라 이동하며 <color=#ff8d48>안티 스텔스 시야가 있습니다</color>.\n\n<color=#ff8d48> 컨테이너</color>는 <color=#ff8d48>은닉</color> 효과를 줄 수 있습니다. 그 안에 숨으면 서치라이트에 발견되지 않습니다.
+510,探照灯,探照燈,Searchlight,サーチライト,서치라이트
+512,被催眠的敌人会被队友或探照灯的<color=#ff8d48>反潜视野</color>察觉，并从催眠状态中恢复，随后会与附近的队友一同进入<color=#ff8d48>搜寻</color>状态。,被催眠的敵人會被隊友或探照燈的<color=#ff8d48>反潛視野</color>察覺，並從催眠狀態中恢復，隨後會與附近的隊友一同進入<color=#ff8d48>搜尋</color>狀態。,"Hypnotized enemies will be detected by teammates or the <color=#ff8d48>Anti-Stealth Visual Range</color> of Searchlights. After that, they will <color=#ff8d48>recover</color> from the Hypnotized status and enter the <color=#ff8d48>Search Mode</color> along with nearby enemy units.",眠らされた敵は、仲間やサーチライトの<color=#ff8d48>反潜視野</color>によって察知され、催眠状態から回復します。その後、近くの仲間と共に<color=#ff8d48>捜索</color>状態になります。,"최면 당한 적군은 대원 또는 서치라이트의 <color=#ff8d48>안티 스텔스 시야</color>에 감지되며, 최면 상태에서 회복합니다. 그리고 근처 대원과 함께 <color=#ff8d48>수색</color> 상태에 진입합니다."
+340,值班室,值班室,Duty Room,宿直室,숙직실
+342,一旦有敌方单位从催眠状态中恢复，增援单位就会在<color=#ff8d48>值班室</color>周围出现并开始<color=#ff8d48>搜寻</color>可疑地点。 ,一旦有敵方單位從催眠狀態中恢復，增援單位就會在<color=#ff8d48>值班室</color>周圍出現並開始<color=#ff8d48>搜尋</color>可疑地點。 ,"Once an enemy unit recovers from the Hypnotized status, reinforcement units will appear around the <color=#ff8d48>Duty Room</color> and begin to <color=#ff8d48>Search</color> suspicious locations.",敵ユニットが催眠状態から回復すると、増援ユニットが<color=#ff8d48>宿直室</color>の周囲から出現し、疑わしい場所を<color=#ff8d48>捜索</color>し始めます。 ,적군 유닛이 최면 상태에서 회복되면 지원 유닛은 <color=#ff8d48>숙직실</color> 주위에 나타나며 의심스러운 장소를 <color=#ff8d48>수색</color>합니다. 
+350,警戒哨站,警戒哨站,Checkpoint,哨戒所,경계 초소
+352,"我方角色位于<color=#ff8d48>警戒哨站</color>时可以进行特殊操作。\n\n
+<color=#ff8d48>远程驱动炮</color>可以将感染者<color=#ff8d48>立刻吸引</color>至指定位置。
+<color=#ff8d48>防卫榴弹炮</color>可以对范围内的敌方单位造成<color=#ff8d48>伤害</color>。","我方角色位於<color=#ff8d48>警戒哨站</color>時可以進行特殊操作。\n\n
+<color=#ff8d48>遠程驅動炮</color>可以將感染者<color=#ff8d48>立刻吸引</color>至指定位置。
+<color=#ff8d48>防衛榴彈炮</color>可以對範圍內的敵方單位造成<color=#ff8d48>傷害</color>。","When allied units are at the <color=#ff8d48>Checkpoint</color>, they can perform special actions. \n\nThe <color=#ff8d48>Long-range Automated Gun</color> can <color=#ff8d48>immediately lure</color> the Infected Inviduals to a designated location. \n<color=#ff8d48>Defensive Howitzer</color> can inflict <color=#ff8d48>damage</color> to enemy units within range.","味方ユニットが<color=#ff8d48>哨戒所</color>にいるとき、特殊操作を実行できます。\n\n
+<color=#ff8d48>リモート駆動砲</color>は、指定した位置に感染者を<color=#ff8d48>すばやく引き寄せます</color>。
+<color=#ff8d48>防衛榴弾砲</color>は、範囲内の敵ユニットに<color=#ff8d48>ダメージ</color>を与えます。","아군 캐릭터는 <color=#ff8d48>경계 초소</color>에 위치할 때 특수 컨트롤을 할 수 있습니다.\n\n 
+<color=#ff8d48>원거리 구동포</color>는 감염자를 <color=#ff8d48>즉시 유인</color>해서 지정된 위치로 가도록 합니다. 
+<color=#ff8d48>방어유탄포</color>는 범위 내의 적군 유닛에게 <color=#ff8d48>데미지</color>를 줄 수 있습니다."
+520,警戒哨站,警戒哨站,Checkpoint,哨戒所,경계 초소
+522,远程驱动炮和防卫榴弹炮都有弹药<color=#ff8d48>数量限制</color>，无法补充。,遠程驅動炮和防衛榴彈炮都有彈藥<color=#ff8d48>數量限制</color>，無法補充。,Long-range Automated Gun and Defensive Howitzer have <color=#ff8d48>limited ammunition</color> and cannot be replenished.,リモート駆動砲と防衛榴弾砲の<color=#ff8d48>弾薬数は限られており</color>、補充はできません。,원거리 구동포와 방어유탄포는 모두 <color=#ff8d48>수량이 정해져 있고</color> 보충할 수 없습니다.
+360,指挥官卡尔,指揮官卡爾,Commander Carl,司令官カール,칼 지휘관
+362,本战役中，罗联士兵<color=#ff8d48>不会发现卡尔</color>的真实身份，<color=#ff8d48>罗联指挥官除外</color>。\n\n卡尔可以与宿舍区域的罗联士兵<color=#ff8d48>对话</color>并获取信息。,本戰役中，羅聯士兵<color=#ff8d48>不會發現卡爾</color>的真實身份，<color=#ff8d48>羅聯指揮官除外</color>。\n\n卡爾可以與宿舍區域的羅聯士兵<color=#ff8d48>對話</color>並獲取資訊。,"In this Battle, the URNC soldiers will not discover Carl’s true identity, <color=#ff8d48>except the URNC Commander</color>. \nCarl can have a <color=#ff8d48>dialog</color> to URNC soldiers in the dormitory area and gather intelligence.",この戦役では、ロ連兵に<color=#ff8d48>カールの正体を知られることはありません</color>。ただし、<color=#ff8d48>ロ連の司令官は例外です</color>。\n\nカールは宿舎区域のロ連兵と<color=#ff8d48>会話して</color>情報を入手します。,본 전투에서 루련 병사는 <color=#ff8d48>칼의 </color>진짜 신분을 발견하지 못합니다. <color=#ff8d48>루련 사령관은 예외입니다</color>.\n\n 칼은 숙소 구역의 루련 병사와 <color=#ff8d48>대화</color>하면서 정보를 얻을 수 있습니다.
+630,指挥官卡尔,指揮官卡爾,Commander Carl,司令官カール,칼 지휘관
+632,"如果在对话中选择了可疑的选项，士兵对卡尔的<color=#ff8d48>信任度</color>会降低，在本战役中通过卡尔的<color=#ff8d48>生命值</color>来表示信任度。
+
+如果信任度降至0，战役将直接失败。","如果在對話中選擇了可疑的選項，士兵對卡爾的<color=#ff8d48>信任度</color>會降低，在本戰役中通過卡爾的<color=#ff8d48>生命值</color>來表示信任度。
+
+如果信任度降至0，戰役將直接失敗。","If a suspicious option is chosen while have a dialog, the soldier's <color=#ff8d48>trust level</color> in Carl will decrease. In this mission, trust is represented by Carl's <color=#ff8d48>HP</color>. \nIf the trust level drops to 0, the mission will immediately fail.","会話中に疑わしいオプションを選択すると、兵士のカールに対する<color=#ff8d48>信頼度</color>が低下します。この戦役では、カールの<color=#ff8d48>HP</color>が信頼度を示します。
+
+信頼度が0になると、戦役は失敗となります。","만약 대화에서 의심스러운 선택지를 선택하면, 칼에 대한 병사의 <color=#ff8d48>신뢰도</color>가 낮아집니다. 본 전투에서 칼의 <color=#ff8d48>HP</color>는 신뢰도를 나타냅니다. 
+
+만약 신뢰도가 0으로 내려가면 전투는 바로 실패합니다."
+370,雪崩,雪崩,Avalanche,アヴァランチ,눈사태
+372,我方角色可以使用<color=#ff8d48>便携火箭筒</color>引发<color=#ff8d48>雪崩</color>。\n\n使用火箭筒选择攻击目标时，可以看到部分悬崖存在<color=#ff8d48>脆弱部位</color>，对准该部位进行攻击即可。,我方角色可以使用<color=#ff8d48>便攜火箭筒</color>引發<color=#ff8d48>雪崩</color>。\n\n使用火箭筒選擇攻擊目標時，可以看到部分懸崖存在<color=#ff8d48>脆弱部位</color>，對準該部位進行攻擊即可。,"Allied units can use a <color=#ff8d48>Rocket Launcher</color> to trigger an <color=#ff8d48>Avalanche</color>. \n\nWhen using the Rocket Launcher to select a target, some cliffs will show <color=#ff8d48>fragile spots</color>. Aim the attack at these spots.",味方ユニットは<color=#ff8d48>携帯ランチャー</color>を使用して<color=#ff8d48>雪崩</color>を起こすことができます。\n\nランチャーで攻撃のターゲットを選択すると、一部の崖に<color=#ff8d48>もろい部分</color>があるのが見えます。この部分に狙いを定めて攻撃しましょう。,아군 캐릭터는 <color=#ff8d48>휴대용 로켓 발사기</color>를 사용해 <color=#ff8d48>눈사태</color>를 일으킬 수 있습니다.\n\n 로켓포를 사용해 표적을 공시할 때 일부 절벽에 <color=#ff8d48>나약한 부위</color>가 있는 것을 확인할 수 있습니다. 그 부분을 향해 공격하세요.
+530,雪崩,雪崩,Avalanche,アヴァランチ,눈사태
+532,"执行攻击前可以通过预览查看雪崩将会造成的具体效果：\n\n<color=#61a8eb>蓝色区域</color>将变为<color=#ff8d48>可以通行</color>的雪地。
+<color=#f95859>红色区域</color>内<color=#ff8d48>除头目以外</color>的所有敌方单位会被雪堆<color=#ff8d48>掩埋</color>。\n\n我方角色会在雪崩时及时离开危险区域。","執行攻擊前可以通過預覽查看雪崩將會造成的具體效果：\n\n<color=#61a8eb>藍色區域</color>將變為<color=#ff8d48>可以通行</color>的雪地。
+<color=#f95859>紅色區域</color>內<color=#ff8d48>除頭目以外</color>的所有敵方單位會被雪堆<color=#ff8d48>掩埋</color>。\n\n我方角色會在雪崩時及時離開危險區域。","Before executing the attack, the specific effects of the Avalanche can be previewed: \n\n<color=#61a8eb>Blue areas</color> will become <color=#ff8d48>passable</color> snow terrains. 
+<color=#f95859>Within red areas</color>, all enemy units, <color=#ff8d48>except for Bosses</color> will be killed by the avalanche. \n\nAllied units will leave the danger zone during the avalanche.","攻撃を実行する前に、プレビューにより雪崩がもたらす効果の詳細を確認できます。\n\n<color=#61a8eb>青い区域</color>は<color=#ff8d48>通行可能</color>な雪原に変わります。
+<color=#f95859>赤い区域</color>内では、<color=#ff8d48>ボス以外</color>の敵全員が雪の吹き寄せの<color=#ff8d48>下敷きになります</color>。\n\n雪崩が起きると、味方ユニットはすぐに危険な区域を離れます。","공격 개시 전에 미리보기로 눈사태가 만들어 낼 구체적인 효과를 볼 수 있습니다: \n\n<color=#61a8eb>청색구역</color>은 <color=#ff8d48>통행 가능한</color> 설원이 됩니다. 
+<color=#f95859>적색구역</color> 안에서 <color=#ff8d48>보스 외의</color> 모든 적군 유닛은 눈더미에 <color=#ff8d48>묻힙니다</color>.\n\n 아군 캐릭터가 눈사태가 일어날 때 위험 구역을 제때 벗어납니다."
+390,伪装,偽裝,Camouflage,偽装,위장
+392,本战役中，洁芙缇可以通过<color=#ff8d48>伪装</color>成纸箱来躲避敌方视野和红外探测。\n\n伪装状态下的洁芙缇即使进入敌方单位的反潜视野也<color=#ff8d48>不会被发现</color>。\n\n*移动会立刻解除伪装。,本戰役中，潔芙緹可以通過<color=#ff8d48>偽裝</color>成紙箱來躲避敵方視野和紅外探測。\n\n偽裝狀態下的潔芙緹即使進入敵方單位的反潛視野也<color=#ff8d48>不會被發現</color>。\n\n*移動會立刻解除偽裝。,"In this battle, Jefuty can <color=#ff8d48>disguise</color> as a cardboard box, evading enemy Visual Range and infrared detection.\n\n Jefuty in disguise will <color=#ff8d48>not be detected</color> even when entering the Anti-Stealth Visual Range of enemy units. \n\n*Moving will immediately cancel the disguise.",この戦役では、ジェフティはダンボール箱に<color=#ff8d48>偽装</color>して敵の視野と赤外線検知から逃れることができます。\n\n偽装状態のジェフティは敵ユニットの反潜視野に入っても<color=#ff8d48>発見されません</color>。\n\n*移動すると、すぐに偽装が解除されます。,본 전투에서 제퓨티는 <color=#ff8d48>위장</color>으로 종이박스가 되어 적군 시야와 적외 탐측을 피할 수 있습니다.\n\n 위장 상태에서 제퓨티는 적군 유닛의 안티 스텔스 시야에 진입하더라도 <color=#ff8d48>발견되지 않습니다</color>.\n\n* 이동하면 즉시 위장이 해제됩니다.
+400,暴风雪,暴風雪,Blizzard,吹雪,눈폭풍
+402,回合结束时，单位若停留在暴风雪中，会进入<color=#ff8d48>寒冷状态</color>，受到最大生命值<color=#ff8d48>10%</color>的伤害。\n\n若单位已经处于寒冷状态，则会进入<color=#ff8d48>失温状态</color>，受到最大生命值<color=#ff8d48>15%</color>的伤害，并<color=#ff8d48>失去7AP</color>。,回合結束時，單位若停留在暴風雪中，會進入<color=#ff8d48>寒冷狀態</color>，受到最大生命值<color=#ff8d48>10%</color>的傷害。\n\n若單位已經處於寒冷狀態，則會進入<color=#ff8d48>失溫狀態</color>，受到最大生命值<color=#ff8d48>15%</color>的傷害，並<color=#ff8d48>失去7AP</color>。,"At the end of the turn, if a unit remains in the blizzard, it will enter <color=#ff8d48>Cold status</color> and take damage equal to <color=#ff8d48>10%</color> Max HP. \n\nIf the unit is already in Cold status, it will enter the <color=#ff8d48>Hypothermia</color> status and take damage equal to <color=#ff8d48>15%</color> Max HP and <color=#ff8d48>lose 7 AP</color>.",ターン終了後にユニットが吹雪の中に留まると、<color=#ff8d48>寒冷状態</color>になり、最大HPの<color=#ff8d48>10%</color>のダメージを受けます。\n\nユニットがすでに寒冷状態である場合は、<color=#ff8d48>低体温状態</color>になり、最大HPの<color=#ff8d48>15%</color>のダメージを受けるほか、<color=#ff8d48>7APを失います</color>。,"턴 종료 시, 유닛이 눈폭풍 속에 머물러 있으면 <color=#ff8d48>추운 상태</color>에 진입하고, 최대HP의 <color=#ff8d48>10%</color> 데미지를 입습니다.\n\n 만약 유닛이 이미 추운 상태라면 <color=#ff8d48>저체온증 상태</color>에 놓이고 최대HP <color=#ff8d48>15%</color>의 데미지를 입으며 <color=#ff8d48>7 AP를 잃습니다</color>."
+540,暴风雪,暴風雪,Blizzard,吹雪,눈폭풍
+542,回合结束时，若停留在房屋、废墟内，或篝火的周围，可以<color=#ff8d48>解除</color>寒冷和失温状态。\n\n暴风雪对机械无效。,回合結束時，若停留在房屋、廢墟內，或篝火的周圍，可以<color=#ff8d48>解除</color>寒冷和失溫狀態。\n\n暴風雪對機械無效。,"At the end of the turn, if a unit stays inside a Building, Ruins or around a Campfire, it can <color=#ff8d48>recover</color> from the Cold and Hypothermia statuses. \n\nBlizzards have no effect on mechanical units.",ターン終了後に家屋や廃墟内、またはかがり火の周囲に留まると、寒冷状態と低体温状態が<color=#ff8d48>解除</color>されます。\n\n吹雪は機械には影響を与えません。,"턴 종료 시, 건물, 폐허 또는 모닥불 주위에 있으면 추운 상태와 저체온증 상태를 <color=#ff8d48>해제</color>할 수 있습니다.\n\n 눈폭풍은 기계에 효력이 없습니다."
+410,控制台,控制臺,Control Panel,コンソール,콘솔
+412,我方角色站在<color=#ff8d48>控制台</color>即可操控对应的<color=#ff8d48>轨道运输车</color>。\n\n回合结束时，接收指令的运输车会朝着指定的地点行进，对路径上的所有敌方单位造成<color=#ff8d48>伤害</color>并将其<color=#ff8d48>撞离</color>轨道。\n\n我方角色会及时离开危险区域。,我方角色站在<color=#ff8d48>控制臺</color>即可操控對應的<color=#ff8d48>軌道運輸車</color>。\n\n回合結束時，接收指令的運輸車會朝著指定的地點行進，對路徑上的所有敵方單位造成<color=#ff8d48>傷害</color>並將其<color=#ff8d48>撞離</color>軌道。\n\n我方角色會及時離開危險區域。,"Allied units can operate the Rail Transporter by standing at the corresponding <color=#ff8d48>Control Panel</color>. \n\nAt the end of the turn, Transporters that received orders will move towards the designated location</color>, dealing <color=#ff8d48>damage</color> to all enemy units along the path and <color=#ff8d48>knocking them off the tracks</color>. \n\nAllied units will promptly leave the danger zone.",味方ユニットが<color=#ff8d48>コンソール</color>上にいると、対応する<color=#ff8d48>軌道トラック</color>を操縦できます。\n\nターンが終了すると、指令を受けたトラックが指定された場所に向かい、ルート上の敵全員に<color=#ff8d48>ダメージ</color>を与え、軌道から<color=#ff8d48>はねのけます</color>。\n\n味方ユニットは、すぐに危険な区域を離れます。,"아군 캐릭터가 <color=#ff8d48>콘솔</color>에 서 있으면 그에 대응되면 <color=#ff8d48>철도 수송차</color>를 조종할 수 있습니다.\n\n 턴 종료 시 지령을 받은 수송차는 지정된 지점으로 나아가고, 가는 길의 모든 적군 유닛에게 <color=#ff8d48>데미지</color>를 주고, 그것을 <color=#ff8d48>부딪혀</color> 철도에서 벗어나게 합니다.\n\n 아군 캐릭터는 제때 위험 구역을 벗어납니다."
+550,轨道运输车,軌道運輸車,Rail Transporter,軌道トラック,철도 수송차
+552,我方角色停留在轨道运输车的<color=#ff8d48>相邻</color>位置时，可以选择<color=#ff8d48>搭乘</color>运输车并跟随其<color=#ff8d48>一同移动</color>。\n\n若轨道运输车被击毁，搭乘人也会同时被击败。,我方角色停留在軌道運輸車的<color=#ff8d48>相鄰</color>位置時，可以選擇<color=#ff8d48>搭乘</color>運輸車並跟隨其<color=#ff8d48>一同移動</color>。\n\n若軌道運輸車被擊毀，搭乘人也會同時被擊敗。,"When allied units stand in an <color=#ff8d48>adjacent</color> position to a Rail Transporter, they can choose to <color=#ff8d48>ride</color> the Transporter and <color=#ff8d48>move together</color> with it. \n\nIf the Rail Transporter is destroyed, the passengers will also be defeated.",味方ユニットが軌道トラックに<color=#ff8d48>隣接する</color>位置に留まると、トラックの<color=#ff8d48>乗車</color>を選択して<color=#ff8d48>一緒に移動</color>できます。\n\n軌道トラックが破壊されると、乗客も同時に被害を受けます。,아군 캐릭터가 철도 수송차와 <color=#ff8d48>인접한</color> 위치에 있을 때 수송차를 <color=#ff8d48>탑승</color>하고 <color=#ff8d48>함께 이동</color>할 수 있습니다.\n\n 만약 철도 수송차가 격파되면 탑승한 사람도 동시에 격패됩니다.
+430,武器切换,武器切換,Switching Weapons,武器の切替,무기 교체
+432,选中拥有多个武器的我方角色时，可按<color=#ff8d48>LSHIFT</color>或点击角色信息栏中的<color=#ff8d48>武器图标</color>进行武器的切换。（手柄模式下点击<color=#ff8d48>十字键·上下</color>）。\n\n每一次攻击均可以自由选择武器，不同武器消耗的AP<color=#ff8d48>存在差异</color>。,選中擁有多個武器的我方角色時，可按<color=#ff8d48>LSHIFT</color>或點擊角色資訊欄中的<color=#ff8d48>武器圖示</color>進行武器的切換。（手柄模式下點擊<color=#ff8d48>十字鍵·上下</color>）。\n\n每一次攻擊均可以自由選擇武器，不同武器消耗的AP<color=#ff8d48>存在差異</color>。,"When selecting an allied unit with multiple weapons, press <color=#ff8d48>L-SHIFT</color> or click the <color=#ff8d48>weapon icon</color> in the Character Information menu to switch weapons. (Press <color=#ff8d48>up or down when using a Controller</color>). \n\nFreely choose which weapon to use for each attack. Different weapons may consume <color=#ff8d48>different amounts</color> of AP.",複数の武器を持つ味方ユニットの選択時、<color=#ff8d48>左SHIFT</color>を押すかまたはユニット情報欄内の<color=#ff8d48>武器アイコン</color>をクリックすると武器の切替ができます。（PADモードの場合は、<color=#ff8d48>十字キー・上下</color>を押します）。\n\n攻撃する際に武器を自由に選択できます。武器はそれぞれ攻撃時に消費するAPが<color=#ff8d48>異なります</color>。,여러 무기를 소지한 아군 캐릭터 선택 시 <color=#ff8d48>LSHIFT</color>를 누르거나 캐릭터 정보바의 <color=#ff8d48>무기 아이콘</color>을 클릭해 무기를 교체할 수 있습니다. （핸들 모드에서 위쪽 <color=#ff8d48>십자 키·위아래 클릭</color>）.\n\n 매 번 공격 시 자유롭게 무시를 선택할 수 있습니다. 무기마다 소비하는 AP가<color=#ff8d48>가 다릅니다</color>.
+580,新一轮游戏,新一輪遊戲,New Playthrough,新しいラウンドのゲーム,뉴 라운드 게임
+582,开始新一轮游戏后，部分游戏数值会得到<color=#ff8d48>提升</color>。\n\n<color=#ff8d48>初始团队道具</color>会得到强化。\n经验、零件、潜能密钥和研发点数<color=#ff8d48>获取量</color>会提升。\n团队等级、武器阶级、基因等级和道具等级的<color=#ff8d48>上限</color>将会提升。,開始新一輪遊戲後，部分遊戲數值會得到<color=#ff8d48>提升</color>。\n\n<color=#ff8d48>初始團隊道具</color>會得到強化。\n經驗、零件、潛能密鑰和研發點數<color=#ff8d48>獲取量</color>會提升。\n團隊等級、武器階級、基因等級和道具等級的<color=#ff8d48>上限</color>將會提升。,"When starting a new playthrough, some game stats ​​will be <color=#ff8d48>increased</color>. \n\nThe <color=#ff8d48>starting Team Items</color> will be strengthened. \nThe amount of EXP, Parts, Potential Keys and Research Points <color=#ff8d48>obtained</color> will be increased. \nThe <color=#ff8d48>level cap</color> for Team, Weapon, Gene and Item will be increased.",新しいラウンドのゲームを開始すると、一部のゲームの数値が<color=#ff8d48>増加</color>します。\n\n<color=#ff8d48>初期設定のチームアイテム</color>が強化されます。\n経験値、パーツ、ゲノムキー、研究ポイントの<color=#ff8d48>獲得量</color>が増加します。\nチームレベル、武器レベル、ゲノムレベル、アイテムレベルの<color=#ff8d48>上限</color>がアップします。,"뉴 라운드 게임이 시작되면, 일부 게임 포인트가 <color=#ff8d48>올라갑니다</color>.\n\n<color=#ff8d48> 처음 시작하는 팀 아이템은 </color>강화됩니다.\n 경험, 부품, 포텐셜 키, 연구 포인트의 <color=#ff8d48>획득량</color>이 올라갑니다.\n 팀 레벨, 무기 레벨, 유전자 레벨, 아이템 레벨의 <color=#ff8d48>상한</color>이 올라갑니다."
+440,新一轮游戏,新一輪遊戲,New Playthrough,新しいラウンドのゲーム,뉴 라운드 게임
+442,开始新一轮游戏时，可以<color=#ff8d48>继承</color>部分资源：\n\n<color=#ff8d48>零件</color>：继承上一轮剩余零件的100%，且所有可拆解的道具会折算成等价的零件。\n<color=#ff8d48>研发点数</color>：继承上一轮已获得研发点数的50%\n<color=#ff8d48>潜能密钥</color>：继承上一轮已获得潜能密钥的50%,開始新一輪遊戲時，可以<color=#ff8d48>繼承</color>部分資源：\n\n<color=#ff8d48>零件</color>：繼承上一輪剩餘零件的100%，且所有可拆解的道具會折算成等價的零件。\n<color=#ff8d48>研發點數</color>：繼承上一輪已獲得研發點數的50%\n<color=#ff8d48>潛能密鑰</color>：繼承上一輪已獲得潛能密鑰的50%,"When starting a new playthrough, some resources can be <color=#ff8d48>inherited</color>: \n\n<color=#ff8d48>Parts</color>: Inherit 100% of the remaining parts from the previous playthrough, and all disassemblable items will be converted into the equivalent amount of Parts. \n<color=#ff8d48>Research Points</color>: Inherit 50% of Research Points obtained in the previous playthrough \n<color=#ff8d48>Potential Keys</color>: Inherit 50% of Potential Keys obtained in the previous playthrough",新しいラウンドのゲームを開始すると、一部の資源を<color=#ff8d48>引き継ぐ</color>ことができます：\n\n<color=#ff8d48>パーツ</color>：前回のラウンドで残ったパーツの100%を引き継ぎ、全ての分解可能なアイテムが同等のパーツに変換されます。\n<color=#ff8d48>研究ポイント</color>：前回のラウンドで獲得した研究ポイントの50%を引き継ぎます。\n<color=#ff8d48>ゲノムキー</color>：前回のラウンドで獲得したゲノムキーの50%を引き継ぎます。,"뉴 라운드 게임이 시작될 때 일부 자원을 <color=#ff8d48>계승</color> 받을 수 있습니다: \n\n<color=#ff8d48>부품</color>: 지난 라운드에서 남은 부품의 100%를 이어받을 수 있으며, 모든 해체 가능한 아이템은 등가의 부품으로 만들 수 있습니다.\n<color=#ff8d48> 연구 포인트</color>：지난 라운드에서 획득한 연구 포인트의 50%를 계승 받을 수 있습니다 \n<color=#ff8d48>포텐셜 키</color>：지난 라운드에서 획득한 포텐셜 키의 50%를 계승 받을 수 있습니다."
+450,记忆跃迁,記憶躍遷,Memory Leap,記憶遷移,메모리 점프
+452,完成时间轴的结局战役可以获得<color=#ff8d48>记忆点</color>。\n\n消耗记忆点可以进行<color=#ff8d48>记忆跃迁</color>，跳跃到当前战役之后任意<color=#ff8d48>已解锁</color>战役的整备阶段。,完成時間軸的結局戰役可以獲得<color=#ff8d48>記憶點</color>。\n\n消耗記憶點可以進行<color=#ff8d48>記憶躍遷</color>，跳躍到當前戰役之後任意<color=#ff8d48>已解鎖</color>戰役的整備階段。,"Completing the final battle of a Timeline to obtain <color=#ff8d48>Memory Points</color>. \n\nConsume Memory Point to perform a <color=#ff8d48>Memory Leap</color>, jumping to any Preparation Phase of an <color=#ff8d48>unlocked</color> battle leading on from the current battle.",時間軸の最終戦役をクリアすると<color=#ff8d48>記憶ポイント</color>を獲得できます。\n\n記憶ポイントを消費すると<color=#ff8d48>記憶遷移</color>を実行でき、現在の戦役後の、任意の<color=#ff8d48>解放済み</color>戦役の整備フェイズに移ることができます。,시간축 결말 전투를 끝내면 <color=#ff8d48>메모리 포인트를 획득할 수 있습니다</color>.\n\n 메모리 포인트를 소모하면 <color=#ff8d48>메모리 점프</color>를 할 수 있습니다. 현재 전투로 넘어간 후 임의로 <color=#ff8d48>이미 잠금해제</color>한 전투의 정비 단계로 넘어갈 수 있습니다.
+460,得偿所愿,得償所願,Wish Fulfilled,念願成就,원하는 바를 이루다
+462,<color=#ff8d48>得偿所愿</color>是一个挑战战役。在本战役中，洁芙缇需要在敌方源源不断的增援下存活更长的时间。\n\n洁芙缇将会以<color=#ff8d48>默认的角色配置</color>进入本战役的整备阶段，可以在整备中<color=#ff8d48>调整技能</color>和<color=#ff8d48>武器配件</color>。\n\n洁芙缇被击败后，会根据表现获得<color=#ff8d48>积分</color>。不断挑战，尝试获取更高的积分吧。,<color=#ff8d48>得償所願</color>是一個挑戰戰役。在本戰役中，潔芙緹需要在敵方源源不斷的增援下存活更長的時間。\n\n潔芙緹將會以<color=#ff8d48>默認的角色配置</color>進入本戰役的整備階段，可以在整備中<color=#ff8d48>調整技能</color>和<color=#ff8d48>武器配件</color>。\n\n潔芙緹被擊敗後，會根據表現獲得<color=#ff8d48>積分</color>。不斷挑戰，嘗試獲取更高的積分吧。,"<color=#ff8d48>Wish Fulfilled</color> is a challenge battle. In this battle, Jefuty needs to survive as long as possible against endless enemy reinforcements. \n\nJefuty will enter the Preparation Phase of this battle with <color=#ff8d48>default character configuration</color>.<color=#ff8d48>Skills</color> and <color=#ff8d48>weapon accessories</color> can be adjusted during the Preparation Phase. \nAfter Jefuty is defeated, <color=#ff8d48>points</color> will be awarded based on performance. Keep challenging and try to get higher points.",<color=#ff8d48>念願成就</color>は、チャレンジ戦役です。この戦役では、ジェフティは敵の増援が次々と押し寄せるなかで生きのびなければなりません。\n\nジェフティが<color=#ff8d48>デフォルトのユニット配置</color>でこの戦役の整備フェイズに入ると、整備中に<color=#ff8d48>スキル</color>と<color=#ff8d48>武器のアタッチメント</color>を調整できます。\n\nジェフティが倒されると、パフォーマンスに応じた<color=#ff8d48>ポイント</color>を獲得します。チャレンジを続け、より多くのポイントを獲得しましょう。,<color=#ff8d48>원하는 바를 이루다</color>는 도전 전투입니다. 본 전투에서 제퓨티는 적이 끊임없이 몰려오는 상황에서 더 긴 시간 생존해야 합니다.\n\n 제퓨티는 <color=#ff8d48>묵인한 캐릭터 설정으로</color> 본 전투의 정비단계에 진입합니다. 정비 중에 <color=#ff8d48>스킬 조정</color> 및 <color=#ff8d48>무기 부품</color>을 조정할 수 있습니다.\n\n 제퓨티가 격패된 후 성과에 따라 <color=#ff8d48>포인트</color>를 얻습니다. 계속 도전해서 더 높은 포인트를 얻어보세요.
+470,巡逻,巡邏,Patrol,巡察,순찰
+472,"选中巡逻的敌方单位，可以查看其<color=#ff8d48>巡逻点</color>及<color=#ff8d48>巡逻路径</color>。
+
+敌方单位会沿着巡逻路径前往下一个巡逻点。","選中巡邏的敵方單位，可以查看其<color=#ff8d48>巡邏點</color>及<color=#ff8d48>巡邏路徑</color>。
+
+敵方單位會沿著巡邏路徑前往下一個巡邏點。","When selecting an enemy unit on patrol, the <color=#ff8d48>patrol points</color> and <color=#ff8d48>patrol routes</color> can be seen. 
+The enemy unit will follow the patrol route towards the next patrol point.","巡察している敵ユニットを選択すると、その<color=#ff8d48>巡察地点</color>および<color=#ff8d48>巡察ルート</color>を確認できます。
+
+敵ユニットは巡察ルートに沿って次の巡察地点へ向かいます。","순찰하는 적군 유닛을 선택하면 <color=#ff8d48>순찰지</color> 및 <color=#ff8d48>순찰 노선</color>을 볼 수 있습니다. 
+
+적군 유닛은 순찰 노선을 따라 다음 순찰 지점으로 나아가게 됩니다."
+1002010,敌人视野,敵人視野,Enemy Visual Range,敵視野,적 시야
+1002012,"在需要潜行时，可以便捷地查看所有<color=#ff8d48>可见敌方单位</color>的<color=#ff8d48>视野总和</color>。
+
+在此功能中，带有<color=#ff8d48>隐匿标记</color>的视野格<color=#ff8d48>不会显示</color>，在确保其相邻位置没有其他敌方单位的情况下可以安全进入此类地形。","在需要潛行時，可以便捷地查看所有<color=#ff8d48>可見敵方單位</color>的<color=#ff8d48>視野總和</color>。
+
+在此功能中，帶有<color=#ff8d48>隱匿標記</color>的視野格<color=#ff8d48>不會顯示</color>，在確保其相鄰位置沒有其他敵方單位的情況下可以安全進入此類地形。","When Stealth is required, view the <color=#ff8d48>total Visual Range</color> of all <color=#ff8d48>visible enemy units</color> easily.   
+
+In this feature, Visual Range tiles with <color=#ff8d48>concealment markers</color> will <color=#ff8d48>not be displayed</color>. Such terrain is safe to enter if there are no other enemy units in adjacent tiles.","潜行が必要なとき、<color=#ff8d48>目に見える敵ユニット</color>全ての<color=#ff8d48>視野の合計</color>を確認できます。
+
+この機能では、<color=#ff8d48>隠蔽マーク</color>のついた視野マスは<color=#ff8d48>表示されません</color>。その隣接位置に他の敵ユニットが存在しないことを確認しなければ、安全にこのタイプの地形に入ることはできません。","스텔스를 해야할 때 <color=#ff8d48>눈에 보이는 모든 적 유닛</color>의 <color=#ff8d48>시야 총합</color>을 쉽게 확인할 수 있습니다. 
+
+이 스킬 중에는 <color=#ff8d48>은닉 표기</color>가 있는 시야 타일은 <color=#ff8d48>표시되지 않으며</color> 인접한 위치에 다른 적 유닛이 없는지 확인하고 이러한 지형에 안전하게 접근해야 합니다.."
+560,更换服装,更換服裝,Change Outfit,スキン変更,코스튬 교체
+562,可以在角色详情中更换角色的<color=#ff8d48>服装</color>。\n\n角色更换服装后，<color=#ff8d48>角色详情中的立绘</color>和<color=#ff8d48>战役中的形象</color>会随之改变。,可以在角色詳情中更換角色的<color=#ff8d48>服裝</color>。\n\n角色更換服裝後，<color=#ff8d48>角色詳情中的立繪</color>和<color=#ff8d48>戰役中的形象</color>會隨之改變。,"The unit's <color=#ff8d48>Outfit</color> can be changed in the Character Details during the Preparation Phase. \n\nAfter changing a unit's clothing, both the <color=#ff8d48>portrait in the Character Details</color> and the <color=#ff8d48>appearance in battles</color> will be updated accordingly.",ユニット詳細にて、ユニットの<color=#ff8d48>スキン</color>を変更できます。\n\nユニットのスキンを変更すると、<color=#ff8d48>ユニット詳細内の立ち絵</color>と<color=#ff8d48>戦役中のデザイン</color>が変化します。,캐릭터 상세정보에서 캐릭터의 <color=#ff8d48>코스튬</color>을 교체할 수 있습니다.\n\n 캐릭터가 코스튬을 교체하면 <color=#ff8d48>캐릭터의 상세정보에 있는 캐릭터 모델</color> 과 <color=#ff8d48>전투중 이미지가 변경됩니다.
+570,装备制作,裝備製作,Equipment Crafting,装備製作,장비 제작
+572,在整备阶段可以消耗零件制作<color=#ff8d48>武器配件</color>。随着游戏流程的推进，还会解锁<color=#ff8d48>团队道具</color>的制作。\n\n每种装备的库存都是<color=#ff8d48>有限的</color>。,在整備階段可以消耗零件製作<color=#ff8d48>武器配件</color>。隨著遊戲流程的推進，還會解鎖<color=#ff8d48>團隊道具</color>的製作。\n\n每種裝備的庫存都是<color=#ff8d48>有限的</color>。,"Parts can be consumed to craft <color=#ff8d48>weapon accessories</color> during the Preparation Phase, As the game progresses, <color=#ff8d48>Team Items</color> will also be unlocked for production. \n\nThe stock for each type of item is <color=#ff8d48>limited</color>.",整備フェイズでパーツを消費して<color=#ff8d48>武器のアタッチメント</color>を製作できます。ゲームの進行にともない、<color=#ff8d48>チームアイテム</color>の製作も解放されます。\n\n各種装備のストック数には<color=#ff8d48>上限があります</color>。,"정비 단계에서 부품을 소모해 <color=#ff8d48>무기 부품</color>을 제작할 수 있습니다. 게임이 진행되면서, <color=#ff8d48>팀 아이템</color> 제작을 잠금해제할 수 있습니다.\n\n 모든 장비의 저장은 <color=#ff8d48>제한적입니다</color>."
+380,分歧点,分歧點,Divergence Point,分岐点,분기점
+382,部分战役中存在需要进行抉择的时刻，这样的战役被称为<color=#ff8d48>分歧点</color>。\n\n不同的选择会进入不同的<color=#ff8d48>时间轴</color>，后续面对的战役也会存在差异。,部分戰役中存在需要進行抉擇的時刻，這樣的戰役被稱為<color=#ff8d48>分歧點</color>。\n\n不同的選擇會進入不同的<color=#ff8d48>時間軸</color>，後續面對的戰役也會存在差異。,"In some battles, there are moments when decisions need to be made. Such battles are referred to as <color=#ff8d48>Divergence Points</color>. \n\nDifferent choices will lead to <color=#ff8d48>different Timelines</color>, and subsequent battles will also vary accordingly.",一部の戦役では選択を迫られるときがあり、そのような戦役は<color=#ff8d48>分岐点</color>と呼ばれます。\n\n選択によって進む<color=#ff8d48>時間軸</color>が異なり、その後の戦役にも違いが生じます。,"일부 전투에서는 결정해야 할 순간이 있습니다. 이런 전투를 <color=#ff8d48>분기점</color>이라고 부릅니다.\n\n 선택에 따라 다른 <color=#ff8d48>시간축</color>으로 이동하고, 그 뒤의 전투도 차이가 있습니다."
+640,分歧点,分歧點,Divergence Point,分岐点,분기점
+642,在整备阶段可以通过<color=#ff8d48>时间轴</color>回到任意分歧点的整备阶段。\n\n不断尝试，找到能够完成“面包房行动”的路线吧。,在整備階段可以通過<color=#ff8d48>時間軸</color>回到任意分歧點的整備階段。\n\n不斷嘗試，找到能夠完成“麵包房行動”的路線吧。,"During the Preparation Phase, any Preparation Phase can be revisited at any Divergence Points through the <color=#ff8d48>Timeline</color>. \n\nKeep trying to find a route that can complete ""Operation Bakery"".",整備フェイズでは、<color=#ff8d48>時間軸</color>によって任意の分岐点の整備フェイズに戻ることができます。\n\nチャレンジを続け、「パン屋作戦」をクリアできるルートを見つけましょう。,"정비 단계에서는 <color=#ff8d48>시간축</color>을 통해 임의의 분기점의 정비 단계로 돌아갈 수 있습니다.\n\n 계속 시도하여, ‘베이커리 작전’을 완성할 수 있는 노선을 찾아보세요."
+610,黎格意识与幻象,黎格意識與幻象,Lige's Consciousness and Illusion,リゲルの意識と幻覚,리겔의 의식과 환상
+612,在虚识图景中，我方角色无法对幻象造成伤害，只有<color=#ff8d48>黎格意识创造的武器站</color>可以伤害幻象。,在虛識圖景中，我方角色無法對幻象造成傷害，只有<color=#ff8d48>黎格意識創造的武器站</color>可以傷害幻象。,"In the Virtual Cognition Image, allied units cannot inflict damage on the Illusions. Only the <color=#ff8d48>turrets created by Lige's Consciousness</color> can damage the Illusions.",バーチャルモデルでは、味方ユニットは幻覚にダメージを与えることはできず、<color=#ff8d48>リゲルの意識が作り出したタレット</color>だけが幻覚にダメージを与えられます。,"가상 화면에서 아군 캐릭터는 환영에 데미지를 줄 수 없고, <color=#ff8d48>리겔의 의식으로 만든 RCWS 만이</color> 환영에게 데미지를 줄 수 있습니다."
+620,黎格意识与幻象,黎格意識與幻象,Lige's Consciousness and Illusion,リゲルの意識と幻覚,리겔의 의식과 환상
+622,我方回合结束时，武器站会<color=#ff8d48>自动</color>攻击其<color=#ff8d48>攻击范围内</color>的一个敌方单位。选中武器站查看其攻击范围。\n\n将我方角色移动至武器站的<color=#ff8d48>相邻</color>格，可以<color=#ff8d48>顺时针旋转</color>武器站。,我方回合結束時，武器站會<color=#ff8d48>自動</color>攻擊其<color=#ff8d48>攻擊範圍內</color>的一個敵方單位。選中武器站查看其攻擊範圍。\n\n將我方角色移動至武器站的<color=#ff8d48>相鄰</color>格，可以<color=#ff8d48>順時針旋轉</color>武器站。,"At the end of the allied turn, the turret will <color=#ff8d48>automatically</color> attack an enemy unit within its <color=#ff8d48>Attack Range</color>. Select a turret to see its Attack Range. \n\nMove allied units to the <color=#ff8d48>adjacent</color> tile of the turret to <color=#ff8d48>rotate the turret clockwise</color>.",味方のターンが終了すると、タレットは<color=#ff8d48>自動的に</color>その<color=#ff8d48>攻撃範囲内</color>の敵ユニット1体を攻撃します。タレットを選択すると、攻撃範囲が表示されます。\n\n味方ユニットをタレットに<color=#ff8d48>隣接</color>するマスまで移動させると、タレットが<color=#ff8d48>時計回りに回転</color>します。,"아군 턴 종료 시, RCWS는 <color=#ff8d48>자동으로</color> <color=#ff8d48>공격 범위 내의</color> 한 적군 유닛을 공격합니다. RCWS를 선택해 그 공격 범위를 찾아보세요.\n\n 아군 캐릭터를 RCWS의 <color=#ff8d48>옆</color> 타일로 옮기면 RCWS를 <color=#ff8d48>시계방향으로 회전</color>시킬 수 있습니다."
+680,黎格意识与幻象,黎格意識與幻象,Lige's Consciousness and Illusion,リゲルの意識と幻覚,리겔의 의식과 환상
+682,伯劳意识体在制造恐惧幻觉时会用<color=#ff8d48>“幻象”</color>状态保护自己，此时任何攻击均无法对其造成伤害，先尝试解决对方制造的难题吧。,伯勞意識體在製造恐懼幻覺時會用<color=#ff8d48>“幻象”</color>狀態保護自己，此時任何攻擊均無法對其造成傷害，先嘗試解決對方製造的難題吧。,"The Shrike Consciousness uses the <color=#ff8d48>""Illusion""</color> status to protect itself when creating fearful hallucinations. In that state, no attacks can inflict damage to it. Try to solve the challenge created by the opponent.",シュライク意識体は、おそろしい幻覚を作り出す際に<color=#ff8d48>「幻覚」</color>状態で自らを守ります。このとき、いかなる攻撃でもダメージを与えられないので、まずは相手が作り出した障害を解決しましょう。,슈라이크 의식체가 두려움의 환영을 만들 때 <color=#ff8d48>‘환상’</color> 상태를 사용해 스스로를 보호합니다. 이때는 어떠한 공격도 데미지를 줄 수 없으니 우선 상대방이 만들어 낸 문제를 해결해 보세요.
+650,背包仓库,背包倉庫,Backpack and Storage,リュック倉庫,인벤토리
+652,在2092R中，道具的携带量表示其<color=#ff8d48>单格能够携带的上限</color>，且每种道具可以<color=#ff8d48>携带多格</color>。,在2092R中，道具的攜帶量表示其<color=#ff8d48>單格能夠攜帶的上限</color>，且每種道具可以<color=#ff8d48>攜帶多格</color>。,"In 2092R, the Carrying Capacity of items represents the <color=#ff8d48>maximum amount a single inventory slot can carry</color>, and each type of item can be <color=#ff8d48>carried across multiple slots</color>.",2092Rにおけるアイテム所持量は、その<color=#ff8d48>1スロットで所持できる上限</color>を示します。また、各種アイテムは<color=#ff8d48>複数枠所持</color>できます。,"2092R에서 아이템 소지량은 <color=#ff8d48>한 개의 타일이 소지할 수 있는 상한</color>을 나타냅니다, 그리고 모든 아이템은 <color=#ff8d48>여러 타일</color> 소지 가능합니다."
+660,道具制作,道具製作,Item Production,アイテム製作,아이템 제작
+662,只有当阿特娜在我方队伍中时，才会开放<color=#ff8d48>道具制作</color>和<color=#ff8d48>快捷补充</color>功能。,只有當阿特娜在我方隊伍中時，才會開放<color=#ff8d48>道具製作</color>和<color=#ff8d48>快捷補充</color>功能。,The <color=#ff8d48>Item Production</color> and <color=#ff8d48>Quick Replenishment</color> functions are only available when Atena is on the team.,アテナが味方チームにいるときだけ、<color=#ff8d48>アイテム製作</color>と<color=#ff8d48>クイックチャージ</color>の機能が開放されます。,아테나가 아군 팀에 있을 때 <color=#ff8d48>아이템 제작</color>과 <color=#ff8d48>빠른 보충</color>기능이 개방됩니다.
+670,潜能强化,潛能強化,Potential Enhancement,潜在能力強化,포텐셜 강화
+672,在2092R中，可以消耗潜能密钥来强化角色的<color=#ff8d48>潜能</color>，提升角色的<color=#ff8d48>基础属性</color>。,在2092R中，可以消耗潛能密鑰來強化角色的<color=#ff8d48>潛能</color>，提升角色的<color=#ff8d48>基礎屬性</color>。,"In 2092R, Potential Keys can be consumed to enhance unit's <color=#ff8d48>Potential</color>, thereby improving the unit's <color=#ff8d48>basic attributes</color>.",2092Rでゲノムキーを消費してユニットの<color=#ff8d48>潜在能力</color>を強化し、ユニットの<color=#ff8d48>基本ステータス</color>をアップできます。,"2092R에서 포텐셜 키를 소비해 캐릭터의 <color=#ff8d48>포텐셜</color>을 강화할 수 있으며, 캐릭터의 <color=#ff8d48>기본 능력치</color>를 향상할 수 있습니다."

@@ -1,0 +1,19 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_composelist_bg_1,合成列表,合成列表,Synthesis Catolog,合成リスト,합성 리스트
+text_compose_changenum_des,修改数量,修改數量,Amount,改良回数,수량 조정
+text_p_des,零件总数,零件總數,Total Parts,パーツ,부품 총수
+text_p_decorate,P.,P.,P.,P.,P.
+text_compose_order,合成订单,合成訂單,Synthesis Order,合成方法,합성 주문
+text_need_material,所需材料,所需材料,Materials Required,必要材料,필요한 재료
+text_tips,该道具持有量已达上限！,該道具持有量已達上限！,You cannot possess any more of this item!,このアイテムはこれ以上持てません！,해당 아이템은 더 이상 소지할 수 없습니다!
+text_cost_totalnum_word,合成总数:,合成總數：,Synthesis Quantity:,合成量,합성 총수:
+text_cost_totalp_word,消耗零件总计:,消耗零件總計：,Total Parts Consumed:,総消費パーツ,부품 소비량 합계:
+text_iteminfo,道具信息,道具資訊,Item Info,アイテム情報,아이템 정보
+text_item_ap_cost,AP消耗,AP 消耗,AP Cost,AP消費,AP 소비
+text_hp,HP,HP,HP,"HP
+",HP
+text_ap,AP,AP,AP,AP,AP
+text_sp,SP,SP,SP,SP,SP
+text_depot_title,材料,材料,Materials,材料,재료
+text_materialiteminfo,素材信息,素材資訊,Material Info,材料詳細,재료 정보
+text_filter,筛选,篩選,Filter,絞り込み,선별

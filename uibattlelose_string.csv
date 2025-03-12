@@ -1,0 +1,6 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_laststate,重开阶段,重開階段,Restart Phase,段階再開,단계 재시작
+text_restartround,重开回合,重開回合,Restart Turn,ターンをやり直す,턴 재시작
+text_restart,重开战役,重開戰役,Restart Battle,戦役再開,전투 재시작
+text_load,读         取,讀取,Load,ロード,불러오기
+text_help,帮         助,幫助,Help,ヘルプ,도움

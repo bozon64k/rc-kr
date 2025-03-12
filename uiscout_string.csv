@@ -1,0 +1,14 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_level_title,战场资讯,戰場資訊,Battlefield Information,戦域情報,전장 정보
+text_or,或,或,or,又は,혹은
+text_brief_title,战略摘要,戰略摘要,Strategy Summary,戦略説明,전략 요약
+text_enemylist_title,敌方摘要,敵方摘要,Enemy Summary,敵戦力概要,적군 요약
+text_enemyinfo,敌方情报,敵方情報,Enemy Information,敵詳細,적군 정보
+text_scale,缩放,縮放,Zoom,拡大,줌
+text_confirm,实地勘察,實地勘察,Field Survey,MAP調査,현장 조사
+text_drag,平移,平移,Pan,平行移動,드래그
+txt_tab_mission,战场目标,戰場目標,Battlefield Objectives,戦域目標,작전 목표
+txt_tab_brief,战场情报,戰場情報,Battlefield Information,戦域情報,작전 정보
+text_ext,额外目标,額外目標,Bonus Objectives,サブターゲット,추가 목표
+text_fail,失败条件,失敗條件,Failure Conditions,失敗条件,실패 조건
+text_or_fail,或,或,or,又は,혹은

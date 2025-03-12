@@ -1,0 +1,16 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_composelist_bg_1,制作列表,製作列表,Production Catalog,作成リスト,제작 리스트
+text_compose_changenum_des,修改数量,修改數量,Amount,改造回数,수량 조정
+text_p_des,零件总数,零件總數,Total Parts,パーツ,부품 총수
+text_p_decorate,P.,P.,P.,P.,P.
+text_compose_order,制作订单,製作訂單,Production Order,合成作成,제작 주문
+text_tips,该道具持有量已达上限！,該道具持有量已達上限！,You cannot carry any more of this item!,このアイテムはこれ以上持てません！,해당 아이템은 더 이상 소지할 수 없습니다!
+text_need_material,所需材料,所需材料,Materials Required,必要アイテム,필요한 재료
+text_cost_totalp_word,消耗零件总计:,消耗零件總計：,Total Parts consumed:,合計消費パーツ,부품 소비 합계:
+text_item_ap_cost,AP消耗,AP消耗,AP Cost,AP消費,AP소비
+text_hp,HP,HP,HP,HP,HP
+text_ap,AP,AP,AP,AP,AP
+text_sp,SP,SP,SP,SP,SP
+text_iteminfo,道具信息,道具資訊,Item Info,アイテム詳細,아이템 정보
+text_total_num_word,制作总数：,製作總數：,Production Quantity:,製作数：,제작 총수:
+text_filter,筛选,篩選,Filter,絞り込み,선별

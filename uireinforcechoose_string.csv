@@ -1,0 +1,8 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_title,模拟训练,模擬訓練,Training Simulation,模擬訓練,모의 훈련
+text_reinforce_tip_desc,战斗间隙，MID模拟战斗记录系统会根据当前的任务进度，模拟适合训练的战斗环境。特工到达不同阶段后会在特定时机解锁新的模拟任务。,"The MID Battle Simulation System generates a suitable training environment for you based on your current mission progress. Upon reaching different stages, Agents will unlock new simulation missions.",戦闘の合間には、MID模擬訓練システムが現在の作戦進行状況に応じた模擬戦闘を作り出します。諜報員が異なるステージへ到達するごとに使用可能なキャラクターがアンロックされていきます。,MID의 전투 시뮬레이션 기록 시스템은 현재의 미션 진도를 바탕으로 훈련에 알맞은 전투 환경을 시뮬레이트합니다. 요원은 일정한 단계에 도달했을 시 특정 타이밍에 새로운 시뮬레이션 미션을 해금할 수 있습니다.,undefined
+text_unit,参战角色：,參戰角色：,Participants:,使用キャラクター:,참전 캐릭터:
+text_exit,离开,離開,Exit,戻る,나가기
+text_playerlevel_word,当前等级,目前等級,Current Level,現在レベル,현재 레벨
+text_choose,开始训练,開始訓練,Start,訓練開始,훈련 시작
+text_guide_title,训练指南：,訓練指南：,Training Guide:,訓練ガイド：,훈련 가이드:

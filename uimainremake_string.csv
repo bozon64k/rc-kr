@@ -1,0 +1,16 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_load,读取游戏,讀取遊戲,Load,ゲームをロード,불러오기
+text_load_en,load game,load game,load game,load game,load game
+text_newgame,新游戏,新遊戲,New Game,ニューゲーム,새로운 게임
+text_newgame_en,new game,new game,new game,new game,new game
+text_tacticschess,战术棋,戰術棋,Tactical Chess,チェス,전술 바둑
+text_tacticschess_en,tactics chess,tactics chess,tactics chess,tactics chess,tactics chess
+text_collection,收集鉴赏,收集鑒賞,Collection,コレクション鑑賞,컬렉션
+text_collection_en,collection,collection,collection,collection,collection
+text_setting,设置,設置,Settings,設定,설정
+text_setting_en,option,option,settings,option,option
+text_help,游戏帮助,遊戲幫助,Game Help,ゲームヘルプ,도움
+text_help_en,tutorial,tutorial,game help,tutorial,tutorial
+text_quit,离开,離開,Exit,ゲーム終了,나가기
+text_quit_en,exit,exit,exit,exit,exit
+text_switchversion,回到本篇,回到本篇,Back to Original Version,本編に戻る,본편으로 돌아가기
