@@ -1,0 +1,139 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+10,移动路径,移動路徑,Route,移動ルート,이동 경로
+1d1,系统自动分配消耗AP最少的路径作为本次移动路径。\n在迷雾天气中且未暴露时，如果AP充足，将优先选择不会暴露的路径。,系統自動分配消耗AP最少的路徑作為本次移動路徑。\n在迷霧天氣中且未暴露時，如果AP充足，將優先選擇不會暴露的路徑。,"The system automatically selects the route with the least consumption of Action Points (AP). \nIn foggy weather and when not exposed, if there are enough AP, it will prioritize choosing a route that does not expose the unit.",目的地まで消費APが一番少ないルートを自動的に選択します。\n霧が発生中かつ未発見状態の場合、敵に発見されないルートを優先します。,"시스템이 자동으로 AP 소모가 가장 낮은 경로를 이번 이동 루트로 지정합니다.\n 안개가 낀 날씨이고 노출이 되지 않은 경우, AP가 충분하면 노출되지 않는 경로가 먼저 선택됩니다."
+1d2,优先以光标移动的路径作为本次移动路径；如果AP不足，系统自动分配消耗AP最少的路径。,優先以游標移動的路徑作為本次移動路徑；若AP不足，系統自動分配消耗AP最少的路徑。,"Movement follows the route plotted with the cursor by default. If there are insufficient Action Points (AP), the system automatically selects the route that consumes the least amount of AP.",カーソルの移動経路通りのルートを優先しますが、APが不足している場合は消費APが一番少ないルートを自動的に選択します。,"최우선으로 마우스 커서가 지나간 경로를 이번 이동의 경로로 지정합니다. AP가 부족할 시, 시스템이 자동으로 AP 소모가 가장 적은 경로를 지정합니다. "
+1d3,以光标移动的路径作为本次移动路径。,以游標移動的路徑作為本次移動路徑。,Movement follows the route plotted with the cursor.,カーソルの移動経路通りのルートになります。,마우스 커서가 지나간 경로를 이번 이동 경로로 지정합니다.
+1v1,自动计算,自動計算,Auto Plot,オート,자동 계산
+1v2,智能计算,智慧計算,Smart Plot,スマート,스마트 계산
+1v3,光标移动,游標移動,Cursor Movement,カーソル,커서 이동
+320,移动确认模式,移動確認模式,Movement Confirmation Mode,移動確認モード,이동 확인 모드
+32d1,在目标位置单击鼠标左键进行移动。,在目標位置點選滑鼠左鍵進行移動。,Single-click to move to the target location.,目標の位置でマウスの左ボタンをクリックして移動させます,목표 위치에 클릭해 이동합니다.
+32d2,在目标位置双击鼠标左键进行移动。,在目標位置雙擊滑鼠左鍵進行移動。,Double-click to move to the target location.,目標の位置でマウスの左ボタンをダブルクリックして移動させます,목표 위치에 더블클릭 해 이동합니다.
+32v1,单击左键,點選左鍵,Single-Click,左ボタンをクリック,클릭
+32v2,双击左键,雙擊左鍵,Double-Click,左ボタンをダブルクリック,더블클릭
+300,威胁数量的显示,威脅數量的顯示,Threat Count Display,攻撃可能対象表示方法,공격 가능 대상 표시
+30d1,选中我方单位后，在右上方显示能够攻击到该单位的敌人数量。,選中我方單位後，在右上方顯示能夠攻擊到該單位的敵人數量。,"After selecting an allied unit, the number of enemies that can be attacked by this unit is displayed in the upper right.",味方ユニット選択後、攻撃可能な敵ユニット数が画面右上部に表示されます。,아군 유닛을 선택하면 해당 유닛을 공격할 수 있는 적의 수가 오른쪽 상단에 표시됩니다.
+30d2,选中我方单位后，在该单位和能够攻击到该单位的敌人之间显示连线。,選中我方單位後，在該單位和能夠攻擊到該單位的敵人之間顯示連線。,"After selecting an allied unit, a connecting line is shown between the unit and the enemies that can attack it.",味方ユニット選択後、攻撃可能な敵ユニットとの間に線が表示されます。,아군 유닛을 선택하면 해당 유닛과 해당 유닛을 공격할 수 있는 적 사이에 연결 표시가 나타납니다.
+30v1,数量,數量,Quantity,数量,수량
+30v2,连线,連線,Line,線,연결선
+190,危险范围显示,危險範圍顯示,Danger Zone Display,危険範囲の表示,위험 범위 표시
+19d1,显示危险范围时，处于缴械、眩晕、睡眠等异常状态的敌方单位的移动射程计算在内。,顯示危險範圍時，處於繳械、眩暈、睡眠等異常狀態的敵方單位的移動射程計算在內。,"When showing the Danger Zone, the movement range of enemy units in abnormal states such as Disarmed, Stunned, or Asleep are included.",表示する危険範囲は、行動不能系状態異常にある敵ユニットの射程も含みます。,"위험 범위를 표시할 때 무장 해제, 기절, 수면 등의 이상 상태에 있는 적군 유닛의 이동 사거리를 계산합니다."
+19d2,显示危险范围时，处于缴械、眩晕、睡眠等异常状态的敌方单位的移动射程不计算在内。,顯示危險範圍時，處於繳械、眩暈、睡眠等異常狀態的敵方單位的移動射程不計算在內。,"When showing the Danger Zone, the movement range of enemy units in abnormal states such as Disarmed, Stunned, or Asleep are not included.",表示する危険範囲は、行動不能系状態異常にある敵ユニットの射程を含みません。,"위험 범위를 표시할 때 무장 해제, 기절, 수면 등의 이상 상태에 있는 적군 유닛의 이동 사거리를 계산하지 않습니다."
+19v1,包含异常状态,包含異常狀態,Include Abnormal Status,状態異常の敵を含む,상태 이상 포함
+19v2,排除异常状态,排除異常狀態,Exclude Abnormal Status,状態異常の敵を除く,상태 이상 배제
+50,剩余AP提示,剩餘AP提示,Remaining AP Prompt,AP消費ポップアップ,잔여 AP 알림
+5d1,结束回合时，不作任何提示。,結束回合時，不作任何提示。,No prompt will appear when ending the turn.,ターン終了時、確認メッセージを表示しません。,턴 종료 시 알림을 표시하지 않습니다.
+5d2,结束回合时，如果我方角色仍有AP可以使用，会进行提示。,結束回合時，如果我方角色仍有AP可以使用，會進行提示。,A prompt will be given when an allied character still has AP available at the end of the turn.,ターン終了時、残りAPが1以上の味方ユニットがいる場合、確認メッセージを表示します。,턴 종료 시 아군 캐릭터에 사용할 수 있는 AP가 남아있다면 알림을 표시합니다.
+5d3,结束回合时，如果我方角色有满AP的，会进行提示。,結束回合時，如果我方角色有滿AP的，會進行提示。,A prompt will be given when an allied unit still has AP available at the end of the turn.,ターン終了時、AP未消費の味方ユニットがいる場合、確認メッセージを表示します。,턴 종료 시 아군 캐릭터 중 AP가 가득찬 캐릭터가 있으면 알림을 표시합니다.
+5v1,关闭,關閉,Off,オフ,끄기
+5v2,残余AP角色,殘餘AP角色,Allied Characters,AP1以上がいる場合,잔여 AP 캐릭터
+5v3,满AP角色,滿AP角色,Allied Units,AP未消費がいる場合,AP가 가득찬 캐릭터
+310,手柄快捷释放,手把快捷施放,Controller Quick Release,ハンドルクイックリリース,컨트롤러 단축키 해제
+31d1,按下功能按键后，显示相关信息，需按确认按键执行对应功能。,按下功能按鍵後，顯示相關訊息，需按確認按鍵執行對應功能。,"After pressing the function key, relevant information will be displayed. Press the confirmation key to execute the corresponding function.",ファンクションボタンを押すと、関連する情報が表示され、確認ボタンを押して対応するファンクションを実行します。,기능 버튼을 누르면 관련 정보가 표시되며 확인 버튼을 눌러 해당 기능을 실행해야 합니다.
+31d2,按下功能按键后，直接执行对应功能,按下功能按鍵後，直接執行對應功能,Press the function key to execute the corresponding function,ファンクションボタンを押すと、対応する機能が直接実行されます。,기능 버튼을 누르면 해당 기능이 바로 실행됩니다.
+31v1,关闭,關閉,Off,閉じる,끄기
+31v2,开启,開啟,On,開く,켜기
+90,快捷攻击,快速攻擊,Quick Attack,クイック攻撃,간편 공격
+9d1,选中敌人后，需要再次确认才会攻击。,選中敵人後，需要再次確認才會攻擊。,Confirmation is required to initiate an attack after selecting an enemy target.,敵を選択後、再度選択して攻撃。,적을 선택한 후 다시 확인해야 공격할 수 있습니다.
+9d2,选中敌人后直接攻击。,選取敵人後直接攻擊。,The selected enemy target will be attacked immediately.,敵を選択と同時に攻撃します。,적을 선택하면 즉시 공격합니다.
+9v1,关闭,關閉,Off,オフ,끄기
+9v2,开启,開啟,On,オン,켜기
+80,自动施放,自動施放,Activate Skill Automatically,スキルクイック発動,자동 시전
+8d1,施放对自己使用的技能时，需要选择施放目标。,施放對自己使用的技能時，需要選擇施放目標。,You need to select a target when activating a skill that targets yourself.,自身を対象とするスキルを発動する際、対象選択が必要。,"자신에게 사용하는 스킬을 시전할 시, 시전 목표를 선택해야 합니다."
+8d2,施放对自己使用的技能时，不需要选择施放目标。,施放對自己使用的技能時，不需要選擇施放目標。,You do not need to select a target when activating a skill that targets yourself.,自身を対象とするスキルを発動する際、対象選択が不要。,"자신에게 사용하는 스킬을 시전할 시, 시전 목표를 선택할 필요가 없습니다."
+8v1,关闭,關閉,Off,オフ,끄기
+8v2,开启,開啟,On,オン,켜기
+60,自动切换单位,自動切換單位,Automatically switch units,オートユニット切換,유닛 자동 전환
+6d1,我方单位的剩余AP不足以进行基础操作后，不做任何处理。,我方單位的剩餘AP不足以進行基礎操作後，不做任何處理。,"If the remaining AP for an allied unit is insufficient for a basic action, no further action will be taken.",味方ユニットの行動後、残りAPが行動に不足する場合でも、ユニット切換えを行いません。,아군 유닛의 남은 AP가 행동하기 부족한 경우에도 유닛을 전환하지 않습니다.
+6d2,我方单位的剩余AP不足以进行基础操作后，自动切换到下一个可以进行基础操作的我方单位。,我方單位的剩餘AP不足以進行基礎操作後，自動切換到下一個可以進行基礎操作的我方單位。,"If the remaining AP for an allied unit is insufficient for basic actions, automatically switch to the next available unit that can perform a basic action.",味方ユニットの行動後、残りAPが行動に不足する場合、自動的に次のユニットへ切り換わります。,"아군 유닛의 남은 AP가 행동하기 부족한 경우, 행동이 가능한 다음 유닛으로 자동 전환합니다."
+6v1,关闭,關閉,Off,オフ,끄기
+6v2,开启,開啟,On,オン,켜기
+70,自动结束回合,自動結束回合,End Turn Automatically,ターン自動終了,턴 자동 종료
+7d1,所有我方单位的剩余AP不足以进行基础操作后，不会自动结束回合。,所有我方單位的剩餘AP不足以進行基礎操作後，不會自動結束回合。,The turn will not end automatically if no allied unit has enough remaining AP to perform a basic action.,全ての味方ユニットの残りAPが行動に不足する場合でも、自動でターンを終了しません。,모든 아군 유닛의 남은 AP가 행동하기 부족한 경우에도 자동으로 턴이 종료되지 않습니다.
+7d2,所有我方单位的剩余AP不足以进行基础操作后，自动结束回合。,所有我方單位的剩餘AP不足以進行基礎操作後，自動結束回合。,The turn will end automatically if no allied unit has enough remaining AP to perform a basic action.,全ての味方ユニットの残りAPが行動に不足する場合、自動でターンを終了します。,"모든 아군 유닛의 남은 AP가 행동하기 부족한 경우, 자동으로 턴이 종료됩니다."
+7v1,关闭,關閉,Off,オフ,끄기
+7v2,开启,開啟,On,オン,켜기
+210,自动补充道具,自動補充道具,Item Auto-Refill,アイテム自動補充,아이템 자동 보충
+21d1,进入战前整备时，背包中的道具不会从仓库中自动补充。,進入戰前整備時，背包中的道具不會從倉庫中自動補充。,Items in the Backpack will not be automatically replenished from the Storage when entering Pre-Battle Preparation.,準備画面に進んだ時、バックパック内のアイテムが自動的に補充されません。,전투 전 정비에서는 배낭 안 아이템이 창고에서 자동으로 보충되지 않습니다.
+21d2,进入战前整备时，背包中的道具将自动由仓库补充至上限。,進入戰前整備時，背包中的道具將自動由倉庫補充至上限。,Items in the Backpack will be automatically replenished to the maximum limit from the Storage when entering Pre-Battle Preparation.,準備画面に進んだ時、バックパック内のアイテムが自動的に補充されます。,전투 전 정비에서는 배낭 안 아이템이 창고에서 자동으로 상한까지 보충됩니다.
+21v1,关闭,關閉,Off,オフ,끄기
+21v2,开启,開啟,On,オン,켜기
+200,镜头移动速度,鏡頭移動速度,Camera Movement Speed,カメラの移動速度,앵글 이동 속도
+20d1,使用手柄或键盘快捷键移动镜头的速度。,使用手柄或鍵盤快捷鍵移動鏡頭的速度。,The speed at which the camera pans using the joystick or keyboard shortcuts.,コントローラーまたはキーボード操作のカメラ移動速度。,게임 컨트롤러 또는 키보드 단축키를 사용하여 카메라 이동 속도를 조절합니다.
+20d2,使用手柄或键盘快捷键移动镜头的速度。,使用手柄或鍵盤快捷鍵移動鏡頭的速度。,The speed at which the camera pans using the joystick or keyboard shortcuts.,コントローラーまたはキーボード操作のカメラ移動速度。,게임 컨트롤러 또는 키보드 단축키를 사용하여 카메라 이동 속도를 조절합니다.
+20d3,使用手柄或键盘快捷键移动镜头的速度。,使用手柄或鍵盤快捷鍵移動鏡頭的速度。,The speed at which the camera pans using the joystick or keyboard shortcuts.,コントローラーまたはキーボード操作のカメラ移動速度。,게임 컨트롤러 또는 키보드 단축키를 사용하여 카메라 이동 속도를 조절합니다.
+20d4,使用手柄或键盘快捷键移动镜头的速度。,使用手柄或鍵盤快捷鍵移動鏡頭的速度。,The speed at which the camera pans using the joystick or keyboard shortcuts.,コントローラーまたはキーボード操作のカメラ移動速度。,게임 컨트롤러 또는 키보드 단축키를 사용하여 카메라 이동 속도를 조절합니다.
+20d5,使用手柄或键盘快捷键移动镜头的速度。,使用手柄或鍵盤快捷鍵移動鏡頭的速度。,The speed at which the camera pans using the joystick or keyboard shortcuts.,コントローラーまたはキーボード操作のカメラ移動速度。,게임 컨트롤러 또는 키보드 단축키를 사용하여 카메라 이동 속도를 조절합니다.
+20v1,极慢,極慢,Very Slow,とても遅い,매우 느림
+20v2,慢,慢,Slow,遅い,느림
+20v3,标准,標準,Standard,普通,일반
+20v4,快,快,Fast,速い,빠름
+20v5,极快,極快,Very Fast,とても速い,매우 빠름
+220,手柄镜头模式,手柄鏡頭模式,Joystick Camera Mode,コントローラーカメラモード,게임 컨트롤러 카메라 모드
+22d1,使用手柄操作，仅当光标移动至屏幕边缘时，镜头才会跟随光标移动。,使用手柄操作，僅當游標移動至螢幕邊緣時，鏡頭才會跟隨游標移動。,"When using a joystick, the camera will only follow the cursor when it moves to the edge of the screen.",コントローラー操作時、カーソルが画面の端まで移動した場合のみ、カメラが移動します。,게임 컨트롤러 조작으로 커서가 화면 가장자리로 이동할 때만 카메라가 커서를 따라 이동합니다.
+22d2,使用手柄操作，光标移动时，镜头一直跟随光标移动。,使用手柄操作，游標移動時，鏡頭一直跟隨游標移動。,"When using a joystick, the camera follows the cursor as it moves.",コントローラーによる操作時、カーソルと共にカメラが移動します。,게임 컨트롤러 조작으로 커서가 움직이는 동안 카메라가 계속 커서를 따라 이동합니다.
+22v1,不跟随光标,不跟隨游標,Do not follow the cursor,カーソルに追従しない,커서를 따라가지 않습니다.
+22v2,跟随光标,跟隨游標,Follow the cursor,カーソル追従,커서를 따라갑니다.
+260,剧情快进模式,劇情快進模式,Story Fast-Forward Mode,早送りモード,스토리 스킵 모드
+26d1,所有剧情都可以快进。,所有劇情都可以快進。,Fast-forward will be available for all story scenes.,全てのストーリーが早送り可能になります。,모든 스토리를 스킵할 수 있습니다.
+26d2,只有已读剧情才可以快进。,只有已讀劇情才可以快進。,Fast-forward is only available for read story scenes.,既読ストーリーのみ早送り可能になります。,이미 본 스토리만 스킵할 수 있습니다.
+26v1,全部对话,全部對話,All Dialog,全て,전체 대화
+26v2,仅已读对话,僅已讀對話,Already-read Dialog,既読のみ,읽은 대화
+270,迷雾加深,迷霧加深,Fog Intensity,霧の色味変更,안개 짙어짐
+27d1,迷雾颜色保持原始状态。,迷霧顏色保持原始狀態。,The original color of the fog will be maintained.,霧の色味がデフォルト状態となります。,안개 색상을 원래 상태로 유지합니다.
+27d2,迷雾颜色开启加深。,迷霧顏色開啟加深。,The color of the fog will be deepened.,霧の色味を深くします。,안개 색상을 짙게 합니다.
+27v1,关闭,關閉,Off,オフ,끄기
+27v2,开启,開啟,On,オン,켜기
+280,色盲模式,色盲模式,Colorblind mode,色覚特性モード,색맹 모드
+28d1,关闭色盲模式。,關閉色盲模式。,Turn off colorblind mode.,色覚特性モードをオフにします。,색맹 모드를 끕니다.
+28d2,开启色盲模式。,開啟色盲模式。,Turn on colorblind mode.,色覚特性モードをオンにします。,색맹 모드를 켭니다.
+28v1,关闭,關閉,Off,オフ,끄기
+28v2,开启,開啟,On,オン,켜기
+290,新手引导,新手引導,Tutorial,チュートリアル,튜토리얼
+29d1,关闭所有新手引导。,關閉所有新手引導。,Disable all tutorials.,チュートリアルを非表示にします。,모든 튜토리얼을 비활성화합니다.
+29d2,开启所有新手引导，但已通过的战役中不会再出现新手引导。在战役中将该选项改为开启后，不会立即开启新手引导，需要重开战役才能生效。,開啟所有新手引導，但已通過的戰役中不會再出現新手引導。在戰役中將該選項改為開啟後，不會立即開啟新手引導，需要重開戰役才能生效。,Enable all tutorials. Tutorials will not appear in battles that have already been completed. Enabling this option in a battle will not immediately enable the tutorial; you need to restart the battle for it to take effect.,チュートリアルをオンにしますが、クリア済みの戦役ではチュートリアルが発生しません。戦役中にこのオプションをオンにした場合、その戦役でチュートリアルは発生しません。戦役をリトライした時にチュートリアルが発生します。,"모든 튜토리얼을 활성화합니다. 클리어한 전투에서는 튜토리얼이 나오지 않습니다. 전투 중 해당 옵션을 켜도 튜토리얼이 즉시 활성화되는 것은 아니며, 전투를 재시작해야 활성화됩니다."
+29v1,关闭,關閉,Off,オフ,끄기
+29v2,开启,開啟,On,オン,켜기
+100,语言设置,語言設定,Language Settings,言語設定,언어 설정
+10v1,简体中文,简体中文,简体中文,简体中文,简体中文
+10v2,繁體中文,繁體中文,繁體中文,繁體中文,繁體中文
+10v3,English,English,English,English,English
+10v4,日本語,日本語,日本語,日本語,日本語
+10v5,한국어,한국어,한국어,한국어,한국어
+110,分辨率,解析度,Resolution,解像度,해상도
+11v1,1280 X 720,1280 X 720,1280 X 720,1280 X 720,1280 X 720
+11v2,1600 X 900,1600 X 900,1600 X 900,1600 X 900,1600 X 900
+11v3,1920 X 1080,1920 X 1080,1920 X 1080,1920 X 1080,1920 X 1080
+11v4,2560 X 1440,2560 X 1440,2560 X 1440,2560 X 1440,2560 X 1440
+120,全屏,全螢幕,Full Screen,全画面表示,전체 화면
+12v1,关闭,關閉,Off,オフ,끄기
+12v2,开启,開啟,On,オン,켜기
+130,画质,畫質,Graphics Quality,画質,그래픽
+13v1,高,高,Ultra,超高画質,매우 높음
+13v2,中,中,High,高画質,높음
+13v3,低,低,Medium,標準,중간
+230,帧率,幀率,Frame Rate,FPS,프레임 레이트
+23v1,无限制,無限制,Unlimited,無制限,무제한
+23v2,60,60,60,60,60
+23v3,30,30,30,30,30
+140,整体音量,整體音量,Overall Volume,全体音量,전체 볼륨
+150,音乐音量,音樂音量,Music Volume,BGM音量,배경음
+160,音效音量,音效音量,SFX Volume,SE音量,효과음
+170,配音音量,配音音量,Voice Volume,ボイス音量,보이스
+240,环境音环绕声,環境音環繞聲,Surround Sound for Ambient Sounds,サラウンド,환경음 서라운드
+24d1,关闭环境音中的环绕声效果。使用时请打开硬件的杜比音效功能。,關閉環境音中的環繞聲效果。使用時請打開硬體的杜比音效功能。,Disable Surround Sound for Ambient Sounds. Please enable the Dolby audio functions on your system when using it.,環境音のサラウンド効果をオフにします。使用時には、ハードウェアのDolby Audio機能をオンにしてください。,환경음 서라운드를 끕니다. 사용 시 하드웨어의 돌비 사운드 기능을 켜주세요.
+24d2,开启环境音中的环绕声效果。使用时请打开硬件的杜比音效功能。,開啟環境音中的環繞聲效果。使用時請打開硬體的杜比音效功能。,Enable Surround Sound for Ambient Sounds. Please enable the Dolby audio functions on your system when using it.,環境音のサラウンド効果をオンにします。使用時には、ハードウェアのDolby Audio機能をオンにしてください。,환경음 서라운드를 켭니다. 사용 시 하드웨어의 돌비 사운드 기능을 켜주세요.
+24v1,关闭,關閉,Off,オフ,끄기
+24v2,开启,開啟,On,オン,켜기
+250,杜比全景声,杜比全景聲,Dolby Atmos,Dolby Atmos,돌비 애트모스
+25d1,关闭环境音杜比全景声。使用时请打开硬件的杜比音效功能。,關閉環境音杜比全景聲。使用時請打開硬體的杜比音效功能。,Disable Dolby Atmos for Ambient Sounds. Please enable the the Dolby audio functions on your system when using it.,環境音のDolby Atmosをオフにします。使用時には、ハードウェアのDolby Audio機能をオンにしてください。,환경음 돌비 애트모스를 끕니다. 사용 시 하드웨어의 돌비 사운드 기능을 켜주세요.
+25d2,开启环境音杜比全景声。使用时请打开硬件的杜比音效功能。,開啟環境音杜比全景聲。使用時請打開硬體的杜比音效功能。,Enable Dolby Atmos for Ambient Sounds. Please enable the the Dolby audio functions on your system when using it.,環境音のDolby Atmosをオンにします。使用時には、ハードウェアのDolby Audio機能をオンにしてください。,환경음 돌비 애트모스를 켭니다. 사용 시 하드웨어의 돌비 사운드 기능을 켜주세요.
+25v1,关闭,關閉,Off,オフ,끄기
+25v2,开启,開啟,On,オン,켜기
+180,文字速度,文字速度,Text Speed,テキスト速度,문자 속도
+18d1,调整文字出现的速度。,調整文字出現的速度。,Adjusts text speed.,テキスト表示速度を変更します。,글자가 나타나는 속도를 조절합니다．
+18d2,调整文字出现的速度。,調整文字出現的速度。,Adjusts text speed.,テキスト表示速度を変更します。,글자가 나타나는 속도를 조절합니다．
+18d3,调整文字出现的速度。,調整文字出現的速度。,Adjusts text speed.,テキスト表示速度を変更します。,글자가 나타나는 속도를 조절합니다．
+18v1,慢,慢,Very Slow,遅い,느림
+18v2,标准,標準,Normal,普通,보통
+18v3,快,快,Fast,速い,빠름
