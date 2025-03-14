@@ -162,3 +162,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+decompiler/output
+convertor/csv
+transformer/csv
+transformer/output*
