@@ -21,7 +21,7 @@
 - [x] 13. `levelmission_string.csv` - 승리조건
 - [ ] 14. `loadingtips_string.csv` - 로딩 중 한줄 팁 스크립트
 - [ ] 15. `modes_string.csv` - 새 게임 시작 시 난이도 설명
-- [ ] 16. `playback_string.csv` - 스테이지 전, 후 단계
+- [x] 16. `playback_string.csv` - 스테이지 전, 후 단계
 - [ ] 17. `saveinfo_string.csv` - ?
 - [x] 18. `scoutenemy_string.csv` - 적 정보
 - [ ] 19. `secretfile_package_string.csv` - 기밀문서 제목
@@ -88,7 +88,7 @@
 - [ ] 80. `uimodechoose_string.csv` - 게임중 난이도 변경 ui
 - [ ] 81. `uipreparebubble_string.csv` - 다이얼로그, 로그
 - [ ] 82. `uipreparecompose_string.csv` - ?
-- [ ] 83. `uipreparemain_string.csv` - 정비단계 ui
+- [x] 83. `uipreparemain_string.csv` - 정비단계 UI
 - [ ] 84. `uiprepareproduct_string.csv` - 아이템 제작 ui
 - [ ] 85. `uireinforcechoose_string.csv` - 모의훈련 ui
 - [ ] 86. `uireinforceresult_string.csv` - 모의훈련 결과
