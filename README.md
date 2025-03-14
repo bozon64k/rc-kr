@@ -11,9 +11,9 @@
 - [ ] 5. `item_string.csv` - 아이템 이름 및 설명
 - [ ] 6. `itembuff_string.csv` - 게임 내 각종 버프와 디버프 이름 및 설명
 - [x] 7. `itemcollection_string.csv` - 수집품 명과 수집품에 대한 설명
-- [ ] 8. `itemkey_string.csv` - 게임 내 특수아이템 명칭과 설명
+- [x] 8. `itemkey_string.csv` - 게임 내 특수아이템 명칭과 설명
 - [ ] 9. `itemteam_string.csv` - 게임 챕터 진행시 개방되는 패시브 아이템 명칭
-- [ ] 10. `keyword_string.csv` - 키워드, 인물 설명 등
+- [x] 10. `keyword_string.csv` - 키워드, 인물 설명 등
 - [ ] 11. `levelbrief_string.csv` - 스테이지 명칭 및 배경지역명, 시간대, 스테이지 요약 텍스트
 - [ ] 12. `levelinfo_string.csv` - 스테이지 명칭
 - [x] 13. `levelmission_string.csv` - 승리조건
