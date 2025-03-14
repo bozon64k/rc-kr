@@ -1,0 +1,38 @@
+name: 더 나은 번역
+description: 이 번역이 더 나아보입니다.
+title: "[더 나은 번역]: "
+labels: ["더 나은 번역"]
+assignees:
+  - bozon64k
+body:
+  - type: markdown
+    attributes:
+      value: |
+        시간을 내어 이슈를 작성해 주셔서 감사합니다!
+  - type: input
+    id: point
+    attributes:
+      label: 기존 번역 위치
+      description: 기존 번역의 위치를 적어주세요
+      placeholder: ex. 제1장 제2막
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 어떤 부분이 개선이 필요한가요?
+      description: 더 나은 번역에 대해 자세히 설명해 주세요.
+      placeholder: 설명을 적어 주세요!
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: 사용 버전
+      description: 현재 사용중인 번역의 버전이 어떻게 되나요? (메인화면 참고)
+      options:
+        - 초안 (Default)
+        - 250301 (Edge)
+      default: 0
+    validations:
+      required: true
