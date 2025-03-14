@@ -2,7 +2,7 @@ name: 오탈자
 description: 번역에 오탈자를 발견했습니다.
 title: "[오탈자]: "
 labels: ["오탈자"]
-projects: ["역붕괴 비공식 유저번역"]
+projects: ["bozon64k/2"]
 assignees:
   - bozon64k
 body:
