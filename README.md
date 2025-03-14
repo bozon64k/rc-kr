@@ -31,7 +31,7 @@
 - [ ] 23. `skillbuff_string.csv` - 상태이상 등
 - [ ] 24. `storydialog_string.csv` - 메인 스토리 대사
 - [ ] 25. `storyoption_string.csv` - ?
-- [ ] 26. `storypuzzle_string.csv` - ?
+- [x] 26. `storypuzzle_string.csv` - 4장 [대치] 선택지
 - [x] 27. `string_string.csv` - UI 텍스트
 - [ ] 28. `terrainblock_string.csv` - 맵 블록 명칭과 설명
 - [ ] 29. `terrainbuff_string.csv` - ?
@@ -86,7 +86,7 @@
 - [ ] 78. `uimissionbrief_string.csv` - 임무목표 ui
 - [ ] 79. `uimissioncomplete_string.csv` - 임무달성
 - [ ] 80. `uimodechoose_string.csv` - 게임중 난이도 변경 ui
-- [ ] 81. `uipreparebubble_string.csv` - 다이얼로그, 로그
+- [ ] 81. ~~`uipreparebubble_string.csv`~~ - 다이얼로그, 로그
 - [ ] 82. `uipreparecompose_string.csv` - ?
 - [x] 83. `uipreparemain_string.csv` - 정비단계 UI
 - [ ] 84. `uiprepareproduct_string.csv` - 아이템 제작 ui
@@ -154,7 +154,7 @@
 - [ ] 23. `skillbuff_string.csv` - 상태이상 등
 - [ ] 24. `storydialog_string.csv` - 메인 스토리 대사
 - [ ] 25. `storyoption_string.csv` - ?
-- [ ] 26. `storypuzzle_string.csv` - ?
+- [ ] 26. `storypuzzle_string.csv` - 4장 [대치] 선택지
 - [ ] 27. `string_string.csv` - UI 텍스트
 - [ ] 28. `terrainblock_string.csv` - 맵 블록 명칭과 설명
 - [ ] 29. `terrainbuff_string.csv` - ?
