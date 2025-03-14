@@ -1,0 +1,39 @@
+name: 오탈자
+description: 번역에 오탈자를 발견했습니다.
+title: "[오탈자]: "
+labels: ["오탈자"]
+assignees:
+  - bozon64k
+body:
+  - type: markdown
+    attributes:
+      value: |
+        시간을 내어 이슈를 작성해 주셔서 감사합니다!
+  - type: input
+    id: point
+    attributes:
+      label: 오탈자 발견 위치
+      description: 어디서 오탈자를 발견했는지 알려주세요.
+      placeholder: ex. 제1장 제2막
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 어떤 오탈자인가요?
+      description: 오탈자에 대해 자세히 설명해 주세요.
+      placeholder: Tell us what you see!
+      value: "오탈자 발견!"
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: 사용 버전
+      description: 현재 사용중인 번역의 버전이 어떻게 되나요? (메인화면 참고)
+      options:
+        - 초안 (Default)
+        - 250301 (Edge)
+      default: 0
+    validations:
+      required: true
