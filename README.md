@@ -68,55 +68,55 @@
 - [ ] 60. `uigamesave_string.csv` - 게임 저장하기 UI
 - [ ] 61. `uigetitem_string.csv` - 특수 물자 획득 UI
 - [ ] 62. `uigetitemplus_string.csv` - 아이템 획득 UI
-- [ ] 63. `uigetkeyitem_string.csv` - 키 아이템 획득 UI
-- [ ] 64. `uiitemcollect_string.csv` - ?
-- [ ] 65. `uiiteminfo_string.csv` - ?
-- [ ] 66. `uiitemprepare_string.csv` - ?
-- [ ] 67. `uiitemteam_string.csv` - 팀 장비 강화 ui
-- [ ] 68. `uiitemtip_string.csv` - ?
-- [ ] 69. `uiitemupgrade_string.csv` - 아이템 개조 ui
-- [ ] 70. `uikeyword_string.csv` - ?
-- [ ] 71. `uikeywordcollect_string.csv` - ?
-- [ ] 72. `uilevelcollection_string.csv` - ?
-- [ ] 73. `uilevelreplay_string.csv` - ?
-- [ ] 74. `uilevelup_string.csv` - 유닛 레벨업 ui로 추정
+- [ ] 63. ~~`uigetkeyitem_string.csv`~~ - 키 아이템 획득 UI
+- [ ] 64. ~~`uiitemcollect_string.csv`~~ - ?
+- [ ] 65. ~~`uiiteminfo_string.csv`~~ - ?
+- [ ] 66. ~~`uiitemprepare_string.csv`~~ - ?
+- [ ] 67. ~~`uiitemteam_string.csv`~~ - 팀 장비 강화 ui
+- [ ] 68. ~~`uiitemtip_string.csv`~~ - ?
+- [x] 69. `uiitemupgrade_string.csv` - 아이템 개조 ui
+- [ ] 70. ~~`uikeyword_string.csv`~~ - ?
+- [ ] 71. ~~`uikeywordcollect_string.csv`~~ - ?
+- [ ] 72. ~~`uilevelcollection_string.csv`~~ - ?
+- [ ] 73. ~~`uilevelreplay_string.csv`~~ - ?
+- [ ] 74. ~~`uilevelup_string.csv`~~ - 유닛 레벨업 ui로 추정
 - [ ] 75. `uimain_string.csv` - 역붕괴 메인 ui
-- [ ] 76. `uimainremake_string.csv` - 빵집소녀 메인 ui
-- [ ] 77. `uimessagebox_string.csv` - ?
-- [ ] 78. `uimissionbrief_string.csv` - 임무목표 ui
-- [ ] 79. `uimissioncomplete_string.csv` - 임무달성
-- [ ] 80. `uimodechoose_string.csv` - 게임중 난이도 변경 ui
+- [x] 76. `uimainremake_string.csv` - 빵집소녀 메인 ui
+- [ ] 77. ~~`uimessagebox_string.csv`~~ - ?
+- [ ] 78. ~~`uimissionbrief_string.csv`~~ - 임무목표 ui
+- [ ] 79. ~~`uimissioncomplete_string.csv`~~ - 임무달성
+- [ ] 80. ~~`uimodechoose_string.csv`~~ - 게임중 난이도 변경 ui
 - [ ] 81. ~~`uipreparebubble_string.csv`~~ - 다이얼로그, 로그
 - [ ] 82. `uipreparecompose_string.csv` - ?
 - [x] 83. `uipreparemain_string.csv` - 정비단계 UI
 - [ ] 84. `uiprepareproduct_string.csv` - 아이템 제작 ui
 - [ ] 85. `uireinforcechoose_string.csv` - 모의훈련 ui
 - [ ] 86. `uireinforceresult_string.csv` - 모의훈련 결과
-- [ ] 87. `uirolebattleinfo_string.csv` - ?
-- [ ] 88. `uiroleprofile_string.csv` - ?
-- [ ] 89. `uiscout_string.csv` - ?
-- [ ] 90. `uiscoutbattle_string.csv` - ?
+- [ ] 87. ~~`uirolebattleinfo_string.csv`~~ - ?
+- [ ] 88. ~~`uiroleprofile_string.csv`~~ - ?
+- [ ] 89. ~~`uiscout_string.csv`~~ - ?
+- [ ] 90. ~~`uiscoutbattle_string.csv`~~ - ?
 - [ ] 91. ~~`uisearchlight_string.csv`~~ - 서치라이트 조작 UI
 - [ ] 92. ~~`uisecretdocment_string.csv`~~ - 기밀문서 ui
-- [ ] 93. `uisecretdocplay_string.csv` - ?
-- [ ] 94. `uisecretgenetips_string.csv` - ?
-- [ ] 95. `uiskincollect_string.csv` - ?
-- [ ] 96. `uiskintip_string.csv` - ?
+- [ ] 93. ~~`uisecretdocplay_string.csv`~~ - ?
+- [ ] 94. ~~`uisecretgenetips_string.csv`~~ - ?
+- [ ] 95. ~~`uiskincollect_string.csv`~~ - ?
+- [ ] 96. ~~`uiskintip_string.csv`~~ - ?
 - [ ] 97. `uistorycollect_string.csv` - ?
-- [ ] 98. `uistorydialog_string.csv` - ?
+- [ ] 98. ~~`uistorydialog_string.csv`~~ - ?
 - [ ] 99. `uitacticsmain_string.csv` - ?
-- [ ] 100. `uitacticsmenu_string.csv` - ?
-- [ ] 101. `uitacticsmode_string.csv` - ?
-- [ ] 102. `uitacticsresult_string.csv` - ?
-- [ ] 103. `uitacticsrule_string.csv` - 빵집소녀 특수전술 바둑 규칙 설명
-- [ ] 104. `uitimemap_string.csv` - 시간축 ui
-- [ ] 105. `uitutorial_string.csv` - ?
-- [ ] 106. `uitutorialopen_string.csv` - 초보자 튜토리얼을 켜시겠습니까?
-- [ ] 107. `uitutorialskip_string.csv` - 튜토리얼 ui
+- [ ] 100. ~~`uitacticsmenu_string.csv`~~ - ?
+- [ ] 101. ~~`uitacticsmode_string.csv`~~ - ?
+- [ ] 102. ~~`uitacticsresult_string.csv`~~ - ?
+- [x] 103. `uitacticsrule_string.csv` - 빵집소녀 특수전술 바둑 규칙 설명
+- [ ] 104. ~~`uitimemap_string.csv`~~ - 시간축 ui
+- [ ] 105. ~~`uitutorial_string.csv`~~ - ?
+- [x] 106. `uitutorialopen_string.csv` - 초보자 튜토리얼을 켜시겠습니까?
+- [ ] 107. ~~`uitutorialskip_string.csv`~~ - 튜토리얼 ui
 - [x] 108. `uiunitgene_string.csv` - 유전자 UI
-- [ ] 109. `uiunitheadbubble_string.csv` - ?
-- [ ] 110. `uiunithud_string.csv` - 원격제어폭탄,부비트랩 사용 ui로 추정
-- [ ] 111. `uiweaponprepare_string.csv` - 무기 정비 ui
+- [ ] 109. ~~`uiunitheadbubble_string.csv`~~ - ?
+- [ ] 110. ~~`uiunithud_string.csv`~~ - 원격제어폭탄,부비트랩 사용 ui로 추정
+- [X] 111. `uiweaponprepare_string.csv` - 무기 정비 ui
 - [x] 112. `unitbattle_string.csv` - 적 처음 조우 시 발생하는 UI
 - [ ] 113. `unitskin_string.csv` - 캐릭터 스킨 이름, 설명, 획득경로
 - [ ] 114. `unitstatedesc_string.csv` - 유닛 상태
