@@ -1,15 +1,15 @@
-name: 번역 요청
-description: File a bug report.
-title: "[Bug]: "
-labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
+name: 번역 문제
+description: 번역에 문제를 발견했습니다.
+title: "[번역]: "
+labels: ["오탈자", "용어 불일치"]
+projects: ["역붕괴 비공식 유저번역"]
 assignees:
-  - octocat
+  - bozon64k
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        시간을 내어 이슈를 작성해 주셔서 감사합니다!
   - type: input
     id: contact
     attributes:
@@ -30,11 +30,11 @@ body:
   - type: dropdown
     id: version
     attributes:
-      label: Version
+      label: 사용 버전
       description: What version of our software are you running?
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+        - 초안 (Default)
+        - 250301 (Edge)
       default: 0
     validations:
       required: true
