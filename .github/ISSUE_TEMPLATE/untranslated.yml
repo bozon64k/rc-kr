@@ -1,7 +1,7 @@
-name: 오탈자
-description: 번역에 오탈자를 발견했습니다.
-title: "[오탈자]: "
-labels: ["오탈자"]
+name: 미번역
+description: 번역되지 않은 부분을 발견했습니다.
+title: "[미번역]: "
+labels: ["미번역"]
 assignees:
   - bozon64k
 body:
@@ -12,18 +12,18 @@ body:
   - type: input
     id: point
     attributes:
-      label: 오탈자 발견 위치
-      description: 어디서 오탈자를 발견했는지 알려주세요.
+      label: 미번역 발견 위치
+      description: 어디서 미번역를 발견했는지 알려주세요.
       placeholder: ex. 제1장 제2막
     validations:
       required: true
   - type: textarea
     id: what-happened
     attributes:
-      label: 어떤 오탈자인가요?
-      description: 오탈자에 대해 자세히 설명해 주세요.
+      label: 어떤 미번역인가요?
+      description: 미번역에 대해 자세히 설명해 주세요.
       placeholder: 설명을 적어 주세요!
-      value: "오탈자 발견!"
+      value: "미번역 발견!"
     validations:
       required: true
   - type: dropdown

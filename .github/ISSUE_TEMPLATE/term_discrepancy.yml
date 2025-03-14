@@ -22,7 +22,7 @@ body:
     attributes:
       label: 어떤 용어 불일치인가요?
       description: 용어 불일치에 대해 자세히 설명해 주세요.
-      placeholder: Tell us what you see!
+      placeholder: 설명을 적어 주세요!
       value: "용어 불일치 발견!"
     validations:
       required: true
