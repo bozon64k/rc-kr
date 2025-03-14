@@ -4,6 +4,8 @@
 
 ### 초벌 번역
 
+(~~취소선~~ = 할 필요 없음)
+
 - [x] 1. `achievement_string.csv` - 업적명과 달성조건
 - [x] 2. `battlemessagebox_string.csv` - 알림문구
 - [x] 3. `gamehelp_string.csv` - 게임 내 도움말
@@ -30,7 +32,7 @@
 - [ ] 24. `storydialog_string.csv` - 메인 스토리 대사
 - [ ] 25. `storyoption_string.csv` - ?
 - [ ] 26. `storypuzzle_string.csv` - ?
-- [ ] 27. `string_string.csv` - UI 텍스트
+- [x] 27. `string_string.csv` - UI 텍스트
 - [ ] 28. `terrainblock_string.csv` - 맵 블록 명칭과 설명
 - [ ] 29. `terrainbuff_string.csv` - ?
 - [ ] 30. `terrainbutton_string.csv` - ?
@@ -94,8 +96,8 @@
 - [ ] 88. `uiroleprofile_string.csv` - ?
 - [ ] 89. `uiscout_string.csv` - ?
 - [ ] 90. `uiscoutbattle_string.csv` - ?
-- [ ] 91. `uisearchlight_string.csv` - 서치라이트 조작 UI
-- [ ] 92. `uisecretdocment_string.csv` - 기밀문서 ui
+- [ ] 91. ~~`uisearchlight_string.csv`~~ - 서치라이트 조작 UI
+- [ ] 92. ~~`uisecretdocment_string.csv`~~ - 기밀문서 ui
 - [ ] 93. `uisecretdocplay_string.csv` - ?
 - [ ] 94. `uisecretgenetips_string.csv` - ?
 - [ ] 95. `uiskincollect_string.csv` - ?
@@ -167,7 +169,7 @@
 - [ ] 38. `uibattlehelp_string.csv` - ?
 - [ ] 39. `uibattlelose_string.csv` - ?
 - [ ] 40. `uibattlemain_string.csv` - 옥석구분, 5-3전용 UI
-- [ ] 41. `uibattlemenu_string.csv` - 전투 메뉴 텍스트
+- [x] 41. `uibattlemenu_string.csv` - 전투 메뉴 텍스트
 - [ ] 42. `uibattleprepare_string.csv` - ?
 - [ ] 43. `uibattlesetting_string.csv` - ?
 - [ ] 44. `uibattlewin_string.csv` - 승리 후 결과 UI
@@ -217,7 +219,7 @@
 - [ ] 88. `uiroleprofile_string.csv` - ?
 - [ ] 89. `uiscout_string.csv` - ?
 - [ ] 90. `uiscoutbattle_string.csv` - ?
-- [ ] 91. `uisearchlight_string.csv` - 서치라이트 조작 UI
+- [ ] 91. ~~`uisearchlight_string.csv` - 서치라이트 조작 UI
 - [ ] 92. `uisecretdocment_string.csv` - 기밀문서 ui
 - [ ] 93. `uisecretdocplay_string.csv` - ?
 - [ ] 94. `uisecretgenetips_string.csv` - ?
