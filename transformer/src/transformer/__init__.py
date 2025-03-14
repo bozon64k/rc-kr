@@ -27,7 +27,10 @@ def export(data: list[dict[str, str]], filename: str, debug: bool = False) -> No
 
         writer.writeheader()
         writer.writerows(data)
-    print(f"\033[92m{filename}\033[00m 변환 성공")
+    if debug:
+        print(f"\033[92m{filename}\033[00m 변환 성공(debug)")
+    else: 
+        print(f"\033[92m{filename}\033[00m 변환 성공")
 
 
 def main() -> int:
