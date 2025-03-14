@@ -8,8 +8,8 @@
 - [x] 2. `battlemessagebox_string.csv` - 알림문구
 - [x] 3. `gamehelp_string.csv` - 게임 내 도움말
 - [x] 4. `gamesetting_string.csv` - 게임내 설정 문구
-- [ ] 5. `item_string.csv` - 아이템 이름 및 설명
-- [ ] 6. `itembuff_string.csv` - 게임 내 각종 버프와 디버프 이름 및 설명
+- [x] 5. `item_string.csv` - 아이템 이름 및 설명
+- [x] 6. `itembuff_string.csv` - 게임 내 각종 버프와 디버프 이름 및 설명
 - [x] 7. `itemcollection_string.csv` - 수집품 명과 수집품에 대한 설명
 - [x] 8. `itemkey_string.csv` - 게임 내 특수아이템 명칭과 설명
 - [ ] 9. `itemteam_string.csv` - 게임 챕터 진행시 개방되는 패시브 아이템 명칭
