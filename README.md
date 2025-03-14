@@ -12,7 +12,7 @@
 - [x] 6. `itembuff_string.csv` - 게임 내 각종 버프와 디버프 이름 및 설명
 - [x] 7. `itemcollection_string.csv` - 수집품 명과 수집품에 대한 설명
 - [x] 8. `itemkey_string.csv` - 게임 내 특수아이템 명칭과 설명
-- [ ] 9. `itemteam_string.csv` - 게임 챕터 진행시 개방되는 패시브 아이템 명칭
+- [x] 9. `itemteam_string.csv` - 게임 챕터 진행시 개방되는 패시브 아이템 명칭
 - [x] 10. `keyword_string.csv` - 키워드, 인물 설명 등
 - [ ] 11. `levelbrief_string.csv` - 스테이지 명칭 및 배경지역명, 시간대, 스테이지 요약 텍스트
 - [ ] 12. `levelinfo_string.csv` - 스테이지 명칭
@@ -21,7 +21,7 @@
 - [ ] 15. `modes_string.csv` - 새 게임 시작 시 난이도 설명
 - [ ] 16. `playback_string.csv` - 스테이지 전, 후 단계
 - [ ] 17. `saveinfo_string.csv` - ?
-- [ ] 18. `scoutenemy_string.csv` - ?
+- [x] 18. `scoutenemy_string.csv` - 적 정보
 - [ ] 19. `secretfile_package_string.csv` - 기밀문서 제목
 - [ ] 20. `secretfile_string.csv` - 기밀문서 파일 명
 - [ ] 21. `secretgeneinfo_string.csv` - 유니크 스킬 설명
@@ -144,7 +144,7 @@
 - [ ] 15. `modes_string.csv` - 새 게임 시작 시 난이도 설명
 - [ ] 16. `playback_string.csv` - 스테이지 전, 후 단계
 - [ ] 17. `saveinfo_string.csv` - ?
-- [ ] 18. `scoutenemy_string.csv` - ?
+- [ ] 18. `scoutenemy_string.csv` - 적 정보
 - [ ] 19. `secretfile_package_string.csv` - 기밀문서 제목
 - [ ] 20. `secretfile_string.csv` - 기밀문서 파일 명
 - [ ] 21. `secretgeneinfo_string.csv` - 유니크 스킬 설명
