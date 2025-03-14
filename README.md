@@ -111,15 +111,15 @@
 - [ ] 105. `uitutorial_string.csv` - ?
 - [ ] 106. `uitutorialopen_string.csv` - 초보자 튜토리얼을 켜시겠습니까?
 - [ ] 107. `uitutorialskip_string.csv` - 튜토리얼 ui
-- [ ] 108. `uiunitgene_string.csv` - ?
+- [x] 108. `uiunitgene_string.csv` - 유전자 UI
 - [ ] 109. `uiunitheadbubble_string.csv` - ?
 - [ ] 110. `uiunithud_string.csv` - 원격제어폭탄,부비트랩 사용 ui로 추정
 - [ ] 111. `uiweaponprepare_string.csv` - 무기 정비 ui
-- [ ] 112. `unitbattle_string.csv` - 적 처음 조우 시 발생하는 UI
-- [ ] 113. `unitskin_string.csv` - 케릭터 스킨 이름, 설명, 획득경로
+- [x] 112. `unitbattle_string.csv` - 적 처음 조우 시 발생하는 UI
+- [ ] 113. `unitskin_string.csv` - 캐릭터 스킨 이름, 설명, 획득경로
 - [ ] 114. `unitstatedesc_string.csv` - 유닛 상태
-- [ ] 115. `weapon_string.csv` - 각 무기 명칭
-- [ ] 116. `weaponaccessory_string.csv` - 무기 부착물 명칭, 부착물 스킬 명칭
+- [x] 115. `weapon_string.csv` - 각 무기 명칭
+- [x] 116. `weaponaccessory_string.csv` - 무기 부착물 명칭, 부착물 스킬 명칭
 - [ ] 117. `weaponprepare_skill_preview_string.csv` - 무기 스킬 설명
 
 
@@ -234,12 +234,12 @@
 - [ ] 105. `uitutorial_string.csv` - ?
 - [ ] 106. `uitutorialopen_string.csv` - 초보자 튜토리얼을 켜시겠습니까?
 - [ ] 107. `uitutorialskip_string.csv` - 튜토리얼 ui
-- [ ] 108. `uiunitgene_string.csv` - ?
+- [ ] 108. `uiunitgene_string.csv` - 유전자 UI
 - [ ] 109. `uiunitheadbubble_string.csv` - ?
 - [ ] 110. `uiunithud_string.csv` - 원격제어폭탄,부비트랩 사용 ui로 추정
 - [ ] 111. `uiweaponprepare_string.csv` - 무기 정비 ui
 - [ ] 112. `unitbattle_string.csv` - 적 처음 조우 시 발생하는 UI
-- [ ] 113. `unitskin_string.csv` - 케릭터 스킨 이름, 설명, 획득경로
+- [ ] 113. `unitskin_string.csv` - 캐릭터 스킨 이름, 설명, 획득경로
 - [ ] 114. `unitstatedesc_string.csv` - 유닛 상태
 - [ ] 115. `weapon_string.csv` - 각 무기 명칭
 - [ ] 116. `weaponaccessory_string.csv` - 무기 부착물 명칭, 부착물 스킬 명칭
