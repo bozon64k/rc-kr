@@ -1,12 +1,13 @@
 import csv
 from glob import glob
 import os
+from pathlib import Path
 
 
-ORIGINAL_CSV_PATH = "..\\convertor\\csv"
-FIXED_CSV_PATH = ".\\csv\\*.csv"
-OUTPUT_PATH = ".\\output"
-OUTPUT_FOR_DEBUG_PATH = ".\\output_debug"
+ORIGINAL_CSV_PATH = "../convertor/csv"
+FIXED_CSV_PATH = "./csv/*.csv"
+OUTPUT_PATH = "./output"
+OUTPUT_FOR_DEBUG_PATH = "./output_debug"
 
 fieldnames = ["key_name", "ko_kr"]
 
@@ -15,10 +16,12 @@ def export(data: list[dict[str, str]], filename: str, debug: bool = False) -> No
     if len(data) == 0:
         print(f"{filename} 변경사항 없음")
         return
-    path = os.path.join(OUTPUT_PATH, filename)
+    path = Path(OUTPUT_PATH) / filename
+    # path = os.path.join(OUTPUT_PATH, filename)
     if debug:
         data = [{"key_name": a["key_name"], "ko_kr": f"[{a["key_name"]}] {a["ko_kr"]}"} for a in data]
-        path = os.path.join(OUTPUT_FOR_DEBUG_PATH, filename)
+        path = Path(OUTPUT_FOR_DEBUG_PATH) / filename
+        # path = os.path.join(OUTPUT_FOR_DEBUG_PATH, filename)
     with open(path, "w", encoding="utf-8", newline="") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
@@ -28,14 +31,15 @@ def export(data: list[dict[str, str]], filename: str, debug: bool = False) -> No
 
 
 def main() -> int:
-    os.makedirs(OUTPUT_PATH, exist_ok=True)
-    os.makedirs(OUTPUT_FOR_DEBUG_PATH, exist_ok=True)
+    os.makedirs(Path(OUTPUT_PATH), exist_ok=True)
+    os.makedirs(Path(OUTPUT_FOR_DEBUG_PATH), exist_ok=True)
 
     target_csvs = glob(FIXED_CSV_PATH)
 
     for target_csv in target_csvs:
         filename = os.path.basename(target_csv)
-        original_csv = os.path.join(ORIGINAL_CSV_PATH, filename)
+        # original_csv = os.path.join(ORIGINAL_CSV_PATH, filename)
+        original_csv = Path(ORIGINAL_CSV_PATH) / filename
 
         original = {}
         diff = []
