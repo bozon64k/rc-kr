@@ -1,5 +1,7 @@
 # rc-kr
 
+[storydialog 구분_1.0.4.1](https://docs.google.com/spreadsheets/d/1dUq0Q5_C3y55o3d1qZsKsrZ_tWgyW-5H)
+
 ## 파일 목록
 
 ### 초벌 번역
