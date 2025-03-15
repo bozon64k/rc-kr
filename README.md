@@ -122,7 +122,7 @@
 - [ ] 114. `unitstatedesc_string.csv` - 유닛 상태
 - [x] 115. `weapon_string.csv` - 각 무기 명칭
 - [x] 116. `weaponaccessory_string.csv` - 무기 부착물 명칭, 부착물 스킬 명칭
-- [ ] 117. `weaponprepare_skill_preview_string.csv` - 무기 스킬 설명
+- [x] 117. `weaponprepare_skill_preview_string.csv` - 무기 스킬 설명
 
 
 ### 원본 파일 목록
