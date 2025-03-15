@@ -28,9 +28,9 @@ def export(data: list[dict[str, str]], filename: str, debug: bool = False) -> No
         writer.writeheader()
         writer.writerows(data)
     if debug:
-        print(f"\033[92m{filename}\033[00m 변환 성공(debug)")
+        print(f"\033[92m{filename}\033[00m 변환 성공(debug) (총 컬럼 수: {len(data)})")
     else: 
-        print(f"\033[92m{filename}\033[00m 변환 성공")
+        print(f"\033[92m{filename}\033[00m 변환 성공 (총 컬럼 수: {len(data)})")
 
 
 def main() -> int:
