@@ -27,8 +27,8 @@
 - [ ] 19. `secretfile_package_string.csv` - 기밀문서 제목
 - [ ] 20. `secretfile_string.csv` - 기밀문서 파일 명
 - [ ] 21. `secretgeneinfo_string.csv` - 유니크 스킬 설명
-- [ ] 22. `skill_string.csv` - 스킬 설명
-- [ ] 23. `skillbuff_string.csv` - 상태이상 등
+- [x] 22. `skill_string.csv` - 스킬 설명
+- [x] 23. `skillbuff_string.csv` - 상태이상 등
 - [ ] 24. `storydialog_string.csv` - 메인 스토리 대사
 - [ ] 25. `storyoption_string.csv` - ?
 - [x] 26. `storypuzzle_string.csv` - 4장 [대치] 선택지
