@@ -26,8 +26,8 @@
 - [x] 16. `playback_string.csv` - 스테이지 전, 후 단계
 - [ ] 17. `saveinfo_string.csv` - ?
 - [x] 18. `scoutenemy_string.csv` - 적 정보
-- [ ] 19. `secretfile_package_string.csv` - 기밀문서 제목
-- [ ] 20. `secretfile_string.csv` - 기밀문서 파일 명
+- [x] 19. `secretfile_package_string.csv` - 기밀문서 제목
+- [x] 20. `secretfile_string.csv` - 기밀문서 파일 명
 - [ ] 21. `secretgeneinfo_string.csv` - 유니크 스킬 설명
 - [x] 22. `skill_string.csv` - 스킬 설명
 - [x] 23. `skillbuff_string.csv` - 상태이상 등
