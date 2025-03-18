@@ -49,18 +49,18 @@
 | 32  | `tutorialforce_string.csv`               |:black_square_button:|:black_square_button:| 튜토리얼 강제로 해야할때 뜨는 텍스트              |
 | 33  | `tutorialpic_new_string.csv`             |:white_check_mark:   |:black_square_button:| 튜토리얼 설명                           |
 | 34  | `uiaccessoryshop_string.csv`             |:black_square_button:|:black_square_button:| ?                                 |
-| 35  | `uiartdocument_string.csv`               |:black_square_button:|:black_square_button:| ?                                 |
+| 35  | `uiartdocument_string.csv`               |                     |                     | ?                                 |
 | 36  | `uiartdocumentplay_string.csv`           |:black_square_button:|:black_square_button:| ?                                 |
 | 37  | `uibagoverflow_string.csv`               |:black_square_button:|:black_square_button:| ?                                 |
 | 38  | `uibattlehelp_string.csv`                |:black_square_button:|:black_square_button:| ?                                 |
 | 39  | `uibattlelose_string.csv`                |:black_square_button:|:black_square_button:| ?                                 |
 | 40  | `uibattlemain_string.csv`                |:black_square_button:|:black_square_button:| 옥석구분, 5-3전용 UI                    |
 | 41  | `uibattlemenu_string.csv`                |:white_check_mark:   |:black_square_button:| 전투 메뉴 텍스트                         |
-| 42  | `uibattleprepare_string.csv`             |:black_square_button:|:black_square_button:| ?                                 |
-| 43  | `uibattlesetting_string.csv`             |:black_square_button:|:black_square_button:| ?                                 |
-| 44  | `uibattlewin_string.csv`                 |:black_square_button:|:black_square_button:| 승리 후 결과 UI                        |
-| 45  | `uibattlewincj_string.csv`               |:black_square_button:|:black_square_button:| ?                                 |
-| 46  | `uicgplayer_string.csv`                  |:black_square_button:|:black_square_button:| ?                                 |
+| 42  | `uibattleprepare_string.csv`             |                     |                     | ?                                 |
+| 43  | `uibattlesetting_string.csv`             |                     |                     | ?                                 |
+| 44  | `uibattlewin_string.csv`                 |                     |                     | 승리 후 결과 UI                        |
+| 45  | `uibattlewincj_string.csv`               |                     |                     | ?                                 |
+| 46  | `uicgplayer_string.csv`                  |                     |                     | ?                                 |
 | 47  | `uichallengeplus_string.csv`             |:black_square_button:|:black_square_button:| 도전모드 선택했을때의 UI                    |
 | 48  | `uicollection_string.csv`                |:black_square_button:|:black_square_button:| 컬렉션 UI                            |
 | 49  | `uicompose_string.csv`                   |:black_square_button:|:black_square_button:| 전투중 합성 UI                         |
