@@ -1,18 +1,14 @@
 # rc-kr
 
-:white_check_mark:
-:x:
-:ballot_box_with_check:
-
-[storydialog 구분_1.0.4.1](https://docs.google.com/spreadsheets/d/1dUq0Q5_C3y55o3d1qZsKsrZ_tWgyW-5H)
+- [storydialog 구분_1.0.4.1](https://docs.google.com/spreadsheets/d/1dUq0Q5_C3y55o3d1qZsKsrZ_tWgyW-5H)
 
 ## 파일 목록
 
-|종류| 설명    |
-|:---:|:---------|
-|  | 안해도 됨 |
-| 🔲 | 아직 안함 |
-| ✅ | 했음      |
+| 종류                  | 설명     |
+|:---------------------:|:----------|
+|                       | 안해도 됨 |
+| :black_square_button: | 아직 안함 |
+| :white_check_mark:    | 했음      |
 <!-- :negative_squared_cross_mark: -->
 <!-- :black_square_button: -->
 <!-- :white_check_mark:    -->
@@ -51,7 +47,7 @@
 | 30  | `terrainbutton_string.csv`               |:black_square_button:|:black_square_button:| ?                                 |
 | 31  | `tutorial_string.csv`                    |:black_square_button:|:black_square_button:| 튜토리얼 목적 지정                        |
 | 32  | `tutorialforce_string.csv`               |:black_square_button:|:black_square_button:| 튜토리얼 강제로 해야할때 뜨는 텍스트              |
-| 33  | `tutorialpic_new_string.csv`             |:black_square_button:|:black_square_button:| 튜토리얼 설명                           |
+| 33  | `tutorialpic_new_string.csv`             |:white_check_mark:   |:black_square_button:| 튜토리얼 설명                           |
 | 34  | `uiaccessoryshop_string.csv`             |:black_square_button:|:black_square_button:| ?                                 |
 | 35  | `uiartdocument_string.csv`               |:black_square_button:|:black_square_button:| ?                                 |
 | 36  | `uiartdocumentplay_string.csv`           |:black_square_button:|:black_square_button:| ?                                 |
