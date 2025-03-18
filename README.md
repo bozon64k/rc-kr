@@ -121,7 +121,7 @@
 | 104 | `uitimemap_string.csv`                   |                     |                     | 시간축 ui                            |
 | 105 | `uitutorial_string.csv`                  |                     |                     | ?                                 |
 | 106 | `uitutorialopen_string.csv`              |:white_check_mark:   |:black_square_button:| 초보자 튜토리얼을 켜시겠습니까?                 |
-| 107 | `uitutorialskip_string.csv`              |                     |                     | 튜토리얼 ui                           |
+| 107 | `uitutorialskip_string.csv`              |:white_check_mark:   |:white_check_mark:   | 튜토리얼 ui                           |
 | 108 | `uiunitgene_string.csv`                  |:white_check_mark:   |:black_square_button:| 유전자 UI                            |
 | 109 | `uiunitheadbubble_string.csv`            |                     |                     | ?                                 |
 | 110 | `uiunithud_string.csv`                   |                     |                     | 원격제어폭탄,부비트랩 사용 ui로 추정             |
