@@ -25,8 +25,8 @@
 | 8   | `itemkey_string.csv`                     |:white_check_mark:   |:black_square_button:| 게임 내 특수아이템 명칭과 설명                 |
 | 9   | `itemteam_string.csv`                    |:white_check_mark:   |:black_square_button:| 게임 챕터 진행시 개방되는 패시브 아이템 명칭         |
 | 10  | `keyword_string.csv`                     |:white_check_mark:   |:black_square_button:| 키워드, 인물 설명 등                      |
-| 11  | `levelbrief_string.csv`                  |:black_square_button:|:black_square_button:| 스테이지 명칭 및 배경지역명, 시간대, 스테이지 요약 텍스트 |
-| 12  | `levelinfo_string.csv`                   |:black_square_button:|:black_square_button:| 스테이지 명칭                           |
+| 11  | `levelbrief_string.csv`                  |:white_check_mark:   |:black_square_button:| 스테이지 명칭 및 배경지역명, 시간대, 스테이지 요약 텍스트 |
+| 12  | `levelinfo_string.csv`                   |:white_check_mark:   |:black_square_button:| 스테이지 명칭                           |
 | 13  | `levelmission_string.csv`                |:white_check_mark:   |:black_square_button:| 승리조건                              |
 | 14  | `loadingtips_string.csv`                 |:black_square_button:|:black_square_button:| 로딩 중 한줄 팁 스크립트                    |
 | 15  | `modes_string.csv`                       |:black_square_button:|:black_square_button:| 새 게임 시작 시 난이도 설명                  |
