@@ -39,7 +39,7 @@
 | 22  | `skill_string.csv`                       |:white_check_mark:   |:black_square_button:| 스킬 설명                             |
 | 23  | `skillbuff_string.csv`                   |:white_check_mark:   |:black_square_button:| 상태이상 등                            |
 | 24  | `storydialog_string.csv`                 |:black_square_button:|:black_square_button:| 메인 스토리 대사                         |
-| 25  | `storyoption_string.csv`                 |:black_square_button:|:black_square_button:| ?                                 |
+| 25  | `storyoption_string.csv`                 |:white_check_mark:   |:black_square_button:| ?                                 |
 | 26  | `storypuzzle_string.csv`                 |:white_check_mark:   |:black_square_button:| 4장 [대치] 선택지                       |
 | 27  | `string_string.csv`                      |:white_check_mark:   |:black_square_button:| UI 텍스트                            |
 | 28  | `terrainblock_string.csv`                |:black_square_button:|:black_square_button:| 맵 블록 명칭과 설명                       |
