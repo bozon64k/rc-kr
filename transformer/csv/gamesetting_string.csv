@@ -26,7 +26,7 @@ key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
 5d2,结束回合时，如果我方角色仍有AP可以使用，会进行提示。,結束回合時，如果我方角色仍有AP可以使用，會進行提示。,A prompt will be given when an allied character still has AP available at the end of the turn.,ターン終了時、残りAPが1以上の味方ユニットがいる場合、確認メッセージを表示します。,턴 종료 시 아군 캐릭터에 사용할 수 있는 AP가 남아있다면 알림을 표시합니다.
 5d3,结束回合时，如果我方角色有满AP的，会进行提示。,結束回合時，如果我方角色有滿AP的，會進行提示。,A prompt will be given when an allied unit still has AP available at the end of the turn.,ターン終了時、AP未消費の味方ユニットがいる場合、確認メッセージを表示します。,턴 종료 시 아군 캐릭터 중 AP가 가득찬 캐릭터가 있으면 알림을 표시합니다.
 5v1,关闭,關閉,Off,オフ,끄기
-5v2,残余AP角色,殘餘AP角色,Allied Characters,AP1以上がいる場合,잔여 AP 캐릭터
+5v2,残余AP角色,殘餘AP角色,Allied Characters,AP1以上がいる場合,AP가 남은 캐릭터
 5v3,满AP角色,滿AP角色,Allied Units,AP未消費がいる場合,AP가 가득찬 캐릭터
 310,手柄快捷释放,手把快捷施放,Controller Quick Release,ハンドルクイックリリース,컨트롤러 단축키 해제
 31d1,按下功能按键后，显示相关信息，需按确认按键执行对应功能。,按下功能按鍵後，顯示相關訊息，需按確認按鍵執行對應功能。,"After pressing the function key, relevant information will be displayed. Press the confirmation key to execute the corresponding function.",ファンクションボタンを押すと、関連する情報が表示され、確認ボタンを押して対応するファンクションを実行します。,기능 버튼을 누르면 관련 정보가 표시되며 확인 버튼을 눌러 해당 기능을 실행해야 합니다.

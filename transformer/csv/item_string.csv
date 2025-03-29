@@ -2815,7 +2815,7 @@ key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
 100000,零件,零件,Parts,パーツ,부품
 100001,用于强化武器、制作道具等各个方面的基础素材。,用於強化武器、製作道具等各個方面的基礎素材。,"Basic materials used for weapon enhancement, item crafting, and various other uses.",武器やアイテム製作など様々な局面で使用できる基本的な素材。,"무기 강화, 아이템 제작 등 여러 방면에 쓰이는 기본 소재."
 10000000,重组密钥,重組密鑰,Recombination Key,リビルドキー,재조합 키
-10000001,用于基因重组的密钥，可以将1个已经领悟的技能或特质重置为1级，并返还已消耗的潜能密钥。,用於基因重組的密鑰，可以將1個已經領悟的技能或特質重置為1級，並返還已消耗的潛能密鑰。,A key for gene recombination. Resets 1 skill or trait to level 1 and refunds the consumed potential keys.,ゲノムのリビルドに使用するキー。体得済みのスキルまたは特質1個をレベル1にリセットでき、消費済みのゲノムキーが返還される。,"유전자 재구성에 사용되는 비밀 키. 습득한 스킬 또는 특성 1개를 레벨 1로 리셋할 수 있으며, 소비한 포텐셜 키를 돌려받을 수 있다. "
+10000001,用于基因重组的密钥，可以将1个已经领悟的技能或特质重置为1级，并返还已消耗的潜能密钥。,用於基因重組的密鑰，可以將1個已經領悟的技能或特質重置為1級，並返還已消耗的潛能密鑰。,A key for gene recombination. Resets 1 skill or trait to level 1 and refunds the consumed potential keys.,ゲノムのリビルドに使用するキー。体得済みのスキルまたは特質1個をレベル1にリセットでき、消費済みのゲノムキーが返還される。,"유전자 재조합에 사용되는 키. 습득한 스킬 또는 특성 1개를 레벨 1로 리셋할 수 있으며, 소비한 포텐셜 키를 돌려받을 수 있다. "
 10100000,重置磁盘,重置磁片,Reset Disk,リセットディスク,디스크 리셋
 10100001,用于清除科研资料的磁盘，可以将1个道具的改造进度重置为1级，并返还已消耗的研发点数。,用於清除科研資料的磁片，可以將1個道具的改造進度重置為1級，並返還已消耗的研發點數。,A disk for clearing research data. Resets the modification progress of 1 item to level 1 and refunds the consumed research points.,科学研究資料の削除に使用するディスク。アイテム1個の改造進度をレベル1にリセットでき、消費済みの研究ポイントが返還される。,"과학 연구 자료 파기에 사용하는 디스크. 아이템 1개의 개조 진도를 레벨 1로 리셋할 수 있으며, 소비한 연구 개발 포인트를 돌려받을 수 있다."
 10200000,记忆点,記憶點,Memory Point,記憶ポイント,메모리 포인트
