@@ -8,7 +8,7 @@
 |:---------------------:|:----------|
 |                       | 안해도 됨 |
 | :black_square_button: | 아직 안함 |
-| :one:                 | 하는 중   |
+| :on:                  | 하는 중   |
 | :white_check_mark:    | 했음      |
 <!-- :negative_squared_cross_mark: -->
 <!-- :black_square_button: -->
