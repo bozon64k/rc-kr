@@ -32,7 +32,7 @@
 | 14  | `loadingtips_string.csv`                 |:on:                 |:black_square_button:| 로딩 중 한줄 팁 스크립트                    |
 | 15  | `modes_string.csv`                       |:black_square_button:|:black_square_button:| 새 게임 시작 시 난이도 설명                  |
 | 16  | `playback_string.csv`                    |:white_check_mark:   |:black_square_button:| 스테이지 전, 후 단계                      |
-| 17  | `saveinfo_string.csv`                    |:black_square_button:|:black_square_button:| ?                                 |
+| 17  | `saveinfo_string.csv`                    |                     |                     | ?                                 |
 | 18  | `scoutenemy_string.csv`                  |:white_check_mark:   |:black_square_button:| 적 정보                              |
 | 19  | `secretfile_package_string.csv`          |:white_check_mark:   |:black_square_button:| 기밀문서 제목                           |
 | 20  | `secretfile_string.csv`                  |:white_check_mark:   |:black_square_button:| 기밀문서 파일 명                         |
