@@ -1,9 +1,9 @@
 key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
 text_level_cost_word_1,升阶消耗：,升級消耗：,Upgrade Cost:,アップグレード消耗品,레벨업 소비:
-text_level_cost_word_2_remake,所需零件：,所需零件：,Required Parts:,消費パーツ,필요한 부품:
+text_level_cost_word_2_remake,所需零件：,所需零件：,Required Parts:,消費パーツ,필요 부품:
 text_weapon_equiped,主武器,主武器,Main Weapon,メインウェポン,주무기
 text_setmainweapon,设为主武器,設為主武器,Set as Main Weapon,メインウェポンに設定,주무기로 설정
-text_weapon_ap_cost_word,AP消耗 ,AP 消耗 ,AP Cost,消費AP,AP 소비
+text_weapon_ap_cost_word,AP消耗,AP 消耗,AP Cost,消費AP,AP 소비
 text_acc_property,属性,屬性,Attributes,ステータス,능력치
 text_acc_specialability,特质,特質,Traits,特質,특성
 text_back,返回,返回,Back,戻る,돌아가기
@@ -11,6 +11,6 @@ text_p_des,零件总数,零件總數,Total Parts,パーツ総数,부품 보유�
 text_p_decorate,P.,P.,P.,P.,P.
 text_checkattr,查看属性,查看屬性,View Attributes,ステータス確認,능력치 확인
 text_reset,还原,還原,Restore,復元,복원
-text_weaponreset_des,还原套件,還原套件,Restoration Kit,復元キット,키트 복원
-text_quickbuy,快捷制作,快捷製作,Quick Production,クイック製作,바로 제작
+text_weaponreset_des,还原套件,還原套件,Restoration Kit,復元キット,복원 키트
+text_quickbuy,快捷制作,快捷製作,Quick Production,クイック製作,빠른 제작
 txt_p_static,P.,P.,P.,P.,P.

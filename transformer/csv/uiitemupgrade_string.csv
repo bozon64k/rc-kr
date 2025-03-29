@@ -1,7 +1,7 @@
 key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
 text_technology_word,科技等级,科技等級,Tech Level,技術レベル,기술 등급
 text_gp_text,研发点数,研發點數,Research Points,研究ポイント,연구 포인트
-text_reset_text,重置磁盘,重置硬碟,Reset Disk,リセット,디스크 리셋
+text_reset_text,重置磁盘,重置硬碟,Reset Disk,リセット,리셋 디스크
 text_upgrade,改造,改造,Item Modification,アイテム改造,아이템 개조
 text_iteminfo_bg_word,道具信息,道具資訊,Item Info,アイテム情報,아이템 정보
 text_reset_multi_enter,批量重置,批量重置,Batch Reset,一括リセット,일괄 리셋

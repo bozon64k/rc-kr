@@ -7,5 +7,5 @@ text_detail,预览,預覽,Preview,プレビュー,미리보기
 text_prepare,配置,配置,Configure,配置,배치
 text_reset,重组,重組,Recombination,リビルド,재구성
 text_back,返回,返回,Back,戻る,돌아가기
-text_reset_multi_enter,批量重组,批量重組,Batch,一括リビルド,대량 재구성
+text_reset_multi_enter,批量重组,批量重組,Batch,一括リビルド,일괄 재구성
 text_reset_multi_confirm,确认重组,確認重組,Confirm,リビルド確認,재구성 확인

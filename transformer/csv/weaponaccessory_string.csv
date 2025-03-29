@@ -1,189 +1,189 @@
 key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
 601010,AFH消焰器,AFH 消焰器,AFH Flash Hider,AFH消化器,AFH 소염기
-601020,DT-1补偿器,DT-1補償器,DT-1 Compensator,DT-1コンペンセータ,Dt-1보정기
-601030,SBC组合补偿器,SBC組合補償器,SBC Composite Compensator,SBC結合型補正器,SBC조합 보상기
-601040,RR4通用补偿器,RR4通用補償器,RR4 General Purpose Compensator,RR4通常補正器,Rr4통용 보상기
-601050,MTB制退器,MTB制退器,MTB Muzzle Brake,MTBマズルブレーキ,MTB브레이크
-601051,死神,死神,Grim Reaper,死神,죽음의 신
-601150,BSD爆炸缓冲装置,BSD爆炸緩衝裝置,BSD Blast Mitigation Device,BSD爆発緩衝装置,BSD폭발 버퍼 장치
+601020,DT-1补偿器,DT-1補償器,DT-1 Compensator,DT-1コンペンセータ,DT-1 보정기
+601030,SBC组合补偿器,SBC組合補償器,SBC Composite Compensator,SBC結合型補正器,SBC 복합 보정기
+601040,RR4通用补偿器,RR4通用補償器,RR4 General Purpose Compensator,RR4通常補正器,RR4 범용 보정기
+601050,MTB制退器,MTB制退器,MTB Muzzle Brake,MTBマズルブレーキ,MTB 제동기
+601051,死神,死神,Grim Reaper,死神,사신
+601150,BSD爆炸缓冲装置,BSD爆炸緩衝裝置,BSD Blast Mitigation Device,BSD爆発緩衝装置,BSD 폭발 완화 장치
 601151,自我暗示,自我暗示,Auto Suggestion,自己暗示,자기 암시
-601250,PN 4-V涡旋式消焰器,PN 4-V渦旋式消焰器,PN 4-V Vortex Flash Hider,PN 4-Vボルテックスフラッシュハイダー,PN 4-V와류 화염 방지기
+601250,PN 4-V涡旋式消焰器,PN 4-V渦旋式消焰器,PN 4-V Vortex Flash Hider,PN 4-Vボルテックスフラッシュハイダー,PN 4-V 와류 소염기
 601251,隐火,隱火,Hidden Flash,見えない火,숨겨진 불
-601350,RS多功能枪口装置,RS多功能槍口裝置,RS Multi-Purpose Muzzle Device,RS多機能銃口装置,Rs다기능 총구 장치
-601351,残暴,殘暴,Brutalization,残虐,잔인한
-602010,PU 3.5倍光学瞄具,PU 3.5倍光學瞄具,PU 3.5x Optical Sight,PU 3.5倍光学照準器,PU 3.5 배율 광학 스코프
-602020,PSO-1M4 4倍光学瞄具,PSO-1M4 4倍光學瞄具,PSO-1M4 4x Optical Sight,PSO-1M4 4倍光学サイト,PSO-1M4 4배 광학 스코프
-602030,GIP 3-10倍光学瞄具,GIP 3-10倍光學瞄具,GIP 3-10x Optical Sight,GIP 3-10倍光学照準器,GIP 3-10배 광학 조준경
-602040,K6i 6-24倍光学瞄具,K6i 6-24倍光學瞄具,K6i 6-24x Optical Sight,K6i 6-24倍光学照準器,K6i 6-24배 광학 조준경
-602050,ATR 7-35倍光学瞄具,ATR 7-35倍光學瞄具,ATR 7-35x Optical Sight,ATR 7-35倍光学照準器,ATR 7-35배 광학 조준경
+601350,RS多功能枪口装置,RS多功能槍口裝置,RS Multi-Purpose Muzzle Device,RS多機能銃口装置,RS 다목적 총구 장치
+601351,残暴,殘暴,Brutalization,残虐,잔학
+602010,PU 3.5倍光学瞄具,PU 3.5倍光學瞄具,PU 3.5x Optical Sight,PU 3.5倍光学照準器,PU 3.5배율 광학 조준경
+602020,PSO-1M4 4倍光学瞄具,PSO-1M4 4倍光學瞄具,PSO-1M4 4x Optical Sight,PSO-1M4 4倍光学サイト,PSO-1M4 4배율 광학 조준경
+602030,GIP 3-10倍光学瞄具,GIP 3-10倍光學瞄具,GIP 3-10x Optical Sight,GIP 3-10倍光学照準器,GIP 3-10배율 광학 조준경
+602040,K6i 6-24倍光学瞄具,K6i 6-24倍光學瞄具,K6i 6-24x Optical Sight,K6i 6-24倍光学照準器,K6i 6-24배율 광학 조준경
+602050,ATR 7-35倍光学瞄具,ATR 7-35倍光學瞄具,ATR 7-35x Optical Sight,ATR 7-35倍光学照準器,ATR 7-35배율 광학 조준경
 602051,望远镜,望遠鏡,Telescope,双眼鏡,망원경
-602150,T2LR热成像步枪瞄具,T2LR熱成像步槍瞄具,T2LR Thermal Rifle Scope,T2LR赤外線付きライフル照準器,T2LR열화상 소총 조준경
+602150,T2LR热成像步枪瞄具,T2LR熱成像步槍瞄具,T2LR Thermal Rifle Scope,T2LR赤外線付きライフル照準器,T2LR 열화상 소총 조준경
 602151,热能捕获,熱能捕獲,Thermal Capture,熱エネルギーによる捕獲,열에너지 포착
-602250,VCOS 1-8倍光学瞄具,VCOS 1-8倍光學瞄具,VCOS1 1-8x Optical Sight,VCOS 1-8倍光学照準器,VCOS 1-8배 광학 조준경
-602251,视差调节,視差調節,Parallax Adjustment,視差調整,시야 차이 조절
-602350,SIR热成像组合瞄具,SIR熱成像組合瞄具,SIR Hybrid Thermal Sight,SIR赤外線付き結合型照準器,SIR열화상 조합 조준경
-602351,安稳校准,安穩校準,Stable Calibration,安定した校正,안정적 교정
-602450,FP特型瞄具,FP特型瞄具,FP Special Scope,FP特殊照準器,FP특형 스코프
+602250,VCOS 1-8倍光学瞄具,VCOS 1-8倍光學瞄具,VCOS1 1-8x Optical Sight,VCOS 1-8倍光学照準器,VCOS 1-8배율 광학 조준경
+602251,视差调节,視差調節,Parallax Adjustment,視差調整,시차 조절
+602350,SIR热成像组合瞄具,SIR熱成像組合瞄具,SIR Hybrid Thermal Sight,SIR赤外線付き結合型照準器,SIR 열화상 복합 조준경
+602351,安稳校准,安穩校準,Stable Calibration,安定した校正,안정 교정
+602450,FP特型瞄具,FP特型瞄具,FP Special Scope,FP特殊照準器,FP 특수 조준경
 602451,极地之眼,極地之眼,Polar Eye,極地の眼,극지의 눈
 603010,PK-08红点瞄具,PK-08 紅點瞄具,PK-08 Red Dot Sight,PK-08レッドサイト,PK-08 레드 도트 사이트
-603020,KBR-8-20红点瞄具,KBR-8-20紅點瞄具,KBR-8-20 Red Dot Sight,KBR-8-20レッドドットサイト,KBR-8-20 레드닷 스코프
-603030,PK187全息瞄具,PK187全息瞄具,PK187 Holographic Sight,PK187ホログラム照準器,Pk187홀로그램 조준경
-603040,Vz-4R组合瞄具,Vz-4R組合瞄具,Vz-4R Hybrid Red Dot Sight,Vz-4R結合型照準器,Vz-4R조합 조준경
-603050,OKP-17多用途瞄具,OKP-17多用途瞄具,OKP-17 Multi-Purpose Reflex Sight,OKP-17多用途照準器,OKP-17다기능 조준경
-603051,隐形镜片,隱形鏡片,Contact Lenses,見えないレンズ,렌즈
-603150,RKP-1S潜望式瞄具,RKP-1S潛望式瞄具,RKP-1S Periscopic Sight,RKP-1S潜望鏡式照準器,RKP-1S잠망경 조준경
-603151,安全行动,安全行動,Safe Action,安全な行動,안전행동
-603250,SDR 1倍/3倍瞄具,SDR 1倍/3倍瞄具,SDR 1x/3x Sight,SDR 1倍/3倍照準器,SDR 1배/3배 조준
-603251,双重角色,雙重角色,Dual Purpose,ダブルユニット,이중캐릭터
-603350,HCS Ⅶ组合瞄具,HCS Ⅶ組合瞄具,HCS VII Hybrid Sight,HCS Ⅶ結合型照準器,HCS Ⅶ조합 조준경
+603020,KBR-8-20红点瞄具,KBR-8-20紅點瞄具,KBR-8-20 Red Dot Sight,KBR-8-20レッドドットサイト,KBR-8-20 레드 도트 사이트
+603030,PK187全息瞄具,PK187全息瞄具,PK187 Holographic Sight,PK187ホログラム照準器,Pk187 홀로그램 조준경
+603040,Vz-4R组合瞄具,Vz-4R組合瞄具,Vz-4R Hybrid Red Dot Sight,Vz-4R結合型照準器,Vz-4R 복합 조준경
+603050,OKP-17多用途瞄具,OKP-17多用途瞄具,OKP-17 Multi-Purpose Reflex Sight,OKP-17多用途照準器,OKP-17 다기능 조준경
+603051,隐形镜片,隱形鏡片,Contact Lenses,見えないレンズ,콘택트렌즈
+603150,RKP-1S潜望式瞄具,RKP-1S潛望式瞄具,RKP-1S Periscopic Sight,RKP-1S潜望鏡式照準器,RKP-1S 잠망경 조준경
+603151,安全行动,安全行動,Safe Action,安全な行動,안전 행동
+603250,SDR 1倍/3倍瞄具,SDR 1倍/3倍瞄具,SDR 1x/3x Sight,SDR 1倍/3倍照準器,SDR 1배율/3배율 조준경
+603251,双重角色,雙重角色,Dual Purpose,ダブルユニット,이중 캐릭터
+603350,HCS Ⅶ组合瞄具,HCS Ⅶ組合瞄具,HCS VII Hybrid Sight,HCS Ⅶ結合型照準器,HCS Ⅶ 복합 조준경
 603351,全能组合,全能組合,Versatile Combination,オールラウンドな結合,만능 조합
-603450,RF4P紧凑型瞄具,RF4P緊湊型瞄具,RF4P Compact Holographic Sight,RF4P小型照準器,RF4P콤팩트형 조준경
+603450,RF4P紧凑型瞄具,RF4P緊湊型瞄具,RF4P Compact Holographic Sight,RF4P小型照準器,RF4P 소형 조준경
 603451,收放自如,收放自如,Flexible,出し入れ自在,마음대로 조정
-603550,COMP SP2红点瞄具,COMP SP2紅點瞄具,COMP SP2 Red Dot Sight,COMP SP2レッドドットサイト付き照準器,COMP SP2레드닷 조준경
+603550,COMP SP2红点瞄具,COMP SP2紅點瞄具,COMP SP2 Red Dot Sight,COMP SP2レッドドットサイト付き照準器,COMP SP2 레드 도트 사이트
 603551,快速调整,快速調整,Quick Adjustment,高速調整,빠른 조정
-604010,TGL小型镭射器,TGL小型鐳射器,TGL Compact Laser,TGL小型レーザー,TGL소형 레이저 발사기
-604020,K1S+LD灯光镭射装置,K1S+LD燈光鐳射裝置,K1S+LD Laser Sight,K1S+LDライトレーザー装置,K1S+LD광레이저 장치
-604030,DLPL双激光镭射装置,DLPL雙鐳射鐳射裝置,DLPL Dual Laser Sight,DLPLダブルレーザー装置,DLPL듀얼 레이저 장치
-604040,P4M组合镭射装置,P4M組合鐳射裝置,P4M Hybrid Laser Sight,P4M結合型レーザー装置,P4M조합 레이저 장치
-604050,IPIM集成镭射装置,IPIM集成鐳射裝置,IPIM Integrated Laser Sight,IPIM統合レーザー装置,IPIM복합 레이저 장치
-604051,集成作战,集成作戰,Integrated Operation,作戦を統合,복합 작전
-604150,MWL模块化镭射装置,MWL模組化鐳射裝置,MWL Modular Laser Sight,MWLモジュールレーザー装置,MWL모듈과 레이저 장치
-604151,万无一失,萬無一失,Ol' Reliable,完全無欠,실수 없는
-604250,K-2U战术手电,K-2U戰術手電筒,K-2U Weapon Mounted Light,K-2U戦術ハンドライト,K-2U전술 손전등
-604251,强光闪烁,強光閃爍,Radiant Flash,強い光の点滅,강한 빛 플래시
-604350,XMV2多功能镭射装置,XMV2多功能鐳射裝置,XMV2 Multi-Purpose Laser Sight,XMV2多機能レーザー装置,XMV2다기능 레이저 장치
+604010,TGL小型镭射器,TGL小型鐳射器,TGL Compact Laser,TGL小型レーザー,TGL 소형 레이저 발사기
+604020,K1S+LD灯光镭射装置,K1S+LD燈光鐳射裝置,K1S+LD Laser Sight,K1S+LDライトレーザー装置,K1S+LD 광 레이저 장치
+604030,DLPL双激光镭射装置,DLPL雙鐳射鐳射裝置,DLPL Dual Laser Sight,DLPLダブルレーザー装置,DLPL 듀얼 레이저 장치
+604040,P4M组合镭射装置,P4M組合鐳射裝置,P4M Hybrid Laser Sight,P4M結合型レーザー装置,P4M 복합 레이저 장치
+604050,IPIM集成镭射装置,IPIM集成鐳射裝置,IPIM Integrated Laser Sight,IPIM統合レーザー装置,IPIM 복합 레이저 장치
+604051,集成作战,集成作戰,Integrated Operation,作戦を統合,통합 작전
+604150,MWL模块化镭射装置,MWL模組化鐳射裝置,MWL Modular Laser Sight,MWLモジュールレーザー装置,MWL 모듈식 레이저 장치
+604151,万无一失,萬無一失,Ol' Reliable,完全無欠,완전무결
+604250,K-2U战术手电,K-2U戰術手電筒,K-2U Weapon Mounted Light,K-2U戦術ハンドライト,K-2U 전술 플래시라이트
+604251,强光闪烁,強光閃爍,Radiant Flash,強い光の点滅,강한 섬광
+604350,XMV2多功能镭射装置,XMV2多功能鐳射裝置,XMV2 Multi-Purpose Laser Sight,XMV2多機能レーザー装置,XMV2 다기능 레이저 장치
 604351,光谱搜索,光譜搜索,Spectral Search,スペクトル捜索,스펙트럼 검색
-605010,旧式脉冲器,舊式脈衝器,Retired Pulser,旧型パルスマシン,구식 펄스 발사기
+605010,旧式脉冲器,舊式脈衝器,Retired Pulser,旧型パルスマシン,구식 펄서
 605020,军用脉冲器,軍用脈衝器,Military Pulser,軍用パルスマシン,군용 펄서
 605030,优质脉冲器,優質脈衝器,High-Quality Pulser,上質パルスマシン,고품질 펄서
 605040,特种脉冲器,特種脈衝器,Specialized Pulser,特種パルスマシン,특수 펄서
 605050,超高速脉冲器,超高速脈衝器,Ultra-Speed Pulser,超高速パルスマシン,초고속 펄서
 605051,压迫,壓迫,Suppression,圧迫,압박
-605150,紧凑型脉冲器,緊湊型脈衝器,Compact Pulser,小型パルスマシン,콤팩트형 펄서
+605150,紧凑型脉冲器,緊湊型脈衝器,Compact Pulser,小型パルスマシン,소형 펄서
 605151,防具破坏,防具破壞,Armor Break,防具を破壊,방어구 파괴
 605250,双动型脉冲器,雙動型脈衝器,Double Action Pulser,デュアルパルスマシン,듀얼 액션 펄서
 605251,第二弱点,第二弱點,Second Weakness,第二の弱点,두 번째 약점
-605350,核动力脉冲器,核動力脈衝器,Nuclear-Powered Pulser,原子力パルスマシン,핵 구동 펄서
-605351,微型聚变,微型聚變,Implosion,小型・核融合,마이크로 융합
+605350,核动力脉冲器,核動力脈衝器,Nuclear-Powered Pulser,原子力パルスマシン,원자력 펄서
+605351,微型聚变,微型聚變,Implosion,小型・核融合,소형 핵융합
 605450,超导脉冲器,超導脈衝器,Superconducting Pulser,超電導パルスマシン,초전도 펄서
 605451,超导冲击,超導衝擊,Superconducting Shock,超電導衝撃,초전도 충격
-606010,FGV-S短握把,FGV-S短握把,FGV-S Short Grip,FGV-Sショートグリップ,FGV-S 소형 손잡이
-606020,TAF三角握把,TAF三角握把,TAF Angled Forward Grip,TAF三角グリップ,TAF트라이앵글 그립
-606030,R-2垂直握把,R-2垂直握把,R-2 Vertical Grip,R-2垂直グリップ,R-2수직 그립
-606040,CPF3代战术握把,CPF3代戰術握把,CPF3 Tactical Grip,CPF第3世代戦術グリップ,CPF3세대 전술 그립
-606050,SVG轻型握把,SVG輕型握把,SVG Light Grip,SVG軽量型グリップ,SVG경량형 그립
-606051,一击脱离,一擊脫離,Hit and Run,一撃で脱出,한 번에 벗어나다
-606150,R-1-B25斜向握把,R-1-B25斜向握把,R-1-B25 Angled Grip,R-1-B25斜めグリップ,R-1-B25앵글 그립
-606151,抬手抑制,抬手抑制,Drop The Gun,手を上げて制御,손 들어 진압
-606250,TEFF-S折叠握把,TEFF-S折疊握把,TEFF-S Folding Grip,TEFF-S折り畳み式グリップ,TEFF-S접이식 그립
-606251,巷战优势,巷戰優勢,Urban Warfare Supremacy,市街戦で強みを発揮,길거리 싸움의 장점
-606350,MEG9备弹握把,MEG9備彈握把,MEG9 Angled Grip,MEG9弾薬グリップ,MEG9준비용 탄약 그립
-606351,全弹突围,全彈突圍,Bullet Barrage Breakthrough,フルバーストで包囲突破,폭탄으로 돌파
-607010,650mm加固枪管,650mm加固槍管,650mm Reinforced Barrel,650mm補強バレル,650Mm보강 총열
-607020,800mm长枪管,800mm長槍管,800mm Extended Barrel,800mmロングバレル,800mm총관
-607030,1000mm重型枪管,1000mm重型槍管,1000mm Heavy Barrel,1000mm大型バレル,1000Mm헤비형 총열
-607040,900mm精英枪管,900mm精英槍管,900mm Elite Barrel,900mm精鋭バレル,900Mm엘리트 총열
-607050,680mm新合金枪管,680mm新合金槍管,680mm New-Type Alloy Barrel,680mm新型合金バレル,680Mm신합금 총열
-607051,第一滴血,第一滴血,First Blood,先制攻撃,첫 번째 피 한 방울
-607150,1200mm反器材枪管,1200mm反器材槍管,1200mm Anti-Materiel Barrel,1200mm対物バレル,1200Mm반기구 총열
+606010,FGV-S短握把,FGV-S短握把,FGV-S Short Grip,FGV-Sショートグリップ,FGV-S 짧은 손잡이
+606020,TAF三角握把,TAF三角握把,TAF Angled Forward Grip,TAF三角グリップ,TAF 각진 손잡이
+606030,R-2垂直握把,R-2垂直握把,R-2 Vertical Grip,R-2垂直グリップ,R-2 수직 손잡이
+606040,CPF3代战术握把,CPF3代戰術握把,CPF3 Tactical Grip,CPF第3世代戦術グリップ,CPF3세대 전술 손잡이
+606050,SVG轻型握把,SVG輕型握把,SVG Light Grip,SVG軽量型グリップ,SVG 경량형 손잡이
+606051,一击脱离,一擊脫離,Hit and Run,一撃で脱出,히트 앤 런
+606150,R-1-B25斜向握把,R-1-B25斜向握把,R-1-B25 Angled Grip,R-1-B25斜めグリップ,R-1-B25 각진 손잡이
+606151,抬手抑制,抬手抑制,Drop The Gun,手を上げて制御,손 들어
+606250,TEFF-S折叠握把,TEFF-S折疊握把,TEFF-S Folding Grip,TEFF-S折り畳み式グリップ,TEFF-S 접이식 손잡이
+606251,巷战优势,巷戰優勢,Urban Warfare Supremacy,市街戦で強みを発揮,시가전의 왕
+606350,MEG9备弹握把,MEG9備彈握把,MEG9 Angled Grip,MEG9弾薬グリップ,MEG9 각진 손잡이
+606351,全弹突围,全彈突圍,Bullet Barrage Breakthrough,フルバーストで包囲突破,전탄 돌파
+607010,650mm加固枪管,650mm加固槍管,650mm Reinforced Barrel,650mm補強バレル,650mm 강화 총열
+607020,800mm长枪管,800mm長槍管,800mm Extended Barrel,800mmロングバレル,800mm 확장 총열
+607030,1000mm重型枪管,1000mm重型槍管,1000mm Heavy Barrel,1000mm大型バレル,1000mm 대형 총열
+607040,900mm精英枪管,900mm精英槍管,900mm Elite Barrel,900mm精鋭バレル,900mm 정예 총열
+607050,680mm新合金枪管,680mm新合金槍管,680mm New-Type Alloy Barrel,680mm新型合金バレル,680mm 신형 합금 총열
+607051,第一滴血,第一滴血,First Blood,先制攻撃,퍼스트 블러드
+607150,1200mm反器材枪管,1200mm反器材槍管,1200mm Anti-Materiel Barrel,1200mm対物バレル,1200mm 대물 총열
 607151,吸震套筒,吸震套筒,Bubble Wrap,振動吸収スリーブ,충격 흡수 슬리브
-607250,940mm碳纤维枪管,940mm碳纖維槍管,940mm Carbon Fiber Barrel,940mmカーボンバレル,940Mm탄소 섬유 총열
+607250,940mm碳纤维枪管,940mm碳纖維槍管,940mm Carbon Fiber Barrel,940mmカーボンバレル,940mm 탄소 섬유 총열
 607251,千里之外,千裏之外,Faraway Shot,遥か彼方,천리 밖
-607350,730mm龙骑兵枪管,730mm龍騎兵槍管,730mm Dragoon Barrel,730mmドラグーンバレル,730Mm드라군 총열
-607351,狂热,狂熱,Fever,熱狂,광란
-608010,KM-PS标准枪托,KM-PS標準槍托,KM-PS Standard Stock,KM-PS標準ストック,KM-PS 일반 개머리판
+607350,730mm龙骑兵枪管,730mm龍騎兵槍管,730mm Dragoon Barrel,730mmドラグーンバレル,730mm 드라군 총열
+607351,狂热,狂熱,Fever,熱狂,열광
+608010,KM-PS标准枪托,KM-PS標準槍托,KM-PS Standard Stock,KM-PS標準ストック,KM-PS 표준 개머리판
 608020,STF战术枪托,STF戰術槍托,STF Tactical Stock,STF戦術ストック,STF 전술 개머리판
-608030,ZKVS折叠枪托,ZKVS折疊槍托,ZKVS Folding Stock,ZKVS折り畳み式銃床,ZKVS접이식 개머리
-608040,P-3伸缩枪托,P-3伸縮槍托,P-3 Collapsible Stock,P-3伸縮式銃床,P-3신축형 개머리
-608050,BLAS轻型枪托,BLAS輕型槍托,BLAS Light Stock,BLAS軽量型銃床,BLAS경량형 개머리
-608051,轻盈,輕盈,Featherlight,軽量,가벼운
-608150,AMRS5代射手枪托,AMRS5代射手槍托,AMRS5 Sniper Stock,AMRS第5世代スナイパー銃床,AMRS5대사 개머리
-608151,射手嗅觉,射手嗅覺,Sniper Instinct,スナイパーの嗅覚,저격수의 촉각
-608250,GN定位系统枪托,GN定位系統槍托,GN Positioning System Stock,GNポジショニングシステム付き銃床,Gn위치 시스템 개머리
-608251,定位,定位,Positioning,ポジショニング,위치기반
-608350,P-5RP重型枪托,P-5RP重型槍托,P-5RP Heavy Stock,P-5RP大型銃床,P-5RP헤비형 개머리
-608351,断骨,斷骨,Fracture,大打撃,뼈 부러짐
-608450,CORE减震枪托,CORE減震槍托,CORE Shock-Absorbing Stock,CORE抗振動銃床,CORE충격 완화 개머리
-608451,控制增强,控制增強,Enhanced Control,より優れた制御力,제어력 증가
-609010,BOP小型收束环,BOP小型收束環,BOP Compact Choke,BOP小型チョーク,BOP소형 밴드링
-609020,ECB联动收束环,ECB聯動收束環,ECB Choke,ECB連動チョーク,ECB 연동 초크루프
-609030,RPT制退收束环,RPT制退收束環,RPT Recoil Choke,RPT制退チョーク,RPT구속 밴드링
-609040,DC组合收束环,DC組合收束環,DC Composite Choke,DC結合型チョーク,DC조합 밴드링
-609050,SS-1消音收束套件,SS-1消音收束套件,SS-1 Suppressor Choke Kit,SS-1消音コンバージャーキット,SS-1소음 밴드 키트
+608030,ZKVS折叠枪托,ZKVS折疊槍托,ZKVS Folding Stock,ZKVS折り畳み式銃床,ZKVS 접이식 개머리판
+608040,P-3伸缩枪托,P-3伸縮槍托,P-3 Collapsible Stock,P-3伸縮式銃床,P-3 신축형 개머리판
+608050,BLAS轻型枪托,BLAS輕型槍托,BLAS Light Stock,BLAS軽量型銃床,BLAS 경량형 개머리판
+608051,轻盈,輕盈,Featherlight,軽量,경량
+608150,AMRS5代射手枪托,AMRS5代射手槍托,AMRS5 Sniper Stock,AMRS第5世代スナイパー銃床,AMRS5 저격총 개머리판
+608151,射手嗅觉,射手嗅覺,Sniper Instinct,スナイパーの嗅覚,사수의 후각
+608250,GN定位系统枪托,GN定位系統槍托,GN Positioning System Stock,GNポジショニングシステム付き銃床,GN 조절식 개머리판
+608251,定位,定位,Positioning,ポジショニング,위치 조정
+608350,P-5RP重型枪托,P-5RP重型槍托,P-5RP Heavy Stock,P-5RP大型銃床,P-5RP 중형 개머리판
+608351,断骨,斷骨,Fracture,大打撃,골절
+608450,CORE减震枪托,CORE減震槍托,CORE Shock-Absorbing Stock,CORE抗振動銃床,CORE 충격 흡수 개머리판
+608451,控制增强,控制增強,Enhanced Control,より優れた制御力,제어 강화
+609010,BOP小型收束环,BOP小型收束環,BOP Compact Choke,BOP小型チョーク,BOP 소형 초크
+609020,ECB联动收束环,ECB聯動收束環,ECB Choke,ECB連動チョーク,ECB 연동 초크
+609030,RPT制退收束环,RPT制退收束環,RPT Recoil Choke,RPT制退チョーク,RPT 리코일 초크
+609040,DC组合收束环,DC組合收束環,DC Composite Choke,DC結合型チョーク,DC 복합 초크
+609050,SS-1消音收束套件,SS-1消音收束套件,SS-1 Suppressor Choke Kit,SS-1消音コンバージャーキット,SS-1 소음 초크 키트
 609051,擦伤,擦傷,Abrasion,すり傷,찰과상
-609150,TTD多功能收束装置,TTD多功能收束裝置,TTD Multi-Purpose Choke,TTD多機能コンバージャー装置,TTD다기능 밴드 장치
-609151,冷静时刻,冷靜時刻,Clarity,冷静な瞬間,고요한 순간
-609250,EGD-7能量集束装置,EGD-7能量集束裝置,EGD-7 Energy Cluster,EGD-7エネルギー集束装置,EGD-7에너지 클러스터링 장치
+609150,TTD多功能收束装置,TTD多功能收束裝置,TTD Multi-Purpose Choke,TTD多機能コンバージャー装置,TTD 다목적 초크
+609151,冷静时刻,冷靜時刻,Clarity,冷静な瞬間,냉정한 순간
+609250,EGD-7能量集束装置,EGD-7能量集束裝置,EGD-7 Energy Cluster,EGD-7エネルギー集束装置,EGD-7 에너지 집속 장치
 609251,延迟扩散,延遲擴散,Delayed Diffusion,拡散を延長,지연 확산
-609350,DDS-B3延迟爆裂装置,DDS-B3延遲爆裂裝置,DDS-B3 Blast Mitigation Choke,DDS-B3バースト延長装置,DDS-B3지연 폭파 장치
-609351,迸发,迸發,Burst Out,炸裂,터져 나오다
-610010,PBN消音器,PBN消音器,PBN Suppressor,PBNサイレンサー,PBN소음기
-610020,R43消音器,R43消音器,R43 Suppressor,R43サイレンサー,R43소음기
-610030,TI-R消音器,TI-R消音器,TI-R Suppressor,TI-Rサイレンサー,TI-R소음기
-610040,FANG消音器,FANG消音器,FANG Suppressor,FANGサイレンサー,FANG소음기
-610050,OSP新型消音器,OSP新型消音器,OSP New Model Suppressor,OSP新型サイレンサー,OSP신형소음기
-610051,奇袭,奇襲,Elimination,奇襲,기이한 기습
-610150,HX-E涡流消音器,HX-E渦流消音器,HX-E Vortex Suppressor,HX-Eボルテックスサイレンサー,HX-E와류 소음기
+609350,DDS-B3延迟爆裂装置,DDS-B3延遲爆裂裝置,DDS-B3 Blast Mitigation Choke,DDS-B3バースト延長装置,DDS-B3 폭발 완화 초크
+609351,迸发,迸發,Burst Out,炸裂,작렬
+610010,PBN消音器,PBN消音器,PBN Suppressor,PBNサイレンサー,PBN 소음기
+610020,R43消音器,R43消音器,R43 Suppressor,R43サイレンサー,R43 소음기
+610030,TI-R消音器,TI-R消音器,TI-R Suppressor,TI-Rサイレンサー,TI-R 소음기
+610040,FANG消音器,FANG消音器,FANG Suppressor,FANGサイレンサー,FANG 소음기
+610050,OSP新型消音器,OSP新型消音器,OSP New Model Suppressor,OSP新型サイレンサー,OSP 신형 소음기
+610051,奇袭,奇襲,Elimination,奇襲,기습
+610150,HX-E涡流消音器,HX-E渦流消音器,HX-E Vortex Suppressor,HX-Eボルテックスサイレンサー,HX-E  와류 소염기
 610151,行动补偿,行動補償,Compensation,行動補償,행동 보상
-610250,FDS9消音套件,FDS9消音套件,FDS9 Suppressor Kit,FDS9消音キット,FDS9소음 키트
+610250,FDS9消音套件,FDS9消音套件,FDS9 Suppressor Kit,FDS9消音キット,FDS9 소음 키트
 610251,暗杀,暗殺,Assassination,暗殺,암살
-610350,PBS-8U消音装置,PBS-8U消音裝置,PBS-8U Suppressor Kit,PBS-8U消音装置,PBS-8U소음 장치
-610351,处决,處決,Execution,処刑,척결
-611010,IAS-B01火控芯片,IAS-B01火控晶片,IAS-B01 Fire-Control Chip,IAS-B01射撃統制チップ,IAS-B01화력 제어칩
-611020,IAS-B10火控芯片,IAS-B10火控晶片,IAS-B10 Fire-Control Chip,IAS-B10射撃統制チップ,IAS-B10화력 제어칩
-611030,IAS-B11火控芯片,IAS-B11火控晶片,IAS-B111 Fire-Control Chip,IAS-B11射撃統制チップ,IAS-B11화력 제어칩
-611040,IAS-B100火控芯片,IAS-B100火控晶片,IAS-B100 Fire-Control Chip,IAS-B100射撃統制チップ,IAS-B100화력 제어칩
-611050,IAS-B00O超频芯片,IAS-B00O超頻晶片,IAS-B00O Overclocked Chip,IAS-B00Oオーバークロックチップ,IAS-B00O오버클러킹 칩
-611051,支援运算,支援運算,Support Algorithm,演算支援,지원 계산
-611150,ALO9090高性能芯片组,ALO9090高性能晶片組,ALO9090 High-Performance Chipset,ALO9090高性能チップセット,ALO9090고성능 칩셋
-611151,智能学习,智能學習,AI Learning,セミオートラーニング,지능형 학습
-611250,XM4微型芯片,XM4微型晶片,XM4 Microchip,XM4マイクロチップ,XM4마이크로칩
-611251,行动预判,行動預判,Prediction,行動を予測,행동 예측 판단
-612040,优质伯劳骨骼,優質伯勞骨骼,Quality Shrike Bone-1,上質なシュライクの骨,양질의 슈라이크 골격
-612050,伯劳再生骨骼,伯勞再生骨骼,Regenerating Shrike Bone,シュライクの再生骨,슈라이크 재생 골격
-612051,磨砺,磨礪,Practice,錬磨,숫돌
-612150,变异生骸獠牙,變異生骸獠牙,Mutated ELID Fang,変異した生骸の牙,돌연변이 생해 송곳니
-612151,绝命,絕命,Desperation,絶命,절명의
-612250,坚韧伯劳透明软骨,堅韌伯勞透明軟骨,Hard Shrike Cartilage,強靭なシュライクの透明軟骨,끈질긴 슈라이크 투명 연골
-612251,一鼓作气,一鼓作氣,Ready to Strike,一気に攻める,한꺼번에
-613040,优质伯劳肌腹,優質伯勞肌腹,Quality Shrike Belly,上質なシュライクの腹,양질의 슈라이크 복근
-613050,强健伯劳肌腱,強健伯勞肌腱,Sturdy Shrike Tendon,強靭なシュライクの腱,강한 슈라이크 근육
-613051,破格,破格,Unique,破格,규칙을 깨다
+610350,PBS-8U消音装置,PBS-8U消音裝置,PBS-8U Suppressor Kit,PBS-8U消音装置,PBS-8U 소음기
+610351,处决,處決,Execution,処刑,처형
+611010,IAS-B01火控芯片,IAS-B01火控晶片,IAS-B01 Fire-Control Chip,IAS-B01射撃統制チップ,IAS-B01 사격통제칩
+611020,IAS-B10火控芯片,IAS-B10火控晶片,IAS-B10 Fire-Control Chip,IAS-B10射撃統制チップ,IAS-B10 사격통제칩
+611030,IAS-B11火控芯片,IAS-B11火控晶片,IAS-B111 Fire-Control Chip,IAS-B11射撃統制チップ,IAS-B11 사격통제칩
+611040,IAS-B100火控芯片,IAS-B100火控晶片,IAS-B100 Fire-Control Chip,IAS-B100射撃統制チップ,IAS-B100 사격통제칩
+611050,IAS-B00O超频芯片,IAS-B00O超頻晶片,IAS-B00O Overclocked Chip,IAS-B00Oオーバークロックチップ,IAS-B00O 오버클럭 칩
+611051,支援运算,支援運算,Support Algorithm,演算支援,연산 지원
+611150,ALO9090高性能芯片组,ALO9090高性能晶片組,ALO9090 High-Performance Chipset,ALO9090高性能チップセット,ALO9090 고성능 칩셋
+611151,智能学习,智能學習,AI Learning,セミオートラーニング,지능 학습
+611250,XM4微型芯片,XM4微型晶片,XM4 Microchip,XM4マイクロチップ,XM4 마이크로칩
+611251,行动预判,行動預判,Prediction,行動を予測,행동 예측
+612040,优质伯劳骨骼,優質伯勞骨骼,Quality Shrike Bone-1,上質なシュライクの骨,고급 슈라이크 뼈
+612050,伯劳再生骨骼,伯勞再生骨骼,Regenerating Shrike Bone,シュライクの再生骨,슈라이크 재생 뼈
+612051,磨砺,磨礪,Practice,錬磨,연마
+612150,变异生骸獠牙,變異生骸獠牙,Mutated ELID Fang,変異した生骸の牙,돌연변이 시생물 송곳니
+612151,绝命,絕命,Desperation,絶命,절명
+612250,坚韧伯劳透明软骨,堅韌伯勞透明軟骨,Hard Shrike Cartilage,強靭なシュライクの透明軟骨,튼튼한 슈라이크 투명 연골
+612251,一鼓作气,一鼓作氣,Ready to Strike,一気に攻める,일제 공격
+613040,优质伯劳肌腹,優質伯勞肌腹,Quality Shrike Belly,上質なシュライクの腹,고급 슈라이크 복부
+613050,强健伯劳肌腱,強健伯勞肌腱,Sturdy Shrike Tendon,強靭なシュライクの腱,튼튼한 슈라이크 근육
+613051,破格,破格,Unique,破格,파격
 613150,活性伯劳平滑肌纤维,活性伯勞平滑肌纖維,Active Shrike Muscle Fiber,活性化されたシュライクの平滑筋繊維,활성 슈라이크 평활근 섬유
 613151,活性应变,活性應變,Active Adaptation,柔軟に活性化,활성 변화
 613250,硬化伯劳心肌纤维,硬化伯勞心肌纖維,Sclerotic Shrike Myocardial Fiber,硬化したシュライクの心筋繊維,경화 슈라이크 심근 섬유
-613251,先声夺人,先聲奪人,Preemptive Strike,機先を制する,먼저 시작하다
-614040,吞噬性伯劳血液,吞噬性伯勞血液,Phagocytic Shrike Blood,貪食性のシュライクの血液,탄서성 슈라이크 혈액
+613251,先声夺人,先聲奪人,Preemptive Strike,機先を制する,선제 공격
+614040,吞噬性伯劳血液,吞噬性伯勞血液,Phagocytic Shrike Blood,貪食性のシュライクの血液,식세포성 슈라이크 혈액
 614050,伯劳造血活性骨髓,伯勞造血活性骨髓,Active Shrike Bone Marrow,シュライクの造血活性骨髓,슈라이크 피 활성 골수
-614051,生长因子,生長因數,Growth Factor,成長因子,성장인자
-614150,精粹伯劳血清,精粹伯勞血清,Essential Shrike Serum,純粋なシュライクの血清,파편화된 슈라이크 혈청
-614151,能量再生,能量再生,Energy Regen,エネルギー再生,에너지재생
+614051,生长因子,生長因數,Growth Factor,成長因子,성장 인자
+614150,精粹伯劳血清,精粹伯勞血清,Essential Shrike Serum,純粋なシュライクの血清,순수한 슈라이크 혈청
+614151,能量再生,能量再生,Energy Regen,エネルギー再生,에너지 재생
 614250,伯劳高蛋白原液,伯勞高蛋白原液,High Protein Shrike Substance,シュライクの高タンパク原液,슈라이크 고단백 원액
 614251,烙印,烙印,Stigmata,烙印,낙인
-712040,优质伯劳骨骼-1,優質伯勞骨骼-1,Quality Shrike Bone-1,上質なシュライクの骨-1,양질의 슈라이크 골격-1
-712050,伯劳再生骨骼,伯勞再生骨骼,Regenerating Shrike Bone,シュライクの再生骨,슈라이크 재생 골격
-712150,变异生骸獠牙,變異生骸獠牙,Mutated ELID Fang,変異した生骸の牙,돌연변이 생해 송곳니
-712250,坚韧伯劳透明软骨,堅韌伯勞透明軟骨,Hard Shrike Cartilage,強靭なシュライクの透明軟骨,끈질긴 슈라이크 투명 연골
-812040,优质伯劳骨骼-2,優質伯勞骨骼-2,Quality Shrike Bone-2,上質なシュライクの骨-2,양질의 슈라이크 골격-2
-812050,伯劳再生骨骼,伯勞再生骨骼,Regenerating Shrike Bone,シュライクの再生骨,슈라이크 재생 골격
-812150,变异生骸獠牙,變異生骸獠牙,Mutated ELID Fang,変異した生骸の牙,돌연변이 생해 송곳니
-812250,坚韧伯劳透明软骨,堅韌伯勞透明軟骨,Hard Shrike Cartilage,強靭なシュライクの透明軟骨,끈질긴 슈라이크 투명 연골
-713040,优质伯劳肌腹,優質伯勞肌腹,Quality Shrike Belly,上質なシュライクの腹,양질의 슈라이크 복근
-713050,强健伯劳肌腱,強健伯勞肌腱,Sturdy Shrike Tendon,強靭なシュライクの腱,강한 슈라이크 근육
+712040,优质伯劳骨骼-1,優質伯勞骨骼-1,Quality Shrike Bone-1,上質なシュライクの骨-1,고급 슈라이크 뼈-1
+712050,伯劳再生骨骼,伯勞再生骨骼,Regenerating Shrike Bone,シュライクの再生骨,슈라이크 재생 뼈
+712150,变异生骸獠牙,變異生骸獠牙,Mutated ELID Fang,変異した生骸の牙,돌연변이 시생물 송곳니
+712250,坚韧伯劳透明软骨,堅韌伯勞透明軟骨,Hard Shrike Cartilage,強靭なシュライクの透明軟骨,튼튼한 슈라이크 투명 연골
+812040,优质伯劳骨骼-2,優質伯勞骨骼-2,Quality Shrike Bone-2,上質なシュライクの骨-2,고급 슈라이크 뼈-2
+812050,伯劳再生骨骼,伯勞再生骨骼,Regenerating Shrike Bone,シュライクの再生骨,슈라이크 재생 뼈
+812150,变异生骸獠牙,變異生骸獠牙,Mutated ELID Fang,変異した生骸の牙,돌연변이 시생물 송곳니
+812250,坚韧伯劳透明软骨,堅韌伯勞透明軟骨,Hard Shrike Cartilage,強靭なシュライクの透明軟骨,튼튼한 슈라이크 투명 연골
+713040,优质伯劳肌腹,優質伯勞肌腹,Quality Shrike Belly,上質なシュライクの腹,고급 슈라이크 복부
+713050,强健伯劳肌腱,強健伯勞肌腱,Sturdy Shrike Tendon,強靭なシュライクの腱,튼튼한 슈라이크 근육
 713150,活性伯劳平滑肌纤维,活性伯勞平滑肌纖維,Active Shrike Muscle Fiber,活性化されたシュライクの平滑筋繊維,활성 슈라이크 평활근 섬유
 713250,硬化伯劳心肌纤维,硬化伯勞心肌纖維,Sclerotic Shrike Myocardial Fiber,硬化したシュライクの心筋繊維,경화 슈라이크 심근 섬유
-714040,吞噬性伯劳血液,吞噬性伯勞血液,Phagocytic Shrike Blood,貪食性のシュライクの血液,탄서성 슈라이크 혈액
+714040,吞噬性伯劳血液,吞噬性伯勞血液,Phagocytic Shrike Blood,貪食性のシュライクの血液,식세포성 슈라이크 혈액
 714050,伯劳造血活性骨髓,伯勞造血活性骨髓,Active Shrike Bone Marrow,シュライクの造血活性骨髓,슈라이크 피 활성 골수
-714150,精粹伯劳血清,精粹伯勞血清,Essential Shrike Serum,純粋なシュライクの血清,파편화된 슈라이크 혈청
+714150,精粹伯劳血清,精粹伯勞血清,Essential Shrike Serum,純粋なシュライクの血清,순수한 슈라이크 혈청
 714250,伯劳高蛋白原液,伯勞高蛋白原液,High-Protein Shrike Substance,シュライクの高タンパク原液,슈라이크 고단백 원액
 9000230,瞄准镜,瞄準鏡,Sight,照準鏡,조준경
 9000240,反射式瞄准镜,反射式瞄準鏡,Reflex Sight,反射式照準鏡,반사형 조준경
 9000250,红外瞄准镜,紅外瞄準鏡,Infrared Sight,赤外線照準鏡,적외선 조준경
 9000260,消声器,消聲器,Suppressor,サイレンサー,소음기
 9000261,消声器,消聲器,Suppressor,サイレンサー,소음기
-9000270,旧式脉冲机,舊式脈衝機,Retired Pulser,旧型パルスマシン,오래된 펄스
-9000280,新式脉冲机,新式脈衝機,New-Type Pulser,新型パルスマシン,신식 펄스
+9000270,旧式脉冲机,舊式脈衝機,Retired Pulser,旧型パルスマシン,구형 펄스
+9000280,新式脉冲机,新式脈衝機,New-Type Pulser,新型パルスマシン,신형 펄스
 9000290,特殊脉冲机,特殊脈衝機,Unique Pulser,特殊パルスマシン,특수 펄스
-9000300,轻型枪管,輕型槍管,Light Barrel,軽量型バレル,경량형 총열
-9000310,中型枪管,中型槍管,Standard Barrel,中型バレル,중형 총열
-9000320,重型枪管,重型槍管,Heavy Barrel,大型バレル,헤비형 총열
+9000300,轻型枪管,輕型槍管,Light Barrel,軽量型バレル,경량 총열
+9000310,中型枪管,中型槍管,Standard Barrel,中型バレル,표준 총열
+9000320,重型枪管,重型槍管,Heavy Barrel,大型バレル,중형 총열

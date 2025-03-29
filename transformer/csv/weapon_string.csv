@@ -4,18 +4,18 @@ b1fe1faac4f33d324ed339cf3c4171e7,雪鹱,雪鸌,Petrel,ユキドリ,흰바다제�
 626eec8b938d8e30d1fff56deec16871,阿特洛波斯,阿特洛波斯,Atropos,アトロポス,아트로포스
 0fa4a34525fa6e3bd6c5c6411c4967d1,幼蟒,幼蟒,Python,リトルアナコンダ,리틀 아나콘다
 a16db2357d31d054997ed97ba7f7864b,水牛,水牛,Bison,バッファロー,버팔로
-b54a6010a971ede2d1097ecea6665d90,巨蝮蛇,巨蝮蛇,Viper,ラケシス,거대 살모사
+b54a6010a971ede2d1097ecea6665d90,巨蝮蛇,巨蝮蛇,Viper,ラケシス,자이언트 바이퍼
 c093f589e4f00b6704ad1836e48128ee,AT-77U,AT-77U,AT-77U,AT-77U,AT-77U
-692179169143b4573c3ceed06be04e89,飞蜥,飛蜥,Draco,アガマ,하늘을 나는 도마뱀
+692179169143b4573c3ceed06be04e89,飞蜥,飛蜥,Draco,アガマ,날도마뱀
 a2fddd436793f6c2d93439ad052a83dd,OSK,OSK,OSK,OSK,OSK
 9924d4dca8919f500bb3dd829aa4fcef,剑羚,劍羚,Oryx,オリックス,오릭스
 2c894a852693ea099973c253629be9fd,虎鲸,虎鯨,Orca,シャチ,범고래
 cfd9a17a2124ba82f881b5d94e780413,流星,流星,Meteor,流星,유성
-5fe2df8c3cfa7fc107222f785f45a671,骨刃,骨刃,Bone Blade,ボーンブレード,뼈칼날
-fe0909e366c59de6a1c7cb4eaddac228,飞刃,飛刃,Throwing Knife,フライングブレード,날으는 칼날
-e3f0e849382c1ddaa4a50d6ab489526d,鼬鲨,鼬鯊,Shark,イタチザメ,범 상어
-3fed449d34ee22f86379bdc58b08803e,凝血匕首,凝血匕首,Coagulating Dagger,血液凝固ナイフ,응고된 피의 단검
-7f60d137faf75f22dfef8af88f7ca9e5,凝血骨刃,凝血骨刃,Coagulating Bone Blade,血液凝固ボーンブレード,응고된 피의 뼈칼날
+5fe2df8c3cfa7fc107222f785f45a671,骨刃,骨刃,Bone Blade,ボーンブレード,골도
+fe0909e366c59de6a1c7cb4eaddac228,飞刃,飛刃,Throwing Knife,フライングブレード,비도
+e3f0e849382c1ddaa4a50d6ab489526d,鼬鲨,鼬鯊,Shark,イタチザメ,뱀상어
+3fed449d34ee22f86379bdc58b08803e,凝血匕首,凝血匕首,Coagulating Dagger,血液凝固ナイフ,응혈 단도
+7f60d137faf75f22dfef8af88f7ca9e5,凝血骨刃,凝血骨刃,Coagulating Bone Blade,血液凝固ボーンブレード,응혈 골도
 2a7f28d535ca718c7846d9ec6022f24f,SVP-79,SVP-79,SVP-79,SVP-79,SVP-79
 a69e4e8c7557cb5a6cb799858af808e5,AT-77,AT-77,AT-77,AT-77,AT-77
 446687ea2db1ada75be5ed053be77f59,PLN,PLN,PLN,PLN,PLN
@@ -23,47 +23,47 @@ a69e4e8c7557cb5a6cb799858af808e5,AT-77,AT-77,AT-77,AT-77,AT-77
 10be4f77c4f02a5d7ba722b756fe4f0a,MPN-6,MPN-6,MPN-6,MPN-6,MPN-6
 0f6f0416988712658f39de262e42334a,KG-11,KG-11,KG-11,KG-11,KG-11
 929caee44468c9180f403c249cf85a53,PPC-86,PPC-86,PPC-86,PPC-86,PPC-86
-8dd00ea4d2c8d0aa560ba99d0dac19e3,生骸特化机枪,生骸特化機槍,ELID Dominator,生骸専用機関銃,생해 특화 기관총
-da590637f7df2c696eb115ed54e45ce7,反装甲重机枪,反裝甲重機槍,Anti-Armor Heavy Machine Gun,対戦車重機関銃,반장갑 중기관총
-4defacd7564ad95d2380b82e5c3e3434,轻型双管机枪,輕型雙管機槍,Lightweight Double-Barreled Machine Gun,軽量型ダブルバレル機関銃,경량 이중 총열 기관총
+8dd00ea4d2c8d0aa560ba99d0dac19e3,生骸特化机枪,生骸特化機槍,ELID Dominator,生骸専用機関銃,시생물 특화 기관총
+da590637f7df2c696eb115ed54e45ce7,反装甲重机枪,反裝甲重機槍,Anti-Armor Heavy Machine Gun,対戦車重機関銃,대장갑 중기관총
+4defacd7564ad95d2380b82e5c3e3434,轻型双管机枪,輕型雙管機槍,Lightweight Double-Barreled Machine Gun,軽量型ダブルバレル機関銃,경량형 더블베럴 기관총
 5a6c450dc32e0f06237f256a542b36a5,热追踪机枪,熱追蹤機槍,Heatseeker Machine Gun,赤外線付き機関銃,열추척 기관총
-0d00477dd324c3cb1d80afdec94c9f63,激光发射器,鐳射發射器,Laser Cannon,レーザー発射器,레이저 송신기
+0d00477dd324c3cb1d80afdec94c9f63,激光发射器,鐳射發射器,Laser Cannon,レーザー発射器,레이저 발사기
 6d01f49874733436c8dc6fefb3fe63a7,裂爪,裂爪,Rending Claw,裂爪,예리한 발톱
 d1d3c6fcdbd0ef3e88b8e0cb769e5bcb,巨石,巨石,Megalith,巨石,거석
-1d5bd61421ab1c0a0b42635e510c5903,腔刺,腔刺,Impaler,穿刺,가슴 찌르기
+1d5bd61421ab1c0a0b42635e510c5903,腔刺,腔刺,Impaler,穿刺,꿰버리기
 53e35da25cee178415e81ffa9d216d04,藤鞭,藤鞭,Vine Whip,つるのムチ,덩굴 채찍
-96b49527c8eb8ea9f8506bbd288dc33a,异变厄须,異變厄須,Mutated Tentacle,変異エシュ,돌연변이 우르수
-14c383a8e3577607d49fbe7abc3be188,地刺,地刺,Thorn,棘,땅의 가시
-937b1d1a3d5fbaa209da680b4318b506,异变刃爪,異變刃爪,Mutated Blade Claw,変異ブレードクロー,돌연변이 칼날 발톱
+96b49527c8eb8ea9f8506bbd288dc33a,异变厄须,異變厄須,Mutated Tentacle,変異エシュ,변이 촉수
+14c383a8e3577607d49fbe7abc3be188,地刺,地刺,Thorn,棘,가시
+937b1d1a3d5fbaa209da680b4318b506,异变刃爪,異變刃爪,Mutated Blade Claw,変異ブレードクロー,변이 칼날 발톱
 06654ade699a063ccd47fcb7e71446ca,恶魔之眼,惡魔之眼,Demonic Eye,悪魔の眼,악마의 눈
-78affde6f53dc89121d8bf4dc875b7b8,荆棘藤鞭,荊棘藤鞭,Thorny Vine Whip,イバラのつるのムチ,가시 덩굴
+78affde6f53dc89121d8bf4dc875b7b8,荆棘藤鞭,荊棘藤鞭,Thorny Vine Whip,イバラのつるのムチ,가시덩굴 채찍
 58cc8d2a765219b449a810675f00a572,IDW,IDW,IDW,IDW,IDW
 cc50185722f306b3a6c33365007a234e,M500,M500,M500,M500,M500
-a1ea4f13fc11bccd8ee30f295804c610,FI M82,FI M82,FI M82,FI M82,FI M82
-5383648d00483b524943a020d8771d75,Gr P2000,Gr P2000,Gr P2000,Gr P2000,Gr P2000
-6b453900523558027dfb25b6edb41ffe,海姆达炮,海姆達炮,Heimdall Cannon,ヘルムダ砲,헤임다 캐논
-cff438ca4516b0012fdc71a58d38eacd,干扰车不显示武器,,,,
-652698052b04941461b012dd7fd71b4b,全自动步枪,全自動步槍,Automatic Rifle,全自動ライフル,완전 자동 소총
-c9ca4633cf05ddbdc766a0df3ffc26fb,联动重机枪,聯動重機槍,Multi-Barreled Heavy Machine Gun,連動重機関銃,연동헤비형기관총
+a1ea4f13fc11bccd8ee30f295804c610,FI M82,FI M82,FI M82,FI M82,M82
+5383648d00483b524943a020d8771d75,Gr P2000,Gr P2000,Gr P2000,Gr P2000,P2000
+6b453900523558027dfb25b6edb41ffe,海姆达炮,海姆達炮,Heimdall Cannon,ヘルムダ砲,헤임달 포
+cff438ca4516b0012fdc71a58d38eacd,干扰车不显示武器,,,,재머는 무기 표시 없음
+652698052b04941461b012dd7fd71b4b,全自动步枪,全自動步槍,Automatic Rifle,全自動ライフル,전자동 소총
+c9ca4633cf05ddbdc766a0df3ffc26fb,联动重机枪,聯動重機槍,Multi-Barreled Heavy Machine Gun,連動重機関銃,연동형 중기관총
 5112bfc725150ebadb30edc5f58b7584,脉冲重机枪,脈衝重機槍,Charged Heavy Autocannon,パルス重機関銃,펄스 중기관총
-a03dcbdbb9c03ad3223fd0c7492b6185,高压电击,高壓電擊,Thunderbolt,高圧電撃,고전압 감전
-a589e7ce9c059a92b61cb24b30e1a316,双管轻机枪,雙管輕機槍,Double-Barreled Light Machine Gun,ダブルバレル軽機関銃,쌍관경형기관총
+a03dcbdbb9c03ad3223fd0c7492b6185,高压电击,高壓電擊,Thunderbolt,高圧電撃,고압 전격
+a589e7ce9c059a92b61cb24b30e1a316,双管轻机枪,雙管輕機槍,Double-Barreled Light Machine Gun,ダブルバレル軽機関銃,더블베럴 경기관총
 410cf1dd728e9564d00b0d4a771e6b05,难民运输车武器(无用),難民運輸車武器(無用),,難民トラック武器（使用不可）,난민 수송차 무기(쓸모없음)
 e0a9f68eb46cf561e68fd80905bfa4c8,SSR-4B,SSR-4B,SSR-4B,SSR-4B,SSR-4B
 6fef235464537ced2ad269e23ee99f51,IM-153,IM-153,IM-153,IM-153,IM-153
 3ce4ef3a7a84fdef3621339666595dd3,“粉碎者”重机枪,“粉碎者”重機槍,"""Smasher"" Heavy Machine Gun",重機関銃「クラッシャー」,‘스매셔’중기관총
 56c7c3116f54f054dcdac167922f3a57,自动防卫机枪,自動防衛機槍,Automated Defense Machine Gun,セントリーガン,자동 방위 기관총
 c60a613dfd624a778fb1698120dbc8a6,装置武器,裝置武器,,装置型武器,장치 무기
-66574696e1250dbcda31d858ffac9f74,车武器,車武器,,車型武器,차무기
-73fb557297700b2e23101ed01b500bd6,机械爪,機械爪,Mechanical Claw,機械の爪,기계 손톱
+66574696e1250dbcda31d858ffac9f74,车武器,車武器,,車型武器,차량 무기
+73fb557297700b2e23101ed01b500bd6,机械爪,機械爪,Mechanical Claw,機械の爪,기계식 손톱
 68a4500b7987c911705348acd22f9a8c,RPM-2,RPM-2,RPM-2,RPM-2,RPM-2
 ffa8ded1fb3a5669059324a25ff3a094,RPT-83,RPT-83,RPT-83,RPT-83,RPT-83
 65d3c05b83319a718930efc5324f6ae5,多用途破甲炮,多用途破甲炮,Multi-Purpose Armor Piercing Cannon,多用途破甲砲,다목적 철갑포
 554106c5c7f97596b0d456a88ad94fdc,多用途重机枪,多用途重機槍,Multi-Purpose Heavy Machine Gun,多用途重機関銃,다목적 중기관총
-1fa0c6b0d2786500b33ba6b344b4137f,重型巨炮,重型巨炮,Heavy Cannon,重型キャノン,헤비형 대포
+1fa0c6b0d2786500b33ba6b344b4137f,重型巨炮,重型巨炮,Heavy Cannon,重型キャノン,중형 포
 f88b52f7a33a5110f60ae04a24c736fa,蚀爪,蝕爪,Corroded Claw,蝕爪,부식된 손톱
-859d0dd997a2f83225bd9b0ab2fe8733,雏血,雛血,Hatchling Blood,雛の血,처녀의 피
-2aed5043f220b1aa4a107e78bffd3fad,伯劳晶核,伯勞晶核,Shrike Core,シュライクのチップコア,슈라이크 수정 코어
-5704ec60220006358414b1aa0b354c46,血淤,血淤,Blood Clot,うっ血,어혈
+859d0dd997a2f83225bd9b0ab2fe8733,雏血,雛血,Hatchling Blood,雛の血,부화 혈액
+2aed5043f220b1aa4a107e78bffd3fad,伯劳晶核,伯勞晶核,Shrike Core,シュライクのチップコア,슈라이크 코어
+5704ec60220006358414b1aa0b354c46,血淤,血淤,Blood Clot,うっ血,혈전
 6902d76cea698982754404da77e5e08a,UAV,UAV,UAV,UAV,UAV
-71fd6afd55b5479f5aba00db98b9e65c,特殊0号武器,,,,
+71fd6afd55b5479f5aba00db98b9e65c,特殊0号武器,,,,특수 0호무기

@@ -22,10 +22,10 @@ key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
 10080210,战中,戰中,In Battle,戦闘中,전투 중
 10080310,战后,戰後,Post-Battle,戦後,전투 후
 10080410,尾声,尾聲,Finale,終幕,결말
-100810110,小憩,小憩,Intermission,小休止,낮잠
-20030110,序幕1,序幕1,Prologue 1,序幕1,서막 １
+100810110,小憩,小憩,Intermission,小休止,휴식
+20030110,序幕1,序幕1,Prologue 1,序幕1,서막1
 20030210,主题曲,主題曲,Theme Song,テーマ曲,주제곡
-20030310,序幕2,序幕2,Prologue 2,序幕2,서막 2
+20030310,序幕2,序幕2,Prologue 2,序幕2,서막2
 20030410,战前,戰前,Pre-Battle,戦前,전투 전
 20030510,战后,戰後,Post-Battle,戦後,전투 후
 20030610,尾声,尾聲,Finale,終幕,결말
@@ -44,7 +44,7 @@ key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
 20080110,战前,戰前,Pre-Battle,戦前,전투 전
 20080210,战后,戰後,Post-Battle,戦後,전투 후
 20080310,尾声,尾聲,Finale,エピローグ,결말
-200810110,小憩,小憩,Intermission,小休止,낮잠
+200810110,小憩,小憩,Intermission,小休止,휴식
 20100110,战前,戰前,Pre-Battle,戦前,전투 전
 20100210,战中,戰中,In Battle,戦闘中,전투 중
 20102310,战后,戰後,Post-Battle,戦後,전투 후
@@ -56,7 +56,7 @@ key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
 20140210,战中,戰中,In Battle,戦闘中,전투 중
 20140310,战后,戰後,Post-Battle,戦後,전투 후
 20140410,尾声,尾聲,Finale,エピローグ,결말
-201410110,小憩,小憩,Intermission,小休止,낮잠
+201410110,小憩,小憩,Intermission,小休止,휴식
 30000110,序幕,序幕,Prologue,プロローグ,서막
 30000210,战前,戰前,Pre-Battle,戦前,전투 전
 30000310,战中,戰中,In Battle,戦闘中,전투 중
@@ -76,7 +76,7 @@ key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
 30160110,战前,戰前,Pre-Battle,戦前,전투 전
 30160210,战后,戰後,Post-Battle,戦後,전투 후
 30160310,尾声,尾聲,Finale,エピローグ,결말
-301610110,小憩,小憩,Intermission,小休止,낮잠
+301610110,小憩,小憩,Intermission,小休止,휴식
 30120110,战前,戰前,Pre-Battle,戦前,전투 전
 30120210,战中,戰中,In Battle,戦闘中,전투 중
 30120310,战后,戰後,Post-Battle,戦後,전투 후
@@ -109,7 +109,7 @@ key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
 40020410,尾声,尾聲,Finale,エピローグ,결말
 40030110,战前,戰前,Pre-Battle,戦前,전투 전
 40030210,尾声,尾聲,Finale,エピローグ,결말
-400310110,小憩,小憩,Intermission,小休止,낮잠
+400310110,小憩,小憩,Intermission,小休止,휴식
 40040110,战前,戰前,Pre-Battle,戦前,전투 전
 40040210,战后,戰後,Post-Battle,戦後,전투 후
 40040310,尾声,尾聲,Finale,エピローグ,결말
@@ -126,7 +126,7 @@ key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
 40070220,战中2,戰中2,In Battle 2,戦闘中2,전투 중2
 40070310,战后,戰後,Post-Battle,戦後,전투 후
 40070410,尾声,尾聲,Finale,エピローグ,결말
-400710110,小憩,小憩,Intermission,小休止,낮잠
+400710110,小憩,小憩,Intermission,小休止,휴식
 40080110,战前,戰前,Pre-Battle,戦前,전투 전
 40080210,战后1,戰後1,Post-Battle 1,戦後1,전투 후1
 40080220,战后2,戰後2,Post-Battle 2,戦後2,전투 후2
@@ -191,9 +191,9 @@ key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
 40210110,战前,戰前,Pre-Battle,戦前,전투 전
 40210210,战后,戰後,Post-Battle,戦後,전투 후
 40210310,尾声,尾聲,Finale,エピローグ,결말
-402110110,小憩,小憩,Intermission,小休止,낮잠
+402110110,小憩,小憩,Intermission,小休止,휴식
 40220110,战前,戰前,Pre-Battle,戦前,전투 전
-40220210,战中1,戰中1,In Battle 1 ,戦闘中1,전투 중1
+40220210,战中1,戰中1,In Battle 1,戦闘中1,전투 중1
 40220220,战中2,戰中2,In Battle 2,戦闘中2,전투 중2
 40220310,战中3,戰中3,In Battle 3,戦闘中3,전투 중3
 40220410,战中4,戰中4,In Battle 4,戦闘中4,전투 중4
@@ -209,7 +209,7 @@ key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
 40240210,战中,戰中,In Battle,戦闘中,전투 중
 40240310,战后,戰後,Post-Battle,戦後,전투 후
 40240410,尾声,尾聲,Finale,エピローグ,결말
-402410110,小憩,小憩,Intermission,小休止,낮잠
+402410110,小憩,小憩,Intermission,小休止,휴식
 40250110,战前,戰前,Pre-Battle,戦前,전투 전
 40250210,战中1,戰中1,In Battle 1,戦闘中1,전투 중1
 40250310,战中2,戰中2,In Battle 2,戦闘中2,전투 중2
@@ -253,7 +253,7 @@ key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
 40330110,战前,戰前,Pre-Battle,戦前,전투 전
 40330210,战后,戰後,Post-Battle,戦後,전투 후
 40330310,尾声,尾聲,Finale,エピローグ,결말
-403310110,小憩,小憩,Intermission,小休止,낮잠
+403310110,小憩,小憩,Intermission,小休止,휴식
 40340110,战前,戰前,Pre-Battle,戦前,전투 전
 40340210,战中1,戰中1,In Battle 1,戦闘中1,전투 중1
 40340310,战中2,戰中2,In Battle 2,戦闘中2,전투 중2
@@ -261,7 +261,7 @@ key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
 40340510,尾声1,尾聲1,Finale 1,エピローグ1,결말1
 40340610,尾声2,尾聲2,Finale 2,エピローグ2,결말2
 40340620,尾声3,尾聲3,Finale 3,エピローグ3,결말3
-403410110,小憩,小憩,Intermission,小休止,낮잠
+403410110,小憩,小憩,Intermission,小休止,휴식
 40350110,战前,戰前,Pre-Battle,戦前,전투 전
 40350210,战中,戰中,In Battle,戦闘中,전투 중
 40350310,战后,戰後,Post-Battle,戦後,전투 후
