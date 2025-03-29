@@ -8,6 +8,7 @@
 |:---------------------:|:----------|
 |                       | 안해도 됨 |
 | :black_square_button: | 아직 안함 |
+| :one:                 | 하는 중   |
 | :white_check_mark:    | 했음      |
 <!-- :negative_squared_cross_mark: -->
 <!-- :black_square_button: -->
@@ -28,7 +29,7 @@
 | 11  | `levelbrief_string.csv`                  |:white_check_mark:   |:black_square_button:| 스테이지 명칭 및 배경지역명, 시간대, 스테이지 요약 텍스트 |
 | 12  | `levelinfo_string.csv`                   |:white_check_mark:   |:black_square_button:| 스테이지 명칭                           |
 | 13  | `levelmission_string.csv`                |:white_check_mark:   |:black_square_button:| 승리조건                              |
-| 14  | `loadingtips_string.csv`                 |:black_square_button:|:black_square_button:| 로딩 중 한줄 팁 스크립트                    |
+| 14  | `loadingtips_string.csv`                 |:on:                 |:black_square_button:| 로딩 중 한줄 팁 스크립트                    |
 | 15  | `modes_string.csv`                       |:black_square_button:|:black_square_button:| 새 게임 시작 시 난이도 설명                  |
 | 16  | `playback_string.csv`                    |:white_check_mark:   |:black_square_button:| 스테이지 전, 후 단계                      |
 | 17  | `saveinfo_string.csv`                    |:black_square_button:|:black_square_button:| ?                                 |
@@ -38,8 +39,8 @@
 | 21  | `secretgeneinfo_string.csv`              |:black_square_button:|:black_square_button:| 유니크 스킬 설명                         |
 | 22  | `skill_string.csv`                       |:white_check_mark:   |:black_square_button:| 스킬 설명                             |
 | 23  | `skillbuff_string.csv`                   |:white_check_mark:   |:black_square_button:| 상태이상 등                            |
-| 24  | `storydialog_string.csv`                 |:black_square_button:|:black_square_button:| 메인 스토리 대사                         |
-| 25  | `storyoption_string.csv`                 |:white_check_mark:   |:black_square_button:| ?                                 |
+| 24  | `storydialog_string.csv`                 |:on:                 |:black_square_button:| 메인 스토리 대사                         |
+| 25  | `storyoption_string.csv`                 |:white_check_mark:   |:black_square_button:| 스토리 도중 선택지                      |
 | 26  | `storypuzzle_string.csv`                 |:white_check_mark:   |:black_square_button:| 4장 [대치] 선택지                       |
 | 27  | `string_string.csv`                      |:white_check_mark:   |:black_square_button:| UI 텍스트                            |
 | 28  | `terrainblock_string.csv`                |:black_square_button:|:black_square_button:| 맵 블록 명칭과 설명                       |
@@ -105,7 +106,7 @@
 | 88  | `uiroleprofile_string.csv`               |                     |                     | ?                                 |
 | 89  | `uiscout_string.csv`                     |                     |                     | ?                                 |
 | 90  | `uiscoutbattle_string.csv`               |                     |                     | ?                                 |
-| 91  | `uisearchlight_string.csv`               |                     |                     | v` - 서치라이트 조작 UI                  |
+| 91  | `uisearchlight_string.csv`               |                     |                     | 서치라이트 조작 UI                  |
 | 92  | `uisecretdocment_string.csv`             |                     |                     | 기밀문서 ui                           |
 | 93  | `uisecretdocplay_string.csv`             |                     |                     | ?                                 |
 | 94  | `uisecretgenetips_string.csv`            |                     |                     | ?                                 |
