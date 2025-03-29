@@ -1,0 +1,20 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_joystick_changeweapon_word,切换,切換,Switch,切替,교체
+text_unitbattleinfo,角色详情,角色詳情,Status,詳細,인물 정보
+text_joystick_unitbattleinfo,角色详情,角色詳情,Status,詳細,인물 정보
+text_unitbattleinfo_hoverunit,角色详情,角色詳情,Status,詳細,인물 정보
+text_joystick_unitbattleinfo_hoverunit,角色详情,角色詳情,Status,詳細,인물 정보
+text_or,或,或,or,又は,선택
+text_mission_1,任务目标,任務目標,Mission Objectives,作戦目標,임무 목표
+text_mission_2,失败条件,失敗條件,Failure Conditions,失敗条件,실패 조건
+text_endturn,结束回合,結束回合,End Turn,ターン終了,턴 종료
+text_terrain_buff,地形详情,地形詳情,Terrain Details,地形情報,지형 정보
+text_keyboard_battle_terrainbuff,L,L,L,L,L
+text_hideshortcut,快捷按键,快捷按鍵,Hotkeys,クイックキー,단축키
+text_levelitem_static,关键道具,關鍵道具,Key Items,キーアイテム,키 아이템
+text_speedup,快进,快進,Speed Up,早送り,빨리감기
+text_sunmountain_word,山体,山體,Mountain,山体,산체
+text_biggirl_switch_shortcut_keyboard,X,X,X,X,X
+text_biggirl_switch_text,切换攻击部位,切換攻擊部位,Switch Target,攻撃部位変更,공격 부위 변경
+text_biggirl_right_text,暗红手臂,清灰手臂,Gray Arm,クリーニングアーム,회색 팔뚝
+text_biggirl_left_text,清灰手臂,暗紅手臂,Crimson Arm,ダークレッドアーム,검붉은 팔뚝

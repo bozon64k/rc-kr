@@ -1,0 +1,7 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_mode,选择游戏模式,選擇遊戲模式,Select Game Mode,ゲームモードの選択,게임 모드 선택
+text_changemode_tip,只能切换至难度更低的模式,只能切換至難度更低的模式,Can only switch to an easier mode,難易度のより低いモードにのみ変更できます,난이도가 더 낮은 모드로만 전환 가능합니다.
+text_easy_plus,休闲²,休閒²,Casual²,カジュアル²,쉬움²
+text_easy,休闲,休閒,Casual,カジュアル,쉬움
+text_normal,标准,標準,Standard,ノーマル,일반
+text_hard,挑战,挑戰,Challenge,チャレンジ,도전

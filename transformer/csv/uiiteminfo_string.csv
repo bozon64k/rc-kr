@@ -1,0 +1,20 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_title,单位详情,物品詳情,Item Details,アイテム情報,아이템 정보
+text_ap,AP,AP,AP,AP,AP
+text_sp,SP,SP,SP,SP,SP
+text_ability,属性 ,屬性 ,Attributes,ステータス,능력치
+text_specialability,特质,特質,Traits,特質,특성
+text_leave,离开,離開,Exit,戻る,나가기
+text_checkattr,属性详情,屬性詳情,Detailed Attributes:,ステータス詳細,능력치 정보
+text_level,等级：,等級：,Level:,レベル：,레벨:
+text_normalweapon_title,武器,武器,Weapon,武器,무기
+text_weapon_ap_cost_word_1,AP消耗 ,AP 消耗 ,AP Cost,AP消費,AP 소비
+text_talent_title_1,技能,技能,Skill,スキル,스킬
+text_bodyweapon_title,武器,武器,Weapon,武器,무기
+text_talent_title_2,技能,技能,Skill,スキル,스킬
+text_normalweapon_playergroup_title_1,武器,武器,Weapon,武器,무기
+text_weapon_ap_cost_word_2,AP消耗 ,AP 消耗 ,AP Cost,AP消費,AP 소비
+text_bodyweapon_player_title,武器,武器,Weapon,武器,무기
+text_talent_title_remake,技能,技能,Skill,スキル,스킬
+text_normalweapon_playergroup_title_2,武器,武器,Weapon,武器,무기
+text_weapon_ap_cost_word_remake,AP消耗 ,AP 消耗 ,AP Cost,AP消費,AP 소비

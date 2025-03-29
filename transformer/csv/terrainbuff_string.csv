@@ -1,0 +1,131 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+10,休憩之所,休憩之所,Resting Place,休憩所,휴식처
+11,回合结束时，恢复生命值上限的20%。,回合結束時，恢復生命值上限的20%。,"At the end of the turn, recover 20% of Max HP.",ターン終了時、最大HPの20%が回復する。,"턴 종료 시, HP 상한의 20% 회복."
+20,燃烧地面,燃燒地面,Booby-Trap,燃え盛る地面,지면 불태우기
+21,回合结束时，敌方单位受到生命值上限20%的伤害。,回合結束時，敵方單位受到生命值上限20%的傷害。,"At the end of the turn, take damage equal to 20% of Max HP.",ターン終了時、敵ユニット最大HPの20%のダメージを受ける。,턴 종료 시 적군 유닛이 HP 상한 20%의 데미지를 입습니다.
+30,火堆,火堆,Burning Fire,たき火,불더미
+31,回合结束时，受到生命值上限20%的伤害。,回合結束時，受到生命值上限20%的傷害。,"At the end of the turn, take damage equal to 20% of Max HP.",ターン終了時、最大HPの20%のダメージを受ける。,"턴 종료 시, 최대 HP 20%의 데미지를 입습니다."
+40,碉堡,碉堡,Pillbox,トーチカ,토치카
+41,受到的伤害降低50%。,受到的傷害降低50%。,Reduce 50% damage taken,受けるダメージが50%減少する。,받은 데미지가 50% 줄어듭니다.
+50,全息砂石,全像砂石,Holographic Gravel,ホログラフィックデコイ,홀로그램 그래블
+51,敌方单位在范围内移动时每1格消耗的AP+1。,敵方單位在範圍內移動時每1格消耗的AP+1。,Enemy units moving within range consume an additional 1 AP per tile.,敵ユニットが範囲内で移動する際、1マスあたりの消費AP+1。,적군 유닛이 범위 내에서 이동할 시 1타일 당 소모하는 AP +1.
+60,全息砂石,全息砂石,Holographic Gravel,ホログラフィックデコイ,홀로그램 그래블
+61,敌方单位在范围内移动时每1格消耗的AP+1。,敵方單位在範圍內移動時每1格消耗的AP+1。,Enemy units moving within range consume an additional 1 AP per tile.,敵ユニットが範囲内で移動する際、1マスあたりの消費AP+1。,적군 유닛이 범위 내에서 이동할 시 1타일 당 소모하는 AP +1.
+70,全息砂石,全息砂石,Holographic Gravel,ホログラフィックデコイ,홀로그램 그래블
+71,敌方单位在范围内移动时每1格消耗的AP+2。,敵方單位在範圍內移動時每1格消耗的AP+2。,Enemy units moving within range consume an additional 2 AP per tile.,敵ユニットが範囲内で移動する際、1マスあたりの消費AP+2。,적군 유닛이 범위 내에서 이동할 시 1타일 당 소모하는 AP +2.
+80,粘液,粘液,Mucus,粘液,점액
+81,敌方单位在范围内移动时每1格消耗的AP+3。,敵方單位在範圍內移動時每1格消耗的AP+3。,Enemy units moving within range consume an additional 3 AP per tile.,敵ユニットが範囲内で移動する際、1マスあたりの消費AP+3。,적군 유닛이 범위 내에서 이동할 시 1타일 당 소모하는 AP +3.
+90,粘液,粘液,Mucus,粘液,점액
+91,己方单位在范围内移动时每1格消耗的AP+3。,己方單位在範圍內移動時每1格消耗的AP+3。,Enemy units moving within range consume an additional 3 AP per tile.,味方ユニットが範囲内で移動する際、1マスあたりの消費AP+3。,아군 유닛이 범이 내에서 이동 시 1타일 당 소모하는 AP +3.
+100,伤害,傷害,Damage,ダメージ,데미지
+101,回合结束时，受到生命值上限20%的伤害。,回合結束時，受到生命值上限20%的傷害。,"At the end of the turn, take damage equal to 20% of Max HP.",ターン終了時、最大HPの20%のダメージを受ける。,"턴 종료 시, 최대 HP 20%의 데미지를 입습니다."
+110,伤害,傷害,Damage,ダメージ,데미지
+111,回合结束时，受到生命值上限20%的伤害。,回合結束時，受到生命值上限20%的傷害。,"At the end of the turn, take damage equal to 20% of Max HP.",ターン終了時、最大HPの20%のダメージを受ける。,"턴 종료 시, 최대 HP 20%의 데미지를 입습니다."
+120,血雾,血霧,Blood Mist,血の霧,피의 안개
+121,己方单位在血雾内移动时每1格消耗的AP+1。每当己方人类单位接触到血雾时，获得1次“细胞破败”效果，持续1回合，该效果可叠加，以及“血液侵蚀”状态，持续2回合。,己方單位在血霧內移動時每1格消耗的AP+1。每當己方人類單位接觸到血霧時，獲得1次“細胞破敗”效果，持續1回合，該效果可疊加，以及“血液侵蝕”狀態，持續2回合。,"Enemy units moving within the Blood Mist consume an additional 1 AP per 1 tile. Whenever an enemy Human unit comes into the contact with the blood mist, they are affected with ""Cellular Decay"" status, lasts 1 turn, this effect can be stacked. Additionally, they are affected with ""Blood Coagulation"", which lasts for 2 turns.",味方ユニットが血の霧の中で移動する際、1マスあたりの消費AP+1。1ターンの間、敵の人間ユニットが血の霧に接触するたびに、「細胞破壊」効果を1回得る。この効果はスタックされ、同時に2ターンの間、「血液侵蝕」状態になる。,"아군 유닛이 피의 안개 내에서 이동 시 1타일 당 소모하는 AP +1. 아군 인간 유닛이 피의 안개에 접촉할 시, 한번의 ‘세포 파괴’ 효과를 얻습니다. 1턴 유지. 해당 효과는 중첩이 가능하며, ‘혈액 침식’ 상태는 2턴 유지됩니다."
+130,燃烧地面,燃燒地面,Burning Ground,燃え盛る地面,지면 불태우기
+131,回合结束时，己方单位受到生命值上限20%的伤害。,回合結束時，己方單位受到生命值上限20%的傷害。,"At the end of the turn, take damage equal to 20% of Max HP.",ターン終了時、味方ユニット最大HPの20%のダメージを受ける。,"턴 종료 시, 아군 유닛은 HP 상한 20%의 데미지를 받습니다."
+140,腐溃浸染,腐潰浸染,Festering Erosion,腐乱汚染,부패 침식
+141,回合结束时，己方单位受到生命值上限50%的伤害。,回合結束時，己方單位受到生命值上限50%的傷害。,Allied units take damage equal to 50% of their Max HP at the end of the turn.,ターン終了時、味方ユニット最大HPの50%のダメージを受ける。,"턴 종료 시, 아군 유닛은 HP 상한 50%의 데미지를 받습니다."
+150,腐溃浸染,腐潰浸染,Festering Erosion,腐乱汚染,부패 침식
+151,回合结束时，回复伯劳意识体1%生命。,回合結束時，回復伯勞意識體1%生命。,"At the end of turn, Shrike Consciousness recovers 1% HP.",ターン終了時、シュライク意識体のHPが1%回復する。,"턴 종료 시, 슈라이크 의식체 1%의 HP 회복."
+160,腐溃浸染,腐潰浸染,Festering Erosion,腐乱汚染,부패 침식
+161,回合结束时，己方人类单位受到生命值上限10%的伤害。,回合結束時，己方人類單位受到生命值上限10%的傷害。,Allied human units take damage equal to 10% of their Max HP at the end of the turn.,ターン終了時、味方人間ユニット最大HPの10%のダメージを受ける。,"턴 종료 시, 아군 인간 유닛은 HP 상한 10%의 데미지를 받습니다."
+170,腐溃浸染,腐潰浸染,Festering Erosion,腐乱汚染,부패 침식
+171,回合结束时，敌方人类单位受到生命值上限30%的伤害。,回合結束時，敵方人類單位受到生命值上限30%的傷害。,Enemy human units take damage equal to 30% of their Max HP at the end of the turn.,ターン終了時、敵人間ユニット最大HPの30%のダメージを受ける。,"턴 종료 시, 적군 인간 유닛은 HP 상한 30%의 데미지를 받습니다."
+180,血雾,血霧,Blood Mist,血の霧,피의 안개
+181,经过血雾，命中-1，回避-1，若诺耶露β经过血雾，攻击+2。,經過血霧，命中-1，回避-1，若諾耶露β經過血霧，攻擊+2。,"After passing through Blood Mist, ACC -1, Evasion -1. If Noylu 尾 passed through Blood Mist, ATK+2.",血の霧を通過すると、命中-1、回避-1。ノエルβが血の霧を通過すると攻撃+2。,"피의 안개를 지나, 명중 -1, 회피 -1, 만약 노엘르β가 피의 안개를 지나가면 공격 +2."
+190,血雾,血霧,Blood Mist,血の霧,피의 안개
+191,诺耶露β若已在、经过血雾，攻击+2,諾耶露β若已在、經過血霧，攻擊+2,"If Noylu 尾 is in or has passed through the Blood Mist, ATK +2",ノエルβがすでにいる場合、血の霧を通過すると攻撃+2,"노엘르β가 이미 있고 피의 안개를 지나가면, 공격 +2."
+200,血液陷阱,血液陷阱,Blood Trap,血液トラップ,피의 함정
+201,若引爆，则对范围内的敌方伯劳单位造成500伤害，同时使目标受到的伤害提升200%。\n若目标为“白糖Σ”，则额外使对方进入“结构崩解”状态。\n结构崩解：特质“异构生命体”失效。,若引爆，則對範圍內的敵方伯勞單位造成500傷害，同時使目標受到的傷害提升200%。\n若目標為“白糖Σ”，則額外使對方進入“結構崩解”狀態。\n結構崩解：特質“異構生命體”失效。,"If detonated, it deals 500 damage if detonated, and 700% increased damage to Shrike units within range. \n""Structural collapse"" is also applied if the unit is Sugar 危. \nStructural Collapse: the ""Heterogeneous Life Form"" trait loses its effect.",爆発すると、範囲内の敵シュライクユニットに500のダメージを与えると同時に、ターゲットが受けるダメージが200%増加する。\nターゲットが「シュガーΣ」である場合、さらに対象が「構造崩壊」状態になる。\n構造崩壊：特質「異性生命体」が無効になる。,"만약 폭발하면 범위 내의 적군 슈라이크 유닛에 500 데미지를 주고, 동시에 표적이 받은 데미지는 200% 상승합니다. \n만약 표적이 ‘설탕Σ’이면, 추가로 상대가 ‘구조 붕괴’ 상태에 진입합니다. \n구조 붕괴: 특성 ‘다른 구조의 생명체’가 효력을 잃습니다."
+210,简易工事,簡易工事,Simple Construction,簡易工事,간이공사
+211,己方单位闪避+10，受到的伤害降低20%。,己方單位閃避+10，受到的傷害降低20%。,"EVA +10, reduce 20% damage taken.",味方ユニット回避+10、受けるダメージが20%減少。,"아군 유닛 회피 +10, 받은 데미지 20% 감소."
+220,简易工事,簡易工事,Simple Construction,簡易工事,간이공사
+221,己方单位命中+10、闪避+10，受到的伤害降低20%。,己方單位命中+10、閃避+10，受到的傷害降低20%。,"ACC +10, EVA +10, reduce 20% damage taken.",味方ユニット命中が+10、回避が+10、受けるダメージが20%減少する。,"아군 유닛 명중 +10, 회피 +10, 받은 데미지 20% 감소."
+230,简易工事,簡易工事,Simple Construction,簡易工事,간이공사
+231,己方单位命中+15、闪避+15，受到的伤害降低30%。,己方單位命中+15、閃避+15，受到的傷害降低30%。,"ACC +10, EVA +15, reduce 30% damage taken.",味方ユニット命中が+15、回避が+15、受けるダメージが30%減少する。,"아군 유닛 명중 +15, 회피 +15, 받은 데미지 30% 감소."
+240,简易工事,簡易工事,Simple Construction,簡易工事,간이공사
+241,己方单位命中+15、闪避+15，受到的伤害降低30%。,己方單位命中+15、閃避+15，受到的傷害降低30%。,"ACC +15, EVA +15, reduce 30% damage taken.",味方ユニット命中が+15、回避が+15、受けるダメージが30%減少する。,"아군 유닛 명중 +15, 회피 +15, 받은 데미지 30% 감소."
+250,简易工事,簡易工事,Simple Construction,簡易工事,간이공사
+251,己方单位命中+20、闪避+20，受到的伤害降低50%。,己方單位命中+20、閃避+20，受到的傷害降低50%。,"ACC +20, EVA +20, reduce 50% damage taken.",味方ユニット命中が+20、回避が+20、受けるダメージが50%減少する。,"아군 유닛 명중 +20, 회피 +20, 받은 데미지 50% 감소."
+260,浊雾,濁霧,Dense Fog,スモッグ,짙은 안개
+261,若敌方人类单位接触到浊雾时，则进入“衰竭”状态，持续1回合。,若敵方人類單位接觸到濁霧時，則進入“衰竭”狀態，持續1回合。,"If an enemy human unit comes into contact with the dense fog, inflict ""Exhausted"" for 1 turn.",敵の人間ユニットがスモッグに触れると、1ターンの間、「衰弱」状態になる。,"적군 인간 유닛이 짙은 안개를 만나면 '쇠진' 상태에 진입하고, 1턴 유지."
+270,浊雾,濁霧,Dense Fog,スモッグ,짙은 안개
+271,若敌方人类单位接触到浊雾时，则进入“衰竭”状态，持续1回合，以及“禁疗”状态，持续1回合。,若敵方人類單位接觸到濁霧時，則進入“衰竭”狀態，持續1回合，以及“禁療”狀態，持續1回合。,"If an enemy human unit comes into contact with the dense fog, inflict ""Exhausted"" and ""Disorganized"" for 1 turn.",敵の人間ユニットがスモッグに触れると、1ターンの間、「衰弱」状態および「治療不可」状態になる。,"적군 인간 유닛이 짙은 안개에 접촉하면 '쇠진' 상태에 진입하며, 1턴 유지, 또한 '힐밴' 상태 1턴 유지."
+280,浊雾,濁霧,Dense Fog,スモッグ,짙은 안개
+281,若敌方人类单位接触到浊雾时，则进入“衰竭”状态，持续1回合，以及“紊乱”状态，持续1回合。,若敵方人類單位接觸到濁霧時，則進入“衰竭”狀態，持續1回合，以及“紊亂”狀態，持續1回合。,"If an enemy human unit comes into contact with the dense fog, inflict ""Exhausted"" and ""Disorganized"" for 1 turn.",敵の人間ユニットがスモッグに触れると、1ターンの間、「衰弱」状態および「びん乱」状態になる。,"적군 인간 유닛이 짙은 안개에 접촉하면 '쇠진' 상태에 진입하며, 1턴 유지, 또한 '혼란'상태 1턴 유지."
+290,浊雾,undefined,undefined,undefined,undefined
+291,应该已不用了。若还能看到，可能是bug。,undefined,undefined,undefined,undefined
+300,浊雾,undefined,undefined,undefined,undefined
+301,应该已不用了。若还能看到，可能是bug。,undefined,undefined,undefined,undefined
+310,浊雾,undefined,undefined,undefined,undefined
+311,应该已不用了。若还能看到，可能是bug。,undefined,undefined,undefined,undefined
+320,浊雾,undefined,undefined,undefined,undefined
+321,应该已不用了。若还能看到，可能是bug。,undefined,undefined,undefined,undefined
+330,浊雾,undefined,undefined,undefined,undefined
+331,应该已不用了。若还能看到，可能是bug。,undefined,undefined,undefined,undefined
+340,浊雾,undefined,undefined,undefined,undefined
+341,应该已不用了。若还能看到，可能是bug。,undefined,undefined,undefined,undefined
+350,浊雾,undefined,undefined,undefined,undefined
+351,应该已不用了。若还能看到，可能是bug。,undefined,undefined,undefined,undefined
+360,炙热燃油,炙熱燃油,Scalding Fuel,燃え盛る油,뜨거운 연료
+361,回合结束时，敌方单位受到生命值上限20%的伤害。,回合結束時，敵方單位受到生命值上限20%的傷害。,"At the end of the turn, take damage equal to 20% of Max HP.",ターン終了時、敵ユニット最大HPの20%のダメージを受ける。,턴 종료 시 적군 유닛이 HP 상한 20%의 데미지를 받습니다.
+370,傀儡复生,傀儡複生,Puppet Resurrection,ダミー復活,부활한 꼭두각시
+371,转变为伯劳单位时，对指定位置造成648伤害。,轉變為伯勞單位時，對指定位置造成648傷害。,Deal 648 damage to the designated location when the unit is transformed into a Shrike.,シュライクユニットに変わると、指定した位置に648のダメージを与える。,"슈라이크 유닛으로 변할 때, 지정 위치에 648 데미지를 줍니다."
+380,地形解析,地形解析,Terrain Analysis,地形解析,지형 분석
+381,己方单位的地形属性效果×1.5。,己方單位的地形屬性效果×1.5。,Terrains become 1.5x more effective.,味方ユニット地形のステータス効果×1.5。,아군 유닛의 지형 능력치 효과 X 1.5.
+390,地形解析,地形解析,Terrain Analysis,地形解析,지형 분석
+391,己方单位的地形属性效果×1.5，同时己方单位在范围内移动时每1格消耗的AP-1（消耗的AP最低为1）。,己方單位的地形屬性效果×1.5，同時己方單位在範圍內移動時每1格消耗的AP-1（消耗的AP最低為1）。,"Terrains become 1.5x more effective, allied units moving within the range consume -1 AP Cost per tile. (AP Cost cannot go below 1).",味方ユニット地形のステータス効果×1.5。同時に、味方ユニットが範囲内で移動する際の1マスあたりの消費AP-1（最小消費APは1）。,"아군 유닛의 지형 능력치 효과 X 1.5, 동시에 아군 유닛이 범이 내에서 이동 시 1타일 당 소모하는 AP -1 (소모하는 AP 최저는 1)."
+400,地形解析,地形解析,Terrain Analysis,地形解析,지형 분석
+401,己方单位的地形属性效果×1.5，同时己方单位在范围内移动时每1格消耗的AP-1（消耗的AP最低为1），以及敌方单位在范围内移动时每1格消耗的AP+1。,己方單位的地形屬性效果×1.5，同時己方單位在範圍內移動時每1格消耗的AP-1（消耗的AP最低為1），以及敵方單位在範圍內移動時每1格消耗的AP+1。,"Terrains become 1.5x more effective, allied units moving within the range consume -1 AP Cost per tile. (AP Cost cannot go below 1). Additionally, enemy units moving within the area consume +1 AP Cost per tile.",味方ユニット地形のステータス効果×1.5。同時に、味方ユニットが範囲内で移動する際の1マスあたりの消費AP-1（最小消費APは1）、敵ユニットが範囲内で移動する際の1マスあたりの消費AP＋1。,"아군 유닛의 지형 능력치 효과 X 1.5, 동시에 아군 유닛이 범이 내에서 이동 시 1타일 당 소모하는 AP -1 (소모하는 AP 최저는 1), 또한 적군 유닛이 범위 내에서 이동 시 1타일 당 소모하는 AP +1."
+410,地形解析,地形解析,Terrain Analysis,地形解析,지형 분석
+411,己方单位的地形属性效果×2，同时己方单位在范围内移动时每1格消耗的AP-1（消耗的AP最低为1），以及敌方单位在范围内移动时每1格消耗的AP+1。,己方單位的地形屬性效果×2，同時己方單位在範圍內移動時每1格消耗的AP-1（消耗的AP最低為1），以及敵方單位在範圍內移動時每1格消耗的AP+1。,"Terrains become 2x more effective, allied units moving within the range consume -1 AP Cost per tile. (AP Cost cannot go below 1). Additionally, enemy units moving within the area consume +1 AP Cost per tile.",味方ユニット地形のステータス効果×2。同時に、味方ユニットが範囲内で移動する際の1マスあたりの消費AP-1（最小消費APは1）、敵ユニットが範囲内で移動する際の1マスあたりの消費AP＋1。,"아군 유닛의 지형 능력치 효과 X 2, 동시에 아군 유닛이 범이 내에서 이동 시 1타일 당 소모하는 AP -1 (소모하는 AP 최저는 1), 또한 적군 유닛이 범위 내에서 이동 시 1타일 당 소모하는 AP +1."
+420,地形解析,地形解析,Terrain Analysis,地形解析,지형 분석
+421,己方单位的地形属性效果×2，同时己方单位在范围内移动时每1格消耗的AP-2（消耗的AP最低为1），以及敌方单位在范围内移动时每1格消耗的AP+2。,己方單位的地形屬性效果×2，同時己方單位在範圍內移動時每1格消耗的AP-2（消耗的AP最低為1），以及敵方單位在範圍內移動時每1格消耗的AP+2。,"Terrains become 2x more effective, allied units moving within the range consume -2 AP Cost per tile. (AP Cost cannot go below 1). Additionally, enemy units moving within the area consume +2 AP Cost per tile.",味方ユニット地形のステータス効果×2。同時に、味方ユニットが範囲内で移動する際の1マスあたりの消費AP-2（最小消費APは1）、敵ユニットが範囲内で移動する際の1マスあたりの消費AP＋2。,"아군 유닛의 지형 능력치 효과 X 2, 동시에 아군 유닛이 범이 내에서 이동 시 1타일 당 소모하는 AP -2 (소모하는 AP 최저는 1), 또한 적군 유닛이 범위 내에서 이동 시 1타일 당 소모하는 AP +2."
+430,燃烧地面,燃燒地面,Splashing Flames,燃え盛る地面,지면 불태우기
+431,回合结束时，己方单位受到生命值上限20%的伤害。,回合結束時，己方單位受到生命值上限20%的傷害。,Allied units take damage equal to 20% of Max HP at the end of the turn.,行動終了時、味方ユニットが最大HPの20%のダメージを受ける。,"턴 종료 시, 아군 유닛이 최대 HP 20%의 데미지를 입습니다."
+440,迫击炮,迫擊炮,Mortar,追撃砲,충격포
+441,受到的伤害降低40%。,受到的傷害降低40%。,Reduce 40% damage taken.,受けるダメージが40%減少する。,받은 데미지 40% 감소.
+450,血雾,血霧,Blood Mist,血の霧,피의 안개
+451,敌方单位在血雾内移动时每1格消耗的AP+1。每当敌方人类单位接触到血雾时，获得1次“细胞破败”效果，持续1回合，该效果可叠加，以及“血液侵蚀”状态，持续2回合。,敵方單位在血霧內移動時每1格消耗的AP+1。每當敵方人類單位接觸到血霧時，獲得1次“細胞破敗”效果，持續1回合，該效果可疊加，以及“血液侵蝕”狀態，持續2回合。,"Enemy units moving within the Blood Mist consume an additional 1 AP per 1 tile. Whenever an enemy Human unit comes into the contact with the blood mist, they are affected with ""Cellular Decay"" status, lasts 1 turn, this effect can be stacked. Additionally, they are affected with ""Blood Coagulation"", which lasts for 2 turns.",敵ユニットが血の霧の中で移動する際、1マスあたりの消費AP+1。1ターンの間、敵の人間ユニットが血の霧に接触するたびに、「細胞破壊」効果を1回得る。この効果はスタックされ、同時に2ターンの間、「血液侵蝕」状態になる。,"적군 유닛이 피의 안개에서 이동할 시 1타일 당 소모하는 AP +1. 적군 인간 유닛이 피의 안개에 접촉할 시, '세포 파괴' 효과 1회 획득, 1턴 유지, 해당 효과는 중첩이 가능하며, '혈액 침식' 상태는 2턴 유지."
+460,全息砂石,全息砂石,Holographic Gravel,ホログラフィックデコイ,홀로그램 그래블
+461,敌方单位在范围内移动时每1格消耗的AP+3。,敵方單位在範圍內移動時每1格消耗的AP+3。,Enemy units moving within range consume an additional 3 AP per tile.,敵ユニットが範囲内で移動する際、1マスあたりの消費AP+3。,적군 유닛이 범위 내에서 이동할 시 1타일 당 소모하는 AP +3.
+470,声波测距仪,聲波測距儀,Sonar Scanner,低周波音距離測定器,음파 거리 측정기
+471,己方角色在范围内移动时每1格消耗的AP-1（最低为1）。,己方角色在範圍內移動時每1格消耗的AP-1（最低為1）。,Allied units consume -1 AP Cost per tile when moving within the range (minimum 1 AP).,味方ユニットが範囲内で移動する際の1マスあたりの消費AP-1（最小は1）。,아군 캐릭터가 범위 내에서 이동 시 한 타일당 소모하는 AP -1(최저는1).
+480,声波测距仪,聲波測距儀,Sonar Scanner,低周波音距離測定器,음파 거리 측정기
+481,己方角色在范围内移动时每1格消耗的AP-2（最低为1）。,己方角色在範圍內移動時每1格消耗的AP-2（最低為1）。,Allied units consume -2 AP Cost per tile when moving within the range (minimum 1 AP).,味方ユニットが範囲内で移動する際の1マスあたりの消費AP-2（最小は1）。,아군 캐릭터가 범위 내에서 이동 시 한 타일당 소모하는 AP -2(최저는1).
+490,血雾,血霧,Blood Mist,血の霧,피의 안개
+491,己方单位在血雾内移动时每1格消耗的AP+1。每当己方人类单位接触到血雾时，获得1次“细胞破败”效果，持续1回合，该效果可叠加，以及“血液侵蚀”状态，持续2回合。,己方單位在血霧內移動時每1格消耗的AP+1。每當己方人類單位接觸到血霧時，獲得1次“細胞破敗”效果，持續1回合，該效果可疊加，以及“血液侵蝕”狀態，持續2回合。,"The  movement AP for each tile is increased cost by 1 for allied units inside the blood mist. When an allied human unit comes into contact with the blood mist, inflict 1 stack of <color=#d7abff>""Cellular Decay""</color> for 1 turn (can be stacked), and <color=#d7abff>""Blood Erosion""</color> for 2 turns.",味方ユニットが血の霧の中で移動する際、1マスあたりの消費AP+1。1ターンの間、味方の人間ユニットが血の霧に接触するたびに、「細胞破壊」効果を1回得る。この効果はスタックされ、同時に2ターンの間、「血液侵蝕」状態になる。,"아군 유닛이 피의 안개에서 이동할 시 1타일 당 소모하는 AP +1. 아군 인간 유닛이 피의 안개에 접촉할 시, '세포 파괴' 효과 1회 획득, 1턴 유지, 해당 효과는 중첩이 가능하며, '혈액 침식' 상태는 2턴 유지."
+500,高浓核心,高濃核心,High-density Core,高濃度コア,고농도 코어
+501,使己方单位进入“核心亏蚀”状态，持续1回合。以及“高浓核心”状态。（特质“完全免疫体”、“奇异抗体”和“异常抗性”无法免疫该状态）,使己方單位進入“核心虧蝕”狀態，持續1回合。以及“高濃核心”狀態。（特質“完全免疫體”、“奇異抗體”和“異常抗性”無法免疫該狀態）,"Inflict ""Core Corruption"" status on enemy units, lasts 1 turn, as well as the ""High-density Core"" status.",1ターンの間、味方ユニットが「コア侵蝕」状態になり、さらに「高濃度コア」状態になる。(特性「完全免疫体」、「 異様抗体」、「異常耐性」はこの状態に無効）,"아군 유닛이 ‘코어 결손’ 상태에 진입합니다. 1턴 유지. 또한 ‘고농도 코어’ 상태에 진입합니다. (특성 ‘완전면역체’, ‘기이한 항체’와 ‘이상 저항성’은 해당 상태를 면역시킬 수 없습니다)"
+510,合金盾牌,合金盾牌,Alloy Shield,合金シールド,합금 방패
+511,己方单位护甲+120。,己方單位護甲+120。,Armor +120,味方ユニットアーマー+120。,아군 유닛 장갑 +120.
+520,窒息烟雾,窒息煙霧,Suffocating Fumes,窒息煙,숨 막히는 연기
+521,若己方人类单位接触到浊雾时，则进入“衰竭”状态，持续1回合。,若己方人類單位接觸到毒氣煙霧時，則進入“中毒”狀態，持續1回合。,"At the end of the turn, take damage equal to 20% of Max HP.",味方の人間ユニットが毒ガスに接触した場合、「毒状態」になり、1ターン継続する。,만약 아군 인간 유닛이 독가스에 접촉하면 ‘중독’ 상태에 진입합니다. 1턴 유지.
+530,窒息烟雾,窒息煙霧,Suffocating Fumes,窒息煙,숨 막히는 연기
+531,若己方人类单位接触到浊雾时，则进入“衰竭”状态，持续1回合。,若己方人類單位接觸到濁霧時，則進入“衰竭”狀態，持續1回合。,Take damage equal to 40% of Max HP at the end of the turn.,味方の人間ユニットがスモッグに触れると、1ターンの間、「衰弱」状態になる。,"아군 인간 유닛이 짙은 안개를 만나면 '쇠진' 상태에 진입하고, 1턴 유지."
+540,简易工事,簡易工事,Simple Construction,簡易工事,간이공사
+541,己方单位命中+30、闪避+30，受到的伤害降低50%。,己方單位命中+30、閃避+30，受到的傷害降低50%。,"ACC +30, EVA +30, reduce 50% damage taken.",味方ユニット命中が+30、回避が+30、受けるダメージが50%減少する。,"아군 유닛 명중 +30, 회피 +30, 받은 데미지가 50% 줄어듭니다."
+550,地形解析,地形解析,Terrain Analysis,地形解析,지형 분석
+551,己方单位的地形属性效果×2.5，同时己方单位在范围内移动时每1格消耗的AP-2（消耗的AP最低为1），以及敌方单位在范围内移动时每1格消耗的AP+2。,己方單位的地形屬性效果×2.5，同時己方單位在範圍內移動時每1格消耗的AP-2（消耗的AP最低為1），以及敵方單位在範圍內移動時每1格消耗的AP+2。,"Terrains become 3x more effective, allied units moving within the area consume -2 AP Cost per tile. (AP Cost cannot go below 1). Additionally, enemy units moving within the area consume +2 AP Cost per tile.",味方ユニット地形のステータス効果×2.5。同時に、味方ユニットが範囲内で移動する際の1マスあたりの消費AP-2（最小消費APは1）、敵ユニットが範囲内で移動する際の1マスあたりの消費AP＋2。,"아군 유닛의 지형 능력치 효과 X 2.5, 동시에 아군 유닛이 범이 내에서 이동 시 1타일 당 소모하는 AP -2 (소모하는 AP 최저는 1), 또한 적군 유닛이 범위 내에서 이동 시 1타일 당 소모하는 AP +2."
+560,惊悚之地,驚悚之地,Horror Zone,驚愕の地,소름끼치는 곳
+561,回合结束时，己方单位受到生命值上限2%的伤害。,回合結束時，己方單位受到生命值上限2%的傷害。,"At the end of the turn, take damage equal to 2% of Max HP.",ターン終了時、味方ユニット最大HPの2%のダメージを受ける。,"턴 종료 시, 아군 유닛이 HP 상한 2%의 데미지를 받습니다."
+570,掩体,掩體,Cover,遮蔽物,벙커
+571,受到的伤害降低25%。,受到的傷害降低25%。,Reduce 25% damage taken.,受けるダメージが25%減少する。,받은 데미지 25% 감소.
+580,烟雾,煙霧,Fumes,発煙,안개
+581,若敌方人类或伯劳单位接触到烟雾时，则命中-10、闪避-10，持续1回合。,若敵方人類或伯勞單位接觸到煙霧時，則命中-10、閃避-10，持續1回合。,"If an enemy Human or Shrike units come into contact with the smoke, ACC -10, EVA -10, lasts for 1 turn.",敵の人間ユニットまたはシュライクユニットが煙に触れると、1ターンの間、命中-10、回避-10。,"적군 인간 또는 슈라이크 유닛이 안개를 만나면 명중 -10, 회피 -10, 1턴 유지."
+590,烟雾,煙霧,Fumes,発煙,안개
+591,若敌方人类或伯劳单位接触到烟雾时，则命中-15、闪避-15，持续1回合。,若敵方人類或伯勞單位接觸到煙霧時，則命中-15、閃避-15，持續1回合。,"If an enemy Human or Shrike units come into contact with the smoke, ACC -15, EVA -15, lasts for 1 turn.",敵の人間ユニットまたはシュライクユニットが煙に触れると、1ターンの間、命中-15、回避-15。,"적군 인간 또는 슈라이크 유닛이 안개를 만나면 명중 -15, 회피 -15, 1턴 유지."
+600,烟雾,煙霧,Fumes,発煙,안개
+601,若敌方人类或伯劳单位接触到烟雾时，则命中-20、闪避-20，持续1回合。,若敵方人類或伯勞單位接觸到煙霧時，則命中-20、閃避-20，持續1回合。,"If an enemy Human or Shrike units come into contact with the smoke, ACC -20, EVA -20, lasts for 1 turn.",敵の人間ユニットまたはシュライクユニットが煙に触れると、1ターンの間、命中-20、回避-20。,"적군 인간 또는 슈라이크 유닛이 안개를 만나면 명중 -20, 회피 -20, 1턴 유지."
+610,烟雾,煙霧,Fumes,発煙,안개
+611,若敌方人类或伯劳单位接触到烟雾时，则命中-25、闪避-25，持续1回合。,若敵方人類或伯勞單位接觸到煙霧時，則命中-25、閃避-25，持續1回合。,"If an enemy Human or Shrike units come into contact with the smoke, ACC -25, EVA -25, lasts for 1 turn.",敵の人間ユニットまたはシュライクユニットが煙に触れると、1ターンの間、命中-25、回避-25。,"적군 인간 또는 슈라이크 유닛이 안개를 만나면 명중 -25, 회피 -25, 1턴 유지."
+620,基地入口,基地入口,Base Entrance,基地入口,기지 입구
+621,仅卡尔、指挥官可进入。,僅卡爾、指揮官可進入。,Only Carl and Commander can enter,カール、司令官だけがアクセスできる。,오직 칼과 사령관만 진입 가능.
+630,昙花辐射,曇花輻射,Epiphylla Radiation,ゲッカビジン放射,우담화 방사능
+631,若伯劳单位在本地形受到燃烧弹的攻击，则目标进入<color=#d7abff>“辐射过量”</color>状态，持续1回合。,若伯勞單位在本地形受到燃燒彈的攻擊，則目標進入<color=#d7abff>“輻射過量”</color>狀態，持續1回合。,"If Shrike unit is attacked by Incendiary Bomb in this terrain, the target will receive <color=#d7abff>""Radiation Overdose""</color> status, last 1 turn.","シュライクがこの地形で焼夷弾に攻撃された場合、 1 ターンの間、<colour=#d7abff>""放射オーバー""</colour>状態になる。",만약 슈라이크 유닛이 본 지형에서 연소탄의 공격을 받으면 표적이 <color=#d7abff>‘방사능 과다’</color> 상태에 진입합니다. 1턴 유지.
+640,燃烧地面,燃燒地面,Burning Ground,燃え盛る地面,지면 불태우기
+641,回合结束时，敌方单位受到生命值上限20%的伤害。,回合結束時，敵方單位受到生命值上限20%的傷害。,Enemy units lose HP equal to 20% of Max HP at the end of the turn.,ターン終了時、敵ユニット最大HPの20%のダメージを受ける。,턴 종료 시 적군 유닛이 HP 상한 20%의 데미지를 받습니다.
+650,催眠陷阱,催眠陷阱,Hypnotic Trap,催眠トラップ,최면 함정
+651,若敌方人类或者伯劳单位进入范围后触发，范围内的敌方人类或者伯劳单位获得<color=#d7abff>“睡眠”</color>效果，永久持续。,若敵方人類或伯勞單位進入範圍後觸發，範圍內的敵方人類或伯勞單位獲得<color=#d7abff>“睡眠”</color>效果，永久持續。,"If an enemy human or Shrike unit enters its area of effect, they will be permanently <color=#d7abff>Asleep</color>.",人間及びシュライクの敵ユニットが範囲に入ると発動する。範囲内の人間及びシュライクの敵ユニットが永続的に<color=#d7abff>「眠り」</color>状態に陥る。,"적군 인간 또는 슈라이크 유닛이 범위 내에 진입 후 발동하며, 범위 내의 적군 인간 또는 슈라이크 유닛이 <color=#d7abff>'최면'</color> 효과를 획득하고, 영구적으로 지속됩니다."

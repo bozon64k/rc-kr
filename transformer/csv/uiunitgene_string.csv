@@ -1,0 +1,11 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_geneinfo_word,基因信息,基因資訊,Gene Infomation,ゲノム情報,유전자 정보
+text_genereset_des,重组密钥,重組密鑰,Recombination Key,リビルドキー,키 재설정
+text_genepoint_des,潜能密钥,潛能密鑰,Potential Key,ゲノムキー,포텐셜 키
+text_equip,装卸,裝卸,Equip,装着,장착
+text_detail,预览,預覽,Preview,プレビュー,미리보기
+text_prepare,配置,配置,Configure,配置,배치
+text_reset,重组,重組,Recombination,リビルド,재구성
+text_back,返回,返回,Back,戻る,돌아가기
+text_reset_multi_enter,批量重组,批量重組,Batch,一括リビルド,대량 재구성
+text_reset_multi_confirm,确认重组,確認重組,Confirm,リビルド確認,재구성 확인

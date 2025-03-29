@@ -1,0 +1,7 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_quickload_title,快捷读档确认,快捷讀檔確認,Load Quick Save File,クイックロード確認,파일 바로가기 확인
+text_title,中断读档确认,中斷讀檔確認,Load Quit Game File,中断セーブの確認,불러오기 중단 확인
+text_no,取消,取消,Cancel,戻る,취소
+text_yes,确认,確認,Confirm,決定,확인
+text_empty,空,空,Empty,Empty,Empty
+text_passedtime,游戏时长,遊戲時長,Game Duration,プレイ時間,플레이 시간

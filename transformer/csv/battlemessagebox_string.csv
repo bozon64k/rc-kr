@@ -1,79 +1,154 @@
 key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
-4033011,“戴伯格”战争要塞已成为可控制单位。,“戴伯格”戰爭要塞已成為可控制單位。,"The ""Diberg"" Battle Fortress has become a controllable unit.",ウォーフォート「ダジボーグ」が操作可能なユニットになった。,디버그 전쟁 요새가 아군 유닛이 되었습니다.
-4024021,卡尔已获得新武器：飞蜥。,卡爾已獲得新武器：飛蜥。,Carl obtains a new weapon: Draco.,カールは新しい武器：アガマを入手した。,칼의 새로운 무기: 비행 도마뱀을 획득했습니다.
-3000021,安德森已成为我方可控制角色。,安德森已成為我方可控制角色。,Anderson becomes a controllable allied unit.,アンダーソンが操作可能な味方ユニットになった。,앤더슨이 아군 유닛이 되었습니다.
-5003011,强烈的伯劳吞噬已致使接近的角色的普通武器失效，但已启用专攻伯劳虚谬之心的最终“凝血”武器！,強烈的伯勞吞噬已致使接近的角色的普通武器失效，但已啟用專攻伯勞虛謬之心的最終“凝血”武器！,"Extreme Shrike Corrosion has disabled nearby character's normal weapons, began using Shrike Full Assault Form False Heart Ultimate Weapon ""Coagulation Dagger""!",シュライクの激しい呑み込みで近くいるユニットの通常武器が使えなくなった。シュライクの偽りの心を完全に打ち砕く究極武器「血液凝固ナイフ」が使えるようになった！,강렬한 슈라이크의 집어삼키는 힘 때문에 접근한 캐릭터의 일반 무기가 효력을 잃었습니다. 하지만 이미 슈라이크의 허망의 심장을 공격하는 최종 ‘혈액 응고’ 무기를 발동했습니다!
-5003021,强烈的伯劳吞噬已致使蒙德的普通武器失效，已启用专攻完全态伯劳虚谬之心的最终武器“凝血匕首”！,強烈的伯勞吞噬已致使蒙德的普通武器失效，已啟用專攻完全態伯勞虛謬之心的最終武器“凝血匕首”！,"Extreme Shrike Corrosion has disabled Mendo's weapons, but it has activated the ultimate weapon ""Coagulating Dagger"", which specializes against the Shrike's False Heart!",シュライクの激しい呑み込みでモンドの通常武器が使えなくなった。シュライクの偽りの心を完全に打ち砕く究極武器「血液凝固ナイフ」が使えるようになった！,강력한 슈라이크의 집어삼키는 힘으로 멘도의 일반 무기가 효력을 잃었습니다. 완전체 슈라이크의 허망의 심장 공격 전용 최종 무기 ‘응고된 피의 단검’을 사용합니다.
-5003031,强烈的伯劳吞噬已致使黎格的普通武器失效，已启用专攻完全态伯劳虚谬之心的最终武器“凝血匕首”！,強烈的伯勞吞噬已致使黎格的普通武器失效，已啟用專攻完全態伯勞虛謬之心的最終武器“凝血匕首”！,"Extreme Shrike Corrosion has disabled Mendo's weapons, but it has activated the ultimate weapon ""Coagulating Dagger"", which specializes against the Shrike's False Heart!",シュライクの激しい呑み込みでリゲルの通常武器が使えなくなった。シュライクの偽りの心を完全に打ち砕く究極武器「血液凝固ナイフ」が使えるようになった！,강력한 슈라이크의 집어삼키는 힘으로 리겔의 일반 무기가 효력을 잃었습니다. 완전체 슈라이크의 허망의 심장 공격 전용 최종 무기 ‘응고된 피의 단검’을 사용합니다.
-3012012,按<quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/>可查看今日值班表。,按<quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/>可查看今日值班表。,Press <quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/> to view today's Duty Schedule.,<quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/>を押すと、今日の宿直表を確認できる。,<quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/>을 눌러 오늘 당직표를 볼 수 있습니다.
-3009022,按<quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/>可查看游园指南照片。,按<quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/>可查看遊園指南照片。,Press <quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/> to view the Park Guide Photo.,<quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/>を押すと、遊園地案内の写真を確認できる。,<quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/>을 눌러 놀이공원 가이드 사진을 볼 수 있습니다.
-3012022,按<quad name=joystick/leftbumper_right_tutorial width=4.3 height=1/>可查看探照灯的照明范围及移动路径。,按<quad name=joystick/leftbumper_right_tutorial width=4.3 height=1/>可查看探照燈的照明範圍及移動路徑。,Press <quad name=joystick/leftbumper_right_tutorial width=4.3 height=1/> to view the range and route of Searchlights.,<quad name=joystick/leftbumper_right_tutorial width=4.3 height=1/>を押すと、サーチライトの照射範囲と移動ルートを確認できる。,<quad name=joystick/leftbumper_right_tutorial width=4.3 height=1/>을 눌러 서치라이트의 조명 범위 및 이동 경로를 볼 수 있습니다.
-3012011,按<quad name=pc/pc_m width=1.8 height=1/>可查看今日值班表。,按<quad name=pc/pc_m width=1.8 height=1/>可查看今日值班表。,Press <quad name=pc/pc_m width=1.8 height=1/> to view today's Duty Schedule.,<quad name=pc/pc_m width=1.8 height=1/>を押すと、今日の宿直表を確認できる。,<quad name=pc/pc_m width=1.8 height=1/>을 눌러 오늘 당직표를 볼 수 있습니다.
-3009021,按<quad name=pc/pc_m width=1.8 height=1/>可查看游园指南照片。,按<quad name=pc/pc_m width=1.8 height=1/>可查看遊園指南照片。,Press <quad name=pc/pc_m width=1.8 height=1/> to view the Park Guide Photo.,<quad name=pc/pc_m width=1.8 height=1/>を押すと、遊園地案内の写真を確認できる。,<quad name=pc/pc_m width=1.8 height=1/>을 눌러 놀이공원 가이드 사진을 볼 수 있습니다.
-3012021,按<quad name=pc/pc_n width=1.8 height=1/>可查看探照灯的照明范围及移动路径。,按<quad name=pc/pc_n width=1.8 height=1/>可查看探照燈的照明範圍及移動路徑。,Press <quad name=pc/pc_n width=1.8 height=1/> to view the range and route of Searchlights.,<quad name=pc/pc_n width=1.8 height=1/>を押すと、サーチライトの照射範囲と移動ルートを確認できる。,<quad name=pc/pc_n width=1.8 height=1/>을 눌러 서치라이트의 조명 범위 및 이동 경로를 볼 수 있습니다.
-3012041,探照灯关闭3回合。,探照燈關閉3回合。,Searchlights are turned off for 3 turns.,サーチライトが3ターン消える。,3라운드 동안 서치라이트가 꺼집니다.
-4013021,探照灯已关闭。,探照燈已關閉。,Searchlights are turned off.,サーチライトが消えた。,서치라이트가 꺼졌습니다.
-3012051,探照灯恢复运作。,探照燈恢復運作。,Searchlights resume operation.,サーチライトの作動が再開する。,서치라이트가 작동을 재개합니다.
-3012031,探照灯暂停移动1回合。,探照燈暫停移動1回合。,Searchlights stop moving for 1 turn.,サーチライトの移動が1ターン一時停止する。,1라운드 동안 서치라이트 이동이 멈춥니다.
-1008011,新开放模拟训练：全歼。,新開放模擬訓練：全殲。,Training Simulation now available: Annihilation.,模擬訓練を開放：殲滅,모의 훈련: 섬멸이 새롭게 개방되었습니다.
-4021011,新开放模拟训练：包抄。,新開放模擬訓練：包抄。,New Training Simulation: Flanking.,模擬訓練：包囲攻撃が新たに開放されました。,모의 훈련: 포위 공격이 새롭게 개방되었습니다.
-4017011,新开放模拟训练：围猎。,新開放模擬訓練：圍獵。,New Training Simulation: Hunt.,模擬訓練：巻き狩りが新たに開放されました。,모의 훈련: 사냥이 새롭게 개방되었습니다.
-4029011,新开放模拟训练：固守。,新開放模擬訓練：固守。,New Training Simulation: Hold.,模擬訓練：防衛が新たに開放されました。,모의 훈련: 수비가 새롭게 개방되었습니다.
-3010011,新开放模拟训练：对攻。,新開放模擬訓練：對攻。,New Training Simulation: Shootout.,模擬訓練：攻防が新たに開放されました。,모의 훈련: 공격이 새롭게 개방되었습니다.
-2006011,新开放模拟训练：暗袭。,新開放模擬訓練：暗襲。,New Training Simulation: Assassination.,模擬訓練：急襲が新たに開放されました。,모의 훈련: 암습이 새롭게 개방되었습니다.
-4025011,新开放模拟训练：深入。,新開放模擬訓練：深入。,New Training Simulation: Infiltration.,模擬訓練：敵地侵入が新たに開放されました。,모의 훈련: 깊이 잠입이 새롭게 개방되었습니다.
-4005011,新开放模拟训练：潜行。,新開放模擬訓練：潛行。,New Training Simulation: Stealth,模擬訓練：ステルスが新たに開放されました。,모의 훈련: 스텔스가 새롭게 개방되었습니다.
-4027011,新开放模拟训练：突围。,新開放模擬訓練：突圍。,New Training Simulation: Breakout.,模擬訓練：包囲突破が新たに開放されました。,모의 훈련: 포위망 돌파가 새롭게 개방되었습니다.
-3015011,新开放模拟训练：突破。,新開放模擬訓練：突破。,New Training Simulation: Breakthrough.,模擬訓練：突破が新たに開放されました。,모의 훈련: 돌파가 새롭게 개방되었습니다.
-2010011,新开放模拟训练：防守。,新開放模擬訓練：防守。,New Training Simulation: Defense.,模擬訓練：防御が新たに開放されました。,모의 훈련: 방어가 새롭게 개방되었습니다.
-3009011,新开放道具制作：便携火箭弹、行军餐和补给饮品。,新開放道具製作：便攜火箭彈、行軍餐和補給飲品。,"New Item Production: Rockect Launcher, Marching Rations and Replenishment Drinks.",アイテム製作：携帯ロケット弾、行軍食、補給ドリンクが新たに開放されました。,"아이템 제작: 간이 로켓포, 행군식 및 보급 음료가 새롭게 개방되었습니다."
-2003011,新开放道具制作：冲击弹、全息砂石。,新開放道具製作：衝擊彈、全息砂石。,"Shockwave Grenade, Holographic Gravel are now available for Item Production.",新たなアイテムを製作できるようになりました：衝撃弾、ホログラフィックデコイ。,"아이템 제작: 충격탄, 홀로그램 그래블이 새롭게 개방되었습니다."
-3000011,新开放道具制作：压缩饼干、袋装军饮。,新開放道具製作：壓縮餅乾、袋裝軍飲。,"Field Ration, Canteen are now available for Item Production.",アイテム製作：圧縮クッキー、パック入り軍用飲料が新たに開放されました。,"아이템 제작: 압축 비스킷, 군용 봉지 음료가 새롭게 개방되었습니다."
-24032021,新开放道具制作：数字化战术靴。,新開放道具製作：數位化戰術靴。,Digital Tactical Boots is now available for Item Production.,アイテム製作：デジタル戦術ブーツが新たに開放されました。,아이템 제작: 디지털 전술화가 새롭게 개방되었습니다.
-4000011,新开放道具制作：测距仪。,新開放道具製作：測距儀。,Item now available for production: Sonic Scanner.,アイテム製作：距離測定器が新たに開放されました。,아이템 제작: 거리측정기가 새롭게 개방되었습니다.
-1004011,新开放道具制作：烟雾弹。,新開放道具製作：煙霧彈。,Smoke Grenade is now available for Item Production.,製作アイテムを開放：発煙弾,아이템 제작: 연막탄이 새롭게 개방되었습니다.
-4034011,新开放道具制作：空袭导弹。,新開放道具製作：空襲導彈。,Cruise Missile is now available for Item Production.,アイテム製作：空対地ミサイルが新たに開放されました。,아이템 제작: 공습미사일이 새롭게 개방되었습니다.
-24032011,新开放道具制作：自加热战术靴、特级军工定位镜。,新開放道具製作：自加熱戰術靴、特級軍工定位鏡。,"Self-Heating Tactical Boots, Special Military Detection Lens are now available for Item Production.",アイテム製作：自動加熱戦術ブーツ、エージェント位置確認ミラーが新たに開放されました。,"아이템 제작: 가열 전술화, 특급 군용 측위 거울이 새롭게 개방되었습니다."
-3010021,新开放道具制作：血液子弹、EMP手雷、低频声波仪。,新開放道具製作：血液子彈、EMP手雷、低頻聲波儀。,"Blood Bullet, EMP Grenade, Low-Frequency Acoustic Generator are now available for Item Production.",アイテム製作：血液弾、EMP手榴弾、低周波音発生器が新たに開放されました。,"아이템 제작: 혈탄, EMP 수류탄, 저주파 음파 측정기가 새롭게 개방되었습니다."
-4000021,新开放道具合成：EMP绊雷。,新開放道具合成：EMP絆雷。,EMP Mine is now available for Item Synthesis.,アイテム合成：EMP地雷が新たに開放されました。,아이템 합성: EMP부비트랩이 새롭게 개방되었습니다.
-3016011,新开放道具合成：中型武器站。,新開放道具合成：中型武器站。,Medium Turret is now available for Item Synthesis.,アイテム合成：中型ガンタレットが新たに開放されました。,아이템 합성: 중형RCWS이 새롭게 개방되었습니다.
-2005011,新开放道具合成：伪装立牌。,新開放道具合成：偽裝立牌。,Camouflage Standee is now available for Item Synthesis.,新たなアイテムを合成できるようになりました：迷彩パネル。,아이템 합성: 위장 입간판이 새롭게 개방되었습니다.
-2007011,新开放道具合成：催泪弹。,新開放道具合成：催淚彈。,Tear Gas Grenade is now available for Item Synthesis.,アイテム合成：催涙弾が新たに開放されました。,아이템 합성: 최루탄이 새롭게 개방되었습니다.
-1004031,新开放道具合成：催眠针。,新開放道具合成：催眠針。,Soporific Dart is now available for Item Synthesis.,新たなアイテムを合成できるようになりました：麻酔針。,아이템 합성: 마취침이 새롭게 개방되었습니다.
-4017021,新开放道具合成：全息投影。,新開放道具合成：全息投影。,Holographic Projection is now available for Item Synthesis.,アイテム合成：ホログラフィックプロジェクションが新たに開放されました。,아이템 합성: 홀로그램 프로젝션이 새롭게 개방되었습니다.
-4024011,新开放道具合成：全息投影。,新開放道具合成：全息投影。,Holographic Projection is now available for Item Synthesis.,アイテム合成：ホログラフィックプロジェクションが新たに開放されました。,아이템 합성: 홀로그램 프로젝션이 새롭게 개방되었습니다.
-2007031,新开放道具合成：制式武器站。,新開放道具合成：制式武器站。,Standard Turret is now available for Item Production.,アイテム合成：制式タレットが新たに開放されました。,아이템 합성: 제식 RCWS가 새롭게 개방되었습니다.
-2003021,新开放道具合成：医疗箱。,新開放道具合成：醫療箱。,Medkit is now available for Item Synthesis.,新たなアイテムを合成できるようになりました：医療キット。,아이템 합성: 구급 상자가 새롭게 개방되었습니다.
-1004021,新开放道具合成：小型侦察仪。,新開放道具合成：小型偵察儀。,Scanner is now available for Item Synthesis.,合成アイテムを開放：小型偵察機,아이템 합성: 소형 탐지 장치가 새롭게 개방되었습니다.
-3017011,新开放道具合成：广域治疗球。,新開放道具合成：廣域治療球。,Area Healing Orb is now available for Item Production.,アイテム合成：広域治療球が新たに開放されました。,아이템 합성: 광역 치료볼이 새롭게 개방되었습니다.
-1006011,新开放道具合成：止痛药。,新開放道具合成：止痛藥。,Painkiller is now available for Item Synthesis.,合成アイテムを開放：鎮痛薬,아이템 합성: 진통제가 새롭게 개방되었습니다.
-3017031,新开放道具合成：消能弹。,新開放道具合成：消能彈。,Energy Drainer is now available for Item Synthesis.,アイテム合成：エネルギー消除弾が新たに開放されました。,아이템 합성: 에너지 소멸 폭탄이 새롭게 개방되었습니다.
-2006021,新开放道具合成：燃烧弹。,新開放道具合成：燃燒彈。,Incendiary Grenade is now available for Item Synthesis.,新たなアイテムを合成できるようになりました：焼夷弾。,아이템 합성: 연소탄이 새롭게 개방되었습니다.
-4012011,新开放道具合成：电击武器站。,新開放道具合成：電擊武器站。,Electric Turret is now available for Item Synthesis.,アイテム合成：電撃ガンタレットが新たに開放されました。,아이템 합성: 전기 충격 RCWS가 새롭게 개방되었습니다.
-4025021,新开放道具合成：电击武器站。,新開放道具合成：電擊武器站。,Electric Turret is now available for Item Synthesis.,アイテム合成：電撃ガンタレットが新たに開放されました。,아이템 합성: 전기 충격 RCWS가 새롭게 개방되었습니다.
-3010041,新开放道具合成：电流网路障。,新開放道具合成：電流網路障。,Electric Barricade is now available for Item Synthesis.,アイテム合成：電気バリケードが新たに開放されました。,아이템 합성: 전류 네트워크 장애가 새롭게 개방되었습니다.
-3016021,新开放道具合成：磁熔弹。,新開放道具合成：磁熔彈。,Melt Bomb is now available for Item Synthesis.,アイテム合成：磁気火山弾が新たに開放されました。,아이템 합성: 용해 폭탄이 새롭게 개방되었습니다.
-3018011,新开放道具合成：血液手雷。,新開放道具合成：血液手雷。,Blood Grenade is now available for Item Synthesis.,アイテム合成：血液手榴弾が新たに開放されました。,아이템 합성: 혈액 수류탄이 새롭게 개방되었습니다.
-3011011,新开放道具合成：追踪绊雷。,新開放道具合成：追蹤絆雷。,Tracking Mines is now available for Item Synthesis.,アイテム合成：追跡地雷が新たに開放されました。,아이템 합성: 추적 부비트랩이 새롭게 개방되었습니다.
-2007021,新开放道具合成：遥控炸弹。,新開放道具合成：遙控炸彈。,RC Bomb is now available for Item Synthesis.,アイテム合成：リモート爆弾が新たに開放されました。,아이템 합성: 원격 제어 폭탄이 새롭게 개방되었습니다.
-4018011,新开放道具合成：重型武器站。,新開放道具合成：重型武器站。,Heavy Turret is now available for Item Synthesis.,アイテム合成：重装タレットが新たに開放されました。,아이템 합성: 헤비형RCWS가 새롭게 개방되었습니다.
-4027021,新开放道具合成：重型武器站。,新開放道具合成：重型武器站。,Heavy Turret is now available for Item Synthesis.,アイテム合成：重装タレットが新たに開放されました。,아이템 합성: 헤비형RCWS가 새롭게 개방되었습니다.
-2003031,新开放道具合成：铁丝网路障。,新開放道具合成：鐵絲網路障。,Barbed Wire Barricade is now available for Item Synthesis.,新たなアイテムを合成できるようになりました：有刺鉄線。,아이템 합성: 철조망 바리케이드가 새롭게 개방되었습니다.
-1008021,新开放道具合成：震撼弹、闪光弹。,新開放道具合成：震撼彈、閃光彈。,"Stun Grenade, Flashbang are now available for Item Production.",合成アイテムを開放：スタングレネード、閃光弾,"아이템 합성: 스턴수류탄, 섬광수류탄이 새롭게 개방되었습니다."
-2008021,新开放道具合成：高级侦察仪。,新開放道具合成：高級偵察儀。,Advanced Scanner is now available for Item Synthesis.,アイテム合成：高級偵察機が新たに開放されました。,아이템 합성: 고급 정찰 장비가 새롭게 개방되었습니다.
-4005021,新开放道具合成：高能网路障。,新開放道具合成：高能網路障。,High-Energy Barricade is now available for Item Synthesis.,アイテム合成：高エネルギーバリケードが新たに開放されました。,아이템 합성: 고에너지 네트워크 장애가 새롭게 개방되었습니다.
-4009011,新开放道具合成：高能网路障。,新開放道具合成：高能網路障。,High-Energy Barricade is now available for Item Synthesis.,アイテム合成：高エネルギーバリケードが新たに開放されました。,아이템 합성: 고에너지 네트워크 장애가 새롭게 개방되었습니다.
-3010031,新开放道具合成：高频声波弹。,新開放道具合成：高頻聲波彈。,High-Frequency Sonic Bomb is now available for Item Synthesis.,アイテム合成：高周波音発生弾が新たに開放されました。,아이템 합성: 고주파 음파탄이 새롭게 개방되었습니다.
-4019011,杰文已获得新武器：流星。,傑文已獲得新武器：流星。,Jevon obtains a new weapon: Meteor.,ジェヴァンは新しい武器：流星を入手した。,제본의 새로운 무기: 유성을 획득했습니다.
-3015021,洁芙缇已获得新武器：雪鹱。,潔芙緹已獲得新武器：雪鸌。,Jefuty obtains a new weapon: Petrel.,ジェフティは新しい武器：ユキドリを入手した。,제퓨티의 새로운 무기: 흰바다제비를 획득했습니다.
-3009031,游园指南照片已更新。,遊園指南照片已更新。,Park Guide Photo updated.,遊園地案内の写真が更新された。,놀이공원 가이드 사진이 업데이트 되었습니다.
-50001011,稍后将播放<color=#ff8d48>关键剧情</color>，由于演出时间较长，建议各位备好自己心爱的食物，并使用“自动播放”功能进行观看。若您暂无充足的时间，也可分段跳过演出，所有的剧情均可在“收集鉴赏-战役记录”中再次查看。,稍後將播放<color=#ff8d48>關鍵劇情</color>，由於演出時間較長，建議各位備好自己心愛的食物，並使用“自動播放”功能進行觀看。若您暫無充足的時間，也可分段跳過演出，所有的劇情均可在“收集鑒賞-戰役記錄”中再次查看。,"A <color=#ff8d48>key plot point</color> will be played shortly. Due to the long play time, we recommend that everyone prepare their favorite snacks and watch it using the ""auto-play"" function. If you don't have sufficient time, you can skip the scenes in sections. All of the sections can be viewed again in ""Collection - Battle Records"".",まもなく<color=#ff8d48>重要なストーリー</color>が再生されます。再生時間が長いため、お好きな食べ物を用意し、「自動再生」機能を利用することをおすすめします。時間が足りない場合、チャプターごとにスキップすることができます。 すべてのストーリーは、「コレクション鑑賞-戦役レコード」で再確認できます。,"잠시 후 <color=#ff8d48>핵심 에피소드</color>가 재생됩니다. 재생 시간이 길기 때문에 원하는 음식을 준비하고 '자동 재생' 기능을 사용해 감상하시는 것을 추천드립니다. 시간이 부족할 경우 챕터마다 스토리를 건너뛸 수 있으며, 모든 에피소드는 '컬렉션 - 작전 기록'에서 다시 확인할 수 있습니다."
-3011021,系统入侵成功，已获得该警戒哨站的相应权限！,系統入侵成功，已獲得該警戒哨站的相應許可權！,"System Hack successful, obtained access rights for this Checkpoint!",システムに侵入し、この警備哨戒所の権限を取得した！,시스템에 침입하여 해당 경계 초소의 권한을 얻었습니다!
-4012021,系统入侵成功，已获得该警戒哨站的相应权限！,系統入侵成功，已獲得該警戒哨站的相應許可權！,"System Hack successful, obtained access rights for this Checkpoint!",システムに侵入し、この警備哨戒所の権限を取得した！,시스템에 침입하여 해당 경계 초소의 권한을 얻었습니다!
-2004011,蒙德、瓦尔梅特、露比已成为我方可控制角色。,蒙德、瓦爾梅特、露比已成為我方可控制角色。,"Mendo, Valmet, and Ruby become controllable allied units.",モンド、バルメット、ルビーが使用可能ユニットになりました。,"멘도, 발멧, 루비가 아군 유닛이 되었습니다."
-4030011,蒙德已获得新武器：巨蝮蛇。,蒙德已獲得新武器：巨蝮蛇。,Mendo has obtained a new weapon: Viper,モンドが新しい武器を獲得：ラケシス,멘도의 새로운 무기: 거대 살모사를 획득했습니다.
-1008031,蒙德已获得新武器：水牛。,蒙德已獲得新武器：水牛。,Mendo obtains a new weapon: Bison.,モンドが新しい武器を獲得：バッファロー,멘도의 새로운 무기: 버팔로를 획득했습니다.
-4001011,蒙德成为我方可控制角色。,蒙德成為我方可控制角色。,Mendo becomes a controllable unit.,モンドが操作可能な味方ユニットになった。,멘도가 아군이 조종할 수 있는 캐릭터가 되었습니다.
+1004010,提示,提示,Notice,ヒント,알림
+1004011,新开放道具制作：烟雾弹。,新開放道具製作：煙霧彈。,Smoke Grenade is now available for Item Production.,製作アイテムを開放：発煙弾,새로운 아이템 제작 오픈: 연막탄.
+1004020,提示,提示,Notice,ヒント,알림
+1004021,新开放道具合成：小型侦察仪。,新開放道具合成：小型偵察儀。,Scanner is now available for Item Synthesis.,合成アイテムを開放：小型偵察機,새로운 아이템 제작 오픈: 소형 탐지 장치
+1004030,提示,提示,Notice,ヒント,알림
+1004031,新开放道具合成：催眠针。,新開放道具合成：催眠針。,Soporific Dart is now available for Item Synthesis.,新たなアイテムを合成できるようになりました：麻酔針。,새롭게 개방된 아이템 합성: 최면침.
+1006010,提示,提示,Notice,ヒント,알림
+1006011,新开放道具合成：止痛药。,新開放道具合成：止痛藥。,Painkiller is now available for Item Synthesis.,合成アイテムを開放：鎮痛薬,새로운 아이템 제작 오픈: 진통제
+1008010,提示,提示,Notice,ヒント,알림
+1008011,新开放模拟训练：全歼。,新開放模擬訓練：全殲。,Training Simulation now available: Annihilation.,模擬訓練を開放：殲滅,새로운 모의 훈련 오픈: 섬멸
+1008020,提示,提示,Notice,ヒント,알림
+1008021,新开放道具合成：震撼弹、闪光弹。,新開放道具合成：震撼彈、閃光彈。,"Stun Grenade, Flashbang are now available for Item Production.",合成アイテムを開放：スタングレネード、閃光弾,"새로운 아이템 제작 오픈: 스턴수류탄, 섬광수류탄."
+1008030,提示,提示,Notice,ヒント,알림
+1008031,蒙德已获得新武器：水牛。,蒙德已獲得新武器：水牛。,Mendo obtains a new weapon: Bison.,モンドが新しい武器を獲得：バッファロー,멘도가 새로운 무기: 버팔로를 획득하였습니다.
+2003010,提示,提示,Notice,ヒント,알림
+2003011,新开放道具制作：冲击弹、全息砂石。,新開放道具製作：衝擊彈、全息砂石。,"Shockwave Grenade, Holographic Gravel are now available for Item Production.",新たなアイテムを製作できるようになりました：衝撃弾、ホログラフィックデコイ。,"새롭게 개방된 아이템 제작: 충격탄, 홀로그램 그래블."
+2003020,提示,提示,Notice,ヒント,알림
+2003021,新开放道具合成：医疗箱。,新開放道具合成：醫療箱。,Medkit is now available for Item Synthesis.,新たなアイテムを合成できるようになりました：医療キット。,새롭게 개방된 아이템 합성: 구급 상자.
+2003030,提示,提示,Notice,ヒント,알림
+2003031,新开放道具合成：铁丝网路障。,新開放道具合成：鐵絲網路障。,Barbed Wire Barricade is now available for Item Synthesis.,新たなアイテムを合成できるようになりました：有刺鉄線。,새롭게 개방된 아이템 합성: 철조망 바리케이드.
+2004010,提示,提示,Notice,ヒント,알림
+2004011,蒙德、瓦尔梅特、露比已成为我方可控制角色。,蒙德、瓦爾梅特、露比已成為我方可控制角色。,"Mendo, Valmet, and Ruby become controllable allied units.",モンド、バルメット、ルビーが使用可能ユニットになりました。,"멘도,발멧,루비는 이미 아군 캐릭터가 되었습니다. "
+2005010,提示,提示,Notice,ヒント,알림
+2005011,新开放道具合成：伪装立牌。,新開放道具合成：偽裝立牌。,Camouflage Standee is now available for Item Synthesis.,新たなアイテムを合成できるようになりました：迷彩パネル。,새롭게 개방된 아이템 합성: 위장 입간판. 
+2006010,提示,提示,Notice,ヒント,알림
+2006011,新开放模拟训练：暗袭。,新開放模擬訓練：暗襲。,New Training Simulation: Assassination.,模擬訓練：急襲が新たに開放されました。,새롭게 개방된 모의 훈련: 암습.
+2006020,提示,提示,Notice,ヒント,알림
+2006021,新开放道具合成：燃烧弹。,新開放道具合成：燃燒彈。,Incendiary Grenade is now available for Item Synthesis.,新たなアイテムを合成できるようになりました：焼夷弾。,새롭게 개방된 아이템 합성: 연소탄.
+2007010,提示,提示,Notice,ヒント,알림
+2007011,新开放道具合成：催泪弹。,新開放道具合成：催淚彈。,Tear Gas Grenade is now available for Item Synthesis.,アイテム合成：催涙弾が新たに開放されました。,새롭게 개방된 아이템 합성: 최루탄
+2007020,提示,提示,Notice,ヒント,알림
+2007021,新开放道具合成：遥控炸弹。,新開放道具合成：遙控炸彈。,RC Bomb is now available for Item Synthesis.,アイテム合成：リモート爆弾が新たに開放されました。,새롭게 개방된 아이템 합성: 원격 제어 폭탄
+2007030,提示,提示,Notice,ヒント,알림
+2007031,新开放道具合成：制式武器站。,新開放道具合成：制式武器站。,Standard Turret is now available for Item Production.,アイテム合成：制式タレットが新たに開放されました。,새롭게 개방된 아이템 합성: 제식 RCWS
+2008020,提示,提示,Notice,ヒント,알림
+2008021,新开放道具合成：高级侦察仪。,新開放道具合成：高級偵察儀。,Advanced Scanner is now available for Item Synthesis.,アイテム合成：高級偵察機が新たに開放されました。,새롭게 개방된 아이템 합성: 고급 정찰 장비
+2010010,提示,提示,Notice,ヒント,알림
+2010011,新开放模拟训练：防守。,新開放模擬訓練：防守。,New Training Simulation: Defense.,模擬訓練：防御が新たに開放されました。,새롭게 개방된 모의 훈련: 방어
+2014010,提示,提示,Notice,ヒント,알림
 2014011,门锁上了……,門鎖上了……,The door is locked...,ゲートがロックされた……,문이 잠겼습니다...
-3017021,阿特娜已获得新武器：剑羚。,阿特娜已獲得新武器：劍羚。,Atena obtains a new weapon: Oryx.,アテナは新しい武器：オリックスを入手した。,아테나의 새로운 무기: 오릭스를 획득했습니다.
+3000010,提示,提示,Notice,ヒント,알림
+3000011,新开放道具制作：压缩饼干、袋装军饮。,新開放道具製作：壓縮餅乾、袋裝軍飲。,"Field Ration, Canteen are now available for Item Production.",アイテム製作：圧縮クッキー、パック入り軍用飲料が新たに開放されました。,"새롭게 개방된 아이템 제작: 압축 비스킷, 군용 봉지 음료"
+3000020,提示,提示,Notice,ヒント,알림
+3000021,安德森已成为我方可控制角色。,安德森已成為我方可控制角色。,Anderson becomes a controllable allied unit.,アンダーソンが操作可能な味方ユニットになった。,앤더슨이 아군이 조정할 수 있는 캐릭터가 되었습니다.
+3009010,提示,提示,Notice,ヒント,알림
+3009011,新开放道具制作：便携火箭弹、行军餐和补给饮品。,新開放道具製作：便攜火箭彈、行軍餐和補給飲品。,"New Item Production: Rockect Launcher, Marching Rations and Replenishment Drinks.",アイテム製作：携帯ロケット弾、行軍食、補給ドリンクが新たに開放されました。,"새롭게 개방된 아이템 제작: 간이 로켓포, 행군식 및 보급 음료"
+3009020,提示,提示,Notice,ヒント,알림
+3009021,按<quad name=pc/pc_m width=1.8 height=1/>可查看游园指南照片。,按<quad name=pc/pc_m width=1.8 height=1/>可查看遊園指南照片。,Press <quad name=pc/pc_m width=1.8 height=1/> to view the Park Guide Photo.,<quad name=pc/pc_m width=1.8 height=1/>を押すと、遊園地案内の写真を確認できる。,<quad name=pc/pc_m width=1.8 height=1/>을 눌러 놀이공원 가이드 사진을 볼 수 있습니다.
+3009022,按<quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/>可查看游园指南照片。,按<quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/>可查看遊園指南照片。,Press <quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/> to view the Park Guide Photo.,<quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/>を押すと、遊園地案内の写真を確認できる。,<quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/>을 눌러 놀이공원 가이드 사진을 볼 수 있습니다.
+3009030,提示,提示,Notice,ヒント,알림
+3009031,游园指南照片已更新。,遊園指南照片已更新。,Park Guide Photo updated.,遊園地案内の写真が更新された。,놀이공원 가이드 사진이 업데이트 되었습니다.
+3010010,提示,提示,Notice,ヒント,알림
+3010011,新开放模拟训练：对攻。,新開放模擬訓練：對攻。,New Training Simulation: Shootout.,模擬訓練：攻防が新たに開放されました。,새롭게 개방된 모의 훈련: 공격
+3010020,提示,提示,Notice,ヒント,알림
+3010021,新开放道具制作：血液子弹、EMP手雷、低频声波仪。,新開放道具製作：血液子彈、EMP手雷、低頻聲波儀。,"Blood Bullet, EMP Grenade, Low-Frequency Acoustic Generator are now available for Item Production.",アイテム製作：血液弾、EMP手榴弾、低周波音発生器が新たに開放されました。,"새롭게 개방된 아이템 제작: 혈탄, EMP 수류탄, 저주파 음파 측정기"
+3010030,提示,提示,Notice,ヒント,알림
+3010031,新开放道具合成：高频声波弹。,新開放道具合成：高頻聲波彈。,High-Frequency Sonic Bomb is now available for Item Synthesis.,アイテム合成：高周波音発生弾が新たに開放されました。,새롭게 개방된 아이템 합성: 고주파 음파탄
+3010040,提示,提示,Notice,ヒント,알림
+3010041,新开放道具合成：电流网路障。,新開放道具合成：電流網路障。,Electric Barricade is now available for Item Synthesis.,アイテム合成：電気バリケードが新たに開放されました。,새롭게 개방된 아이템 합성: 전류 네트워크 장애
+3011010,提示,提示,Notice,ヒント,알림
+3011011,新开放道具合成：追踪绊雷。,新開放道具合成：追蹤絆雷。,Tracking Mines is now available for Item Synthesis.,アイテム合成：追跡地雷が新たに開放されました。,새롭게 개방된 아이템 합성: 추적 부비트랩
+3011020,提示,提示,Notice,ヒント,알림
+3011021,系统入侵成功，已获得该警戒哨站的相应权限！,系統入侵成功，已獲得該警戒哨站的相應許可權！,"System Hack successful, obtained access rights for this Checkpoint!",システムに侵入し、この警備哨戒所の権限を取得した！,침입에 성공했으며 이미 해당 경계 초소의 권한을 얻었습니다!
+3012010,提示,提示,Notice,ヒント,알림
+3012011,按<quad name=pc/pc_m width=1.8 height=1/>可查看今日值班表。,按<quad name=pc/pc_m width=1.8 height=1/>可查看今日值班表。,Press <quad name=pc/pc_m width=1.8 height=1/> to view today's Duty Schedule.,<quad name=pc/pc_m width=1.8 height=1/>を押すと、今日の宿直表を確認できる。,<quad name=pc/pc_m width=1.8 height=1/>을 눌러 오늘 당직표를 볼 수 있습니다.
+3012012,按<quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/>可查看今日值班表。,按<quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/>可查看今日值班表。,Press <quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/> to view today's Duty Schedule.,<quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/>を押すと、今日の宿直表を確認できる。,<quad name=joystick/leftbumper_left_tutorial width=4.3 height=1/>을 눌러 오늘 당직표를 볼 수 있습니다.
+3012020,提示,提示,Notice,ヒント,알림
+3012021,按<quad name=pc/pc_n width=1.8 height=1/>可查看探照灯的照明范围及移动路径。,按<quad name=pc/pc_n width=1.8 height=1/>可查看探照燈的照明範圍及移動路徑。,Press <quad name=pc/pc_n width=1.8 height=1/> to view the range and route of Searchlights.,<quad name=pc/pc_n width=1.8 height=1/>を押すと、サーチライトの照射範囲と移動ルートを確認できる。,<quad name=pc/pc_n width=1.8 height=1/>을 눌러 서치라이트의 조명 범위 및 이동 경로를 볼 수 있습니다.
+3012022,按<quad name=joystick/leftbumper_right_tutorial width=4.3 height=1/>可查看探照灯的照明范围及移动路径。,按<quad name=joystick/leftbumper_right_tutorial width=4.3 height=1/>可查看探照燈的照明範圍及移動路徑。,Press <quad name=joystick/leftbumper_right_tutorial width=4.3 height=1/> to view the range and route of Searchlights.,<quad name=joystick/leftbumper_right_tutorial width=4.3 height=1/>を押すと、サーチライトの照射範囲と移動ルートを確認できる。,<quad name=joystick/leftbumper_right_tutorial width=4.3 height=1/>을 눌러 서치라이트의 조명 범위 및 이동 경로를 볼 수 있습니다.
+3012030,提示,提示,Notice,ヒント,알림
+3012031,探照灯暂停移动1回合。,探照燈暫停移動1回合。,Searchlights stop moving for 1 turn.,サーチライトの移動が1ターン一時停止する。,1라운드 동안 서치라이트 이동이 멈춥니다.
+3012040,提示,提示,Notice,ヒント,알림
+3012041,探照灯关闭3回合。,探照燈關閉3回合。,Searchlights are turned off for 3 turns.,サーチライトが3ターン消える。,3라운드 동안 서치라이트가 꺼집니다.
+3012050,提示,提示,Notice,ヒント,알림
+3012051,探照灯恢复运作。,探照燈恢復運作。,Searchlights resume operation.,サーチライトの作動が再開する。,서치라이트가 작동을 재개합니다.
+3015010,提示,提示,Notice,ヒント,알림
+3015011,新开放模拟训练：突破。,新開放模擬訓練：突破。,New Training Simulation: Breakthrough.,模擬訓練：突破が新たに開放されました。,새롭게 개방된 모의 훈련: 돌파
+3015020,提示,提示,Notice,ヒント,알림
+3015021,洁芙缇已获得新武器：雪鹱。,潔芙緹已獲得新武器：雪鸌。,Jefuty obtains a new weapon: Petrel.,ジェフティは新しい武器：ユキドリを入手した。,제퓨티가 새로운 무기를 획득했습니다: 흰바다제비
+3016010,提示,提示,Notice,ヒント,알림
+3016011,新开放道具合成：中型武器站。,新開放道具合成：中型武器站。,Medium Turret is now available for Item Synthesis.,アイテム合成：中型ガンタレットが新たに開放されました。,새롭게 개방된 아이템 합성: 중형RCWS
+3016020,提示,提示,Notice,ヒント,알림
+3016021,新开放道具合成：磁熔弹。,新開放道具合成：磁熔彈。,Melt Bomb is now available for Item Synthesis.,アイテム合成：磁気火山弾が新たに開放されました。,새롭게 개방된 아이템 합성: 용해 폭탄
+3017010,提示,提示,Notice,ヒント,알림
+3017011,新开放道具合成：广域治疗球。,新開放道具合成：廣域治療球。,Area Healing Orb is now available for Item Production.,アイテム合成：広域治療球が新たに開放されました。,새롭게 개방된 아이템 합성: 광역 치료볼
+3017020,提示,提示,Notice,ヒント,알림
+3017021,阿特娜已获得新武器：剑羚。,阿特娜已獲得新武器：劍羚。,Atena obtains a new weapon: Oryx.,アテナは新しい武器：オリックスを入手した。,아테나가 새로운 무기를 획득했습니다: 오릭스
+3017030,提示,提示,Notice,ヒント,알림
+3017031,新开放道具合成：消能弹。,新開放道具合成：消能彈。,Energy Drainer is now available for Item Synthesis.,アイテム合成：エネルギー消除弾が新たに開放されました。,새롭게 개방된 아이템 합성: 에너지 소멸 폭탄
+3018010,提示,提示,Notice,ヒント,알림
+3018011,新开放道具合成：血液手雷。,新開放道具合成：血液手雷。,Blood Grenade is now available for Item Synthesis.,アイテム合成：血液手榴弾が新たに開放されました。,새롭게 개방된 아이템 합성: 혈액 수류탄
+4000010,提示,提示,Notice,ヒント,알림
+4000011,新开放道具制作：测距仪。,新開放道具製作：測距儀。,Item now available for production: Sonic Scanner.,アイテム製作：距離測定器が新たに開放されました。,새롭게 개방된 아이템 제작: 거리측정기
+4000020,提示,提示,Notice,ヒント,알림
+4000021,新开放道具合成：EMP绊雷。,新開放道具合成：EMP絆雷。,EMP Mine is now available for Item Synthesis.,アイテム合成：EMP地雷が新たに開放されました。,새롭게 개방된 아이템 합성: EMP부비트랩
+4001010,提示,提示,Notice,ヒント,알림
+4001011,蒙德成为我方可控制角色。,蒙德成為我方可控制角色。,Mendo becomes a controllable unit.,モンドが操作可能な味方ユニットになった。,멘도가 아군이 조종할 수 있는 캐릭터가 되었습니다.
+4005010,提示,提示,Notice,ヒント,알림
+4005011,新开放模拟训练：潜行。,新開放模擬訓練：潛行。,New Training Simulation: Stealth,模擬訓練：ステルスが新たに開放されました。,새롭게 개방된 모의 훈련: 스텔스
+4005020,提示,提示,Notice,ヒント,알림
+4005021,新开放道具合成：高能网路障。,新開放道具合成：高能網路障。,High-Energy Barricade is now available for Item Synthesis.,アイテム合成：高エネルギーバリケードが新たに開放されました。,새롭게 개방된 아이템 합성: 고에너지 네트워크 장애
+4009010,提示,提示,Notice,ヒント,알림
+4009011,新开放道具合成：高能网路障。,新開放道具合成：高能網路障。,High-Energy Barricade is now available for Item Synthesis.,アイテム合成：高エネルギーバリケードが新たに開放されました。,새롭게 개방된 아이템 합성: 고에너지 네트워크 장애
+4011010,提示,提示,Notice,ヒント,알림
 4011011,音乐喷泉已开启。,音樂噴泉已開啟。,Musical Fountain is on.,音楽の噴水が動き出した。,음악 분수가 열렸습니다.
+4012010,提示,提示,Notice,ヒント,알림
+4012011,新开放道具合成：电击武器站。,新開放道具合成：電擊武器站。,Electric Turret is now available for Item Synthesis.,アイテム合成：電撃ガンタレットが新たに開放されました。,새롭게 개방된 아이템 합성: 전기 충격 RCWS
+4012020,提示,提示,Notice,ヒント,알림
+4012021,系统入侵成功，已获得该警戒哨站的相应权限！,系統入侵成功，已獲得該警戒哨站的相應許可權！,"System Hack successful, obtained access rights for this Checkpoint!",システムに侵入し、この警備哨戒所の権限を取得した！,침입에 성공했으며 이미 해당 경계 초소의 권한을 얻었습니다!
+4013020,提示,提示,Notice,ヒント,알림
+4013021,探照灯已关闭。,探照燈已關閉。,Searchlights are turned off.,サーチライトが消えた。,서치라이트가 꺼졌습니다.
+4017010,提示,提示,Notice,ヒント,알림
+4017011,新开放模拟训练：围猎。,新開放模擬訓練：圍獵。,New Training Simulation: Hunt.,模擬訓練：巻き狩りが新たに開放されました。,새롭게 개방된 모의 훈련: 사냥
+4017020,提示,提示,Notice,ヒント,알림
+4017021,新开放道具合成：全息投影。,新開放道具合成：全息投影。,Holographic Projection is now available for Item Synthesis.,アイテム合成：ホログラフィックプロジェクションが新たに開放されました。,새롭게 개방된 아이템 합성: 홀로그램 프로젝션
+4018010,提示,提示,Notice,ヒント,알림
+4018011,新开放道具合成：重型武器站。,新開放道具合成：重型武器站。,Heavy Turret is now available for Item Synthesis.,アイテム合成：重装タレットが新たに開放されました。,새롭게 개방된 아이템 합성: 헤비형RCWS
+4019010,提示,提示,Notice,ヒント,알림
+4019011,杰文已获得新武器：流星。,傑文已獲得新武器：流星。,Jevon obtains a new weapon: Meteor.,ジェヴァンは新しい武器：流星を入手した。,제본이 새로운 무기를 획득합니다: 유성
+4021010,提示,提示,Notice,ヒント,알림
+4021011,新开放模拟训练：包抄。,新開放模擬訓練：包抄。,New Training Simulation: Flanking.,模擬訓練：包囲攻撃が新たに開放されました。,새롭게 개방된 모의 훈련: 포위 공격
+4024010,提示,提示,Notice,ヒント,알림
+4024011,新开放道具合成：全息投影。,新開放道具合成：全息投影。,Holographic Projection is now available for Item Synthesis.,アイテム合成：ホログラフィックプロジェクションが新たに開放されました。,새롭게 개방된 아이템 합성: 홀로그램 프로젝션
+4024020,提示,提示,Notice,ヒント,알림
+4024021,卡尔已获得新武器：飞蜥。,卡爾已獲得新武器：飛蜥。,Carl obtains a new weapon: Draco.,カールは新しい武器：アガマを入手した。,칼이 새로운 무기를 획득합니다: 비행 도마뱀
+4025010,提示,提示,Notice,ヒント,알림
+4025011,新开放模拟训练：深入。,新開放模擬訓練：深入。,New Training Simulation: Infiltration.,模擬訓練：敵地侵入が新たに開放されました。,새롭게 개방된 모의 훈련: 깊이 잠입
+4025020,提示,提示,Notice,ヒント,알림
+4025021,新开放道具合成：电击武器站。,新開放道具合成：電擊武器站。,Electric Turret is now available for Item Synthesis.,アイテム合成：電撃ガンタレットが新たに開放されました。,새롭게 개방된 아이템 합성: 전기 충격 RCWS
+4027010,提示,提示,Notice,ヒント,알림
+4027011,新开放模拟训练：突围。,新開放模擬訓練：突圍。,New Training Simulation: Breakout.,模擬訓練：包囲突破が新たに開放されました。,새롭게 개방된 모의 훈련: 포위망 돌파
+4027020,提示,提示,Notice,ヒント,알림
+4027021,新开放道具合成：重型武器站。,新開放道具合成：重型武器站。,Heavy Turret is now available for Item Synthesis.,アイテム合成：重装タレットが新たに開放されました。,새롭게 개방된 아이템 합성: 헤비형RCWS
+4029010,提示,提示,Notice,ヒント,알림
+4029011,新开放模拟训练：固守。,新開放模擬訓練：固守。,New Training Simulation: Hold.,模擬訓練：防衛が新たに開放されました。,새롭게 개방된 모의 훈련: 수비
+4030010,提示,提示,Notice,ヒント,알림
+4030011,蒙德已获得新武器：巨蝮蛇。,蒙德已獲得新武器：巨蝮蛇。,Mendo has obtained a new weapon: Viper,モンドが新しい武器を獲得：ラケシス,멘도가 새로운 무기: 거대 살모사.
+4033010,提示,提示,Notice,ヒント,알림
+4033011,“戴伯格”战争要塞已成为可控制单位。,“戴伯格”戰爭要塞已成為可控制單位。,"The ""Diberg"" Battle Fortress has become a controllable unit.",ウォーフォート「ダジボーグ」が操作可能なユニットになった。,디버그 전쟁 요새는 이미 제어 가능한 유닛으로 되었습니다.
+4034010,提示,提示,Notice,ヒント,알림
+4034011,新开放道具制作：空袭导弹。,新開放道具製作：空襲導彈。,Cruise Missile is now available for Item Production.,アイテム製作：空対地ミサイルが新たに開放されました。,새롭게 개방된 아이템 제작: 공습미사일
+5003010,提示,提示,Notice,ヒント,알림
+5003011,强烈的伯劳吞噬已致使接近的角色的普通武器失效，但已启用专攻伯劳虚谬之心的最终“凝血”武器！,強烈的伯勞吞噬已致使接近的角色的普通武器失效，但已啟用專攻伯勞虛謬之心的最終“凝血”武器！,"Extreme Shrike Corrosion has disabled nearby character's normal weapons, began using Shrike Full Assault Form False Heart Ultimate Weapon ""Coagulation Dagger""!",シュライクの激しい呑み込みで近くいるユニットの通常武器が使えなくなった。シュライクの偽りの心を完全に打ち砕く究極武器「血液凝固ナイフ」が使えるようになった！,강렬한 슈라이크의 집어삼키는 힘 때문에 접근한 캐릭터의 일반 무기가 효력을 잃었습니다. 하지만 이미 슈라이크의 거짓되고 황당한 마음을 공격하는 최종 ‘혈액 응고’ 무기를 발동했습니다!
+5003020,提示,提示,Notice,ヒント,알림
+5003021,强烈的伯劳吞噬已致使蒙德的普通武器失效，已启用专攻完全态伯劳虚谬之心的最终武器“凝血匕首”！,強烈的伯勞吞噬已致使蒙德的普通武器失效，已啟用專攻完全態伯勞虛謬之心的最終武器“凝血匕首”！,"Extreme Shrike Corrosion has disabled Mendo's weapons, but it has activated the ultimate weapon ""Coagulating Dagger"", which specializes against the Shrike's False Heart!",シュライクの激しい呑み込みでモンドの通常武器が使えなくなった。シュライクの偽りの心を完全に打ち砕く究極武器「血液凝固ナイフ」が使えるようになった！,강력한 슈라이크의 집어삼키는 힘으로 멘도의 일반 무기가 효력을 잃었습니다. 완전체 슈라이크의 거짓되고 황당한 마음 공격 전용 최종 무기 ‘응고된 피의 단검’을 사용합니다.
+5003030,提示,提示,Notice,ヒント,알림
+5003031,强烈的伯劳吞噬已致使黎格的普通武器失效，已启用专攻完全态伯劳虚谬之心的最终武器“凝血匕首”！,強烈的伯勞吞噬已致使黎格的普通武器失效，已啟用專攻完全態伯勞虛謬之心的最終武器“凝血匕首”！,"Extreme Shrike Corrosion has disabled Mendo's weapons, but it has activated the ultimate weapon ""Coagulating Dagger"", which specializes against the Shrike's False Heart!",シュライクの激しい呑み込みでリゲルの通常武器が使えなくなった。シュライクの偽りの心を完全に打ち砕く究極武器「血液凝固ナイフ」が使えるようになった！,강력한 슈라이크의 집어삼키는 힘으로 리겔의 일반 무기가 효력을 잃었습니다. 완전체 슈라이크의 거짓되고 황당한 마음 공격 전용 최종 무기 ‘응고된 피의 단검’을 사용합니다.
+24032010,提示,提示,Notice,ヒント,알림
+24032011,新开放道具制作：自加热战术靴、特级军工定位镜。,新開放道具製作：自加熱戰術靴、特級軍工定位鏡。,"Self-Heating Tactical Boots, Special Military Detection Lens are now available for Item Production.",アイテム製作：自動加熱戦術ブーツ、エージェント位置確認ミラーが新たに開放されました。,"새롭게 개방된 아이템 제작: 가열 전술화, 특급 군용 측위 거울"
+24032020,提示,提示,Notice,ヒント,알림
+24032021,新开放道具制作：数字化战术靴。,新開放道具製作：數位化戰術靴。,Digital Tactical Boots is now available for Item Production.,アイテム製作：デジタル戦術ブーツが新たに開放されました。,새롭게 개방된 아이템 제작: 디지털 전술화
+50001010,提示,提示,Notice,ヒント,알림
+50001011,稍后将播放<color=#ff8d48>关键剧情</color>，由于演出时间较长，建议各位备好自己心爱的食物，并使用“自动播放”功能进行观看。若您暂无充足的时间，也可分段跳过演出，所有的剧情均可在“收集鉴赏-战役记录”中再次查看。,稍後將播放<color=#ff8d48>關鍵劇情</color>，由於演出時間較長，建議各位備好自己心愛的食物，並使用“自動播放”功能進行觀看。若您暫無充足的時間，也可分段跳過演出，所有的劇情均可在“收集鑒賞-戰役記錄”中再次查看。,"A <color=#ff8d48>key plot point</color> will be played shortly. Due to the long play time, we recommend that everyone prepare their favorite snacks and watch it using the ""auto-play"" function. If you don't have sufficient time, you can skip the scenes in sections. All of the sections can be viewed again in ""Collection - Battle Records"".",まもなく<color=#ff8d48>重要なストーリー</color>が再生されます。再生時間が長いため、お好きな食べ物を用意し、「自動再生」機能を利用することをおすすめします。時間が足りない場合、チャプターごとにスキップすることができます。 すべてのストーリーは、「コレクション鑑賞-戦役レコード」で再確認できます。,"잠시 후 <color=#ff8d48>핵심 에피소드</color>가 플레이됩니다. 플레이 시간이 길어 좋아하는 음식과 함께 '자동 플레이' 기능을 사용해 감상하시는 것을 추천합니다. 시간이 충분하지 않을 경우 섹션별로 스토리를 건너뛸 수 있으며, 모든 에피소드는 '감상 모음 - 전투 기록'에서 다시 확인할 수 있습니다."

@@ -1,0 +1,14 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_levelreplay,复盘模式,複盤模式,Replay Mode,リプレイモード,리플레이 모드
+text_choose,复盘,複盤,Replay,リプレイ,리플레이
+text_checktoptip_joystick,查看详情,查看詳情,View Details,詳細確認,상세보기
+text_scale,缩放,縮放,Zoom,ズーム,줌
+text_move,平移,平移,Pan,平行移動,드래그
+text_menu,菜单,菜單,Menu,メニュー,메뉴
+text_fupan,复盘次数：,複盤次數：,Replay Amount:,リプレイ回数,리플레이 횟수:
+text_endless_fupan,挑战次数：,挑戰次數：,Challenges:,チャレンジ回数：,도전 횟수：
+text_endless_word_1,查看排行详情,查看排行詳情,View Ranking Details,ランキング詳細確認,순위 상세보기
+text_endless_word_2,按,按,Press,押す,누르기
+text_endless_date,挑战时间,挑戰時間,Challenge Time:,チャレンジ時間,도전 시간
+text_back_word_1,返回,返回,Back,戻る,돌아가기
+text_back_word_2,按,按,Press,押す,누르기

@@ -1,0 +1,15 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_composelist_bg_1,制作列表,製作列表,Production Catalog,製作リスト,제작 리스트
+text_buy_changenum_des_acc,修改数量,修改數量,Change Quantity,修正数,수량 조정
+text_buy_changenum_des_itemteam,修改数量,修改數量,Change Quantity,修正数,수량 조정
+text_p_des,零件总数,零件總數,Total Parts,パーツ総数,부품 총수량
+text_p_decorate,P.,P.,P.,P.,P.
+text_compose_order,制作订单,製作訂單,Production Order,製作注文,제작 주문
+text_attr_static,属性,屬性,Attributes,ステータス,능력치
+text_skill_static,特质,特質,Traits,特質,특성
+text_total_count_static,制作总数：,製作總數：,Production Quantity:,製作合計：,제작 총수량:
+text_total_parts_static,消耗零件总计：,消耗零件總計：,Total Parts Consumed:,消費パーツ合計：,부품 소비 합계:
+text_iteminfo,装备预览,裝備預覽,Equipment Preview,装備プレビュー,장비 미리보기
+txt_describe_info_bg,装备预览,裝備預覽,Equipment Preview,装備プレビュー,장비 미리보기
+text_acc_count_static,剩余,剩餘,Remaining,残り,잔여
+text_filter,筛选,篩選,Filter,絞り込み,선별

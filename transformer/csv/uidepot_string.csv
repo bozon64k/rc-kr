@@ -1,0 +1,42 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_tempbag_lock_1,临时背包内道具无法进行整备,臨時背包內道具無法整備,Items in the Temporary Backpack cannot be organized.,一時収納パック内のアイテムは使用できない,임시 배낭 속 아이템은 정비할 수 없습니다
+text_depot_title,仓库,倉庫,Storage,倉庫,창고
+text_necessaryitems,推荐道具,推薦道具,Recommended,推奨アイテム,추천 아이템
+text_tempbag_lock,临时背包内道具无法进行整备,臨時背包內道具無法整備,Items in the Temporary Backpack cannot be organized.,一時収納パック内のアイテムは使用できない,임시 배낭 속 아이템은 정비할 수 없습니다
+text_tempbag_title,临时背包,臨時背包,Temporary Backpack,一時収納パック,임시 배낭
+text_item_ap_cost_prepare,AP消耗,AP消耗,AP Cost,AP消費,AP소비
+text_hp,"HP
+","HP
+",HP,HP,HP
+text_ap,AP,AP,AP,AP,AP
+text_sp,SP,SP,SP,SP,SP
+text_item_ap_cost,AP消耗,AP消耗,AP Cost,AP消費,AP소비
+text_hp_prepare,"HP
+","HP
+",HP,HP,HP
+text_ap_prepare,AP,AP,AP,AP,AP
+text_sp_prepare,SP,SP,SP,SP,SP
+text_videoinfo,道具演示,道具示範,Item Demonstration,道具の実演,소품 데모
+static_title,补充数量：,補充數量：,Replenishment Quantity,補充数量：,보충 수량:
+text_quickbuy_title,快捷补充订单,快速補充訂單,Quick Replenishment Order,クイック補充機能,주문 일괄 보충
+txt_partstotal_group,消耗零件总计：,消耗零件總計：,Total Parts Consumed:,合計消費パーツ：,부품 소비 합계:
+txt_buycount_group,补充数量：,補充數量：,Replenishment Quantity:,補充量,보충 수량:
+txt_materiallist_title,所需材料,所需材料,Materials Required,必要アイテム,필요한 재료
+txt_partcost_title,消耗零件详情,消耗零件詳情,Parts Cost Breakdown,消費パーツ,부품 소비 상세 정보
+txt_partscost_title,无需材料,無需材料,No Materials Required,アイテム不要,재료 필요 없음
+static_title_sell,拆解数量,拆解數量,Disassemble Quantity,分解数,분해 수량
+text_drag,移动,移動,Move Item,移動,이동
+text_exchange,换位,換位,Switch Item,置換,치환
+text_quickbuy,快捷补充,快速補充,Quick Replenishment,クイック補充,일괄 보충
+text_addnum,修改数量,修改數量,Change Quantity,数量変更,수량 수정
+text_apply,套用预设,套用預設,Apply Preset,プリセット適用,프리셋 적용
+text_save,保存预设,保存預設,Save Preset,プリセット保存,프리셋 저장
+text_rename,重命名,重新命名,Rename,名称変更,이름 바꾸기
+text_delete,删除,刪除,Delete,削除,삭제
+text_enter,确定,確定,Confirm,確定,확인
+text_getparts_des,拆解得,拆解得,Disassemble to obtain,分解入手,분해 보상
+text_p_des,零件总数,零件總數,Total Parts,所持パーツ,부품 총수
+text_p_decorate,P.,P.,P.,P.,P.
+text_confirm,确定,確定,Confirm,決定,확인
+text_noparts_des,不可拆解,不可拆解,Cannot Be Disassembled,分解不可,분해 불가
+text_swapitem,换位,移動,Switch Item,移動,이동

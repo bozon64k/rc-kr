@@ -1,0 +1,12 @@
+key_name,zh_cn,zh_tw,en_us,ja_jp,ko_kr
+text_level_up,能力提升,能力提升,Skill Enhancement,ステータス上昇,능력치 상승
+text_level_word_old,等级,等級,Level,レベル,레벨
+text_level_word_cur,等级,等級,Level,レベル,레벨
+text_health_word,生命,生命,HP,HP,체력
+text_hit_word,命中,命中,ACC,命中,명중
+text_avoid_word,回避,迴避,EVA,回避,회피
+text_id_word,ID:,ID：,ID:,ID:,ID:
+text_tp_word,潜能秘钥+,潛能秘鑰+,Potential Key+,ゲノムキー+,포텐셜 키+
+text_leave,继续,繼續,Continue,続ける,계속하기
+text_learnt_1,已习得,已習得,Learned,習得済,습득 완료
+text_learnt_2,已习得,已習得,Learned,習得済,습득 완료
